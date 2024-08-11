@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<corpus lang="en" source="senseval2-senseval3-semeval2007-semeval2013-semeval2015">
+<text id="senseval2.d000">
+<sentence id="senseval2.d000.s000">
+<wf lemma="the" pos="DET">The</wf>
+<instance id="senseval2.d000.s000.t000" lemma="art" pos="NOUN">art</instance>
+<wf lemma="of" pos="ADP">of</wf>
+<instance id="senseval2.d000.s000.t001" lemma="change_ringing" pos="NOUN">change-ringing</instance>
+<wf lemma="be" pos="VERB">is</wf>
+<instance id="senseval2.d000.s000.t002" lemma="peculiar" pos="ADJ">peculiar</instance>
+<wf lemma="to" pos="PRT">to</wf>
+<wf lemma="the" pos="DET">the</wf>
+<instance id="senseval2.d000.s000.t003" lemma="english" pos="NOUN">English</instance>
+<wf lemma="," pos=".">,</wf>
+<wf lemma="and" pos="CONJ">and</wf>
+<wf lemma="," pos=".">,</wf>
+<wf lemma="like" pos="ADP">like</wf>
+<instance id="senseval2.d000.s000.t004" lemma="most" pos="ADJ">most</instance>
+<instance id="senseval2.d000.s000.t005" lemma="english" pos="ADJ">English</instance>
+<instance id="senseval2.d000.s000.t006" lemma="peculiarity" pos="NOUN">peculiarities</instance>
+<wf lemma="," pos=".">,</wf>
+<instance id="senseval2.d000.s000.t007" lemma="unintelligible" pos="ADJ">unintelligible</instance>
+<wf lemma="to" pos="PRT">to</wf>
+<wf lemma="the" pos="DET">the</wf>
+<instance id="senseval2.d000.s000.t008" lemma="rest" pos="NOUN">rest</instance>
+<wf lemma="of" pos="ADP">of</wf>
+<wf lemma="the" pos="DET">the</wf>
+<instance id="senseval2.d000.s000.t009" lemma="world" pos="NOUN">world</instance>
+<wf lemma="." pos=".">.</wf>
+</sentence>
+<sentence id="senseval2.d000.s001">
+<wf lemma="dorothy" pos="NOUN">Dorothy</wf>
+<wf lemma="l." pos="NOUN">L.</wf>
+<wf lemma="sayer" pos="NOUN">Sayers</wf>
+<wf lemma="," pos=".">,</wf>
+<wf lemma="``" pos=".">``</wf>
+<wf lemma="the" pos="DET">The</wf>
+<wf lemma="nine" pos="NOUN">Nine</wf>
+<instance id="senseval2.d000.s001.t000" lemma="tailor" pos="NOUN">Tailors</instance>
+<wf lemma="``" pos=".">``</wf>
+</sentence>
+</text>
+</corpus>

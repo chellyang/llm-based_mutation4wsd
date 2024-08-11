@@ -1,0 +1,10 @@
+mut_type,word_index_list,mut_sentence,mut_tag
+this to that,"[('this', '23')]","The art of change-ringing is peculiar to the English, and, like most English peculiarities, unintelligible to the rest of that world.",MUTATED
+,,,DUMP
+,,,DUMP
+this to that,"[('this', '8')]","Of all scenes that evoke rural England, that is one of the loveliest: An ancient stone church stands amid the fields, the sound of bells cascading from its tower, calling the faithful to evensong.",MUTATED
+this to that,"[('this', 'token13=13')]","The parishioners of St. Michael and All Angels stop to chat at that church door, as members there always have.",MUTATED
+this to that,"[('this', '21')]","In that tower, five men and women pull rhythmically on ropes attached to the same five bells that first sounded there in 1614.",MUTATED
+it to they,"[('it', '13')]","But there is also a discordant, modern note in Aslacton, though they can not be heard by the church-goers enjoying the peal of bells this cool autumn evening.",MUTATED
+it to they,"[('it', '18')]","Like most of the other 6,000 churches in Britain with sets of bells, St. Michael once had their own `` band `` of ringers, who would herald every Sunday morning and evening service.",MUTATED
+,,,DUMP

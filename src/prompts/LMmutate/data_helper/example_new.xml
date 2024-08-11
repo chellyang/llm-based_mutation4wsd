@@ -1,0 +1,43 @@
+<?xml version="1.0" ?>
+<corpus lang="en" source="senseval2-senseval3-semeval2007-semeval2013-semeval2015">
+<text id="senseval2.d000">
+<sentence id="senseval2.d000.s000">
+<wf pos="DET" lemma="the">The</wf>
+<instance id="senseval2.d000.s000.t000" pos="NOUN" lemma="art">art</instance>
+<wf pos="ADP" lemma="of">of</wf>
+<instance id="senseval2.d000.s000.t001" pos="NOUN" lemma="change-ringing">change-ringing</instance>
+<wf pos="VERB" lemma="be">is</wf>
+<instance id="senseval2.d000.s000.t002" pos="ADJ" lemma="peculiar">peculiar</instance>
+<wf pos="PRT" lemma="to">to</wf>
+<wf pos="DET" lemma="the">the</wf>
+<instance id="senseval2.d000.s000.t005" pos="NOUN" lemma="english">English</instance>
+<wf pos="." lemma=",">,</wf>
+<wf pos="CONJ" lemma="and">and</wf>
+<wf pos="." lemma=",">,</wf>
+<wf pos="ADP" lemma="like">like</wf>
+<instance id="senseval2.d000.s000.t004" pos="ADJ" lemma="most">most</instance>
+<instance id="senseval2.d000.s000.t005" pos="ADJ" lemma="english">English</instance>
+<instance id="senseval2.d000.s000.t006" pos="NOUN" lemma="peculiarity">peculiarities</instance>
+<wf pos="." lemma=",">,</wf>
+<instance id="senseval2.d000.s000.t007" pos="ADJ" lemma="unintelligible">unintelligible</instance>
+<wf pos="PRT" lemma="to">to</wf>
+<wf pos="DET" lemma="the">the</wf>
+<instance id="senseval2.d000.s000.t008" pos="NOUN" lemma="rest">rest</instance>
+<wf pos="ADP" lemma="of">of</wf>
+<wf pos="DET" lemma="that">that</wf>
+<instance id="senseval2.d000.s000.t009" pos="NOUN" lemma="world">world</instance>
+<wf pos="." lemma=".">.</wf>
+</sentence>
+<sentence id="senseval2.d000.s001">
+<wf lemma="dorothy" pos="NOUN">Dorothy</wf>
+<wf lemma="l." pos="NOUN">L.</wf>
+<wf lemma="sayer" pos="NOUN">Sayers</wf>
+<wf lemma="," pos=".">,</wf>
+<wf lemma="``" pos=".">``</wf>
+<wf lemma="the" pos="DET">The</wf>
+<wf lemma="nine" pos="NOUN">Nine</wf>
+<instance id="senseval2.d000.s001.t000" lemma="tailor" pos="NOUN">Tailors</instance>
+<wf lemma="``" pos=".">``</wf>
+</sentence>
+</text>
+</corpus>

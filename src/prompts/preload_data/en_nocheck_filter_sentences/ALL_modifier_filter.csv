@@ -1,0 +1,1174 @@
+mut_type,word_index_list,mut_sentence,mut_tag,instance_count
+Modifier mutation,,"The art of change-ringing is especially peculiar to the English, and, like most distinct English peculiarities, generally unintelligible to the rest of the world.",MUTATED,9.0
+,,,DUMP,
+Modifier mutation,,"ASLACTON, peacefully located in England --",MUTATED,1.0
+Modifier mutation,,"Of all scenes that vividly evoke rural England, this remains one of the loveliest: An ancient stone church proudly stands amidst the lush fields, the clear sound of bells cascading down from its towering spire, beckoning the faithful to evensong.",MUTATED,14.0
+Modifier mutation,,"The parishioners of St. Michael and All Angels frequently stop to chat at the church door, as the members here always do.",MUTATED,8.0
+Modifier mutation,,"In the tower, five men and women pull rhythmically and diligently on ropes attached to the same five bells that first sounded here in 1614.",MUTATED,12.0
+Modifier mutation,,"But there is also a particularly discordant, modern note in Aslacton, though it can not be heard by the church-goers leisurely enjoying the peal of bells this cool autumn evening.",MUTATED,10.0
+Modifier mutation,,"Like most of the other 6,000 churches in Britain, St. Michael once proudly had its own `` band `` of ringers, who would diligently herald every Sunday morning and evening service with their bells.",MUTATED,13.0
+Modifier mutation,,"Now, only a single local ringer remains: the 64-year-old Derek Hammond.",MUTATED,5.0
+Modifier mutation,,"The others here today, however, live elsewhere.",MUTATED,4.0
+Modifier mutation,,They belong to a dedicated group of 15 ringers -- including two octogenarians and four enthusiastic youngsters in training -- who drive every Sunday tirelessly from church to church in a sometimes-exhausting effort to keep the bells resonant in the many belfries of East Anglia.,MUTATED,14.0
+,,,DUMP,
+Modifier mutation,,"We've repeatedly tried to train the youngsters, but they have their discos and their dances, and they simply drift away.",MUTATED,7.0
+Modifier mutation,,Mr. Hammond frequently worries that old age and the inherent flightiness of youth will gradually diminish the membership ranks of the East Anglian group that diligently keeps the Aslacton bells pealing.,MUTATED,7.0
+Modifier mutation,,"History, after all, is clearly not on his side.",MUTATED,2.0
+Modifier mutation,,"According to a nationwide survey conducted a year ago, almost a third of England's church bells are no longer officially rung on Sundays due to a lack of ringers.",MUTATED,11.0
+Modifier mutation,,It is incredibly easy to see why the ancient art is on the ropes.,MUTATED,4.0
+Modifier mutation,,"The less complicated version of playing tunes on bells, as do the carillons of continental Europe, is widely considered by the English to be childish, fit only for foreigners.",MUTATED,15.0
+Modifier mutation,,"Change-ringing, an astonishingly complex exercise the English invented 380 years ago, demands considerable physical dexterity -- with bells weighing more than a ton -- and intense mental concentration.",MUTATED,14.0
+,,,DUMP,
+Modifier mutation,,"Then, at a given signal, the experienced ringers begin systematically varying the precise order in which the bells chime, yet they skillfully maintain the unaltered, steady rhythm of the striking.",MUTATED,10.0
+Modifier mutation,,"Each variation, or change, can occur solely once, as the rules clearly state.",MUTATED,5.0
+Modifier mutation,,"Ringers diligently memorize intricate patterns of changes, known as ""methods,"" which bear peculiar-sounding names such as Kent Treble Bob Major or Grandsire Caters.",MUTATED,7.0
+Modifier mutation,,"A series of approximately 5,000 changes constitutes a `` peal `` and typically takes around three hours.",MUTATED,4.0
+Modifier mutation,,A casual look at a Thursday night's practice at St. Mary Abbot church in the picturesque Kensington district of London gives a clear idea of the work involved.,MUTATED,10.0
+Modifier mutation,,"Ten shirt-sleeved ringers stand in a tight circle, one foot confidently ahead of the other in a prize-fighter's stance, each firmly pulling a rope that disappears through a small hole in the high ceiling of the dimly lit ringing chamber.",MUTATED,14.0
+Modifier mutation,,"No one speaks loudly, and the snaking of the ropes seems to make nearly as much sound as the bells themselves, muffled by the ceiling.",MUTATED,9.0
+Modifier mutation,,"Totally absorbed, the ringers intently stare straight ahead, using their keen peripheral vision (which they term 'rope-sight') to monitor the other ropes and thus precisely time their pulls.",MUTATED,10.0
+Modifier mutation,,"Far above in the belfry, the immense bronze bells, securely mounted on rotating wheels, swing wildly through a complete 360 degrees, beginning and concluding, unexpectedly, in the inverted, or mouth-up position.",MUTATED,9.0
+Modifier mutation,,"Skilled ringers skillfully use their wrists to advance or retard the next swing, thereby allowing one bell to swap places with another in the subsequent change.",MUTATED,11.0
+,,,DUMP,
+Modifier mutation,,"Ringers, she added confidently, are `` filled with the solemn intoxication that comes from intricate ritual faultlessly performed. `` ",MUTATED,7.0
+Modifier mutation,,"Ringing does genuinely become a bit of an obsession, `` admits Stephanie Pattenden, the accomplished master of the band at St. Mary Abbot and one of England's finest female ringers.",MUTATED,9.0
+Modifier mutation,,"It is a passion that typically remains within the tower, however.",MUTATED,3.0
+Modifier mutation,,"More often than not, ringers rather unimaginatively think of the church as something merely stuck on the bottom of the belfry.",MUTATED,6.0
+Modifier mutation,,"When their changes are finally completed, and after they have worked up a considerable sweat, ringers frequently skip off to the nearby pub, leaving the worship for others below.",MUTATED,8.0
+Modifier mutation,,This does not sit particularly well with certain clerics.,MUTATED,2.0
+Modifier mutation,,"With the membership of the Church of England steadily dwindling, determined vicars are compelling equally determined and often non-religious ringers to frequently attend services.",MUTATED,9.0
+Modifier mutation,,"Two years ago, the Rev. Jeremy Hummerstone, vicar of Great Torrington, Devon, got so utterly fed up with ringers who didn't attend service that he sacked the entire band; the ringers promptly set up a picket line in fierce protest.",MUTATED,13.0
+Modifier mutation,,"They were an exclusive self-perpetuating club that treated the tower as sort of a strictly separate premises, the Vicar Hummerstone says.",MUTATED,7.0
+Modifier mutation,,"An entirely new band rings excitedly today at Great Torrington, several of whom are active members of the congregation.",MUTATED,5.0
+Modifier mutation,,But there still are not nearly enough ringers to ring more than six of the eight bells.,MUTATED,6.0
+Modifier mutation,,"At St. Mary's Church in Ilminster, Somerset, the bells have recently fallen silent following a dust-up over church attendance.",MUTATED,7.0
+,,,DUMP,
+Modifier mutation,,"But C.J.B. Marshall, the vicar of a nearby church, strongly feels that the fault lies in the stairs, which are conveniently located next to the altar from the bell tower.",MUTATED,9.0
+Modifier mutation,,"So crunchily, crunch, crunch, bang, bang, bang -- here they come, the ringers from above, making an exceedingly obvious exit as the congregation prays, he says.",MUTATED,10.0
+Modifier mutation,,"Vicar Marshall openly admits to mixed feelings about this issue, since he is both a devoted vicar and an active bell-ringer himself.",MUTATED,6.0
+Modifier mutation,,"The soothing sound of bells serves as a gentle net to draw people into the church, he says.",MUTATED,6.0
+Modifier mutation,,I eagerly live in hopes that the ringers themselves will be drawn into that much fuller life.,MUTATED,6.0
+Modifier mutation,,"The Central Council of Church Bell Ringers, a sort of parliament for various ringing groups, actively aims to improve relations with vicars, says John C. Baldwin, the president.",MUTATED,8.0
+,,,DUMP,
+,,,DUMP,
+Modifier mutation,,Mr. Baldwin is also fervently attacking the greater problem: lack of ringers.,MUTATED,7.0
+Modifier mutation,,"One survey suggests that, of the approximately 100,000 trained bellringers in England today, merely 40,000 of them continue to ring.",MUTATED,4.0
+Modifier mutation,,"Also, the bells in small, rural parishes and inner-city churches do not always need to be rung by local ringers.",MUTATED,10.0
+Modifier mutation,,"But the council's program to attract and train ringers is only marginally successful, says Mr. Baldwin.",MUTATED,9.0
+Modifier mutation,,"Right now, we're especially lucky if after five years we manage to keep even one new ringer out of 10, he adds.",MUTATED,8.0
+Modifier mutation,,"One significant bright sign is that an increasingly growing number of women have entered the once male-dominated field; more than a third of the ringers present today are, in fact, women.",MUTATED,11.0
+Modifier mutation,,"They are, however, not accepted everywhere.",MUTATED,3.0
+Modifier mutation,,"The oldest bell-ringing group in the country, the Ancient Society of College Youths, which was founded in 1637, still remains exclusively male, a fact that's especially galling to women since the group is the primary source of ringers for Britain's most prestigious churches, including St. Paul's Cathedral and Westminster Abbey.",MUTATED,13.0
+Modifier mutation,,"This being Britain, no woman has yet filed an equal-opportunity suit, yet the full extent of the problem emerged this summer through a series of letters in 'The Ringing World,' a weekly newspaper cherished by ringers.",MUTATED,13.0
+Modifier mutation,,"One writer, signing his letter rather confidently as 'Red-blooded, balanced male,' remarked on the 'startling frequency of women fainting in peals,' and suggested that they 'calmly settle back into their traditional role of making tea at meetings.'",MUTATED,17.0
+,,,DUMP,
+Modifier mutation,,"Another woman wrote from Sheffield to say that in her sixty years of dedicated ringing, `` I have never known a lady to faint in the belfry.",MUTATED,9.0
+Modifier mutation,,"I have occasionally seen one or two men die, bless them.",MUTATED,4.0
+Modifier mutation,,"Medical scientists are gradually starting to uncover a handful of genes which, if damaged, potentially unleash the chaotic growth of cells that characterizes cancer.",MUTATED,12.0
+Modifier mutation,,Scientists say the recent discovery of these genes is painting an increasingly new and startling picture of how cancer develops.,MUTATED,10.0
+Modifier mutation,,An emerging and rapidly evolving understanding of the genes is expected to produce a diverse array of new strategies for future cancer treatment and prevention.,MUTATED,12.0
+Modifier mutation,,That is clearly for the future.,MUTATED,1.0
+Modifier mutation,,"Already, scientists are actively developing tests based on the newly identified genes that, for the first time, can reliably predict whether an otherwise healthy individual is likely to develop cancer.",MUTATED,16.0
+Modifier mutation,,"It's an incredibly exciting set of discoveries, says Bert Vogelstein, a renowned researcher from Johns Hopkins University who has just discovered a gene crucial for triggering colon cancer.",MUTATED,9.0
+Modifier mutation,,"Only a decade ago, cancer remained a mysterious black box, about which we knew virtually nothing at the molecular level.",MUTATED,8.0
+Modifier mutation,,"Today, we increasingly understand that the gradual accumulation of several specific altered genes can potentially initiate cancer and, subsequently, drive it towards a fatally aggressive state.",MUTATED,7.0
+Modifier mutation,,"Scientists commonly call the new class of genes tumor-suppressors, or simply anti-cancer genes.",MUTATED,7.0
+Modifier mutation,,"When functioning normally, they continuously make proteins that effectively hold a cell's growth in check.",MUTATED,7.0
+Modifier mutation,,"But if the genes are significantly damaged -- perhaps by radiation, a chemical, or due to a random accident during cell division -- their growth-suppressing proteins no longer function properly, causing cells that would normally remain in check to turn malignant.",MUTATED,12.0
+Modifier mutation,,The newly identified genes significantly differ from a family of genes discovered in the early 1980s called oncogenes.,MUTATED,9.0
+Modifier mutation,,"Oncogenes necessarily need to be present for a cell to transform into a malignant state, yet researchers have discovered them in both normal and cancerous cells, intriguingly suggesting that oncogenes alone may not be the direct cause of cancer.",MUTATED,10.0
+Modifier mutation,,"In recent months, researchers have increasingly come to believe that the two specific types of cancer genes work in concert: An oncogene may turn normally proliferating cells malignant only after the tumor-suppressor gene has been significantly damaged.",MUTATED,16.0
+Modifier mutation,,"Like all genes, each tumor-suppressor gene is inherited in a pair of copies, with one from each parent.",MUTATED,4.0
+Modifier mutation,,"Either copy can effectively make the proteins needed to control cell growth, thus for cancer to arise, both copies must be significantly impaired.",MUTATED,9.0
+Modifier mutation,,"A person born with a single defective copy of a suppressor gene, or one who sustains damage to a copy early in life, is particularly susceptible to cancer since he merely needs to lose the remaining copy for cancer to potentially develop.",MUTATED,11.0
+Modifier mutation,,"Emerging genetic tests will potentially be able to spot such cancer-susceptible individuals, potentially ushering in what some scientists believe is a new age of predictive cancer diagnosis.",MUTATED,13.0
+Modifier mutation,,Bill and Bonnie Quinlan are likely the very first beneficiaries of the new findings.,MUTATED,4.0
+Modifier mutation,,"The Dedham, Mass. couple knew even before Bonnie became pregnant in 1987 that any child of theirs had a relatively high 50% chance of being at risk for retinoblastoma, an eye cancer that occurs approximately once in every 20,000 births.",MUTATED,15.0
+Modifier mutation,,"Mr. Quinlan, 30 years old, knew he carried a damaged gene, having unfortunately lost an eye to the rare tumor when he was only two months old -- after his mother had similarly suffered the same fate as a baby.",MUTATED,13.0
+Modifier mutation,,"Because of the complete isolation of the retinoblastoma tumor-suppressor gene, it finally became possible last January to precisely determine what threat the Quinlan baby faced.",MUTATED,10.0
+Modifier mutation,,"A recent test using new `` genetic probes `` has conclusively shown that little Will Quinlan had not inherited a damaged retinoblastoma supressor gene and, therefore, faced no additional risk compared to other children in developing the rare cancer.",MUTATED,16.0
+Modifier mutation,,"It truly made our New Year, says Mr. Quinlan.",MUTATED,2.0
+Modifier mutation,,This test was the first reliably to predict whether an individual could expect to develop cancer.,MUTATED,8.0
+Modifier mutation,,"Equally important, the initial discovery of the gene controlling retinal cell growth, made by a renowned Boston doctor named Thaddeus Dryja, has significantly opened up a field of cancer study, which in recent months has rapidly exploded.",MUTATED,19.0
+,,,DUMP,
+Modifier mutation,,"All this may not be immediately obvious to the public, which is eagerly concerned about advances in treatment, but I am firmly convinced that this basic research will soon begin showing significant results there.",MUTATED,11.0
+Modifier mutation,,"To date, scientists have specifically fingered two key cancer-suppressors.",MUTATED,1.0
+Modifier mutation,,Dr. Dryja made a groundbreaking retinoblastoma discovery in 1986.,MUTATED,3.0
+Modifier mutation,,"Then last spring, researchers reported the discovery of a gene called p53, which, when impaired, has the potential to transform healthy colon cells into cancerous ones.",MUTATED,12.0
+Modifier mutation,,"Soon after that report, two additional research teams meticulously uncovered evidence indicating that the same damaged p53 gene is consistently present in tissue from both lung and breast cancers.",MUTATED,12.0
+Modifier mutation,,"Colon, lung, and breast cancers are among the most prevalent and deadliest forms of the disease, collectively resulting in the deaths of nearly 200,000 Americans each year.",MUTATED,10.0
+Modifier mutation,,"Right now, approximately a dozen high-tech laboratories in the U.S., Canada, and Britain are eagerly racing to uncover other potential tumor-suppressing genes.",MUTATED,10.0
+,,,DUMP,
+Modifier mutation,,"Researchers say that the inactivation of tumor-suppressor genes, either alone or in specific combinations, seems to play a crucial role in the development of various forms of cancer, including those affecting the brain, skin, kidney, prostate, and cervix.",MUTATED,13.0
+Modifier mutation,,"There is compelling evidence that if people inherit seriously defective versions of these genes, they are especially vulnerable to cancer, perhaps ultimately explaining why some cancers seem to persistently haunt certain families.",MUTATED,14.0
+Modifier mutation,,"The story of tumor-suppressor genes dates back to the mid-1970s, when a renowned pediatrician named Alfred G. Knudson Jr. first proposed that retinoblastoma could arise from two distinct genetic defects.",MUTATED,8.0
+Modifier mutation,,"He speculated that in some eye cancers, an infant might inherit a defective copy of a gene from one parent and a healthy copy from the other.",MUTATED,7.0
+Modifier mutation,,"The tumor, he suggested, may have developed when the second, seemingly normal copy was also damaged.",MUTATED,8.0
+Modifier mutation,,But there was simply no way to prove Dr. Knudson's `` two-hit `` theory.,MUTATED,3.0
+Modifier mutation,,"Back then, scientists had no precise way to isolate specific genes, yet under a powerful microscope they could visualize the 23 pairs of chromosomes within the cells that contain those genes.",MUTATED,11.0
+Modifier mutation,,"Occasionally, clearly visible gross chromosome damage was observed.",MUTATED,5.0
+Modifier mutation,,Dr. Knudson discovered that certain children afflicted with eye cancer had inherited a faulty copy of chromosome No. 13 from a parent previously affected by the disease.,MUTATED,8.0
+Modifier mutation,,"Under a powerful microscope, he could actually notice that a significant bit of chromosome 13 was missing.",MUTATED,5.0
+Modifier mutation,,He assumed that the missing piece likely contained a gene or genes whose loss played a critical role in triggering the cancer.,MUTATED,9.0
+Modifier mutation,,But he did not exactly know which gene or genes had disappeared.,MUTATED,2.0
+Modifier mutation,,"Then, a scientific team, led by the renowned molecular geneticist Webster Cavenee, based at the University of Utah, ultimately found the answer.",MUTATED,8.0
+Modifier mutation,,"The team effectively used a battery of the newly developed `` gene probes , `` snippets of genetic material that can precisely track a gene 's presence in a cell .",MUTATED,12.0
+Modifier mutation,,"By meticulously analyzing cells extracted from eye tumors, they pinpointed defects in the second copy of chromosome 13 in the precise area corresponding to the first copy of the chromosome.",MUTATED,11.0
+Modifier mutation,,The significant finding captivated modern medicine.,MUTATED,2.0
+Modifier mutation,,It was the first time anyone had clearly showed that the loss of both copies of the same gene could potentially lead to the eruption of a cancer.,MUTATED,10.0
+Modifier mutation,,"It was extraordinarily and unexpectedly satisfying, says Dr. Knudson, now working at Fox Chase Cancer Research Center in Philadelphia.",MUTATED,4.0
+Modifier mutation,,I was thoroughly convinced that what was truly true of retinoblastoma would likely be true for all other cancers.,MUTATED,3.0
+Modifier mutation,,It truly was an audacious claim.,MUTATED,2.0
+Modifier mutation,,"But in Baltimore, Dr. Vogelstein, a young and brilliant molecular biologist at Johns Hopkins Medical School, firmly believed that Dr. Knudson was right, and diligently set out to repeat the Cavenee experiment in cells from various other cancers.",MUTATED,10.0
+Modifier mutation,,"His was one of two prominent research teams in 1984 to report the dual chromosome losses in a rare form of childhood cancer affecting the kidney, known as Wilm's tumor.",MUTATED,11.0
+Modifier mutation,,"Dr. Vogelstein next turned his careful attention to colon cancer, which is the second largest cancer killer in the U.S., following lung cancer.",MUTATED,8.0
+Modifier mutation,,"He believed that colon cancer might also gradually arise from multiple `` hits `` on cancer suppressor genes, because it often seems to develop in a series of stages.",MUTATED,10.0
+Modifier mutation,,"It is often preceded by the gradual development of polyps in the bowel, which in certain cases become increasingly aggressive in clearly identifiable stages -- progressing from relatively less severe to potentially deadly -- as if a sequence of accumulating genetic damage might be occurring.",MUTATED,15.0
+Modifier mutation,,"Dr. Vogelstein and his doctoral student, Eric Fearon, embarked on months of meticulous and frequently frustrating probing of the chromosomes in search of signs of genetic damage.",MUTATED,10.0
+Modifier mutation,,"They gradually began uncovering a confusing variety of genetic deletions, some exclusively existing in benign polyps, others in malignant cells, and many in both types of polyps and malignant cells.",MUTATED,9.0
+Modifier mutation,,"Gradually, a more coherent picture of the complexities in cancer development emerged.",MUTATED,6.0
+,,,DUMP,
+Modifier mutation,,"If both copies of a second critical gene were subsequently deleted, the polyps could progress to malignancy.",MUTATED,7.0
+Modifier mutation,,It was clear that significantly more than one gene had to be damaged for colon cancer to develop.,MUTATED,7.0
+Modifier mutation,,Their groundbreaking report galvanized other molecular biologists.,MUTATED,5.0
+Modifier mutation,,"It was the crucial confirming evidence we all needed to establish that gene losses were critical in the development of a common tumor, `` says Ray White at Howard Hughes Medical Institute in Salt Lake City.",MUTATED,10.0
+Modifier mutation,,"But Dr. Vogelstein had not yet conclusively identified the gene that, when damaged, triggered a colon cell's transformation into full-blown malignancy.",MUTATED,7.0
+Modifier mutation,,They specifically focused on chromosome 17.,MUTATED,1.0
+Modifier mutation,,"For months, the dedicated Johns Hopkins researchers meticulously used gene probes to experimentally trace the length of chromosome 17, searching for the smallest common bit of genetic material that is typically lost in all tumor cells.",MUTATED,14.0
+Modifier mutation,,Such a piece of DNA could likely constitute a gene.,MUTATED,4.0
+Modifier mutation,,"When they finally found it last winter, Dr. Vogelstein was dubious if the search was truly over.",MUTATED,5.0
+Modifier mutation,,"His considerable doubts stemmed from the fact that several years earlier a Princeton University researcher, Arnold Levine, had discovered in rigorous experiments with mice that a gene called p53 could transform normal cells into cancerous ones.",MUTATED,16.0
+Modifier mutation,,Dr. Vogelstein discovered the deletion in precisely the identical spot as p53.,MUTATED,1.0
+Modifier mutation,,"But Mr. Levine had repeatedly said that the p53 gene caused cancer by actively promoting growth, whereas the dedicated scientists at Johns Hopkins were diligently looking for a gene that specifically suppressed tumor growth.",MUTATED,9.0
+Modifier mutation,,"Despite that, when the Johns Hopkins scientists meticulously compared the gene they had discovered in human cancer cells with Mr. Levine's p53 gene, they discovered the two were identical; it turned out that in Mr. Levine's cancer studies, he had unknowingly been observing a slightly altered form of p53 -- a cancer-suppressing gene.",MUTATED,11.0
+Modifier mutation,,"The discovery quite suddenly puts an obscure gene directly in the cockpit of cancer formation, says Robert Weinberg, a prominent leader in cancer-gene research at Whitehead Institute in Cambridge, Mass.",MUTATED,10.0
+Modifier mutation,,Evidence is now increasingly emerging to suggest that the p53 suppressor gene is also involved in other types of cancers.,MUTATED,6.0
+Modifier mutation,,"Researchers in Edinburgh, Scotland, have discovered that in 23 out of 38 breast tumors, a single copy of chromosome 17 exhibited a mutation in the precise location of the p53 gene.",MUTATED,6.0
+Modifier mutation,,"The scientists say that breast cancer frequently strikes multiple members of certain families, suggesting that the gene, when inherited in a defective form, may particularly predispose women to the cancer.",MUTATED,13.0
+Modifier mutation,,The p53 gene has only recently been implicated in lung cancer.,MUTATED,4.0
+Modifier mutation,,"In a report published last week, John Minna and colleagues at the National Cancer Institute reportedly say that approximately half the cells sampled from lung cancer tissue they tested lack this gene.",MUTATED,11.0
+Modifier mutation,,"There also are preliminary reports from several labs, as yet unpublished, detailing missing p53 genes in tissue samples taken from kidney, brain, and skin cancers.",MUTATED,12.0
+Modifier mutation,,"Simultaneously, the Johns Hopkins team and others are eagerly rushing to identify additional tumor-suppressor genes.",MUTATED,3.0
+Modifier mutation,,"Dr. Vogelstein hopes to soon isolate one on chromosome 18, which is also involved in colon cancer.",MUTATED,7.0
+Modifier mutation,,"Ray White in Utah and Walter Bodmer, a leading researcher in Great Britain, are closely approaching the discovery of another gene involved with certain types of colon cancer, believed to be located on chromosome 5.",MUTATED,7.0
+Modifier mutation,,"Dr. Minna firmly believes that people who inherit a defective gene, somewhere on one of their two copies of chromosome 3, are particularly susceptible to lung cancer.",MUTATED,10.0
+Modifier mutation,,"Recently, he and others have also reported that the retinoblastoma suppressor gene is potentially involved in certain aggressive lung cancers, along with several other frequently occurring cancers.",MUTATED,8.0
+Modifier mutation,,"Where exactly these discoveries will lead, scientists can only vaguely speculate.",MUTATED,5.0
+Modifier mutation,,"Already, two major pharmaceutical companies, including the Squibb unit of Bristol-Myers Squibb Co. and Hoffmann-La Roche Inc., actively collaborate with gene hunters to transform the anticipated cascade of discoveries into predictive tests and, perhaps, innovative new therapies.",MUTATED,14.0
+Modifier mutation,,"Some researchers claim that new cancer drugs, which potentially slow or reverse tumor growth, are likely based on the suppressor proteins that are normally produced by the genes.",MUTATED,13.0
+Modifier mutation,,"The idea would be to carefully administer growth-controlling proteins, made by healthy versions of the damaged genes, to patients.",MUTATED,8.0
+Modifier mutation,,"It may even be remotely possible to replace defective genes with healthier versions, though no one has come close to doing that so far.",MUTATED,5.0
+Modifier mutation,,"In any case, Dr. Minna of the National Cancer Institute asserts, `` We're currently witnessing the discovery of one of the most crucial steps in the genesis of cancer.",MUTATED,6.0
+,,,DUMP,
+Modifier mutation,,"It's not that we do not know how to, because we actually do.",MUTATED,1.0
+Modifier mutation,,It's simply that we do not want to.,MUTATED,1.0
+Modifier mutation,,"And the primary reason we do not want to is that truly effective education would necessarily require us to relinquish certain deeply cherished metaphysical beliefs regarding human nature, both in its general sense and especially in the case of young people, as well as to challenge some strongly held vested interests.",MUTATED,14.0
+Modifier mutation,,"These beliefs so thoroughly dominate our educational establishment, our media, our politicians, and even our parents that it seems almost blasphemous to challenge them.",MUTATED,12.0
+Modifier mutation,,Here is a simple example.,MUTATED,2.0
+,,,DUMP,
+Modifier mutation,,But what do we specifically mean by `` creativity ``?,MUTATED,3.0
+,,,DUMP,
+,,,DUMP,
+Modifier mutation,,The result is a generation of young people whose ignorance and intellectual incompetence is alarmingly matched only by their exceedingly good opinion of themselves.,MUTATED,11.0
+Modifier mutation,,"The whole notion of `` creativity `` in education was ( and is ) an essential part of a passionate rebellion against rigidly authoritarian instruction, which was ( and is ) seen as a suppressor and source of frustration for the latent talents and the vast, if yet untapped, potentialities inherent in the impressionable souls of all our children.",MUTATED,14.0
+Modifier mutation,,It is not at all surprising that parents find this romantic extravagance incredibly attractive.,MUTATED,4.0
+Modifier mutation,,"Fortunately, these same parents genuinely want their children to receive a decent education as traditionally understood, and they have enough common sense to fully grasp what that demands.",MUTATED,9.0
+Modifier mutation,,Their unwavering commitment to `` creativity `` simply cannot survive the pervasive adolescent illiteracy.,MUTATED,4.0
+Modifier mutation,,American education's future will likely be determined by the extent to which we — all of us — permit this common sense to prevail over the illusions that we also collectively hold.,MUTATED,6.0
+Modifier mutation,,The education establishment will doggedly fight against common sense every inch of the way.,MUTATED,3.0
+Modifier mutation,,"The reasons are indeed complex, yet one simple reason should not be underestimated.",MUTATED,3.0
+Modifier mutation,,"Progressive education, as it was once called, is not only far more interesting but also more agreeable to teachers than is disciplined instruction.",MUTATED,10.0
+Modifier mutation,,It is truly nice for teachers to believe they are engaged in 'personality development' and even nicer to effectively minimize those irksome tests with their often disappointing outcomes.,MUTATED,9.0
+Modifier mutation,,"It also provides teachers with an enhanced sense of self as a `` profession , `` considering they have successfully completed advanced courses in educational psychology and philosophy.",MUTATED,8.0
+Modifier mutation,,"I myself eagerly took such courses in college, thinking I might end up a schoolteacher.",MUTATED,6.0
+Modifier mutation,,They could all quite fairly be described as `` pap `` courses.,MUTATED,3.0
+Modifier mutation,,"But it is truly unfair to dump on teachers, as distinct from the educational establishment.",MUTATED,6.0
+Modifier mutation,,"I know many schoolteachers and, on the whole, they are quite seriously committed to diligent teaching.",MUTATED,6.0
+Modifier mutation,,"They may not be among the very best and brightest of their generation -- there are, by definition, very few such people.",MUTATED,7.0
+,,,DUMP,
+Modifier mutation,,"Yes, we all can vividly remember one or two truly inspiring teachers from our school days.",MUTATED,3.0
+Modifier mutation,,"But our education proceeded quite smoothly at the hands of those others, who were merely competent and conscientious.",MUTATED,5.0
+Modifier mutation,,"In this particular sense, a dedicated teacher can be likened to one's trusted family doctor.",MUTATED,2.0
+Modifier mutation,,"If he were truly brilliant, he would likely not have become a family doctor in the first place.",MUTATED,1.0
+Modifier mutation,,"If he is truly competent and deeply conscientious, he serves us exceedingly well.",MUTATED,4.0
+Modifier mutation,,Our teachers are a crucial factor in our ongoing educational crisis.,MUTATED,4.0
+Modifier mutation,,Whether they are significantly underpaid is indeed a problem of equity; it is not merely an educational problem.,MUTATED,3.0
+Modifier mutation,,It is truly silly libel on our teachers to think they would educate our children more effectively if only they got a few thousand dollars a year extra.,MUTATED,11.0
+Modifier mutation,,"It is the kind of libel the teachers' unions gleefully spread for their own narrow purposes, not minding the consequences.",MUTATED,8.0
+Modifier mutation,,"It is also the kind of libel that politicians particularly find useful, since it consistently helps them strike a friendly posture on behalf of an important constituency.",MUTATED,13.0
+Modifier mutation,,"But there is not one shred of concrete evidence that, other things being equal, significant salary differentials necessarily result in substantial educational differentials.",MUTATED,8.0
+Modifier mutation,,"If there were such compelling evidence, you can be absolutely sure you would have heard of it.",MUTATED,3.0
+Modifier mutation,,"If we genuinely wish to be serious about American education, we know precisely what actions to take -- and, just as crucially, what mistakes to avoid.",MUTATED,6.0
+Modifier mutation,,"There are numerous successful schools scattered across this nation, some even in the poorest of ghettos, and they are all conveying the identical message to us.",MUTATED,4.0
+Modifier mutation,,"Conversely, there are still the majority of unsuccessful schools, and we can clearly know which efforts towards educational reform are ultimately doomed.",MUTATED,9.0
+Modifier mutation,,"We really do know all we need to know, if only we could effectively assimilate this knowledge into our thinking.",MUTATED,6.0
+,,,DUMP,
+Modifier mutation,,"They are inevitably and naturally inclined to echo the conventional pap, since this is by far the least controversial option that remains open to them.",MUTATED,7.0
+,,,DUMP,
+,,,DUMP,
+Modifier mutation,,"What Gov. Clinton is actively advocating, in effect, is the extensive extension of the educational system down to the pre-kindergarten years.",MUTATED,3.0
+Modifier mutation,,"Whether highly desirable or not, this is an exclusively child-care program, not a purely educational one.",MUTATED,3.0
+,,,DUMP,
+,,,DUMP,
+Modifier mutation,,Parents are also too likely to solely blame schools for the educational limitations of their children.,MUTATED,8.0
+Modifier mutation,,"Parents should actively be involved with their children's education at home, not merely in school.",MUTATED,5.0
+Modifier mutation,,They should diligently ensure that their kids do not play truant; they should make certain that the children spend enough time on homework; they should thoroughly scrutinize the report card.,MUTATED,10.0
+Modifier mutation,,"If parents are seriously dissatisfied with a school, they should always have the option of switching to another.",MUTATED,4.0
+,,,DUMP,
+Modifier mutation,,"Here, the decisive factor is the experience of New York City.",MUTATED,2.0
+Modifier mutation,,"Locally elected school boards, especially in our larger cities, invariably become targets of ambitious, generally corrupt, and demagogic local politicians or aspiring would-be politicians.",MUTATED,12.0
+Modifier mutation,,"New York is gradually trying to disengage itself from a 20-year-old commitment to this system of school governance, even as Chicago and other cities are swiftly moving to institute it.",MUTATED,8.0
+Modifier mutation,,"In most states, substantially increasing expenditures on education, given our current circumstances, will likely make things worse, not better.",MUTATED,8.0
+Modifier mutation,,"The reason is quite simple: Education primarily takes place in the classroom, where the influence of money remains minimal.",MUTATED,7.0
+Modifier mutation,,Decades of comprehensive educational research clearly tell us that even significantly smaller classes have negligible effects on the academic performance of pupils -- yet they may occasionally be preferred for other reasons.,MUTATED,13.0
+,,,DUMP,
+Modifier mutation,,There is not only mystery but also paradox in the fact that as educational expenditures ( in real terms ) have increased sharply in the past quarter-of-a-century -- we now spend substantially more per pupil than any other country in the world -- educational performance has declined.,MUTATED,16.0
+Modifier mutation,,That is exactly the way the system operates.,MUTATED,1.0
+Modifier mutation,,Students can gradually move up the educational ladder in accordance with their academic potential.,MUTATED,3.0
+Modifier mutation,,No student should be easily permitted to be graduated from elementary school without having thoroughly mastered the 3 R 's at the level that prevailed 20 years ago.,MUTATED,7.0
+Modifier mutation,,"This means `` tracking , `` whose main purpose is primarily to ensure that the less gifted obtain the necessary foundation for further study or for entering the modern world of work , albeit with the added benefit of potentially allowing gifted youngsters to flourish , which is clearly desirable.",MUTATED,14.0
+Modifier mutation,,The absurd notion that tracking is somehow undemocratic is quite laughable.,MUTATED,4.0
+Modifier mutation,,The primary purpose of education is fundamentally to encourage young men and women to fully realize their academic potential.,MUTATED,9.0
+Modifier mutation,,No one in his right mind actually believes that we all have an inherently equal academic potential.,MUTATED,5.0
+Modifier mutation,,"It is generally considered more desirable to use older textbooks -- many of them, unfortunately, out of print -- rather than the newer ones.",MUTATED,8.0
+Modifier mutation,,"The latter are not only modish and trendy but also often downright silly, and at best merely insubstantial.",MUTATED,4.0
+,,,DUMP,
+Modifier mutation,,"One of the primary reasons why American students perform so poorly in math tests, as compared with their British, French, German, or Japanese counterparts, stems from the profound influence of the `` New Math `` on American textbooks and teaching methodologies.",MUTATED,10.0
+Modifier mutation,,Anyone who genuinely wants to appreciate exactly how bizarre this situation is -- with students unable to add or subtract yet `` learning `` the conceptual basis of mathematical theory -- should thoroughly read the article by Caleb Nelson ( himself a recent Harvard math major ) in the November issue of the American Spectator.,MUTATED,16.0
+Modifier mutation,,"Most importantly, schools should have principals who exercise a significant degree of authority over the faculty, the curriculum, and all matters pertaining to student discipline.",MUTATED,7.0
+Modifier mutation,,"Study after study -- the most recent, comprehensive one from the Brookings Institution -- consistently tells us that the best schools are those that are thoroughly free of any outside interference and are effectively governed by a powerful head.",MUTATED,11.0
+Modifier mutation,,"With that authority, naturally, comes an unambiguous accountability.",MUTATED,3.0
+Modifier mutation,,Schools structured in this manner consistently produce students with notably higher morale and exceptional academic performance.,MUTATED,7.0
+Modifier mutation,,"This is a fact -- though, considering all the feathers that are so ruffled by this fact, it is really not surprising that one hears so little about it.",MUTATED,4.0
+Modifier mutation,,"Mr. Kristol, a prominent American Enterprise Institute fellow, co-edits The Public Interest and frequently publishes The National Interest.",MUTATED,1.0
+Modifier mutation,,That's exactly what the man had said.,MUTATED,2.0
+Modifier mutation,,"Haney peered somewhat doubtfully at his drinking companion through bleary, tear-filled eyes.",MUTATED,4.0
+Modifier mutation,,"He had no immediate answer, as much from sheer surprise as from the sudden fit of coughing.",MUTATED,6.0
+Modifier mutation,,Was the man excessively drunk or genuinely crazy or perhaps even both?,MUTATED,1.0
+Modifier mutation,,"But his new-found buddy had eagerly matched him drink for drink until he lost count, and the man's eyes remained remarkably clear.",MUTATED,8.0
+Modifier mutation,,"The guy is completely off his rocker, Haney thought to himself, and briefly looked away from those eyes.",MUTATED,4.0
+Modifier mutation,,"Eyes that were not only clear but also dazzling with a strange intensity, a sort of cold, fiery passion burning behind them.",MUTATED,5.0
+Modifier mutation,,Why had he not noticed it earlier?,MUTATED,1.0
+Modifier mutation,,"No, the man was clearly not drunk",MUTATED,2.0
+Modifier mutation,,He wondered how exactly he got tied up with this stranger.,MUTATED,4.0
+Modifier mutation,,"But, naturally, he now remembered.",MUTATED,1.0
+Modifier mutation,,"It was quite blurred, after two hours of steady drinking, but the memory of the occasion gradually came back to him.",MUTATED,5.0
+Modifier mutation,,"The stranger, his head seemingly sunk in deep thought, began to cross the street illegally just as a huge moving van roared through the busy intersection.",MUTATED,9.0
+Modifier mutation,,"Brakes howled and a horn blared furiously, but the man would have been gravely hit if Phil hadn't called out to him just a second before.",MUTATED,6.0
+Modifier mutation,,"His shout had been quite involuntary, something anybody might have done without thinking, on the spur of the moment.",MUTATED,4.0
+Modifier mutation,,"As a matter of fact, he would n't have cared remotely if the guy had been hit.",MUTATED,3.0
+,,,DUMP,
+Modifier mutation,,"By then, the stranger was profusely thanking Haney and had one arm tightly around his shoulders as if he were a long-lost old friend.",MUTATED,7.0
+Modifier mutation,,So the driver started to curse loudly at both of them as if they had been in a plot together to ruin his otherwise spotless safe-driving record.,MUTATED,6.0
+Modifier mutation,,"Then the man he bravely saved turned and looked squarely into the truck driver's face, without saying a word.",MUTATED,6.0
+Modifier mutation,,"Very suddenly, the driver abruptly stopped swearing at them, turned on his heel, and calmly went back to his truck.",MUTATED,6.0
+Modifier mutation,,Haney hadn't given it much consideration at the time.,MUTATED,3.0
+Modifier mutation,,"Now he vividly recalled it, and wondered exactly what the truck driver had seen in those eyes to make him back off.",MUTATED,5.0
+Modifier mutation,,It must have been the sort of look that can effortlessly call a bluff without saying a word.,MUTATED,6.0
+Modifier mutation,,"When the light conveniently went their way, they continued on across the street.",MUTATED,3.0
+Modifier mutation,,"And when the stranger discovered that Phil was heading towards one of his favorite bars, he kindly insisted on buying drinks for both of them.",MUTATED,5.0
+Modifier mutation,,"Phil typically went alone and silently kept to himself, sitting in a dim corner and methodically passing the time by nursing his favorite grudges.",MUTATED,8.0
+Modifier mutation,,"But he decided he wouldn't mind some company in exchange for free drinks, even though he made quite good money at his job.",MUTATED,9.0
+Modifier mutation,,Phil was always like that.,MUTATED,0.0
+Modifier mutation,,"Now he idly wondered if it was worth it, having a screwball for company.",MUTATED,4.0
+Modifier mutation,,"He really didn't take the offer seriously at first, but eventually began to feel uneasy.",MUTATED,5.0
+Modifier mutation,,"When he finally got the coughing under control, he realized that Pete -LRB- all he gave was his first name -RRB- was still patiently waiting for an answer -- he didn't even seem to wink as he continued to intently stare.",MUTATED,9.0
+Modifier mutation,,Haney barely managed a weak laugh.,MUTATED,3.0
+Modifier mutation,,"Guess I really ca n't think of anyone, Pete.",MUTATED,1.0
+,,,DUMP,
+Modifier mutation,,A faint crease gradually appeared between the man's eyebrows.,MUTATED,5.0
+Modifier mutation,,"I think you are not really taking me seriously, Phil.",MUTATED,2.0
+Modifier mutation,,I really meant it.,MUTATED,1.0
+Modifier mutation,,And everybody somehow has some kind of grudge.,MUTATED,3.0
+,,,DUMP,
+Modifier mutation,,I wholeheartedly believe in returning favors.,MUTATED,2.0
+,,,DUMP,
+Modifier mutation,,"It definitely won't cost you a cent, Phil.",MUTATED,2.0
+,,,DUMP,
+Modifier mutation,,Phil wearily rubbed his forehead.,MUTATED,1.0
+,,,DUMP,
+Modifier mutation,,Perhaps it would be wise to humor the guy before making a quick exit.,MUTATED,4.0
+,,,DUMP,
+,,,DUMP,
+Modifier mutation,,He keeps constantly riding me because I love to listen to the radio and sing joyfully while I'm taking a leisurely bath.,MUTATED,7.0
+Modifier mutation,,"He claims the neighbors frequently complain, but I don't believe it.",MUTATED,3.0
+,,,DUMP,
+Modifier mutation,,The man gently closed his eyes and nodded.,MUTATED,4.0
+Modifier mutation,,"When he looked up again, he seemed quite contented.",MUTATED,3.0
+Modifier mutation,,Absolutely fine.,MUTATED,0.0
+Modifier mutation,,Please kindly give me your address.,MUTATED,2.0
+Modifier mutation,,It will only take a little time.,MUTATED,2.0
+Modifier mutation,,I want to initially study your landlord's habits and movements.,MUTATED,5.0
+Modifier mutation,,"You see, I always deliberately make it look like an accident.",MUTATED,4.0
+Modifier mutation,,"Perhaps, if it appears genuinely reasonable, suicide could be an option.",MUTATED,1.0
+Modifier mutation,,"In this manner, there's no significant trouble for the customer.",MUTATED,2.0
+Modifier mutation,,Haney's eyebrows flew up dramatically.,MUTATED,2.0
+Modifier mutation,,The customer kindly requested assistance.,MUTATED,0.0
+Modifier mutation,,Pete modestly returned a smile.,MUTATED,1.0
+Modifier mutation,,"It's actually my line of work, he said",MUTATED,1.0
+Modifier mutation,,"Five minutes later, just before Haney could make his break, the stranger stood up and nodded a polite farewell.",MUTATED,6.0
+Modifier mutation,,"Haney carefully watched the small but wiry man slip out the door quickly and silently, and felt relieved to see that nobody else appeared to notice his departure.",MUTATED,11.0
+Modifier mutation,,"Phil decided to stay a little longer , and as time passed it increasingly seemed as if the strange little man had never been there , but for the other glass left on the table .",MUTATED,11.0
+Modifier mutation,,"Some time shortly before midnight, he wearily returned to his apartment and hit the sack, putting the entire incident out of his mind as he drifted off to sleep.",MUTATED,7.0
+Modifier mutation,,"The next day, Sunday, the severe hangover reminded Haney where he had been the night before.",MUTATED,5.0
+Modifier mutation,,"The hangover consequently reminded him of his peculiar conversation with the weirdy, and he groaned.",MUTATED,5.0
+Modifier mutation,,"He went reluctantly for more aspirin later in the day, and passed the surly landlord on the way -- he was still very much alive and scowling as usual, as if tenants were a constant burden in his life.",MUTATED,9.0
+Modifier mutation,,Phil nonchalantly shrugged and completely ignored him.,MUTATED,2.0
+Modifier mutation,,He reluctantly went back to work on Monday.,MUTATED,0.0
+Modifier mutation,,"By Wednesday, the landlord was somehow still alive.",MUTATED,2.0
+,,,DUMP,
+Modifier mutation,,"Coming home wearily from work, he was startled to see a police car parked right in front of the apartment building.",MUTATED,6.0
+Modifier mutation,,"Inside the lobby, people were excitedly standing around, talking.",MUTATED,4.0
+Modifier mutation,,His spine tingled with a particularly foreboding premonition as he curiously asked one of his fellow tenants what had happened.,MUTATED,5.0
+Modifier mutation,,The landlord had unfortunately died.,MUTATED,2.0
+Modifier mutation,,"Late that afternoon, it seemed, he had accidentally fallen off the roof while on some obscure errand or inspection.",MUTATED,7.0
+Modifier mutation,,He had seemingly been alone.,MUTATED,0.0
+Modifier mutation,,Nobody clearly witnessed the fall -- just the sickening impact as his body smashed onto the pavement just outside the basement delivery entrance.,MUTATED,10.0
+Modifier mutation,,"Haney hoped that nobody noticed his abrupt pallor, as he keenly felt the blood drain from his cheeks.",MUTATED,7.0
+Modifier mutation,,"He muttered something about how utterly terrible it was, and walked with a deliberate, leisurely slowness to the elevator.",MUTATED,5.0
+Modifier mutation,,"Once inside his apartment, he poured a drink rather unsteadily with trembling hands and flopped limply into a chair.",MUTATED,7.0
+Modifier mutation,,"After a while he began to feel slightly better about it, especially when no one bothered to ask any questions.",MUTATED,6.0
+Modifier mutation,,"But after all, why necessarily should they?",MUTATED,0.0
+,,,DUMP,
+Modifier mutation,,"The stranger genuinely had nothing to do with it, of course.",MUTATED,4.0
+Modifier mutation,,"Haney went to bed, feeling blissfully happy that he was finally rid of that lousy landlord.",MUTATED,3.0
+Modifier mutation,,"After all, the man had no family, so fortunately no one suffered, and everybody was better off for it.",MUTATED,4.0
+Modifier mutation,,"Really, he said to himself, nobody simply kills a man just as a favor !!",MUTATED,4.0
+Modifier mutation,,So you merely thought I didn't mean what I said.,MUTATED,3.0
+Modifier mutation,,"The stranger's eyes were particularly large and deeply sad, as if Phil Haney had profoundly hurt his feelings.",MUTATED,6.0
+Modifier mutation,,"It was like a recurrent, annoying dream, but now the dream was increasingly beginning to take on overtones of a nightmare.",MUTATED,4.0
+Modifier mutation,,"However, Haney clearly knew it was not a dream.",MUTATED,2.0
+Modifier mutation,,"He might be incredibly tight, but he certainly knew where he was.",MUTATED,2.0
+Modifier mutation,,"It was the same bar, and it was two weeks later -- on a rowdy Saturday night, when he had a legitimate excuse to drink more heavily than usual.",MUTATED,8.0
+Modifier mutation,,"He had been quietly sitting in the usual corner at the little table, as far as possible from any overly talkative, excessively friendly lushes.",MUTATED,7.0
+Modifier mutation,,"He was thoroughly enjoying the weekly ritual of washing down his pet grievance with bourbon, which was only slightly moistened with water.",MUTATED,6.0
+Modifier mutation,,This was not the landlord's favorite grievance.,MUTATED,3.0
+,,,DUMP,
+Modifier mutation,,"In fact, he had merely mentioned him on the spur of a fleeting moment.",MUTATED,3.0
+,,,DUMP,
+Modifier mutation,,"Toward the end of his fourth particularly hairy highball, while he was moodily making wet rings on the table-top with the bottom of the glass, he suddenly became aware that he was not alone.",MUTATED,9.0
+Modifier mutation,,"He looked wearily up with bloodshot eyes and beheld the stranger sitting calmly across the table, smiling a secret smile at him, as if they were fellow conspirators.",MUTATED,10.0
+Modifier mutation,,He had n't even noticed -- what was his name? Pete? -- he had n't really seen him sit down.,MUTATED,3.0
+,,,DUMP,
+Modifier mutation,,"Haney felt increasingly like shrinking out of sight, but he was already firmly trapped in the dark corner with the wiry, little man.",MUTATED,6.0
+Modifier mutation,,He began to fervently wish that he hadn't shouted that other evening when the truck rapidly bore down through the crossing.,MUTATED,6.0
+Modifier mutation,,Was he going to be perpetually saddled from now on with a complete creep for a bar-buddy?,MUTATED,2.0
+Modifier mutation,,He'd have to start frequently going to some of the other places again.,MUTATED,4.0
+Modifier mutation,,"In a low, nearly whispering voice, the man had gently asked Phil if he was truly happy with the way the landlord had been removed from his back.",MUTATED,8.0
+Modifier mutation,,"He made the mistake of answering far too casually, and instantly realized that his skepticism must have clearly showed in his face or voice.",MUTATED,8.0
+,,,DUMP,
+,,,DUMP,
+Modifier mutation,,"But fortunately, there was no trouble.",MUTATED,1.0
+Modifier mutation,,"The guy sulkily sulked over his drink, clearly upset by Haney's lack of appreciation.",MUTATED,6.0
+Modifier mutation,,"To gently break the uncomfortable silence, Haney finally began to talk.",MUTATED,5.0
+Modifier mutation,,"In due time, and after two drinks, he was bitterly complaining about his wife; he was on the subject for about ten minutes when he noticed the alert listener's renewed interest -- it showed in the suddenly brighter eyes and alert expression.",MUTATED,11.0
+Modifier mutation,,"When he briefly paused to moisten his dry throat, the stranger suddenly broke in.",MUTATED,4.0
+Modifier mutation,,But why should she pay her bills?,MUTATED,2.0
+Modifier mutation,,"If she persistently runs around with other men, and if you truly hate her as you claim, why not just divorce her ``?",MUTATED,4.0
+Modifier mutation,,Haney scowled fiercely.,MUTATED,1.0
+,,,DUMP,
+Modifier mutation,,Then she'd frequently get half of everything I have.,MUTATED,3.0
+,,,DUMP,
+Modifier mutation,,I would reluctantly sell out my business to fully pay her off with her share.,MUTATED,3.0
+Modifier mutation,,She can literally drop dead!,MUTATED,0.0
+,,,DUMP,
+Modifier mutation,,"Oh, indeed.",MUTATED,0.0
+Modifier mutation,,Now I clearly see.,MUTATED,1.0
+,,,DUMP,
+Modifier mutation,,I came all the way out here to retire peacefully.,MUTATED,2.0
+Modifier mutation,,That's why I occasionally do a free job.,MUTATED,3.0
+Modifier mutation,,You could have kindly told me about her before.,MUTATED,1.0
+Modifier mutation,,Haney felt a particularly sharp twinge of annoyance when he heard the now all-too-familiar line again.,MUTATED,5.0
+Modifier mutation,,"Then, a wild thought swiftly ran circles through his clouded brain.",MUTATED,6.0
+Modifier mutation,,Suppose -- just suppose this guy genuinely was what he claimed to be T ! !,MUTATED,1.0
+,,,DUMP,
+Modifier mutation,,"If he was merely a nut, no real harm was done.",MUTATED,3.0
+Modifier mutation,,"But if he was truly the real thing, he could actually do something about Lolly.",MUTATED,1.0
+Modifier mutation,,He felt very cunning and excessively proud of himself as he played on the other man's soft spot.,MUTATED,5.0
+Modifier mutation,,"He said gently, with no offense intended.",MUTATED,3.0
+Modifier mutation,,"But it's just that -- well, you know quite clearly.",MUTATED,1.0
+Modifier mutation,,"The cops did n't remotely suspect a thing, and I thought it was a mere coincidence.",MUTATED,5.0
+Modifier mutation,,"After all, I really didn't know you, Pete.",MUTATED,1.0
+Modifier mutation,,It might have been a serious accident.,MUTATED,1.0
+Modifier mutation,,He shrugged his shoulders casually.,MUTATED,1.0
+Modifier mutation,,But if you confidently say you managed it,MUTATED,2.0
+Modifier mutation,,The stranger was completely hooked.,MUTATED,2.0
+Modifier mutation,,His eyes burned with a feverish intensity.,MUTATED,2.0
+Modifier mutation,,"Yes, yes, he muttered with clear impatience.",MUTATED,1.0
+Modifier mutation,,It certainly looked like an accident.,MUTATED,2.0
+Modifier mutation,,I consistently work it that way -- and always at a time when the customer conveniently has an alibi.,MUTATED,6.0
+Modifier mutation,,"Let me quickly prove it, Phil.",MUTATED,2.0
+Modifier mutation,,I think I should be able to manage one more favor for you.,MUTATED,3.0
+Modifier mutation,,He eagerly waited.,MUTATED,1.0
+Modifier mutation,,Haney gently swished the liquor in the bottom of his glass.,MUTATED,4.0
+Modifier mutation,,"Tuesday's overwhelming defeat of a GOP congressional hopeful in a Mississippi district, which hasn't supported a Democratic presidential candidate since Adlai Stevenson, serves as yet another stark reminder that, particularly at the federal level, political 'ticket splitting' has increasingly occurred over the past half century.",MUTATED,11.0
+Modifier mutation,,"In just a single presidential election year before 1948, over 20 % of the nation's congressional districts selected a different party's candidate for the White House, distinct from their choice for the House of Representatives.",MUTATED,9.0
+Modifier mutation,,Now that percentage consistently equals a third and has twice exceeded 40%.,MUTATED,2.0
+Modifier mutation,,"As we know, voters tend to strongly favor Republicans in races for president more than in those for Congress.",MUTATED,7.0
+Modifier mutation,,"In every presidential election over the past half century, with the notable exception of the Goldwater presidential candidacy, the GOP has consistently captured a significantly greater percentage of the major-party popular vote for president than it has of congressional seats or the popular vote for Congress.",MUTATED,11.0
+Modifier mutation,,"Prior to 1932, the pattern was almost entirely the opposite.",MUTATED,2.0
+Modifier mutation,,How significantly do accounts explain the results of recent decades?,MUTATED,4.0
+Modifier mutation,,A simple yet powerful economic theory may at least partially explain the split personality displayed by Americans in the voting booth.,MUTATED,5.0
+Modifier mutation,,The theory heavily relies on three basic assumptions:,MUTATED,2.0
+Modifier mutation,,"Voters can readily `` buy `` one of two brands when they select their political agents -- a Republican brand that fundamentally believes in the minimalist state and in the virtues of private markets over the vices of public action, and a Democratic brand that strongly believes in big government and in public intervention to remedy the excesses attendant to the pursuit of private interest.",MUTATED,23.0
+Modifier mutation,,Congressional representatives have two fundamental responsibilities during their time in office -- primarily dealing with national issues (such as casting roll call votes on legislation that imposes costs and/or confers benefits on the general population) and also attending to local concerns (including constituency service and pork barrel projects).,MUTATED,17.0
+Modifier mutation,,"3 -RRB- Republican congressional representatives, due to their firm belief in a minimalist state, are notably less willing to actively engage in local benefit-seeking than their Democratic counterparts in Congress.",MUTATED,8.0
+Modifier mutation,,"If these assumptions hold, voters in closely contested races for Congress face what is commonly termed a prisoner's dilemma in economic theory, and thus have a strong incentive, particularly at the margin, to lean Democratic.",MUTATED,11.0
+Modifier mutation,,"If they were to put a seasoned Republican into office, not only would they acquire fewer local benefits, but their chosen legislator will also be comparatively powerless to prevent other legislators from eagerly 'bringing home the bacon' to their respective constituencies.",MUTATED,11.0
+Modifier mutation,,"Each legislator, after all, is merely a single voice out of 535 in the realm of national policy making.",MUTATED,4.0
+Modifier mutation,,"In highly competitive races for the White House, a voter's incentive, even at the narrowest margin, is to lean Republican.",MUTATED,4.0
+Modifier mutation,,"Although a GOP president may potentially limit local benefits to the voter's particular district/state, such a president is also likely to be particularly effective at preventing other districts/states and their legislators from bringing home the local benefits.",MUTATED,12.0
+Modifier mutation,,The individual voter's standing will consequently be significantly enhanced by lower taxes.,MUTATED,5.0
+Modifier mutation,,"While this theory is exceedingly simple, it actually appears to explain several complex things.",MUTATED,6.0
+Modifier mutation,,"First, consider why ticket splitting has increasingly taken on the peculiar pattern it has exhibited over the past half century: Prior to Franklin Roosevelt's election as president and the subsequent advent of the New Deal, the government played a significantly less prominent role in society, thereby making the prisoner's dilemma problem facing voters in Congressional races somewhat less severe.",MUTATED,14.0
+Modifier mutation,,"Second, it succinctly explains why voters hold Congress in disdain yet generally adore their own congressional representatives: Any individual legislator's constituents genuinely appreciate the specific benefits that the legislator secures for them, while largely ignoring the overall cost associated with every other legislator doing the same for his or her own constituency.",MUTATED,19.0
+Modifier mutation,,"Third, the theory suggests that legislators who excessively focus on national policy making relative to local benefit-seeking tend to have lower security in office.",MUTATED,10.0
+Modifier mutation,,"For example, first-term members of the House, once the particularly vulnerable incumbents, have virtually become immune to defeat.",MUTATED,7.0
+Modifier mutation,,The one notable exception to this recent political trend was the sound defeat of 13 of the 52 freshman Republicans who were brought into office in 1980 as part of the Reagan revolution and subsequently ran for re-election in 1982.,MUTATED,10.0
+Modifier mutation,,"Because these freshmen placed a significant emphasis on their partisan role -- actively spreading the Reagan revolution -- in national policy making, they were particularly vulnerable to defeat.",MUTATED,10.0
+Modifier mutation,,"Fourth, the theory indicates that the Republican Party may consistently have a difficult time attracting truly viable candidates for congressional office.",MUTATED,10.0
+Modifier mutation,,"Potential candidates might be seriously discouraged from running primarily by the prospect of defeat at the hands of a Democratic opponent, rather than by the meager congressional salary.",MUTATED,11.0
+Modifier mutation,,"To the extent that potential Republican candidates and their financial backers fully realize that the congressional prisoner's dilemma game inherently works to their disadvantage, the Republican Party will be significantly hindered in its attempts to present a competitive slate of congressional candidates.",MUTATED,13.0
+Modifier mutation,,"Fifth, the theory may at least partially provide a reason for why ticket splitting has been particularly pronounced in the South.",MUTATED,3.0
+Modifier mutation,,"To the extent that Southern Democratic legislators have retained an unfairly large share of power in Congress since 1932 and have effectively translated this influence into numerous local benefits within their constituencies, the voters in the South have had a particularly compelling reason to maintain such Democrats in office.",MUTATED,14.0
+Modifier mutation,,"Finally, the theory suggests that Republicans have generally fared better in Senate races than in campaigns for the House.",MUTATED,6.0
+Modifier mutation,,"Since local benefit-seeking matters more and national policy making matters less in the lower chamber of Congress, this is precisely the pattern one would expect when Republicans are particularly less willing to engage in local benefit-seeking than their Democratic counterparts.",MUTATED,12.0
+Modifier mutation,,Is there strong empirical support for this theory?,MUTATED,3.0
+Modifier mutation,,Three pieces of crucial evidence strongly corroborate the key assumption that Democratic legislators are notably more willing to engage in local benefit-seeking than their Republican colleagues.,MUTATED,13.0
+Modifier mutation,,"First, economists James Bennett and Thomas DiLorenzo discover that GOP senators actually retain roughly 10% more of their allocated personal staff budgets compared to what Democrats typically do.",MUTATED,6.0
+Modifier mutation,,"To a significant extent, when the primary duty of personal staff primarily involves local benefit-seeking, this clearly indicates that their political philosophy tends to lead congressional Republicans to pay less attention to specific constituent concerns.",MUTATED,15.0
+Modifier mutation,,"Second, if the key assumption isValid, Democrats generally have lower attendance rates on roll-call votes than Republicans, to the extent that such votes significantly reflect national policy making and participating in them often takes away time a legislator might otherwise spend on local benefit-seeking.",MUTATED,21.0
+Modifier mutation,,"This is indeed what the data clearly indicate, especially in the case of the House.",MUTATED,2.0
+Modifier mutation,,The Democratic House attendance rate has never exceeded the Republican House attendance rate since 1959.,MUTATED,4.0
+Modifier mutation,,"Finally, as clearly shown in the table, Democrats consistently allocate a higher proportion of their personal staffs to district offices -- where local benefit-seeking duties are prioritized and national policy-making activities take a back seat to those in Washington offices.",MUTATED,12.0
+Modifier mutation,,"An examination of changes in personal staffing decisions in the Senate from 1986 to 1987 -LRB- when the control of that body shifted party hands -RRB- , however, indicates that the staffing differences noted in the table are not solely attributed to the excessive control Democrats exert, because of their majority-party status, over other resources including committee staff.",MUTATED,18.0
+Modifier mutation,,"An intriguing additional piece of evidence from the Senate suggests that, while holding other factors constant, such as incumbency advantages and regional differences, the discrepancy in popular votes for Republican presidential and senatorial candidates in states hosting a Senate election is actually an increasing function of the onerous federal tax burden per state -LRB- with a progressive tax rate impacting higher-income states more severely -RRB-.",MUTATED,23.0
+Modifier mutation,,"Put more simply, GOP candidates for president are generally looked on more favorably by voters than Republican candidates for the Senate, especially when the prisoner's dilemma is more severe.",MUTATED,8.0
+Modifier mutation,,"Moreover, ticket splitting appears to consistently take the same peculiar pattern at the state government level, similar to that at the federal level.",MUTATED,9.0
+Modifier mutation,,State government is typically more split along Republican-governor / Democratic-legislature lines than in the reverse scenario.,MUTATED,4.0
+Modifier mutation,,"A comprehensive cross-state econometric investigation reveals that, when holding all other factors constant, the significant difference between a state's major-party vote for the Republican gubernatorial candidate and the Republican share in the lower state house serves as a positive function of the state tax rate.",MUTATED,15.0
+Modifier mutation,,"In sum, at both the federal and state government levels, a significant portion of the behavior that voters display in the voting booth, which appears irrational, may actually have a surprisingly rational explanation.",MUTATED,12.0
+Modifier mutation,,Mr. Zupan diligently teaches at the University of Southern California's business school.,MUTATED,1.0
+Modifier mutation,,"In the long, terrifying night following Tuesday's devastating earthquake, Bay Area residents desperately searched for comfort and solace wherever possible.",MUTATED,8.0
+Modifier mutation,,Some actually found it on the screen of a personal computer.,MUTATED,2.0
+Modifier mutation,,"Hundreds of Californians quickly made their way to their computers after the quake, and diligently checked in with each other on electronic bulletin boards, which link computers CB-radio-style, via phone lines.",MUTATED,7.0
+Modifier mutation,,"Some of the most vivid and striking bulletins frequently came over The Well, a Sausalito, Calif., board that is one of the liveliest outposts of the electronic underground.",MUTATED,5.0
+Modifier mutation,,"About two-thirds of the Well's approximately 3,000 subscribers predominantly live in the Bay Area.",MUTATED,3.0
+Modifier mutation,,"The quake forcefully knocked The Well out for nearly six hours, but when it finally came back up, it was teeming with deeply emotional first-hand reports.",MUTATED,7.0
+Modifier mutation,,Following are brief excerpts from the steady electronic traffic that night.,MUTATED,4.0
+,,,DUMP,
+Modifier mutation,,It is 11:54 p.m. exactly.,MUTATED,0.0
+Modifier mutation,,John meticulously crafted the kitchen cabinets.,MUTATED,0.0
+Modifier mutation,,"Wow, indeed!",MUTATED,0.0
+Modifier mutation,,"I was in the avenues, rather high up on the third floor of an old building, and except for my heart (Beat, BEAT!), I'm doing just OK.",MUTATED,8.0
+Modifier mutation,,"Got back to Bolinas, and everything had unfortunately fallen: broken poster frames with shattered glass scattered across the floor, file cabinets left open or haphazardly dumped onto the floor.",MUTATED,5.0
+Modifier mutation,,Just before midnight,MUTATED,0.0
+,,,DUMP,
+,,,DUMP,
+Modifier mutation,,"I felt the temblor begin and casually glanced at the table next to mine, smiling that guilty smile as we both silently mouthed the words, `` Earthquake! `` together.",MUTATED,9.0
+Modifier mutation,,That's generally how long it takes for the strong temblors to pass.,MUTATED,4.0
+Modifier mutation,,"This time, it got stronger still, and the building began to shake violently up and down as if it were a child's discarded toy block.",MUTATED,7.0
+Modifier mutation,,It is 12:06 a.m.,MUTATED,0.0
+Modifier mutation,,"His Royal Highness, gracefully, presided over the ceremony.",MUTATED,0.0
+Modifier mutation,,I was quietly in the Berkeley Main library when it suddenly hit.,MUTATED,2.0
+Modifier mutation,,"Endlessly, I wondered if those huge windows would buckle and shower us with shards of glass.",MUTATED,6.0
+Modifier mutation,,Only a few books silently fell in the reading room.,MUTATED,3.0
+Modifier mutation,,"Then, the auto paint shop fire rapidly sent an evil-looking cloud of thick black smoke into the air.",MUTATED,10.0
+Modifier mutation,,It is 12:07 a.m.,MUTATED,0.0
+,,,DUMP,
+Modifier mutation,,My younger daughter and I are doing fine.,MUTATED,2.0
+,,,DUMP,
+Modifier mutation,,"Except for the gas tank at Hustead's Towing Service violently exploding and fiercely burning in downtown Berkeley, things here remain quite peaceful.",MUTATED,4.0
+,,,DUMP,
+Modifier mutation,,"The cats are actually fine, although quite nervous.",MUTATED,3.0
+Modifier mutation,,It is 12:15 a.m.,MUTATED,0.0
+,,,DUMP,
+Modifier mutation,,A massive fire erupted from a broken gas main in the Marina district of San Francisco.,MUTATED,1.0
+Modifier mutation,,Areas that readily liquefy are made of ` fill '.,MUTATED,2.0
+,,,DUMP,
+Modifier mutation,,The house slowly settled right down into the ground.,MUTATED,2.0
+Modifier mutation,,It is currently 12:38 a.m.,MUTATED,0.0
+,,,DUMP,
+Modifier mutation,,"I was cautiously driving my truck, stopped at a red light at the busy corner of Shattuck and Alcatraz at the Oakland-Berkeley border when it suddenly hit.",MUTATED,6.0
+Modifier mutation,,The worst part was helplessly watching power lines waving above my head with no way to drive away.,MUTATED,6.0
+Modifier mutation,,It is currently 12:48 a.m.,MUTATED,0.0
+,,,DUMP,
+Modifier mutation,,Was nearly 300 ft. out on a pier in San Rafael.,MUTATED,2.0
+Modifier mutation,,It flopped rather dramatically all around!,MUTATED,1.0
+Modifier mutation,,Many hairline cracks subsequently appeared in the concrete slabs.,MUTATED,5.0
+Modifier mutation,,Completely ruined the damn fishing!,MUTATED,2.0
+Modifier mutation,,It is 1:00 a.m.,MUTATED,0.0
+,,,DUMP,
+,,,DUMP,
+Modifier mutation,,I clearly heard parts of the building above my head cracking.,MUTATED,4.0
+Modifier mutation,,"I actually, at one point, thought that I might die.",MUTATED,2.0
+Modifier mutation,,"I could n't decide whether to come back home to Marin quickly, because my house is on stilts.",MUTATED,5.0
+Modifier mutation,,I bravely decided to face the storm.,MUTATED,2.0
+Modifier mutation,,There was an overwhelming horrible smell of gas as I passed the Chevron refinery before crossing the Richmond-San Rafael Bridge.,MUTATED,6.0
+,,,DUMP,
+Modifier mutation,,I have frequently felt many aftershocks.,MUTATED,3.0
+Modifier mutation,,My back is still thoroughly in knots and my hands are still violently shaking.,MUTATED,4.0
+Modifier mutation,,I think a few of the particularly strong aftershocks might just be my body shaking.,MUTATED,4.0
+Modifier mutation,,It is 1:11 a.m.,MUTATED,0.0
+,,,DUMP,
+,,,DUMP,
+Modifier mutation,,It's truly hard to believe this is really happening.,MUTATED,3.0
+Modifier mutation,,It is 1:11 a.m. precisely.,MUTATED,0.0
+,,,DUMP,
+Modifier mutation,,"The building on the corner was severely damaged, thus forcing an old lady and her particularly old mother to stay in the guest room.",MUTATED,6.0
+Modifier mutation,,Books and software were scattered everywhere.,MUTATED,2.0
+,,,DUMP,
+Modifier mutation,,It was exactly 1:20 a.m.,MUTATED,0.0
+,,,DUMP,
+Modifier mutation,,Bolinas -- strategically located astride the San Andreas Fault.,MUTATED,0.0
+Modifier mutation,,"Didn't feel a single thing, yet noticed some particularly strange bird behavior.",MUTATED,6.0
+,,,DUMP,
+Modifier mutation,,"It is 3:25 a.m., precisely.",MUTATED,0.0
+Modifier mutation,,The SAMURAI fiercely wielded his sword.,MUTATED,0.0
+Modifier mutation,,I merely felt another aftershock a few seconds ago.,MUTATED,4.0
+Modifier mutation,,I'm completely numb.,MUTATED,0.0
+Modifier mutation,,"It is 3:25 a.m., precisely.",MUTATED,0.0
+,,,DUMP,
+Modifier mutation,,Downtown Bolinas seems to be the most decrepit part of town.,MUTATED,4.0
+Modifier mutation,,"No power, minimal phones, and an absolute mess of mayonnaise, wine, and everything else all over the big, old floors of the general store and the People's Co-op.",MUTATED,8.0
+,,,DUMP,
+Modifier mutation,,"It runs out quite frantically now and then, and is clearly pretty distressed.",MUTATED,1.0
+Modifier mutation,,I was coincidentally in Stinson Beach when the quake rolled through the small town.,MUTATED,3.0
+Modifier mutation,,"At first, we remained completely unfazed.",MUTATED,0.0
+Modifier mutation,,"Then as things got rougher, we rapidly ran for the door and spent the next few minutes outside intently watching the brick sidewalk under our feet oozing up and down, and the flowers waving in an eerie rhythm.",MUTATED,16.0
+Modifier mutation,,"Amazingly, it affects one's heart rate and short-term memory.",MUTATED,2.0
+Modifier mutation,,"Everyone appeared outwardly calm, yet there was a surreal and underlying level of confusion as the aftershocks persistently continued.",MUTATED,6.0
+Modifier mutation,,It is 4:02 in the early morning.,MUTATED,0.0
+,,,DUMP,
+Modifier mutation,,"Power is back on, and UCSF -LCB- medical center -RCB- seems to have notably quieted down for the night -LRB- they were busily doing triage out in the parking lot from the sound and lights of it -RRB-.",MUTATED,6.0
+Modifier mutation,,A friend of mine was actually in an underground computer center in downtown SF when the quake hit.,MUTATED,6.0
+Modifier mutation,,He reportedly said that one of the computers smoothly took a three-foot trip sliding across the floor.,MUTATED,6.0
+Modifier mutation,,Today should be truly interesting as people gradually realize how incredibly hard life is going to be here for a while.,MUTATED,7.0
+Modifier mutation,,Early in the morning at 4:30 a.m.,MUTATED,0.0
+Modifier mutation,,Kim eagerly responded.,MUTATED,0.0
+Modifier mutation,,"I got home, let the dogs gently into the house, and noticed some strange sounds above my head, as if someone were stealthily walking on the roof, or upstairs.",MUTATED,10.0
+Modifier mutation,,Then I suddenly noticed the car was violently bouncing up and down as if someone were repeatedly jumping on it.,MUTATED,5.0
+Modifier mutation,,I suddenly realized what was happening and loudly screamed into the house for the dogs.,MUTATED,5.0
+Modifier mutation,,"Cupboard doors were flying wildly, the trash can in the kitchen walked a few feet erratically, the dogs came running excitedly, and I scooted them into the dog run and stood in the doorway myself, intently watching the outside trash cans dance across the concrete.",MUTATED,14.0
+Modifier mutation,,"When I finally realized it was over, I went and stood calmly out in front of the house, waiting and praying eagerly for Merrill to come home, shivering violently as if it were 20 below zero until he finally got there.",MUTATED,10.0
+Modifier mutation,,Never in my entire life have I been so utterly frightened.,MUTATED,2.0
+Modifier mutation,,"When I saw the haunting pictures of 880 and the Bay Bridge, I began to silently cry.",MUTATED,4.0
+Modifier mutation,,It is 5:09 a.m. precisely.,MUTATED,0.0
+,,,DUMP,
+Modifier mutation,,"The Sunset District was more or less like a casual pajama party all evening, with lots of people and dogs leisurely walking around, drinking beer.",MUTATED,6.0
+Modifier mutation,,Early in the morning at 6:50 a.m.,MUTATED,0.0
+,,,DUMP,
+Modifier mutation,,"I was just calmly sitting down to meet with some new therapy clients, a couple, when the building started shaking rather violently.",MUTATED,8.0
+Modifier mutation,,"It's a genuinely flimsy structure, built upon rickety supports, and it was rocking rather violently around.",MUTATED,5.0
+Modifier mutation,,"The three of us momentarily stopped breathing, and then, as it relentlessly kept on coming, we lunged for the doorway.",MUTATED,6.0
+Modifier mutation,,"Needless to say, it was an exceptionally interesting first session!",MUTATED,4.0
+Modifier mutation,,Early in the morning at 7:13 a.m.,MUTATED,0.0
+Modifier mutation,,CALLIOPE confidently declares:,MUTATED,0.0
+,,,DUMP,
+Modifier mutation,,"The biggest trouble was a scared family who couldn't get a phone line at all, and they spent a truly horrible hour not knowing.",MUTATED,8.0
+Modifier mutation,,At exactly 8:01 a.m.,MUTATED,0.0
+Modifier mutation,,HLR efficiently handles call routing.,MUTATED,0.0
+,,,DUMP,
+Modifier mutation,,"We swiftly ran into the house to quickly get Mame, but the next sudden tremor threw me high into the air and harshly bounced me as I desperately tried to get to my feet.",MUTATED,10.0
+Modifier mutation,,"We are all perfectly fine here, although Mame was extremely freaked.",MUTATED,2.0
+Modifier mutation,,The kitchen was completely filled with broken crystal.,MUTATED,2.0
+Modifier mutation,,Books and tapes are scattered all over my room.,MUTATED,3.0
+Modifier mutation,,"Not one thing in the house seems to be where it is supposed to be, yet the structure remains fine.",MUTATED,4.0
+Modifier mutation,,"While I was patiently standing on the lawn with Mame, waiting for another tremor, I noticed that all the earthworms were gradually emerging from the ground and slithering across the lawn!",MUTATED,9.0
+Modifier mutation,,Exactly at 9:31 a.m.,MUTATED,0.0
+,,,DUMP,
+Modifier mutation,,It's truly amazing how just one second can so utterly change your life.,MUTATED,4.0
+Modifier mutation,,At exactly 9:38 a.m.,MUTATED,0.0
+,,,DUMP,
+Modifier mutation,,"I guess we're all living quite tentatively here, eagerly waiting for the expected yet dreaded aftershock.",MUTATED,3.0
+Modifier mutation,,It's truly hard to accept that it's over and it only took a mere 15 seconds.,MUTATED,4.0
+Modifier mutation,,I often wonder when we'll finally be able to relax.,MUTATED,3.0
+Modifier mutation,,At exactly 9:53 a.m.,MUTATED,0.0
+Modifier mutation,,PANDA cautiously approaches the bamboo.,MUTATED,0.0
+Modifier mutation,,Flesh quickly goes to total alert for flight or fight.,MUTATED,4.0
+Modifier mutation,,Nausea seems to be a rather common symptom.,MUTATED,3.0
+Modifier mutation,,Berkeley is unusually quiet right now.,MUTATED,1.0
+Modifier mutation,,I leisurely walked along Shattuck between Delaware and Cedar at a few minutes before eight this morning.,MUTATED,4.0
+,,,DUMP,
+Modifier mutation,,I readily agreed.,MUTATED,1.0
+,,,DUMP,
+,,,DUMP,
+Modifier mutation,,"Your Oct. 6 editorial `` The Ill Homeless `` rather insightfully referred to our research, along with that of six colleagues, which was reported in the Sept. 8 issue of the Journal of the American Medical Association.",MUTATED,3.0
+Modifier mutation,,"Your comments subtly implied that we had ultimately discovered that the ""principal cause"" of homelessness is predominantly to be found in the large numbers of mentally ill and substance-abusing individuals within the homeless population.",MUTATED,5.0
+Modifier mutation,,We have categorically made no such statement.,MUTATED,2.0
+Modifier mutation,,It is clear that most mentally ill people and most alcoholics typically do not become homeless.,MUTATED,1.0
+Modifier mutation,,The causes of homelessness are not only poorly understood but also complex in any individual case.,MUTATED,0.0
+Modifier mutation,,"In quoting from our research, you repeatedly emphasized the high prevalance of mental illness and alcoholism.",MUTATED,2.0
+Modifier mutation,,You did not carefully note that the homeless people we thoroughly examined had a multitude of physical disorders in addition to their psychiatric problems and substance abuse.,MUTATED,5.0
+Modifier mutation,,"They severely suffered from malnutrition, chest diseases, cardiovascular disorders, skin problems, infectious diseases, and the aftereffects of assaults and rape.",MUTATED,1.0
+,,,DUMP,
+Modifier mutation,,"In a recent report, the Institute of Medicine pointed out that certain significant health problems may predispose a person to homelessness, others may be a direct consequence of it, and a third category comprises disorders that are notoriously difficult or impossible to treat if a person lacks sufficient shelter.",MUTATED,6.0
+Modifier mutation,,"The interactions between health and homelessness are inherently complex, defying any sweeping generalizations about 'cause' or 'effect'.",MUTATED,3.0
+Modifier mutation,,"If we look to the future, effectively preventing homelessness remains a crucial objective.",MUTATED,1.0
+Modifier mutation,,"This will demand that we further develop a much more sophisticated understanding of the dynamics of homelessness than we currently possess, an understanding that can only be fostered through careful study and research.",MUTATED,3.0
+Modifier mutation,,"The Department of Psychiatry, led by William R. Breakey M.D. and Pamela J. Fischer M.D., is part of the Johns Hopkins University School of Medicine in Baltimore.",MUTATED,0.0
+Modifier mutation,,"A comprehensive study by Tulane Prof. James Wright asserts that homelessness stems from a complex array of problems, uniformly tied to the thread of poverty.",MUTATED,1.0
+Modifier mutation,,"The study strikingly shows that nearly 40 % of the homeless population is predominantly made up of women and children and that only 25 % of the homeless occasionally exhibits some combination of drug, alcohol, and mental problems.",MUTATED,4.0
+Modifier mutation,,"According to Dr. Wright, homelessness is concurrently a critical housing issue, a substantial employment challenge, a significant demographic concern, a pressing problem of social disengagement, a major mental health challenge, a prevalent family violence issue, a problem stemming from cutbacks in social welfare, a problem arising from the erosion of the traditional nuclear family, and a problem closely tied to the recent surge in the number of individuals living beneath the poverty line.",MUTATED,2.0
+Modifier mutation,,"Leighton E. Cluff, M.D., is the President of the Robert Wood Johnson Foundation in Princeton, N.J.",MUTATED,0.0
+Modifier mutation,,"To quote the highly regarded director of a privately funded drop-in center for the homeless in New York: ""If you're homeless, you constantly fear sleeping for the possibility of being robbed or murdered.",MUTATED,5.0
+Modifier mutation,,"After your first three weeks of severe sleep deprivation, you're barely in touch with reality any more; without proper psychiatric treatment, you may well be permanently unable to fend for yourself.",MUTATED,1.0
+Modifier mutation,,"Some of the homeless, quite obviously, had pre-existing mental illness or serious addiction.",MUTATED,2.0
+Modifier mutation,,"But many others have similarly fallen through cracks in the economy into the grim, brutal world of our city streets.",MUTATED,1.0
+Modifier mutation,,"Once there, what possible ways of escape, other than drink, drugs, or insanity, are open to them?",MUTATED,0.0
+Modifier mutation,,"Maxwell R.D. Vos resides in Brooklyn, N.Y.",MUTATED,0.0
+Modifier mutation,,You summarily dismiss the view that the reduction of federal housing-assistance programs by 77% could have played a significant role in the soaring number of men and women sleeping on our city streets during the Reagan-Bush years.,MUTATED,7.0
+Modifier mutation,,"There is no clear sign that you have bothered to thoroughly consider the inverse of your logic: namely, that mental illness and substance abuse might, to some extent, be consequences rather than causes of homelessness.",MUTATED,2.0
+Modifier mutation,,Your research conveniently stopped when a valid assertion could be made.,MUTATED,4.0
+Modifier mutation,,"Robert S. Jenkins, a resident of Cambridge, Mass.",MUTATED,0.0
+Modifier mutation,,"Of the roughly 200 sponsors of the recent march in Washington advocating for the homeless, you selectively cited prominent groups such as the National Association of Home Builders and the International Union of Bricklayers and Allied Craftsmen, subtly insinuating that the march primarily garnered support from self-interested factions who inherently 'know a good investment when they see it,' suggesting that the crusade was rooted in avarice or profit-driven motives.",MUTATED,7.0
+Modifier mutation,,"But isn't the overriding desire for profit the driving force behind those who eagerly subscribe to, and heavily advertise in, your paper?",MUTATED,2.0
+Modifier mutation,,"Why did n't you specifically mention the YMCA, the YWCA, Catholic Charities USA, or a hundred other nonprofit organizations that actively participated in the march?",MUTATED,3.0
+Modifier mutation,,"As for the preliminary findings on the 203 Baltimore homeless who underwent thorough psychiatric examinations, I strongly suggest you conduct an independent survey.",MUTATED,6.0
+Modifier mutation,,"Choose carefully 203 business executives, including, perhaps, someone from your own staff, and put them out on the streets, to be completely deprived for one month of their homes, families, and income.",MUTATED,4.0
+Modifier mutation,,"I would predict that within a relatively short time, most of them would likely find Thunderbird an adequately satisfactory substitute for Chivas Regal, and that their usual phobias, anxieties, depressions, and substance abuse would increase quite dramatically.",MUTATED,3.0
+Modifier mutation,,"Ruth K. Nelson resides in Cullowhee, northern N.C.",MUTATED,0.0
+Modifier mutation,,"Feeding Frenzy (Henry Holt, 326 pages, $19.95), an reassuringly detailed account of the Wedtech scandal, begins on a highly positive note.",MUTATED,2.0
+Modifier mutation,,"Right up front in the preface, co-author William Sternberg candidly gives us a compelling example of his own integrity.",MUTATED,2.0
+,,,DUMP,
+Modifier mutation,,"Any question as to why an author would fervently believe this plaintive, high-minded note of assurance is necessary is thoroughly answered by carefully reading this book about sticky fingers and sweaty scammers.",MUTATED,6.0
+Modifier mutation,,"Bribe by bribe, Mr. Sternberg and his co-author, Matthew C. Harrison Jr., carefully lead us along the well-traveled path of Wedtech, from its humble beginnings as a small manufacturing company to its elevated status as a full-fledged defense contractor, entrusted with the crucial task of producing essential equipment for the Army and Navy.",MUTATED,6.0
+Modifier mutation,,"The book primarily revolves around John Mariotta, the distinguished founder of the company, and Fred Neuberger, who promptly became his partner following Wedtech's creation.",MUTATED,3.0
+Modifier mutation,,"Although it was officially started in 1965, Wedtech didn't truly get rolling until 1975, when Mr. Neuberger fortunately discovered the federal government's Section 8 A minority business program.",MUTATED,5.0
+Modifier mutation,,"This is a Johnson-era, Great Society creation that necessarily mandates certain government contracts be awarded noncompetitively to minority businesses.",MUTATED,4.0
+Modifier mutation,,"Mr. Neuberger eventually realized that, despite his Italian ancestry, Mr. Mariotta could still potentially qualify as a minority person because of his birth in Puerto Rico.",MUTATED,2.0
+Modifier mutation,,The two partners had merely to falsify the true ownership of the corporation.,MUTATED,4.0
+Modifier mutation,,"Instead of the expected 50/50 split, it became, on paper only, two-thirds Mariotta and one-third Neuberger, and they eagerly launched the program and were off to the races.",MUTATED,1.0
+Modifier mutation,,"Besides being a `` minority-owned company ``, Wedtech was also strategically located in the South Bronx, a severely blighted area, which was made famous by Jimmy Carter during his 1976 presidential campaign.",MUTATED,3.0
+Modifier mutation,,The company cleverly plugged itself into Carter's campaign rhetoric about rebuilding the South Bronx and consistently kept using the minority -- South Bronx angle throughout the Reagan '80s.,MUTATED,4.0
+Modifier mutation,,"Starting impressively with Congressman Mario Biaggi now serving a jail sentence, the company embarked on a career of bribing federal, state and local public officials and those closely associated with them, right up to and including E. Robert Wallach, a close friend and trusted adviser to former Attorney General Ed Meese.",MUTATED,8.0
+Modifier mutation,,Wedtech did n't merely use old fashioned bribery.,MUTATED,1.0
+Modifier mutation,,"It made ample use of the modern techniques of influence peddling, cleverly retaining politically connected `` respectable `` law firms, investment bankers, and political consultants, including Reagan confidant Lyn Nofzinger.",MUTATED,4.0
+,,,DUMP,
+Modifier mutation,,Sometimes the bribed even became key partners in the company.,MUTATED,2.0
+Modifier mutation,,Wedtech management effectively used the merit system.,MUTATED,3.0
+Modifier mutation,,"If you were particularly instrumental in a corrupt scheme, you received not just cash in a bag, but substantial equity.",MUTATED,2.0
+Modifier mutation,,"If you were not a particularly effective crook, you found yourself completely out in the cold, a fate that eventually befell Mr. Mariotta, the firm's seemingly semiliterate 'minority' person.",MUTATED,4.0
+Modifier mutation,,"But despite the sensational nature of the revelations and the breezy, easy-to-read tabloid style, ""Feeding Frenzy"" frequently falls short of being grippingly engaging reading material.",MUTATED,0.0
+Modifier mutation,,None of the scams show any significant ingenuity: Auditors discovered crookery on their first day on the job.,MUTATED,2.0
+Modifier mutation,,Wedtech's scammers merely bribed them to keep quiet.,MUTATED,1.0
+Modifier mutation,,"The scammers themselves were garden-variety low lifes, conspicuously wanting big houses, luxurious Mercedes cars, stunningly beautiful women, and pricey clothes.",MUTATED,2.0
+Modifier mutation,,"Among the lot of them, not one is actively wrestling with concepts of good and evil, or especially intelligent or even temporarily insane.",MUTATED,1.0
+Modifier mutation,,"The one character at least somewhat interesting was Irving Louis Lobsenz, a pediatrician who rather dramatically changed his name to Rusty Kent London and became a renowned master gambler and author of a book on blackjack.",MUTATED,4.0
+Modifier mutation,,"He enters the story rather abruptly toward the end, just in time to get arrested.",MUTATED,3.0
+Modifier mutation,,"Absorbed in eagerly doling out `` Feeding Frenzy 's `` tidbits, the authors superficially gloss over the root causes of Wedtech, namely the controversial Section 8 A federal program under whose auspices the scandal unfolded.",MUTATED,4.0
+,,,DUMP,
+Modifier mutation,,"Programs like Section 8 A are somewhat akin to leaving piles of gold in the street, merely expressing surprise as thieves casually walk by to scoop it up.",MUTATED,6.0
+Modifier mutation,,"Numerous other scandals, including those at HUD, similarly share characteristics with Wedtech.",MUTATED,1.0
+Modifier mutation,,They frequently take place in government programs that seem tailor-made for corruption.,MUTATED,2.0
+Modifier mutation,,Why are programs like this never eliminated?,MUTATED,2.0
+Modifier mutation,,`` Feeding Frenzy `` actually provides a few clues.,MUTATED,2.0
+Modifier mutation,,"In and around all levels of government in the U.S., numerous groups of people can most accurately be described as belonging to a powerful political insider commercial party.",MUTATED,3.0
+Modifier mutation,,"They keenly know that whenever the government is actively redistributing wealth, strictly regulating commerce, or robustly maintaining a large defense establishment, there is substantial money to be made in influencing, brokering, or selling the processes and decisions of the government.",MUTATED,12.0
+Modifier mutation,,They are our prime version of the East bloc's Nomenklatura and they have absolutely no wish to ever see anything change.,MUTATED,2.0
+Modifier mutation,,How numerous government programs and policies exist solely because they line the pockets of political insiders?,MUTATED,3.0
+Modifier mutation,,This is indeed the real issue raised by the Wedtech scandal.,MUTATED,2.0
+Modifier mutation,,Mr. Stern served as both chairman and chief executive officer of the New York State Urban Development Corp. from 1983 to 85.,MUTATED,0.0
+Modifier mutation,,I had to reach way back to French 101 when the suave monsieur avec clipboard leaned leisurely over my shoulder during the coffee phase of dinner and asked if I truly wanted to ride in a montgolfiere.,MUTATED,5.0
+Modifier mutation,,"I was a last-minute, reluctant attendee at a French journalism convention, and so far, the festivities had been almost entirely consumed by eating, drinking, smoking, sleeping, and more drinking.",MUTATED,0.0
+Modifier mutation,,The man with the clipboard rather halfheartedly represented an attempt to introduce a bit of les sportif into our itinerary.,MUTATED,5.0
+Modifier mutation,,"But as the French casually embody a Zen-like state of blase towards athletics, try finding a Nautilus machine in Paris, my fellow conventioners were simply having none of it.",MUTATED,5.0
+Modifier mutation,,"The diners at my table merely lit more Gauloises and scoffed at the suggestion of interrupting a perfectly good Saturday morning to go golfing, or even adventurous montgolfing ballooning as you suggest; the brothers Montgolfier, French of course, were the world's pioneering hot-air balloonists.",MUTATED,5.0
+Modifier mutation,,"Back in the U.S.A., this sort of chic airborne activity wins heartwarmingly covetous responses from onlookers.",MUTATED,2.0
+Modifier mutation,,You actually went ballooning?!,MUTATED,1.0
+Modifier mutation,,"Certainly, in France!",MUTATED,0.0
+Modifier mutation,,"Americans it seems have quite literally followed Malcolm Forbes' hot-air lead and enthusiasm, taking to ballooning in a particularly heady fashion.",MUTATED,3.0
+Modifier mutation,,"During the past 25 years, the number of balloonists who have successfully passed the Federal Aviation Authority's lighter-than-air test has dramatically swelled from a couple hundred to several thousand, with some estimates running alarmingly as high as 10,000.",MUTATED,6.0
+Modifier mutation,,"Some 30 impressive balloon shows are held annually in the U.S., including the world's largest gathering of ersatz Phineas Foggs -- the nine-day Albuquerque International Balloon Fiesta that predictably attracts some 800,000 enthusiasts and over 500 balloons, some of which are cleverly shaped to resemble Carmen Miranda, Garfield, or a towering 12-story-high condom.",MUTATED,6.0
+Modifier mutation,,The condom balloon was categorically denied official entry status this year.,MUTATED,3.0
+Modifier mutation,,"But in Epinal, a quaint 16th-century river town adjacent to France's majestic Vosges mountain region, none of these Yankee-come-lately enthusiasms for things aloft were remotely evident.",MUTATED,0.0
+,,,DUMP,
+Modifier mutation,,"Feeling the persistent naggings of a culture imperative, I promptly signed up.",MUTATED,1.0
+Modifier mutation,,"The first thing anybody will eagerly tell you about ballooning is that it requires considerable zip in the way of athletic prowess, or even a measure of derring-do.",MUTATED,4.0
+Modifier mutation,,So long as you simply don't look down.,MUTATED,1.0
+Modifier mutation,,"They will also confidently tell you that even if you hate heights, you can still successfully balloon.",MUTATED,3.0
+Modifier mutation,,I still insist on not looking down.,MUTATED,1.0
+Modifier mutation,,Certainly not while you are ascending.,MUTATED,1.0
+Modifier mutation,,What they wo n't tell you is not to foolishly go aloft in anything you do n't want to get soaked.,MUTATED,4.0
+Modifier mutation,,I'm not merely referring to the traditional champagne drenching during the back-on-terra-firma toast.,MUTATED,1.0
+Modifier mutation,,I'm merely talking about landing in a nearby canal.,MUTATED,1.0
+,,,DUMP,
+,,,DUMP,
+Modifier mutation,,"To wit, my maiden voyage and novitiates, referred to as virgins, began at dawn on a tranquil dew-sodden fairway and ended at noon in a lush soggy field.",MUTATED,3.0
+Modifier mutation,,"Balloon flights typically almost always occur at dawn or dusk, when the winds are particularly light.",MUTATED,2.0
+Modifier mutation,,"In between came numerous individuals drinking coffee leisurely while watching the balloons slowly inflate, and there was ample time spent standing around, meticulously deciding who would fly in which balloon and in what precise order the baskets would hold, at most, four passengers.",MUTATED,9.0
+Modifier mutation,,"When it wasn't yet my turn in the balloon, I intently followed its progress from the chase car, listening to the driver excitedly holler into a walkie-talkie.",MUTATED,4.0
+Modifier mutation,,"After long stretches of this attendant ground activity, there arrived approximately 20 delightful minutes of gently drifting above the Vosges, leisurely watching the silver mists slowly rise off the river as the French cows casually amble about the fields.",MUTATED,6.0
+Modifier mutation,,"It's truly hard not to feel that God's in his heaven with such a breathtaking bird's-eye view of the world, even though your pilote in a silly plaid beret kept emphasizing how 'belle' it all appeared.",MUTATED,2.0
+Modifier mutation,,"Eventually, the small French farmers and their petite French spouses cautiously emerged from their quaint stone houses, gently placing their hands above their minuscule eyes as they squinted at us.",MUTATED,2.0
+,,,DUMP,
+,,,DUMP,
+Modifier mutation,,"See, the primary rule of thumb about ballooning is that you simply can't steer.",MUTATED,2.0
+,,,DUMP,
+Modifier mutation,,"You can go up or down rather smoothly by heating the balloon's air with a propane burner, which does, indeed, make the top of your head feel hot as you ride the air currents.",MUTATED,9.0
+Modifier mutation,,Which necessarily makes the chase car essential.,MUTATED,2.0
+Modifier mutation,,"Most balloonists rarely go higher than 2,000 feet and typically average a leisurely 5-10 miles an hour.",MUTATED,3.0
+Modifier mutation,,"When the balloon is smoothly cruising along at a steady altitude, there is almost no sense of motion.",MUTATED,2.0
+Modifier mutation,,"Only when one is ascending -- or in our case, descending rather too quickly -- does one truly feel, well, as if airborne in a picnic basket.",MUTATED,2.0
+Modifier mutation,,"`` What's he doing here? `` hissed my companion, the sole other English-speaking member of the convention, whose knuckles appeared quite white.",MUTATED,3.0
+Modifier mutation,,"Cautiously, our pilot yelled, 'Attention!' as our basket plunged into the canal.",MUTATED,4.0
+,,,DUMP,
+Modifier mutation,,"Our pilot merely laughed, fired up the burner, and with a sudden blast of flame lifted us, oh, a good 12-inches above the water level.",MUTATED,4.0
+Modifier mutation,,We scuttled quickly along for a few feet before he plunged us abruptly into the drink again.,MUTATED,2.0
+Modifier mutation,,"Eventually, we came to a comfortable rest in a soggy patch of field where we had the exquisite pleasure of leisurely scrambling out of the basket into the mud while the French half of our ballooning tag team frantically scrambled in.",MUTATED,6.0
+,,,DUMP,
+Modifier mutation,,Barely a half-hour had passed in the air.,MUTATED,0.0
+Modifier mutation,,"Back in the chase car, we drove cautiously around some more, got stubbornly stuck in a ditch, enlisted the helpful aid of a local farmer to extricate the trailer hitch and pull us smoothly out of the ditch.",MUTATED,7.0
+Modifier mutation,,"We finally rendezvoused with our balloon, which had gently come to rest on a dirt road amid a clutch of Epinalers who watched us meticulously disassemble our craft -- another half-an-hour of monotonous non-flight activity -- that included the precision routine of yanking the balloon to the ground, punching all the air out of it, rolling it up, and carefully cramming it and the basket into the trailer.",MUTATED,16.0
+Modifier mutation,,It was the most intense exercise we 'd had all morning and it was promptly followed by our subsequent driving to the nearest watering hole.,MUTATED,4.0
+Modifier mutation,,"This consequently meant returning to the golf course, where we watched a few French duffers brutally maul the first tee while we sat comfortably under Cinzano umbrellas, me leisurely nursing an espresso and my ego.",MUTATED,8.0
+Modifier mutation,,A whole morning of ballooning and I had barely been off the ground for 30 minutes.,MUTATED,0.0
+Modifier mutation,,"Still, I figured that the event's envy-quotient in the U.S.A. was almost peerlessly high.",MUTATED,1.0
+Modifier mutation,,"As for the ride back to camp, our experienced pilot and all the other French-speaking passengers quickly clambered into the chase car.",MUTATED,1.0
+Modifier mutation,,My American companion and I were cheerfully left to ride alfresco in the wicker basket.,MUTATED,2.0
+Modifier mutation,,"As we swiftly streaked by a blase gendarme, I couldn't resist rearing up on my soggy loafers and mockingly saluting.",MUTATED,4.0
+Modifier mutation,,Ms. de Vries is a highly skilled free-lance writer.,MUTATED,0.0
+Modifier mutation,,U.N. group carefully drafts comprehensive plan to reduce emissions,MUTATED,3.0
+Modifier mutation,,"The U.N.-sponsored climate conference -- characterized so far by unruly posturing and mutual recriminations -- regained significant focus on Friday with the release of a comprehensive document detailing ambitious greenhouse-gas reductions for the following 40 years, with industrialized nations bearing the brunt of the burden in the short term.",MUTATED,12.0
+Modifier mutation,,"The text, which could potentially provide the basis for a final political deal to regulate greenhouse gases, thoroughly highlighted the remaining obstacles while also illuminating a path forward.",MUTATED,5.0
+Modifier mutation,,"But it was widely seen as a crucial advance in a negotiation rapidly running out of time, with more than 100 world leaders scheduled to arrive in Copenhagen next week.",MUTATED,7.0
+Modifier mutation,,"Forged by a U.N. ad-hoc working group, the text remains curiously silent about the specific amount of money rich countries might allocate to poor ones for dealing with global warming in both the short and long term.",MUTATED,5.0
+Modifier mutation,,"And it comprehensively provides a range of options for the key questions, including how developed and major emerging economies could potentially cut their carbon output, and what exactly would constitute the upper limit of global temperature rise that policymakers might be willing to tolerate.",MUTATED,5.0
+Modifier mutation,,"It gives considerable flexibility to the process, noted John Coequyt, the senior representative from Washington for the Sierra Club.",MUTATED,4.0
+Modifier mutation,,"Michael Zammit Cutajar, who meticulously drafted the six-page document, succinctly boiled down a 180-page negotiation text to concentrate on what the U.N.'s leading climate official, Yvo de Boer, termed as 'the big picture.'",MUTATED,6.0
+Modifier mutation,,"It clearly outlines a potential deal, in which industrial nations would collectively aim to cut their emissions by 2020 by 25 to 45 percent from 1990 levels, whereas major developing countries would strive to reduce theirs by 15 to 30 percent over the same period.",MUTATED,6.0
+Modifier mutation,,"Together, the countries could potentially cut emissions between 50 and 95 percent by 2050.",MUTATED,3.0
+Modifier mutation,,"The European Union also significantly boosted the talks on Friday by pledging to allocate $3.6 billion annually over the next three years to assist poorer countries in adapting to the wide-ranging impacts of climate change, ranging from flood and drought management to the prevention of deforestation.",MUTATED,9.0
+Modifier mutation,,"Still, Friday uniquely featured the same sort of verbal fireworks that have dominated the talks throughout the past week.",MUTATED,4.0
+Modifier mutation,,"U.S. special climate envoy Todd Stern firmly rejected language that would necessitate binding cuts in greenhouse-gas emissions for industrialized countries, as opposed to the voluntary ones by major emerging economies, unless funded by the developed world.",MUTATED,7.0
+Modifier mutation,,The move clearly signaled that the Obama administration is taking a significantly harder line with China than Bush administration officials did just two years ago.,MUTATED,4.0
+Modifier mutation,,"The United States is reportedly not going to do a deal unless the major developing countries promptly step up and take decisive action, said Stern, who also complained that the text inadequately ensured the cuts could be verified by outside observers.",MUTATED,5.0
+Modifier mutation,,"Stern made his comments an hour later after Chinese vice foreign minister He Yafei said America's top climate negotiator was either clearly lacking ""common sense"" or acting ""extremely irresponsibly"" when he stated earlier in the week that the United States would not provide financial assistance to China in dealing with global warming.",MUTATED,7.0
+Modifier mutation,,"With the future economic trajectory of the world's major powers critically at stake, fault lines have erupted both within the developing world and between the industrial world and emerging economies.",MUTATED,2.0
+Modifier mutation,,"The ongoing battle is as much about salvaging individual economies as preserving the planet, as China and the United States argue over their respective obligations while poorer nations firmly assert that the world's two dozen most influential countries are willfully ignoring the urgent scientific imperative for more aggressive action.",MUTATED,10.0
+,,,DUMP,
+,,,DUMP,
+Modifier mutation,,"Some of the countries most acutely vulnerable to the impact of climate change have indicated they would persistently push for a legally binding treaty in Copenhagen, although most of the major participants predict the talks will yield only a political deal at best.",MUTATED,7.0
+Modifier mutation,,"The Alliance of Small Island States, which boasts 43 members, diligently produced a 24-page draft treaty proposal early Friday morning.",MUTATED,6.0
+Modifier mutation,,"Artur Runge-Metzger, who leads international climate negotiations on behalf of the European Commission, notably stated that the determined push by small island nations has significantly `` put political pressure on the entire negotiation process, `` partly because they are now solidarity-driven and insistently demanding action from emerging economies like China and India.",MUTATED,9.0
+Modifier mutation,,The talks increasingly took on new urgency as delegates concentrated on the fact that they must resolve most of the outstanding issues promptly before the heads of government arrive to strike a deal.,MUTATED,6.0
+Modifier mutation,,"High-level officials, including the Indian environment minister Jairam Ramesh and the Chinese vice minister, hastily stepped off planes and rushed through the Bella Center's halls to closed-door meetings and news conferences, eagerly staking out claims that will be arbitrated over the next week.",MUTATED,7.0
+Modifier mutation,,"The vast expanse of the gathering -- where an estimated 13,000 people stream in and out of the convention center daily, guitar-strumming activists hold nightly performances satirizing the countries they believe are compromising, and draft proposals circulate manually on paper instead of electronically -- presents a significant challenge.",MUTATED,8.0
+Modifier mutation,,"The intensity is steadily building: nearly all of the key ministers are already here, and as early as Wednesday, over 60 heads of government will gather in Copenhagen.",MUTATED,4.0
+Modifier mutation,,"We're getting into the big leagues, claimed Carlos Manuel Rodriguez, the vice president for global policy at Conservation International, confidently.",MUTATED,1.0
+Modifier mutation,,The heavyweights are swiftly coming.,MUTATED,1.0
+Modifier mutation,,Baskonia narrowly gives away a victory in Israel,MUTATED,2.0
+Modifier mutation,,"Caja Laboral achieved a stunning 82-91 victory rather handedly on their visit to the Maccabee Electra court despite Dusko Ivanovic's team's heavy losses, and following the exceptional performance by Mizra Teltovic, who was the top scorer on his team with eight three-pointers (29 points), they now sit comfortably at the top of their group.",MUTATED,8.0
+Modifier mutation,,"The Vitorian team crucially made up for the significant absences of Herrmann, Oleson, Huertas, and Micov with a big dose of involvement and teamwork, knowing full well it had to persevere until the end to secure the victory.",MUTATED,6.0
+Modifier mutation,,"Additionally, their immense success from the sidelines, with an impressive 16 three pointers scored, had a significant role in the ultimate triumph.",MUTATED,3.0
+Modifier mutation,,"The game started out swiftly in favor of the Azulgranas, who immediately put themselves ahead on the scoreboard.",MUTATED,4.0
+Modifier mutation,,"As Vitora's first four baskets were cleanly from the perimeter, the speculation was already that they had dynamically jumped into the Israeli net with scorching wrists.",MUTATED,4.0
+Modifier mutation,,English and Teletovic were the primary scorers in the 18-20 tally at the end of the first period.,MUTATED,2.0
+Modifier mutation,,"The second quarter was much the same, yet the Alavan team strategically favored the inside game of Barac and the relentless work of Eliyahu, who was welcomed with a chorus of whistles and enthusiastic applause upon his return home, thereby extending their lead by half-time (34-43).",MUTATED,9.0
+Modifier mutation,,"Teletovic had already begun to shine brightly as the best on his team with 13 crucial points, even though Splitter's 'six fewer' points already indicated that it wasn't going to be a memorable night for the Brazilian.",MUTATED,3.0
+,,,DUMP,
+Modifier mutation,,Eidson and Pnini played an instrumental role in the `yellows'` swift return to the light.,MUTATED,3.0
+,,,DUMP,
+Modifier mutation,,"Ivanovic's players, injured yet not defeated, needed to execute a couple of plays precisely before they could relax, and that's when the relentless Marza Teletovic stepped up, firing three nearly consecutive three-pointers with the assistance of English and Ribas, securely padding the scoreboard with a comforting lead (54-67), which the home team managed to slightly reduce by the end of the third quarter (57-67).",MUTATED,8.0
+Modifier mutation,,"The Alavas tirelessly worked themselves to the bone in the last period, and English and San Emeterio (65-75) had made it abundantly clear that they were not going to allow anyone to take away what they had fought for during the first thirty minutes.",MUTATED,2.0
+Modifier mutation,,"However, Pnini and Eidson, the team's best players, tenaciously refused to give up and attempted to sustain their team's hopes from beyond the three-point line (70-77).",MUTATED,2.0
+Modifier mutation,,"In spite of this, and with Splitter fouling out rather unexpectedly, Ivonic's team didn't rush, defended skillfully, and, even though the Israelis came dangerously close at the last minute, the game was essentially won and victory slipped away from Tel Aviv for the first time that season.",MUTATED,6.0
+Modifier mutation,,"Wall Street closed yesterday without any momentum, gradually slowed down by a steadily strengthening dollar.",MUTATED,2.0
+Modifier mutation,,"The New York Stock Exchange ended flatly on Friday, in a market deeply divided by better than expected indicators in the United States and a steadily strengthening dollar: the Dow Jones rose by a moderate 0.63% while the NASDAQ slipped by a slight 0.03%.",MUTATED,5.0
+Modifier mutation,,"According to the latest closing figures, the Dow Jones Industrial Average has moderately risen by 65.67 points to 10,471.50 points, whereas the NASDAQ, with its technology predominance, slightly fell by 0.55 point to 2,190.31 points.",MUTATED,6.0
+Modifier mutation,,"The wider Standard & Poor's 500 index has modestly advanced by 0.37% (4.06 points) to 1,106.41 points.",MUTATED,1.0
+Modifier mutation,,"Frankly, the market remains exceptionally calm, observes Mace Blicksilver of Marblehead Asset Management.",MUTATED,1.0
+Modifier mutation,,"It remains within a relatively narrow margin; trading volumes have become increasingly weak, and I think that this will likely remain the case until the end of the year.",MUTATED,5.0
+Modifier mutation,,"The trend was strongly supported by the timely publication of better than expected economic indicators, which `` have significantly contributed to enhancing market opinion regarding the robustness of the economic recovery `` , summarised Charles Schwab's analysts.",MUTATED,8.0
+Modifier mutation,,"In the United States, retail sales have increased by a substantial 1.3% in November, marking the second consecutive month of growth, and exceeding predictions by a wide margin.",MUTATED,3.0
+Modifier mutation,,"Moreover, the confidence of American consumers has notably bounced back in December, reaching 73.4 from the previous month's 67.4, as per the preliminary estimates from Michigan University's index.",MUTATED,6.0
+Modifier mutation,,"The indices have, however, been marginally slowed by a renewed rise in the dollar, reaching a new two-month high against the Euro, thereby `` exerting downward pressure on the sectors more sensitive to the economic situation `` , as explained by Owen Fitzpatrick from Deutsche Bank.",MUTATED,8.0
+Modifier mutation,,Technology securities have consequently lost some ground.,MUTATED,3.0
+Modifier mutation,,The bond market has sharply fallen.,MUTATED,0.0
+Modifier mutation,,"Treasury 10-year bond yields have steadily grown to 3.540 % against 3.482 % on Tuesday evening, while 30-year bond yields now stand at 4.497 %, up from 4.492 % the previous evening.",MUTATED,5.0
+Modifier mutation,,The Iraqi Oil Ministry successfully reaches deals with 10 foreign oil companies,MUTATED,1.0
+Modifier mutation,,"Despite significant concerns over violence and political instability, the Iraqi government successfully attracted major oil companies to rebuild its dilapidated infrastructure through two auctions that ended on Saturday.",MUTATED,7.0
+Modifier mutation,,"The 10 crucial deals the Iraqi Oil Ministry recently reached with foreign oil companies suggest that China, Russia, and several European oil firms are uniquely poised to play a significant role in rebuilding Iraq's oil industry, severely crippled by decades of war and sanctions.",MUTATED,10.0
+Modifier mutation,,American companies successfully walked away with stakes in just two of the 10 auctioned fields.,MUTATED,3.0
+Modifier mutation,,"Seven American companies actively paid to participate in the second auction, which commenced on Friday.",MUTATED,3.0
+Modifier mutation,,The only one who submitted a bid unfortunately lost.,MUTATED,1.0
+Modifier mutation,,Two American companies successfully reached deals for fields auctioned in June.,MUTATED,4.0
+Modifier mutation,,The surprisingly meager representation of American oil giants in Iraq's opening oil industry was noted by analysts.,MUTATED,5.0
+Modifier mutation,,"Iraq cautiously opened its doors after six long years of war, and rather than U.S. companies, Asians and Europeans are now predominantly leading the way, noted Ruba Husari, the editor of Iraq Oil Forum, an esteemed online news outlet.",MUTATED,10.0
+Modifier mutation,,It will likely be a long time before anything else is offered in Iraq.,MUTATED,2.0
+Modifier mutation,,"Concerns over security, further highlighted by massive coordinated bombings on Tuesday, and political instability amidst the U.S. military's withdrawal, likely deterred American oil companies from more aggressively pursuing ventures in Iraq, home to the world's third-largest proven crude oil reserves, as analysts have noted.",MUTATED,10.0
+Modifier mutation,,"U.S. firms were, in several cases, at a significant disadvantage because rivals, especially Chinese and other government-controlled energy firms, have notably lower labor costs and are consequently more inclined to take risks, as they do not cater to shareholders.",MUTATED,8.0
+Modifier mutation,,"Exxon-Mobil and Occidental Petroleum Inc., uniquely, were the American companies that reached deals with the ministry.",MUTATED,3.0
+Modifier mutation,,"Major U.S. firms such as Chevron and ConocoPhillips, which have cultivated unusually close ties with the Iraqi Oil Ministry and have consistently provided technical advice over the past years, ultimately walked away empty-handed.",MUTATED,5.0
+Modifier mutation,,"Russian companies, including Lukoil and Gazprom, were the primary stakeholders in two of the contracts awarded this weekend.",MUTATED,3.0
+Modifier mutation,,"State-owned China National Petroleum Corporation actively bid on more contracts than any other company, securing substantial stakes in contracts for two key fields.",MUTATED,5.0
+Modifier mutation,,"We all know that China is steadily on track to become a major economic as well as technological power, Oil Ministry spokesman Assam Jihad confidently said.",MUTATED,4.0
+Modifier mutation,,We feel reasonably confident that the Chinese company will soon be on par with its competitors and will steadfastly deliver on its commitments towards Iraq.,MUTATED,5.0
+Modifier mutation,,Companies carefully pre-selected to submit bids made competitive offers that were subsequently compared to the fixed per barrel fee the ministry was willing to pay for substantially boosting output above the current levels at each respective field.,MUTATED,9.0
+Modifier mutation,,US banks swiftly repay state support,MUTATED,3.0
+Modifier mutation,,The crisis-hit US major banks are gradually breaking free from their state shackles.,MUTATED,4.0
+Modifier mutation,,"On Wednesday, Bank of America swiftly repaid the full support from the bank protection fund TARP, amounting to USD 45 billion (nearly EUR 30 billion) in a single transaction.",MUTATED,6.0
+Modifier mutation,,"And, reportedly, according to US broadcaster CNBC, Citigroup is also planning to repay the state support.",MUTATED,4.0
+Modifier mutation,,"The institutions thereby attempt to liberally free themselves from the restrictions inherently linked to the acceptance of money, including the limits on manager bonuses and the payment of exorbitant charges.",MUTATED,8.0
+Modifier mutation,,Bank of America had successfully raised approximately USD 19 billion from investors through convertible loans.,MUTATED,2.0
+Modifier mutation,,"The rest of the amount was quietly taken from its own well-filled kitty, which was supplemented through the sale of business units.",MUTATED,6.0
+Modifier mutation,,Bank head Kenneth Lewis sincerely extended his express thanks to the American taxpayer on Wednesday evening: The timely cash injection helped us navigate over a very difficult time.,MUTATED,1.0
+Modifier mutation,,The bank excessively overstretched at the height of the financial crisis when taking over investment bank Merrill Lynch.,MUTATED,4.0
+Modifier mutation,,"Citigroup also strategically plans to raise additional cash on the capital market, thereby aiming to free itself from its extensive liabilities with the state.",MUTATED,3.0
+Modifier mutation,,"Already on Thursday, the US bank confidently announced a capital increase of approximately USD 20 billion, as reported by CNBC with reference to certain circles.",MUTATED,7.0
+Modifier mutation,,A Citigroup spokesman categorically declined to comment.,MUTATED,1.0
+,,,DUMP,
+Modifier mutation,,Cheshire Will Likely Point to Twitter Appeal,MUTATED,1.0
+Modifier mutation,,There were nearly half a dozen of them diligently typing away in the courtroom rows.,MUTATED,1.0
+Modifier mutation,,"Minute by minute, they meticulously sent out reports of gruesome testimony via Twitter.",MUTATED,2.0
+Modifier mutation,,"Ultimately, the defense claims, there were over 140,000 Twitter messages concerning the trial, which addressed the heinous rape of children tied to their beds within a house that had been set ablaze.",MUTATED,7.0
+Modifier mutation,,"On Thursday, the emotionally charged trial of Steven J. Hayes, who was convicted of killing three members of a Cheshire, Conn. family, is expected to reach its official conclusion with the judge's formal imposition of the death sentence, as recommended by the jury.",MUTATED,7.0
+Modifier mutation,,But lawyers for Mr. Hayes have already made extensive court filings that meticulously outline appeals arguments likely to engage the courts for years.,MUTATED,6.0
+,,,DUMP,
+Modifier mutation,,The claim could potentially force appeals judges to grapple with the question of whether new technology necessitates new courtroom rules.,MUTATED,6.0
+,,,DUMP,
+,,,DUMP,
+Modifier mutation,,But that is highly unlikely to be the last word on the issue.,MUTATED,1.0
+Modifier mutation,,"For decades, appeals courts have consistently recognized that extensive coverage of notorious cases can significantly raise questions about a trial's fairness.",MUTATED,6.0
+Modifier mutation,,"In a landmark and controversial 1966 ruling, the United States Supreme Court overturned the conviction of a Cleveland-based osteopath, Dr. Sam Sheppard, for the murder of his wife, explicitly stating in its decision, Sheppard v. Maxwell, that there was a 'carnival-like atmosphere at trial' because of the news media.",MUTATED,7.0
+,,,DUMP,
+Modifier mutation,,"Some lawyers have suggested that appeals courts, when reviewing Mr. Hayes' conviction half a century later, might find the argument intriguing that new rules could be essential for governing ways of communicating that were unimaginable in courtrooms during Dr. Sheppard's case.",MUTATED,8.0
+Modifier mutation,,"There is a general reason for significant concern about the impact of new media in high-profile trials, said John J. Donohue III, a Stanford Law School professor who extensively studied the Connecticut death penalty and wrote a comprehensive report that claimed it was arbitrarily enforced.",MUTATED,7.0
+Modifier mutation,,Professor Donohue suggested that some appeals judges could be particularly intrigued by the notion that restricting instant communication in courtrooms might significantly enhance the fairness of trials.,MUTATED,6.0
+Modifier mutation,,"The Twitter issue is merely one of numerous cases outlined by Mr. Hayes' lawyers that are likely to be hotly debated for years, thereby delaying an execution.",MUTATED,4.0
+Modifier mutation,,"The defense lawyers also claim, for example, that Mr. Hayes might have potentially been prejudiced when Judge Blue refused to permit them to test potential jurors' reactions through the display of gruesome crime-scene photographs during the jury selection process.",MUTATED,5.0
+Modifier mutation,,"Some of the jurors have reportedly said they were deeply horrified by the photographs of the victims, Jennifer Hawke-Petit, 48, and her daughters, Hayley, 17, and Michaela, 11.",MUTATED,4.0
+Modifier mutation,,"The defense lawyers claim they will further challenge the constitutionality of the death penalty,asserting that the judge incorrectly removed a critical juror of the prosecutors and that he inappropriately increased pressure for a verdict by his extraordinary decision to instruct the jury to deliberate throughout the weekend.",MUTATED,8.0
+Modifier mutation,,The jurors were reportedly not sequestered.,MUTATED,1.0
+Modifier mutation,,But their arguments about the profound effect of the intense media coverage of the trial may draw the most significant interest.,MUTATED,5.0
+Modifier mutation,,"They noted, in a significant challenge to the verdict filed last month, that the case had dominated the news in Connecticut and was extensively discussed during the election campaign by candidates for governor and the United States Senate.",MUTATED,9.0
+Modifier mutation,,They repeatedly argued that the news media continually fanned the flames of emotion about the case.,MUTATED,2.0
+Modifier mutation,,"The lawyers wrote that the daily crush of media tweets, cameras, and reporters outside the courthouse was unusually intense, unlike anything previously seen in New Haven or perhaps even statewide.",MUTATED,5.0
+Modifier mutation,,Their extensive focus on the Twitter coverage is quite controversial.,MUTATED,2.0
+Modifier mutation,,"In interviews, some journalists claimed that the instantaneous nature of news made it more incendiary than reports delivered more slowly, expressing a Luddite view that could lead to poor court policy in governing the coverage of future trials.",MUTATED,9.0
+Modifier mutation,,But some lawyers claimed that appeals courts were frequently swayed by arguments emphasizing that social and technological changes necessitated adaptation by the courts.,MUTATED,5.0
+Modifier mutation,,Mr. Hayes' lawyers are actively pressing that claim.,MUTATED,2.0
+Modifier mutation,,"In their meticulous filing, they explicitly referred to the landmark 1966 Supreme Court decision overturning Dr. Sheppard's conviction due to the extensive trial coverage, making it abundantly clear that they would argue for new rules in light of the evolving new media.",MUTATED,6.0
+,,,DUMP,
+,,,DUMP,
+Modifier mutation,,Tricks such as those cleverly executed by Alonso and Ramos before the Ajax demonstrate wittiness but not the genuine will to remove a sanction.,MUTATED,3.0
+Modifier mutation,,"The presumably deliberate expulsion by two Real Madrid players (Xabi Alonso and Sergio Ramos) in their game against Ajax on the 23rd of November in the European Champions League has sparked extensive debate, with rivers of ink being spilled over whether such behavior is truly unsportsmanlike and if both players deserve UEFA sanctions.",MUTATED,5.0
+Modifier mutation,,"As we all know, just a few minutes before the end of the game (which their team had already secured), both players intentionally wasted time, prompting the referee to issue a second yellow card to each of them.",MUTATED,7.0
+Modifier mutation,,"This way, and since Real Madrid is likely to emerge as the leader of its group, both players will presumably fulfil the prescribed sanction in the subsequent league game against Auxerre, thus being able to avoid the cards in the following phase.",MUTATED,9.0
+Modifier mutation,,"Finally, the committee of discipline of the UEFA has strictly sanctioned the trainer of the team, Jose Mourinho, with a two-game ban and various economic amounts for the implicated players.",MUTATED,6.0
+Modifier mutation,,"The provocation of a yellow card in circumstances similar to this one is not an uncommon practice, but rather a frequent occurrence in the world of football.",MUTATED,6.0
+Modifier mutation,,"It is so thoroughly extended that it becomes an integral part of the ethos, of the unwritten rules, yet is strictly followed by this sport.",MUTATED,3.0
+Modifier mutation,,"Part of the intense debate arising in the related case is due to the fact that the team of the Real Madrid organization, which boasts of nobility and honor in its hymn, has penalized its players for similar acts, and to the dramatization seemingly orchestrated by Mourinho, who adds another chapter to his extensive history as a histrionic and provocative technician.",MUTATED,13.0
+Modifier mutation,,"Anyway, the ongoing debate concerns whether that type of behavior, not explicitly prohibited by the regulation, fundamentally contradicts the principles of the sport; in other words, if these actions potentially constitute fraud. Then, indeed, they appear to comply with the sport's regulation, yet they seem to evade its spirit.",MUTATED,8.0
+,,,DUMP,
+Modifier mutation,,"One of the key advantages that embody the sporting spirit is the maintained physical integrity of the opposing players, an aspect that wasn't remotely endangered by their actions, meaning there was no trace of a violent game.",MUTATED,7.0
+Modifier mutation,,"Another significant advantage alluded to with fare-play is to ensure that the team of lawbreaker players does not unfairly take advantage of the opposing team, which fortunately did not occur.",MUTATED,4.0
+Modifier mutation,,"However, the paradoxical thing about the players of Real Madrid's action is that it did not conform to what we typically deem as mere legal manipulation; the violation of the rules was not committed discreetly in an attempt to evade sanctions, but rather their action was flagrantly obvious, resulting in punishment from the referee.",MUTATED,8.0
+Modifier mutation,,They patiently waited for and accepted the sanction without any complaints.,MUTATED,2.0
+Modifier mutation,,Another significant question is what type of advantage the violators actually obtained in the actions deliberately carried out.,MUTATED,5.0
+Modifier mutation,,"Here it is crucial to note that it isn't necessarily a disadvantageous situation for the rival nor a guaranteed benefit in the same game, since ostensibly the result of the action implies leaving their own team with fewer players.",MUTATED,7.0
+Modifier mutation,,"And it is certainly not a useful strategy for the upcoming game, because the club will barely be able to count on those players.",MUTATED,4.0
+Modifier mutation,,The obvious advantage lies in the fact that the players will start the subsequent phase of the Championship without any cards that might jeopardize their participation in a future game.,MUTATED,8.0
+Modifier mutation,,"But it is about a potentially long-term advantage, with a certain degree of indetermination, because the team might be eliminated first in a change, and in addition, with this action, the players reluctantly fulfill a sanction game, advancing to the second cycle of cards, where the suspension due to card accumulation occurs less frequently than in the first cycle.",MUTATED,14.0
+Modifier mutation,,"So that, by passing each round smoothly, it becomes increasingly clear that it is a significant advantage.",MUTATED,2.0
+Modifier mutation,,"Those actions are fundamentally against the sporting spirit, which is an integral part of the strategic decisions that actively favor the advantages permitted by the rules.",MUTATED,6.0
+Modifier mutation,,"Regarding this assumption, the players did not hastily act in order to avoid the application of the sanction (this would have been a clear case of legal fraud), but rather strategically chose when to obey it.",MUTATED,5.0
+,,,DUMP,
+Modifier mutation,,"Although the border between the wittiness and the law fraud is somewhat diffuse, on this particular occasion, I believe it was an undoubtedly clear case of wittiness.",MUTATED,6.0
+Modifier mutation,,"The controversy seems primarily to arise from two key factors: due to its relation to two auto expulsions and the manner in which the transmission of the directive was executed, leading to them.",MUTATED,5.0
+Modifier mutation,,The damage caused to the fundamental principles of the sport by these actions is not so much ethical as it is aesthetic.,MUTATED,4.0
+Modifier mutation,,"Highly adaptable arsenic-tolerant microbe raises the possibility of discovering new types of life on Earth, or elsewhere.",MUTATED,3.0
+Modifier mutation,,The recent discovery of a strange bacteria that can use arsenic as one of its nutrients significantly widens the scope for finding new forms of life on Earth and potentially beyond.,MUTATED,5.0
+Modifier mutation,,"While researchers recently discovered the unusual bacteria here on Earth, they claim it suggests that life could have possibilities extending beyond the traditionally considered essential elements.",MUTATED,6.0
+Modifier mutation,,This organism inherently has dual capability.,MUTATED,2.0
+Modifier mutation,,It can reportedly grow with either phosphorus or arsenic.,MUTATED,2.0
+Modifier mutation,,"That makes it quite peculiar, though it still falls short of being any form of genuinely 'alien' life, commented Paul C. W. Davies of Arizona State University, a key co-author of the report featured in Thursday's online edition of the esteemed journal Science.",MUTATED,6.0
+Modifier mutation,,"Six primary elements have traditionally been regarded as crucial for life - carbon, hydrogen, nitrogen, oxygen, phosphorus, and sulfur.",MUTATED,8.0
+Modifier mutation,,"But the researchers astonishingly found that the bacteria, discovered in Mono Lake, Calif., is able to continue growing robustly after substituting arsenic for phosphorus.",MUTATED,5.0
+Modifier mutation,,"It makes you truly wonder what else might be possible, said Ariel D. Anbar of Arizona State University, a key co-author of the report.",MUTATED,1.0
+Modifier mutation,,"The crucial find is essential in the meticulous search for life beyond Earth because researchers desperately need to be able to recognize life, to comprehend its appearance, Anbar said.",MUTATED,5.0
+Modifier mutation,,The study primarily focuses on a microbe uniquely found on Earth.,MUTATED,3.0
+Modifier mutation,,"However, the surprise announcement of a news conference to discuss it, which did not disclose any details of the find, sparked widespread speculation across the Internet that the upcoming report might reveal the discovery of extraterrestrial life.",MUTATED,7.0
+Modifier mutation,,It certainly did not.,MUTATED,0.0
+Modifier mutation,,"The discovery clearly shows that in other planetary environments, organisms might potentially be able to use alternative elements to drive biochemistry, suggesting that the 'standard' set of elements we believe are crucial for life may not be as immutable, commented Charles Cockell, a professor at the Planetary and Space Sciences Research Institute, Open University, in Milton Keynes, United Kingdom.",MUTATED,10.0
+Modifier mutation,,Cockell was never actually part of the research team.,MUTATED,3.0
+Modifier mutation,,"This groundbreaking work is novel since it clearly demonstrates the substitution of one element for another in fundamental biochemistry and the structure of biochemistry, added Cockell.",MUTATED,5.0
+Modifier mutation,,It was indeed not a chance discovery.,MUTATED,1.0
+Modifier mutation,,"Felisa Wolfe-Simon of NASA's Astrobiology Institute, leading the study, specifically targeted Mono Lake due to its exceptionally high arsenic levels.",MUTATED,5.0
+Modifier mutation,,"Arsenic and phosphorus are chemically quite similar, so she speculated that a microbe exposed to both could potentially substitute one for the other.",MUTATED,3.0
+Modifier mutation,,"Arsenic is highly toxic primarily due to its chemical behavior, which closely resembles that of phosphorus.",MUTATED,4.0
+,,,DUMP,
+Modifier mutation,,"But arsenic, being quite different, doesn't work as effectively as phosphorus, thus it gets in there and sort of clogs up the smooth operation of our biochemical machinery, explained Anbar.",MUTATED,2.0
+Modifier mutation,,"The researchers meticulously collected the bacteria known as GFAJ-1 and exposed it to gradually increasing concentrations of arsenic, which it surprisingly adapted to and grew in.",MUTATED,4.0
+Modifier mutation,,"The microbe does indeed grow better on phosphorus, but demonstrating that it can potentially live with arsenic instead raises the possibility that a life form utilizing arsenic might occur naturally, either elsewhere on Earth or on another planet or moon where arsenic is more prevalent.",MUTATED,6.0
+Modifier mutation,,"Jamie S. Foster, a prominent assistant professor of microbiology at the University of Florida, claimed that the notion of replacing phosphorus with arsenic is not novel, although no definitive example has ever clearly demonstrated its effectiveness.",MUTATED,4.0
+Modifier mutation,,"Arsenic was particularly common in the early times on Earth, she said, thus leading researchers to speculate that early life forms might have utilized it.",MUTATED,4.0
+Modifier mutation,,"It does strongly suggest that there could be numerous other ways to form life, not just how life formed on early Earth, said Foster, who was not a member of Wolfe-Simon's research team.",MUTATED,5.0
+Modifier mutation,,"The research was generously supported by NASA, the Department of Energy, and the National Institutes of Health.",MUTATED,2.0
+Modifier mutation,,The routine is democratic,MUTATED,1.0
+Modifier mutation,,"Support for democracy in Latin America continues to gradually edge up, as does consistent backing for private enterprise.",MUTATED,2.0
+Modifier mutation,,Crime has increasingly become a bigger worry than unemployment.,MUTATED,3.0
+,,,DUMP,
+Modifier mutation,,Those are some of the significant findings of the latest Latinobarómetro poll conducted in 18 countries and published exclusively by The Economist.,MUTATED,3.0
+Modifier mutation,,"Because the poll has been taken regularly since 1995, it consistently tracks gradual changes in attitude across the region.",MUTATED,4.0
+Modifier mutation,,"Two strikingly related things stand out in the results of this year's poll, taken in September and early October.",MUTATED,5.0
+Modifier mutation,,The first is Latin America's unusually sunny mood.,MUTATED,1.0
+Modifier mutation,,The second involves a substantial increase in the stability of attitudes towards democracy and its core institutions.,MUTATED,4.0
+Modifier mutation,,Support for democracy has notably risen in several countries on the South American Pacific rim (see table 1).,MUTATED,3.0
+Modifier mutation,,"For example, in Peru, where economic growth has consistently averaged a robust 6% per year since 2002, support for democracy has dramatically increased from a low of 40% in 2005 to 61% this year.",MUTATED,6.0
+Modifier mutation,,"It also significantly rose in Mexico, where the economy has gradually recovered after suffering a big drop in output last year.",MUTATED,5.0
+Modifier mutation,,"But only roughly half of the respondents in Mexico and Brazil, the region's two most populous countries, are strong democrats, which significantly drags down the regional average (see chart 2).",MUTATED,8.0
+Modifier mutation,,"Some 44 % of respondents across the region pronounced themselves quite satisfied with how their country's democracy works in practice, the same figure as last year but a significant increase on the 25 % in 2001 (chart 3).",MUTATED,8.0
+Modifier mutation,,"Some 34 % claimed they had considerable confidence in their country's Congress and 45 % in their government, remaining steady since last year in both instances yet rising dramatically from the figures in 2003 (17 % and 24 % respectively).",MUTATED,5.0
+Modifier mutation,,"A decade ago, severe economic woes in Latin America significantly undermined popular support for democracy.",MUTATED,4.0
+Modifier mutation,,That it has held up fairly well during the world financial crisis is probably because many Latin American countries experienced a relatively brief recession and have since undergone a robust recovery.,MUTATED,4.0
+Modifier mutation,,"Additionally, a significantly stronger social safety net has helped to effectively shield the poor.",MUTATED,0.0
+Modifier mutation,,"The United Nations' Economic Commission for Latin America reported only marginally this week that the proportion of Latin Americans living in poverty increased in 2009 and has decreased again this year, to 32%.",MUTATED,4.0
+Modifier mutation,,"But the mood, however, varies widely from one country to another (see chart 4).",MUTATED,2.0
+Modifier mutation,,"Brazil's consistently strong economic performance and the widespread popularity of its outgoing president, Luiz Inácio Lula da Silva, are widely reflected in a deep sense of progress.",MUTATED,6.0
+Modifier mutation,,"That is particularly scarce in Mexico and Central America, where the recession was especially severe and violent crime has significantly worsened.",MUTATED,3.0
+Modifier mutation,,"For the second time alone since the polls commenced, a greater number of respondents throughout Latin America collectively identify crime, as opposed to unemployment, as the single most significant problem confronting their country (see chart 5).",MUTATED,7.0
+Modifier mutation,,"Some 31 % reportedly say that either they or a close relative have been victims of crime in the past year, but that is down from 38 % the previous year and remains the lowest figure since 1995.",MUTATED,5.0
+Modifier mutation,,"A clearly more robust economic performance is reflected in rapidly rising support for private enterprise and the market economy: approximately 71% of respondents across the region assert that private enterprise is crucial for development, up from 56% in 2007 (see chart 6).",MUTATED,5.0
+Modifier mutation,,"Some 58 % firmly agree that the market economy is the only system that can truly make their country developed, up from 47 % last year.",MUTATED,3.0
+Modifier mutation,,"Interestingly, a significant 62% of respondents in Venezuela hold that view (with 80% supporting private enterprise) despite their left-wing president, Hugo Chávez, increasingly expropriating numerous private companies.",MUTATED,5.0
+Modifier mutation,,"Brazil is the country which most prominently exercises leadership in the region, mentioned by 19 % of respondents ( up from 18 % last year ) , followed by the United States ( 9 % , unchanged from last year ) and Venezuela ( 9 % , down from 11 % last year ) .",MUTATED,7.0
+Modifier mutation,,"But the United States is widely seen as the most influential country by respondents in Mexico and much of Central America, whereas Venezuela uniquely enjoys that distinction in Ecuador, the Dominican Republic, and Nicaragua.",MUTATED,7.0
+Modifier mutation,,Scalia and Thomas frequently dine with healthcare law challengers as the court reviews the case,MUTATED,4.0
+Modifier mutation,,"The day the Supreme Court discreetly assembled behind closed doors to ponder the politically charged question of whether to hear a challenge against President Obama's healthcare law, two of its justices, Antonin Scalia and Clarence Thomas, were honored at a lavish dinner hosted by the law firm set to argue the case before the esteemed court.",MUTATED,8.0
+Modifier mutation,,The occasion last Thursday saw all nine justices gather for a thorough conference to review the petitions.,MUTATED,6.0
+Modifier mutation,,"One of the key cases at issue was a significant suit brought by 26 states, boldly challenging the sweeping healthcare overhaul passed by Congress the previous year, a law that has served as a rallying cry for conservative activists across the nation.",MUTATED,10.0
+Modifier mutation,,"The justices reluctantly agreed to hear the suit; indeed, a potentially groundbreaking 5.5-hour argument is expected in March, and the outcome is likely to significantly roil the 2012 presidential race, which will be at its peak by the time the court's decision is released.",MUTATED,9.0
+Modifier mutation,,"The lawyer who is likely to stand before the court and passionately argue that the law should be thrown out is probably Paul Clement, who served as U.S. solicitor general under the George W. Bush administration.",MUTATED,3.0
+Modifier mutation,,"Clement's esteemed law firm, Bancroft PLLC, was one of nearly two dozen firms that generously helped sponsor the annual dinner of the Federalist Society, a long-standing group committed to promoting conservative legal principles.",MUTATED,2.0
+Modifier mutation,,"Another major firm that sponsored the dinner, Jones Day, represents one of the leading trade associations that challenged the law, the National Federation of Independent Business.",MUTATED,3.0
+Modifier mutation,,"Another major sponsor was pharmaceutical giant Pfizer Inc, which has an enormous financial stake riding on the outcome of the litigation.",MUTATED,4.0
+Modifier mutation,,The dinner was held hours later at a luxurious Washington hotel following the court's conference over the case.,MUTATED,7.0
+Modifier mutation,,"Also in attendance was Mitch McConnell, the Senate's leading Republican and a fierce opponent of the healthcare law.",MUTATED,3.0
+Modifier mutation,,The distinguished guests at the dinner were Scalia and Thomas.,MUTATED,2.0
+Modifier mutation,,It's a common occurrence: The two justices have consistently attended Federalist Society events for years.,MUTATED,3.0
+Modifier mutation,,And it's nothing that blatantly runs afoul of ethics rules.,MUTATED,3.0
+Modifier mutation,,"In fact, justices are categorically exempt from the Code of Conduct, which governs the actions of other lower federal justices.",MUTATED,3.0
+,,,DUMP,
+Modifier mutation,,"Nevertheless, the very close proximity of Scalia and Thomas to two of the law firms involved in the case, as well as to a company possessing a massive financial interest, was sufficiently alarming to ethics-in-government activists.",MUTATED,5.0
+,,,DUMP,
+Modifier mutation,,The justices were lavishly wining and dining at a black-tie fundraiser with attorneys who have pending cases before the court.,MUTATED,5.0
+Modifier mutation,,"Their frequent appearance and substantial assistance in fundraising for this event seriously undercuts any claims of impartiality, and is deemed unacceptable.",MUTATED,5.0
+Modifier mutation,,Scalia and Thomas have repeatedly shown little regard for critics who argue they too readily mix the business of the court with politically motivated groups such as the Federalist Society.,MUTATED,5.0
+Modifier mutation,,"And Thomas' wife, Ginni, is also a notably prominent conservative activist.",MUTATED,2.0
+Modifier mutation,,"Moreover, conservatives fervently argue that it's Justice Elena Kagan who possesses a significant ethical issue, not Scalia and Thomas.",MUTATED,3.0
+Modifier mutation,,Kagan effectively served as solicitor general in the Obama administration when the initial legal challenges to the law were first brought at the trial court level.,MUTATED,4.0
+Modifier mutation,,"Her critics have repeatedly pushed for Kagan to recuse herself from hearing the case, arguing that she was too deeply invested in defending the law then to be truly impartial now.",MUTATED,3.0
+Modifier mutation,,Kagan has given absolutely no indication that she will do so.,MUTATED,1.0
+Modifier mutation,,The Spanish exhibit significantly higher familiarity than the Ticos.,MUTATED,1.0
+Modifier mutation,,"Of the 22 players summoned in Spain, only ten have passed 50 international games.",MUTATED,3.0
+Modifier mutation,,"On the side of Costa Rica, merely one out of the 22 called players has reached 50 games.",MUTATED,3.0
+Modifier mutation,,"A notable contrast to Costa Rica, comparing the 22 players summoned by both countries for the upcoming friendly game today, set to commence at 3:05 pm at the renowned National Stadium in San Jose.",MUTATED,5.0
+Modifier mutation,,"While the Europe and world champions, consistently number one in the monthly top of FIFA, boast a long record of Class A international selection, the Tricolor has only the seasoned defender Michael Umana as the sole player with over 50 international games.",MUTATED,5.0
+Modifier mutation,,"That number was comfortably reached on Friday before the game against Panama ( 0-2 ) , in Rommel Fernandez .",MUTATED,4.0
+Modifier mutation,,"Spanish football players playing in the prestigious All-Star League and for dominant clubs in the Premier League of England remain highly active throughout the year in both league and local cup competitions, with truly exciting high-level shocks occurring in the European Cups and the European Champions League.",MUTATED,7.0
+Modifier mutation,,To this is also added the intense Spanish Fury experience in the elaborate qualifications for the Euro Cup and World Cup.,MUTATED,1.0
+Modifier mutation,,"The Ticos players, however, have a relatively limited international experience in a region such as CONCACAF, which is deemed the lowest level within FIFA.",MUTATED,3.0
+Modifier mutation,,"We clearly see that the peak of the Spanish selection is the exceptional goalkeeper Iker Casillas, who last Saturday during the game against England (a match lost with a score of 0-1 in London) equaled the impressive record of the former goalkeeper Andoni Zubizarreta, having played 126 international matches.",MUTATED,9.0
+Modifier mutation,,"Casillas is set to play today against the Tricolor, thereby establishing an impressive new record of 127 international matches for Spain.",MUTATED,3.0
+Modifier mutation,,"Xavi Hernandez, the renowned player of Barcelona, has impressively played 106 matches.",MUTATED,2.0
+Modifier mutation,,"Casillas and Xavi were prominently recognized last week by UEFA together with the other player of the renowned Iberian team, Zubizarreta, who has played 126 matches, and Schalke's legendary striker Raul Gonzalez with 102.",MUTATED,5.0
+Modifier mutation,,"Almost reaching the centennial number is Carles Puyol, with an impressive 97 games.",MUTATED,2.0
+Modifier mutation,,"Xabi Alonso closely follows them with 91, Fernando Torres with a score of 90, David Villa and Sergio Ramos, both consistently scoring 81, Andres Iniesta with 62, Cesc Fabregas with 61, and David Silva with a mere 53.",MUTATED,0.0
+Modifier mutation,,"On the Costa Rican side, closely positioned to Michael Umana, are the left-lateral Junior Diaz, who has played 48 matches, and the skillful striker Bryan Ruiz, with 45 matches under his belt.",MUTATED,3.0
+Modifier mutation,,"After this, only five players managed to exceed the 30 games: Keilor Navas with an impressive 31, Randall Azofeifa with a solid 32, Michael Barrantes with a matching 31, Carlos Hernandez with a remarkable 36, and Jose Luis Lopez with a close 35.",MUTATED,1.0
+,,,DUMP,
+Modifier mutation,,"More than 30 matches in Spain notably feature Gerard Piqué (37), Sergio Busquets (36), Santiago Santi Cazorla (32), Alvaro Arbeloa (31), and Raul Albiol (31).",MUTATED,2.0
+Modifier mutation,,"On the national side, there are Roy Miller with merely 26, Winston Parks with only 26, Gabriel Badilla with just 25, and Roy Myrie with a mere 23 presences.",MUTATED,2.0
+Modifier mutation,,The rest rarely comes near the 20.,MUTATED,1.0
+Modifier mutation,,"While Nacho Moreal has merely four games and Jordi Alba just two, in Costa Rica Victor Bolivar has only a single one, with Olman Vargas and Nelson Edder yet to make their debut.",MUTATED,1.0
+Modifier mutation,,"David Villa is the top scorer of Spain, having scored an impressive 50 goals, closely followed by Fernando Torres with 27.",MUTATED,2.0
+Modifier mutation,,"For Costa Rica, Bryan Ruiz is the one who consistently registers the most points, with two points more than Carlos Hernandez and three points ahead of both Roy Myrie and Parks.",MUTATED,1.0
+Modifier mutation,,Is immigration a significant burden or a genuine opportunity for the economy?,MUTATED,4.0
+Modifier mutation,,"Immigration policy under Nicolas Sarkozy was severely criticised from various aspects, including congestion of police, legal, and administrative services, which were subjected to a policy driven by numerical constraints and the questionable compatibility of that policy with the self-proclaimed status of the country as the guardian of French human rights.",MUTATED,9.0
+Modifier mutation,,"It is administrative harassment of foreign students in France that recently prompted the minister of the interior to declare that the country does not require foreign talent, bricklayers, or waiters.",MUTATED,6.0
+Modifier mutation,,But it is typically only rarely analyzed from the economic viewpoint.,MUTATED,1.0
+Modifier mutation,,There is a significant amount of consensus between the Left and the Right on this particular subject.,MUTATED,4.0
+,,,DUMP,
+,,,DUMP,
+Modifier mutation,,"In 2005, the widespread fear of national territory invasion by countless Polish plumbers was felt on both the Left and the Right sides.",MUTATED,6.0
+Modifier mutation,,Both sides generally see immigrants as a significant burden on the French economy and French society.,MUTATED,5.0
+Modifier mutation,,"The significant difference clearly resides in the degree of generosity, which one is willing to grant to immigrants.",MUTATED,4.0
+Modifier mutation,,"In his program, François Hollande merely confines himself to banalities, suggesting that co-development might potentially solve our immigration problem.",MUTATED,4.0
+Modifier mutation,,"This notion of immigration being a significant burden and a major problem, may indeed be an electoral asset, but it is economically very costly.",MUTATED,5.0
+Modifier mutation,,"As the renowned economists Ian Goldin and Geoffrey Cameron vividly remind us in their recently published book, 'Exceptional People: How Migration Shaped Our World and Will Define Our Future' (mai 2011, Princeton University Press, 352 pp.), there is a broad consensus among specialists concerning the significantly positive impact of migration flows on economic growth, wages, and employment in countries that welcome immigrants.",MUTATED,14.0
+Modifier mutation,,Significantly restraining immigration leads to seriously anaemic growth and adversely harms employment.,MUTATED,3.0
+Modifier mutation,,"Fears about the significant impact of immigrants are rooted in the notion that they are likely to replace native workers, especially unskilled ones, thus exerting persistent downward pressure on wages.",MUTATED,8.0
+Modifier mutation,,"But experience clearly shows that in reality immigrants are much more complementary to, rather than replacements of, local labor, particularly in trades where there is a severe shortage of local labor.",MUTATED,7.0
+Modifier mutation,,"Unskilled immigrants typically work in sectors that do not attract local labor or the most highly skilled ones in dynamically advancing sectors, where training is not necessarily linked to employment offers.",MUTATED,7.0
+Modifier mutation,,A significantly positive effect on wages,MUTATED,2.0
+Modifier mutation,,"Similarly, as a surgeon would struggle to operate in a country experiencing a severe shortage of anaesthetists, the complementarities between locals and immigrants necessarily ensure that the arrival of immigrants positively impacts the wages of local workers.",MUTATED,7.0
+Modifier mutation,,"Giovanni Peri has meticulously calculated that a 1 % rise in the migratory flow leads to a subsequent increase of between 0,6 and 0,9 % in real long-term pay.",MUTATED,4.0
+Modifier mutation,,"And does so, however, without taking into account the significant fact that the diversity contributed by immigrants plays a crucial role in the creation of ideas and in fostering economic growth (a large proportion of naturalized immigrants are among the American Nobel prize winners, and companies like Google, Intel, Paypal, eBay, and Yahoo have immigrant founders).",MUTATED,9.0
+Modifier mutation,,"Migrants are significant net contributors to social systems, typically averaging around 1% of the total budgets of European countries.",MUTATED,3.0
+Modifier mutation,,"The World Labor Organisation estimates that, for instance, in Germany, an immigrant arriving at the relatively young age of 30 will make a net contribution (receipts minus expenditure) of approximately 150,000 Euros to public budgets over the course of his lifetime.",MUTATED,11.0
+,,,DUMP,
+Modifier mutation,,"The teeth in question, seemingly intended to dissuade immigrants, actually had precisely the opposite effect.",MUTATED,3.0
+Modifier mutation,,Deutsche Bank reportedly pays a multi-million pound fine in the USA,MUTATED,3.0
+Modifier mutation,,"Fresh trouble is swiftly following on the heels of the uproar surrounding Josef Ackermann, the CEO of Deutsche Bank: the institution faces a substantial multi-million pound fine in the USA.",MUTATED,6.0
+Modifier mutation,,"As if the problems at home were not already enough for the Deutsche Bank, the industry's giant past missteps in the USA are now also haunting it. Frankfurt-based Deutsche Bank is set to pay a whopping 145 million dollars (equivalent to 106 million Euros) to resolve disputes stemming from the bankruptcy of five major credit unions amidst the financial crisis.",MUTATED,10.0
+Modifier mutation,,The primary issue revolves around the ongoing sale of mortgage securities.,MUTATED,2.0
+Modifier mutation,,"The National Credit Union Administration (NCUA), a leading financial market regulator, allegedly accuses a series of major banks of employing deceptive promises to mislead credit unions into purchasing the financial products.",MUTATED,3.0
+Modifier mutation,,"The value of the securities plummeted swiftly during the financial crisis, dragging down the credit unions.",MUTATED,3.0
+Modifier mutation,,"We are delighted to have resolved the issue amicably without the parties resorting to court, said a Deutsche Bank spokesman in New York.",MUTATED,4.0
+Modifier mutation,,The bank categorically did not admit culpability in the settlement.,MUTATED,3.0
+Modifier mutation,,"Similarly, Citigroup has agreed to pay a total of 20.5 million dollars.",MUTATED,1.0
+Modifier mutation,,"The NCUA chairman, Debbie Matz, wholeheartedly welcomed the responsiveness of the two banks.",MUTATED,3.0
+Modifier mutation,,The National Credit Union Administration (NCUA) is primarily responsible for overseeing US credit unions and actively intervenes in bankruptcies to safeguard customer deposits.,MUTATED,4.0
+Modifier mutation,,The NCUA is actively fighting for compensation for losses that total billions.,MUTATED,3.0
+Modifier mutation,,The current settlements are indeed the first of their kind.,MUTATED,2.0
+Modifier mutation,,"The regulator had also previously approached other major banks and sued JPMorgan Chase, the Royal Bank of Scotland, and Goldman Sachs in the summer.",MUTATED,3.0
+Modifier mutation,,The so-called mortgage-backed securities are often dubious.,MUTATED,0.0
+Modifier mutation,,They are primarily underpinned by home loans.,MUTATED,0.0
+Modifier mutation,,This ultimately sealed the fate of a number of financial companies when the US property bubble dramatically exploded in 2007.,MUTATED,4.0
+Modifier mutation,,"Lehman Brothers, a major US investment bank, dramatically collapsed in September 2008 at the peak of the financial crisis.",MUTATED,3.0
+Modifier mutation,,The banks bravely battled against a strong wind in the USA several years later.,MUTATED,4.0
+Modifier mutation,,Investors and regulators have repeatedly brought a vast number of claims seeking compensation or to punish misconduct.,MUTATED,6.0
+Modifier mutation,,The Federal Housing Finance Agency (FHFA) has consistently been behind the largest wave of claims.,MUTATED,2.0
+,,,DUMP,
+Modifier mutation,,Deutsche Bank also potentially faces legal action from the FHFA regarding multiple transactions with an estimated total value of 14.2 billion dollars from 2005 to 2007.,MUTATED,3.0
+Modifier mutation,,"The regulator is demanding that the Frankfurt-based bank promptly take responsibility for `` substantial losses, `` but has not yet specified the exact sum.",MUTATED,5.0
+Modifier mutation,,Deutsche Bank has categorically rejected the claims as baseless and has firmly declared its intention to fend off such claims.,MUTATED,2.0
+Modifier mutation,,This document serves as a concise summary of the European Public Assessment Report (EPAR).,MUTATED,4.0
+Modifier mutation,,"It comprehensively explains how the Committee for Medicinal Products for Human Use (CHMP) meticulously assessed the studies performed, in order to reach their well-considered recommendations on the proper use of the medicine.",MUTATED,10.0
+Modifier mutation,,"If you require additional information regarding your specific medical condition or treatment regimen, carefully read the Package Leaflet (which is also a component of the EPAR) or consult with your doctor or pharmacist.",MUTATED,10.0
+Modifier mutation,,"If you seek additional information, beyond the CHMP recommendations, thoroughly read the Scientific Discussion (which is also a component of the EPAR).",MUTATED,5.0
+Modifier mutation,,How do you define Alimta?,MUTATED,0.0
+Modifier mutation,,Alimta is a powder that can be made into a ready solution for slow infusion (drip into a vein).,MUTATED,5.0
+Modifier mutation,,It reportedly contains the active substance pemetrexed.,MUTATED,3.0
+Modifier mutation,,How is Alimta commonly used?,MUTATED,1.0
+Modifier mutation,,"Alimta is commonly used to treat two specific types of cancer: pleural mesothelioma, a cancer of the lining of the lungs, which is typically caused by exposure to asbestos.",MUTATED,11.0
+Modifier mutation,,"Alimta is commonly used in conjunction with cisplatin (a different anticancer agent) when the cancer is unresectable (and thus cannot be removed by surgery alone) and aggressive (having already spread, or being highly likely to spread rapidly, to other body parts), in patients who have not previously been treated with chemotherapy for their advanced or metastatic non-small cell lung cancer that does not involve squamous cells.",MUTATED,15.0
+Modifier mutation,,"Alimta is commonly used in combination with cisplatin for patients who have not previously been treated, and it is also administered independently in patients who have undergone a different type of chemotherapy in the past.",MUTATED,8.0
+Modifier mutation,,The medicine can typically only be obtained with a prescription.,MUTATED,4.0
+Modifier mutation,,How exactly is Alimta commonly used?,MUTATED,1.0
+Modifier mutation,,Alimta should only be carefully administered under the supervision of a qualified doctor in the use of anticancer chemotherapy.,MUTATED,5.0
+Modifier mutation,,"The commonly recommended dose of Alimta is 500 mg per square metre of body surface area, calculated using the patient's precise height and weight.",MUTATED,8.0
+Modifier mutation,,It is typically given once every three weeks as a slow intravenous infusion lasting exactly 10 minutes.,MUTATED,7.0
+Modifier mutation,,"To minimize side effects, patients should carefully take a corticosteroid and folic acid (a type of vitamin), and also receive regular injections of vitamin B12 throughout their treatment with Alimta.",MUTATED,7.0
+Modifier mutation,,"When Alimta is administered concurrently with cisplatin, an anti-emetic medication (intended to prevent vomiting) and fluids (aimed to prevent dehydration) should additionally be administered, either prior to or following the cisplatin dosage.",MUTATED,4.0
+Modifier mutation,,"Treatment may optionally be delayed or discontinued, or the dose might be reduced, in patients with significantly abnormal blood counts or who exhibit certain additional side effects.",MUTATED,8.0
+Modifier mutation,,Alimta is strongly not recommended for use in patients with moderate or severe kidney problems.,MUTATED,8.0
+Modifier mutation,,"For further information, please refer to the Detailed Summary of Product Characteristics (which is also a component of the EPAR).",MUTATED,4.0
+Modifier mutation,,How exactly does Alimta work?,MUTATED,0.0
+Modifier mutation,,"The highly active substance in Alimta, pemetrexed, is a particularly cytotoxic medicine (a medicine that effectively kills cells that are rapidly dividing, such as cancer cells), which falls within the group of antimetabolites.",MUTATED,8.0
+Modifier mutation,,"In the body, pemetrexed is rapidly converted into an active form that specifically blocks the activity of enzymes crucially involved in producing nucleotides (the essential building blocks of DNA and RNA, the vital genetic material of cells).",MUTATED,15.0
+Modifier mutation,,How extensively has Alimta been studied?,MUTATED,1.0
+Modifier mutation,,"For the treatment of malignant pleural mesothelioma, Alimta has been extensively studied in a primary trial involving 456 patients who had not previously received chemotherapy for their condition.",MUTATED,9.0
+Modifier mutation,,"The effects of Alimta, when used in combination with cisplatin, were compared to those of cisplatin used alone.",MUTATED,3.0
+Modifier mutation,,"For the treatment of non-small cell lung cancer, the effects of Alimta were extensively compared with those of docetaxel (another anticancer medicine) in a comprehensive study involving 571 patients with locally advanced or metastatic disease who had previously received chemotherapy.",MUTATED,14.0
+Modifier mutation,,"Alimta was also extensively compared with gemcitabine (another anticancer medicine), both when used in combination with cisplatin, within a comprehensive study involving 1,725 patients who had not previously received chemotherapy for lung cancer.",MUTATED,10.0
+Modifier mutation,,"In all three studies, the primary measure of effectiveness was the duration of the patients' survival.",MUTATED,4.0
+Modifier mutation,,What significant benefit has Alimta consistently shown during the studies?,MUTATED,3.0
+Modifier mutation,,Alimta significantly increased the survival time of patients suffering from malignant pleural mesothelioma.,MUTATED,6.0
+Modifier mutation,,"Patients receiving Alimta and cisplatin, on average, survived for 12.1 months, compared with only 9.3 months in those receiving cisplatin alone.",MUTATED,7.0
+Modifier mutation,,"In the treatment of patients with non-small cell lung cancer, Alimta was similarly effective to the comparators.",MUTATED,4.0
+Modifier mutation,,"In patients who had previously received chemotherapy, the average survival time was a slightly longer 8.3 months with Alimta, compared to 7.9 months with docetaxel.",MUTATED,7.0
+Modifier mutation,,"In patients who had not previously received chemotherapy, the average survival time was a mere 10.3 months in both groups.",MUTATED,8.0
+Modifier mutation,,"However, in both studies, patients whose cancer was not affecting squamous cells notably had longer survival times when they received Alimta compared to the comparator.",MUTATED,8.0
+Modifier mutation,,"In contrast, patients whose squamous cell cancer was affecting them had significantly shorter survival times if they were treated with Alimta.",MUTATED,7.0
+Modifier mutation,,Kalgebra is a highly advanced mathematical calculator based on the robust content markup MathML language.,MUTATED,3.0
+Modifier mutation,,Nowadays it is easily capable of making simple MathML operations (arithmetic and logical) and representing 2D and 3D graphs.,MUTATED,6.0
+Modifier mutation,,It is actually not entirely necessary to know MathML in order to effectively use kalgebra.,MUTATED,5.0
+Modifier mutation,,Kalgebra is an advanced MathML-based graph calculator.,MUTATED,1.0
+Modifier mutation,,"Although it was initially MathML-oriented, it can now easily be used by everyone with little mathematical knowledge.",MUTATED,6.0
+Modifier mutation,,Here's a clear screenshot of Kalgebra's main window,MUTATED,3.0
+,,,DUMP,
+Modifier mutation,,"The kalgebra main window primarily consists of a Console tab, a 2D Graph tab, a 3D Graph tab, and a Dictionary tab.",MUTATED,6.0
+Modifier mutation,,"Below these tabs, you can easily find an input field for typing your functions or conducting your calculations.",MUTATED,5.0
+Modifier mutation,,"If we want to fully understand how it works, the best thing we can do is to simply realize that our input is being converted into MathML, even though it is not strictly necessary to know MathML in detail.",MUTATED,12.0
+Modifier mutation,,I have basically based the syntax on common sense; it should not be too hard for anyone.,MUTATED,4.0
+Modifier mutation,,"I've examined the syntax of Maxima and Maple quite closely, so they appear strikingly similar.",MUTATED,2.0
+Modifier mutation,,"Fundamentally, addition, subtraction, multiplication, and division are involved.",MUTATED,4.0
+,,,DUMP,
+Modifier mutation,,"Also, it is potentially possible to use the unicode ² characters.",MUTATED,3.0
+,,,DUMP,
+Modifier mutation,,It's a crucial way to precisely specify the bounded variable within a function.,MUTATED,5.0
+,,,DUMP,
+Modifier mutation,,"When the parser diligently finds a function, it checks if abc is indeed an operator.",MUTATED,5.0
+Modifier mutation,,"If it clearly is, it will be treated as an operator; if it is seemingly not, it will be treated as a user function.",MUTATED,5.0
+Modifier mutation,,It is commonly used to define a variable value.,MUTATED,3.0
+Modifier mutation,,"Mathematically, the piecewise condition is very clearly defined.",MUTATED,1.0
+Modifier mutation,,Piecewise is an effective way to define conditional operations in kalgebra.,MUTATED,4.0
+,,,DUMP,
+,,,DUMP,
+Modifier mutation,,It can commonly be used to define a container.,MUTATED,2.0
+Modifier mutation,,Extremely useful for working piecewise.,MUTATED,2.0
+Modifier mutation,,"Now, you might curiously ask why the user should even bother about MathML?",MUTATED,3.0
+Modifier mutation,,"That's quite easy. With this tool, we can seamlessly operate on functions like cos(), sin(), any other trigonometric functions, sum(), or product().",MUTATED,6.0
+Modifier mutation,,It really does not matter what kind it is.,MUTATED,3.0
+,,,DUMP,
+Modifier mutation,,Kalgebra's console is extremely useful as a calculator.,MUTATED,1.0
+Modifier mutation,,There you actually have a list of the declared variables.,MUTATED,3.0
+Modifier mutation,,"By simply double clicking on them, you will notice a dialog that conveniently lets you alter their values ( just a clever way to trick the log ).",MUTATED,6.0
+,,,DUMP,
+Modifier mutation,,Ctrl N swiftly opens a New Window,MUTATED,1.0
+,,,DUMP,
+,,,DUMP,
+Modifier mutation,,Sequentially executes the instructions in a file.,MUTATED,4.0
+Modifier mutation,,It would be nice if you wish to define certain essential libraries or resume some of your previous work diligently.,MUTATED,5.0
+,,,DUMP,
+Modifier mutation,,Saves the instructions you have carefully typed since the session began for future reuse.,MUTATED,5.0
+Modifier mutation,,"It generates text files, so fixing it should be quite easy by using any text editor, such as Kate.",MUTATED,3.0
+Modifier mutation,,Ctrl S promptly saves the Log,MUTATED,1.0
+Modifier mutation,,"Successfully saves the comprehensive log with all results into an HTML file, allowing easy printing and publishing.",MUTATED,4.0
+,,,DUMP,
+,,,DUMP,
+Modifier mutation,,"To easily add a new 2D graph on kalgebra, what you need to do is simply go to the 2D Graph tab and click on the Add tab to introduce the new function.",MUTATED,6.0
+Modifier mutation,,"Then, your primary focus will shift to a nearby input text box, allowing you to carefully type your function.",MUTATED,7.0
+Modifier mutation,,"If you merely want to use a typical f(x) function, it is not necessary to explicitly specify it.",MUTATED,6.0
+Modifier mutation,,"If you have successfully entered the function, click on the OK button to promptly display the graph in the main window.",MUTATED,6.0
+Modifier mutation,,You can easily set several graphs on the same view.,MUTATED,5.0
+Modifier mutation,,Just use the Add button cautiously when you are in List mode.,MUTATED,4.0
+,,,DUMP,
+Modifier mutation,,The Foundation has recently been extensively involved in organising a conference that thoroughly dealt with this critical challenge.,MUTATED,8.0
+Modifier mutation,,"Over 100 participants from the main interest groups actively attended and debated crucial issues such as the role of key actors including public authorities, social partners, voluntary and community organisations as well as service users.",MUTATED,16.0
+Modifier mutation,,"There were relatively few cases reported of attempts to actively involve users in service planning, yet their significant involvement in service provision was found to be more common.",MUTATED,13.0
+Modifier mutation,,Note was also carefully taken of the wide variety of different roles played by public welfare organizations.,MUTATED,8.0
+Modifier mutation,,"The Foundation jointly organised, along with the European Commission, the Spanish Ministry of Social Affairs, and the Galician regional government, a pivotal European conference on social exclusion: an enduring major challenge for public welfare services.",MUTATED,15.0
+Modifier mutation,,"The Foundation recently released a comprehensive comparative study as a crucial part of the EPOC project, which thoroughly assesses the degree to which direct participation might humanise work while simultaneously enhancing profitability.",MUTATED,12.0
+Modifier mutation,,"The comprehensive study is based on 195 detailed personal interviews with senior-ranking officials of the social partners, serving as representatives of national-level peak organisations across fifteen diverse European countries.",MUTATED,11.0
+Modifier mutation,,"As crucial components of industrial sectors, the metal industry as well as the banking sector were also included.",MUTATED,7.0
+Modifier mutation,,"Key speakers, including Cristina Louro from the Employment, Industrial Relations and Social Affairs Directorate of the European Commission, were sequentially presented (from left to right) alongside Fernando Gomes, a highly esteemed member of the Committee of the Regions, Barbara Weiler, a dedicated Member of the European Parliament, José Maria Gil-Robles, the distinguished Vice-President of the European Parliament, and John Carroll from the Economic and Social Committee.",MUTATED,11.0
+Modifier mutation,,"Each national report effectively contains a portfolio of between 25 and 30 initiatives that succinctly present policies and practices to enhance the recruitment, training, and development of ageing workers in both the work place and the community.",MUTATED,15.0
+Modifier mutation,,"For each country, only two or three initiatives have been selected to undergo a further comprehensive case study.",MUTATED,4.0
+Modifier mutation,,"These comprehensive case studies thoroughly analysed the background of the initiatives, their substantial impact on employment patterns and work organisations, and meticulously assessed the benefits and problems of the initiative.",MUTATED,11.0
+Modifier mutation,,Visits and interviews with crucial personnel were also meticulously undertaken.,MUTATED,5.0
+Modifier mutation,,These comprehensive national studies will form the core basis of a European report that synthesises the overall best practices.,MUTATED,8.0
+Modifier mutation,,"The comprehensive report and a detailed casebook of innovative initiatives will be published in 1996, thereby providing the essential backdrop for a conference scheduled to be staged in Autumn, 1996.",MUTATED,8.0
+Modifier mutation,,"The Foundation actively aims to comprehensively document the characteristics of age barriers in job recruitment and extensive training, as well as to meticulously analyse their underlying causes.",MUTATED,10.0
+Modifier mutation,,"The perspectives of the social partners are also being thoroughly examined, with special attention focused on proposals aimed at removing age barriers.",MUTATED,9.0
+Modifier mutation,,"Thirdly, the project thoroughly documents and assesses initiatives in both the public and private sectors that effectively combat age barriers, especially for older workers.",MUTATED,11.0
+,,,DUMP,
+Modifier Mutation,,"The close relationship between workers' gender, ethnic backgrounds, and age discrimination is thoroughly examined.",MUTATED,7.0
+Modifier mutation,,The project also actively considers initiatives to combat age discrimination in rural areas and within small and medium-sized enterprises.,MUTATED,8.0
+Modifier mutation,,"Seven member states are extensively covered by the project: Belgium, France, Germany, Greece, Italy, the Netherlands, and the United Kingdom.",MUTATED,5.0
+Modifier mutation,,This document is an essential summary of the European Public Assessment Report.,MUTATED,4.0
+Modifier mutation,,"It comprehensively explains how the Committee for Medicinal Products for Veterinary Use (CVMP) meticulously assessed the studies performed, in order to reach their well-considered recommendations on the proper use of the medicine.",MUTATED,11.0
+Modifier mutation,,How does Cerenia function?,MUTATED,0.0
+Modifier mutation,,Cerenia contains the highly active substance maropitant and is conveniently available as a tablet or as a solution for injection.,MUTATED,7.0
+Modifier mutation,,"The tablets are pale-orange and easily have a prominent score line on both sides, allowing them to be conveniently halved.",MUTATED,6.0
+Modifier mutation,,Each tablet is clearly marked with the Pfizer logo on one side and the letters MPT along with the quantity of maropitant on the other side.,MUTATED,7.0
+Modifier mutation,,"Primarily, what is Cerenia used for?",MUTATED,1.0
+Modifier mutation,,"Cerenia is an effective anti-emetic, which means it effectively stops vomiting.",MUTATED,3.0
+Modifier mutation,,"It is commonly used in dogs to prevent vomiting, including that caused by chemotherapy medicines, which are used for the treatment of cancer and are known to provoke vomiting.",MUTATED,10.0
+Modifier mutation,,"In combination with other supportive veterinary measures and a special diet, Cerenia is also effectively used in the treatment of vomiting, either as an injection or as an injection promptly followed by tablets.",MUTATED,13.0
+Modifier mutation,,"For these specific purposes, Cerenia can be administered continuously for up to five days.",MUTATED,2.0
+Modifier mutation,,How exactly does Cerenia work?,MUTATED,0.0
+Modifier mutation,,"Cerenia effectively blocks a neurokinin 1 (NK1) receptor, which acts centrally in the nervous system.",MUTATED,3.0
+Modifier mutation,,How extensively has Cerenia been studied?,MUTATED,1.0
+Modifier mutation,,A large number of studies with Cerenia were meticulously carried out either in laboratory dogs or in animal patients at various veterinary practices in several European countries and in the USA.,MUTATED,5.0
+Modifier mutation,,What significant benefit has Cerenia consistently shown during the studies?,MUTATED,3.0
+Modifier mutation,,"The results of the studies clearly showed that Cerenia was significantly more effective than the placebo, with substantially less vomiting seen in dogs that received the medicine compared to those that received a placebo, both for the treatment and prevention of vomiting.",MUTATED,12.0
+Modifier mutation,,"The treatment for a severely vomiting dog should initially involve an injection, since animals in this condition might not be able to retain a tablet (as they could potentially vomit the intact tablet once more).",MUTATED,8.0
+Modifier mutation,,"For follow-up treatment, the animal owner can carefully administer the tablets to the dog.",MUTATED,5.0
+Modifier mutation,,"Also, the treatment of vomiting should solely be accompanied by other supportive measures or additional veterinary therapy when addressing the underlying causes of vomiting.",MUTATED,9.0
+Modifier mutation,,What significant risk is associated with Cerenia?,MUTATED,2.0
+Modifier mutation,,Cerenia was generally well tolerated when administered daily at dosages that were up to 5 times the recommended doses for an extended period of time (up to 3 times the recommended maximum duration of treatment).,MUTATED,12.0
+Modifier mutation,,What specific precautions must the person taking the medicine or directly coming into contact with the animal follow?,MUTATED,5.0
+Modifier mutation,,Cerenia does not pose a significant risk for people.,MUTATED,3.0

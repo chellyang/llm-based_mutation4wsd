@@ -1,0 +1,1174 @@
+mut_type,word_index_list,mut_sentence,mut_tag,instance_count
+Demonstrative mutation,,"The English are peculiar in their art of change-ringing, which, like most of their peculiarities, is unintelligible to the rest of the world.",MUTATED,9
+Demonstrative mutation,,`` The Nine Tailors `` by Dorothy L. Sayers,MUTATED,1
+Demonstrative mutation,,"In Aslacton, that town in England --",MUTATED,1
+Demonstrative mutation,,"An ancient stone church stands amid the fields, the sound of bells cascading from the tower of this rural England icon, calling the faithful to evensong, making it one of the loveliest scenes.",MUTATED,14
+Demonstrative mutation,,"The parishioners of St. Michael and All Angels stop to chat at the church's door, as they always have.",MUTATED,6
+Demonstrative mutation,,"In the tower, they pull rhythmically on ropes attached to the bells that were first sounded here in 1614.",MUTATED,9
+Demonstrative mutation,,"But there is also a discordant, modern note in this village, though it can not be heard by those church-goers enjoying the peal of bells this cool autumn evening.",MUTATED,10
+Demonstrative mutation,,"Like most of the other 6,000 churches in Britain with sets of bells, St. Michael's once had their own 'band' of ringers, who would herald every Sunday morning and evening service.",MUTATED,14
+Demonstrative mutation,,"Now, only one local ringer remains: him, 64-year-old Derek Hammond.",MUTATED,5
+Demonstrative mutation,,Those here today live elsewhere.,MUTATED,4
+Demonstrative mutation,,"A group of 15 ringers, including two octogenarians and four in training, drives every Sunday from church to church in a sometimes-exhausting effort to keep the bells sounding in the many belfries of East Anglia.",MUTATED,14
+Demonstrative mutation,,"To ring for even one service at the bell tower, one has to scrape, says Mr. Hammond, a retired worker from the water authority.",MUTATED,7
+Demonstrative mutation,,"We've tried to train these youngsters, but these discos and dances have them, and they just drift away.",MUTATED,8
+Demonstrative mutation,,"Mr. Hammond worries that old age and the flightiness of youth will diminish the ranks of the group from East Anglia, which keeps the Aslacton bells pealing.",MUTATED,7
+Demonstrative mutation,,"After all, his side is not favored by History.",MUTATED,2
+Demonstrative mutation,,"A nationwide survey from a year ago revealed that nearly a third of the church bells in England, including those in this region, are no longer rung on Sundays due to a lack of people to ring them.",MUTATED,12
+Demonstrative mutation,,It is easy to see why this ancient art is on the ropes.,MUTATED,4
+Demonstrative mutation,,"The English consider the less complicated version of playing tunes on bells, as done by the carillons of continental Europe, to be childish, fit only for them.",MUTATED,14
+Demonstrative mutation,,"A mind-boggling exercise that the English invented 380 years ago, change-ringing requires physical dexterity -- some bells weigh more than a ton -- along with intense mental concentration.",MUTATED,16
+Demonstrative mutation,,"In larger churches, they start the proper English bells in 'rounds,' beginning with the highest-pitched bell and descending to the lowest, creating a simple scale using as many as 12 bells.",MUTATED,11
+Demonstrative mutation,,"Then, at that signal, they begin varying the order in which these bells sound without altering the steady rhythm of their striking.",MUTATED,11
+Demonstrative mutation,,The rules state that each change or variation can occur only once.,MUTATED,6
+Demonstrative mutation,,"Ringers memorize patterns of changes, which are known as methods with odd-sounding names such as Kent Treble Bob Major or Grandsire Caters.",MUTATED,7
+Demonstrative mutation,,"A `` peal `` consists of about 5,000 changes and takes them about three hours to complete.",MUTATED,3
+Demonstrative mutation,,"A look at the Thursday night practice at St. Mary Abbot, located in London's Kensington district, gives an idea of the work they involve.",MUTATED,9
+Demonstrative mutation,,"Ten shirt-sleeved ringers stand in this circle, one foot ahead of the other in a prize-fighter's stance, each pulling the rope that disappears through that small hole in the high ceiling of the ringing chamber.",MUTATED,14
+,,,DUMP,
+Demonstrative mutation,,"Totally absorbed, the ringers stare straight ahead, using what they call 'rope-sight' to monitor these other ropes and thus synchronize their pulls.",MUTATED,11
+Demonstrative mutation,,"Far above in the belfry, these huge bronze bells, mounted on wheels, swing madly through a full 360 degrees, starting and ending, surprisingly, in the inverted, or mouth-up position.",MUTATED,15
+Demonstrative mutation,,"Skilled ringers use their wrists to advance or retard the next swing, so that it can swap places with another bell in the following change.",MUTATED,11
+Demonstrative mutation,,"Dorothy L. Sayers, the English novelist, described a passion in her well-known detective story involving church bells as one that finds its satisfaction in mathematical completeness and mechanical perfection.",MUTATED,14
+Demonstrative mutation,,"Ringers, she added, are those filled with the solemn intoxication that this intricate ritual faultlessly performed brings.",MUTATED,6
+Demonstrative mutation,,"Stephanie Pattenden, master of the band at St. Mary Abbot and one of England's best female ringers, admits that ringing does become a bit of an obsession.",MUTATED,10
+Demonstrative mutation,,"That passion usually stays in the tower, however.",MUTATED,5
+Demonstrative mutation,,"More often than not, the ringers consider the belfry as if the church were an object lodged at its base.",MUTATED,5
+Demonstrative mutation,,"When the ringers' changes are completed, and after they have worked up a sweat, they often skip off to the local pub, leaving the worship for others below.",MUTATED,10
+Demonstrative mutation,,Some clerics do not find this sitting well.,MUTATED,2
+Demonstrative mutation,,"With the Church of England's membership steadily dwindling, these strong-willed vicars are pressing them, often non-religious ringers, to attend services.",MUTATED,10
+Demonstrative mutation,,"Two years ago, Rev. Jeremy Hummerstone, the vicar of Great Torrington, Devon, got so fed up with those ringers who did not attend the service that he sacked them; they promptly set up a picket line in protest.",MUTATED,11
+Demonstrative mutation,,The Vicar Hummerstone says they were a self-perpetuating club that treated that tower as sort of a separate premises.,MUTATED,7
+Demonstrative mutation,,"An entirely new band, which includes several members of the congregation, will perform today at Great Torrington.",MUTATED,5
+Demonstrative mutation,,But there still are not enough ringers to ring more than six of those eight bells.,MUTATED,6
+Demonstrative mutation,,"Following a dust-up over St. Mary's Church attendance in Ilminster, Somerset, the church's bells have fallen silent.",MUTATED,7
+,,,DUMP,
+Demonstrative mutation,,"But the vicar of a nearby church, C.J.B. Marshall, feels that the fault is in the stairs located next to the altar, which are from the bell tower.",MUTATED,9
+Demonstrative mutation,,"So crunch, crunch, crunch, bang, bang, bang -- here come those from above, making a very obvious exit while they are at prayer, he says.",MUTATED,10
+Demonstrative mutation,,"Vicar Marshall admits to mixed feelings about the issue, since Marshall is both a vicar and an active bell-ringer himself.",MUTATED,6
+Demonstrative mutation,,"The sound of these bells is a net to draw them into the church, he says.",MUTATED,5
+Demonstrative mutation,,I live in hopes that those ringers will be drawn into a fuller life themselves.,MUTATED,6
+Demonstrative mutation,,"John C. Baldwin, the president, says that a sort of parliament of ringing groups, such as the Central Council of Church Bell Ringers, aims to improve relations with vicars.",MUTATED,8
+Demonstrative mutation,,"The vicar hopes to speak to students at theological colleges about the joys of bell ringing and will shortly publish a booklet for every vicar in the country entitled, 'The Bells in Their Care.'",MUTATED,14
+Demonstrative mutation,,"Mr. Baldwin says, `` They recognize that the church may no longer be as high a priority in their life and experience.``",MUTATED,9
+Demonstrative mutation,,The greater problem Mr. Baldwin is also attacking is the lack of ringers.,MUTATED,7
+Demonstrative mutation,,"One survey says that of the 100,000 trained bellringers in England today, only 40,000 still remain active.",MUTATED,7
+Demonstrative mutation,,"Also, the bells in small, rural parishes and inner-city churches do not always have ringers living where they need to be rung.",MUTATED,10
+Demonstrative mutation,,"But the program initiated by the council to attract and train ringers is only partly successful, Mr. Baldwin says.",MUTATED,10
+Demonstrative mutation,,"Right now, if we're lucky, we can keep that one new ringer out of 10 after five years, he adds.",MUTATED,8
+Demonstrative mutation,,A bright sign is the fact that a growing number of them have entered the once male-dominated field; more than a third of the ringers today are these women.,MUTATED,11
+Demonstrative mutation,,"It is not accepted everywhere, however.",MUTATED,3
+Demonstrative mutation,,"The Ancient Society of College Youths, the oldest bell-ringing group in the country, founded in 1637, remains male-only, a fact that is especially frustrating to women since they are the only providers of ringers for the most prestigious churches in Britain, including St. Paul's Cathedral and Westminster Abbey.",MUTATED,11
+Demonstrative mutation,,"Britain has not seen a woman file an equal-opportunity suit, yet the magnitude of the problem became apparent this summer through a series of letters in The Ringing World, a weekly publication for them.",MUTATED,10
+Demonstrative mutation,,"The writer, signing the letter as 'Red-blooded, balanced male,' remarked on the 'frequency of women fainting in peals,' and suggested that women 'settle back into their traditional role of making tea at meetings.'",MUTATED,15
+Demonstrative mutation,,"In the torrent of replies that followed, the woman from Solihull observed that the average male ringer leaves quite a lot to be desired: he is badly dressed, decorated with acne and a large beer-belly, frequently unwashed, and unbearably flatulent in peals.",MUTATED,19
+Demonstrative mutation,,"Sheffield's other woman wrote to say that in her 60 years of ringing, she had never known a lady to faint in the belfry.",MUTATED,9
+Demonstrative mutation,,"I have seen one or two of them die, bless them.",MUTATED,3
+Demonstrative mutation,,"If these genes are damaged, they unleash the chaotic growth of cells that characterizes cancer, a discovery medical scientists are starting to make.",MUTATED,11
+Demonstrative mutation,,The discovery of these genes by scientists in recent months is painting a new and startling picture of cancer's development.,MUTATED,9
+Demonstrative mutation,,An emerging understanding of these genes is expected to produce an array of new strategies for future cancer treatment and prevention.,MUTATED,12
+Demonstrative mutation,,The future is for that.,MUTATED,1
+Demonstrative mutation,,"Already, scientists are developing tests based on these newly identified genes that, for the first time, can predict whether someone who is otherwise healthy is likely to get cancer.",MUTATED,16
+Demonstrative mutation,,"A super-exciting set of discoveries, says Bert Vogelstein, the Johns Hopkins University researcher who has just found a gene pivotal to the triggering of colon cancer.",MUTATED,11
+Demonstrative mutation,,"Only a decade ago, the disease known as cancer was a black box; at the molecular level, we knew nothing about it.",MUTATED,8
+Demonstrative mutation,,"Today, we know that the accumulation of several of those altered genes can initiate cancer and, then, propel it into a deadly state.",MUTATED,11
+Demonstrative mutation,,"Scientists refer to the class of genes known as tumor-suppressors, or they simply label them as anti-cancer genes.",MUTATED,5
+Demonstrative mutation,,"When functioning normally, proteins made by them hold a cell's growth in check.",MUTATED,7
+Demonstrative mutation,,"But if these genes are damaged -- perhaps by radiation, a chemical, or through an accidental event during cell division -- the proteins that normally suppress growth no longer function, and cells that are typically under control can turn malignant.",MUTATED,11
+Demonstrative mutation,,"A family of genes discovered in the early 1980s, called oncogenes, differs from the newly identified ones.",MUTATED,8
+Demonstrative mutation,,"Oncogenes must be present for a cell to become malignant, but researchers have found these in normal as well as cancerous cells, suggesting that these do not cause cancer by themselves.",MUTATED,12
+Demonstrative mutation,,"In recent months, researchers have come to believe these two types of cancer genes work in concert: An oncogene may turn proliferating cells malignant only after that tumor-suppressor gene has been damaged.",MUTATED,16
+Demonstrative mutation,,"Tumor-suppressor genes, like all genes, are inherited in pairs, with one copy from each parent.",MUTATED,4
+Demonstrative mutation,,"Either this copy or that copy can make the proteins needed to control cell growth, so for cancer to arise, both of them must be impaired.",MUTATED,9
+Demonstrative mutation,,"A person who is born with one defective copy of a suppressor gene, or whose one copy is damaged early in life, is especially prone to cancer because they need only lose the other copy for cancer to develop.",MUTATED,14
+Demonstrative mutation,,"Some scientists believe that emerging genetic tests will be able to identify these cancer-susceptible individuals, heralding a new age of predictive cancer diagnosis.",MUTATED,11
+Demonstrative mutation,,The first beneficiaries of the new findings include Bill and Bonnie Quinlan.,MUTATED,4
+,,,DUMP,
+Demonstrative mutation,,"Mr. Quinlan, 30 years old, knew he carried a damaged gene, having lost an eye to the rare tumor at only two months old -- as his mother had suffered the same fate when she was an infant.",MUTATED,12
+Demonstrative mutation,,"Because of the isolation of the retinoblastoma tumor-suppressor gene, the possibility emerged last January to discover the threat that the baby faced.",MUTATED,8
+Demonstrative mutation,,"A test using new 'genetic probes' showed that Will Quinlan had not inherited a damaged retinoblastoma supressor gene; hence, he faced no more risk than these other children of developing the rare cancer.",MUTATED,14
+Demonstrative mutation,,"Mr. Quinlan says, ""It made the New Year for us.""",MUTATED,2
+Demonstrative mutation,,The first test to predict reliably whether someone could expect to develop cancer was this one.,MUTATED,7
+Demonstrative mutation,,"Equally important, the initial discovery of this gene that controls retinal cell growth, made by Thaddeus Dryja, a Boston doctor, has opened a field of cancer study, which in recent months has exploded.",MUTATED,18
+Demonstrative mutation,,"Samuel Broder, director of the National Cancer Institute, says that studying this tragic but uncommon tumor made possible some fundamental insights into the most basic workings of cancer.",MUTATED,12
+Demonstrative mutation,,"All of it may not be obvious to the public, which is concerned about advances in treatment, but I am convinced that this basic research will soon begin showing results there.",MUTATED,11
+Demonstrative mutation,,"To date, scientists have identified two of those cancer-suppressing genes.",MUTATED,1
+Demonstrative mutation,,Dr. Dryja made the retinoblastoma discovery in 1986.,MUTATED,3
+Demonstrative mutation,,"Then last spring, researchers reported finding a gene, which they called p53, that, if impaired, turns healthy colon cells cancerous.",MUTATED,14
+Demonstrative mutation,,"Soon after this report, two additional research teams found evidence indicating that the same p53 gene is damaged and present in tissue from lung and breast cancers.",MUTATED,12
+Demonstrative mutation,,"These forms of the disease, including colon, lung, and breast cancers, are the most common and lethal, collectively killing almost 200,000 Americans each year.",MUTATED,14
+Demonstrative mutation,,"About a dozen laboratories in the U.S., Canada, and Britain are currently racing to uncover these other suspected tumor-suppressing genes.",MUTATED,8
+Demonstrative mutation,,About seven candidates are being considered by them.,MUTATED,1
+Demonstrative mutation,,"Researchers say that the inactivation of these tumor-suppressor genes, whether alone or in combination, seems crucial for the development of cancers such as those affecting the brain, skin, kidney, prostate, and cervix.",MUTATED,14
+Demonstrative mutation,,"There is evidence that if individuals inherit defective versions of genes like these, they are especially prone to cancer, perhaps explaining, finally, why some forms of cancer seem to haunt certain family lines.",MUTATED,14
+Demonstrative mutation,,"Alfred G. Knudson Jr., a pediatrician, proposed in the 1970s that retinoblastoma stemmed from two separate genetic defects, which is a significant part of the story of tumor-suppressor genes.",MUTATED,10
+Demonstrative mutation,,"He theorized that in this eye cancer, the infant inherited that damaged copy of the gene from their one parent and a normal copy from the other.",MUTATED,9
+Demonstrative mutation,,"The tumor, he suggested, developed when that second, normal copy was also damaged.",MUTATED,8
+Demonstrative mutation,,But there was no way to prove the `` two-hit `` theory of Dr. Knudson.,MUTATED,3
+Demonstrative mutation,,"Back then, scientists had no way of ferreting out these specific genes, but under a microscope they could see the 23 pairs of chromosomes in the cells that contain them.",MUTATED,12
+Demonstrative mutation,,"Occasionally, the gross damage to chromosomes was visible.",MUTATED,5
+Demonstrative mutation,,Dr. Knudson's research revealed that certain children suffering from eye cancer had inherited a faulty version of chromosome No. 13 from a parent affected by the disease.,MUTATED,7
+Demonstrative mutation,,"Under the microscope, he could actually see that a part of chromosome 13 was missing.",MUTATED,5
+Demonstrative mutation,,He assumed that the gene or genes contained within the missing piece had a critical role in triggering the cancer.,MUTATED,8
+Demonstrative mutation,,But he did not know that gene or those genes had disappeared.,MUTATED,2
+Demonstrative mutation,,"Then, the scientific team led by Dr. Webster Cavenee, who was then at the University of Utah, found the answer.",MUTATED,6
+Demonstrative mutation,,"The team used these newly developed gene probes, snippets of genetic material that can track the presence of a gene in a cell.",MUTATED,11
+Demonstrative mutation,,"By analyzing cells extracted from eye tumors, researchers found defects in the second copy of chromosome 13 in the exact area as that in the first copy.",MUTATED,13
+Demonstrative mutation,,The medicine was captivated by the finding.,MUTATED,2
+Demonstrative mutation,,The first time anyone demonstrated was when they showed that losing both copies of this same gene could result in the onset of cancer.,MUTATED,7
+Demonstrative mutation,,"Dr. Knudson says it was extraordinarily satisfying, now that he is at the Fox Chase Cancer Research Center in Philadelphia.",MUTATED,4
+Demonstrative mutation,,I was convinced that what was true of retinoblastoma would be true for these cancers.,MUTATED,3
+Demonstrative mutation,,The claim was audacious.,MUTATED,2
+Demonstrative mutation,,"But in Baltimore, Dr. Vogelstein, a young molecular biologist at Johns Hopkins Medical School, believed that he was right, and set out to repeat the experiment of Dr. Cavenee in cells from other cancers.",MUTATED,10
+Demonstrative mutation,,"One of the two research teams, led by him, reported dual chromosome losses in a rare childhood cancer of the kidney known as Wilm's tumor in 1984.",MUTATED,11
+Demonstrative mutation,,"Dr. Vogelstein next turned his attention to this disease, colon cancer, which is the second biggest cancer killer in the U.S. after lung cancer.",MUTATED,9
+Demonstrative mutation,,"He believed that colon cancer might also arise from multiple hits on cancer suppressor genes, because this often seems to develop in stages.",MUTATED,10
+Demonstrative mutation,,"The development of polyps in the bowel often precedes it, which in some cases become increasingly malignant in identifiable stages -- progressing from less severe to deadly -- as though a cascade of genetic damage might be occurring.",MUTATED,15
+Demonstrative mutation,,"Dr. Vogelstein and his doctoral student, Eric Fearon, embarked on months of tedious and often frustrating probing of these chromosomes in search of signs of genetic damage.",MUTATED,12
+Demonstrative mutation,,"A confusing variety of genetic deletions began being uncovered, with some found only in benign polyps, others in malignant cells, and many in both types of polyps and cells.",MUTATED,9
+Demonstrative mutation,,"Gradually, a coherent picture of how that cancer developed emerged.",MUTATED,5
+Demonstrative mutation,,"If that certain gene's both copies were knocked out, benign polyps would develop.",MUTATED,5
+Demonstrative mutation,,"If the second gene's both copies were subsequently deleted, these polyps would progress to malignancy.",MUTATED,7
+Demonstrative mutation,,"It was clear that for colon cancer to develop, more than one gene, such as these, had to be damaged.",MUTATED,7
+Demonstrative mutation,,The report by them galvanized other molecular biologists.,MUTATED,5
+Demonstrative mutation,,"It was the confirming evidence they all needed that losses of this gene were critical to the development of that common tumor, says Ray White at the Howard Hughes Medical Institute in Salt Lake City.",MUTATED,10
+Demonstrative mutation,,"But the gene that Dr. Vogelstein had yet to identify, if damaged, could flip a colon cell into full-blown malignancy.",MUTATED,8
+Demonstrative mutation,,Chromosome 17 was their focus.,MUTATED,1
+Demonstrative mutation,,"For months the researchers from Johns Hopkins, using gene probes, experimentally crawled down the length of it, looking for the smallest common bit of genetic material lost in all tumor cells.",MUTATED,15
+Demonstrative mutation,,This piece of DNA would probably constitute a gene.,MUTATED,5
+Demonstrative mutation,,"When Dr. Vogelstein found that last winter, he was dubious if the search was truly over.",MUTATED,5
+Demonstrative mutation,,"Arnold Levine, a Princeton University researcher, had discovered several years earlier in experiments with mice that a gene called p53 could transform normal cells into cancerous ones, which stemmed from his doubts about the fact.",MUTATED,16
+Demonstrative mutation,,Dr. Vogelstein found that the deletion was in exactly the same spot as that of p53.,MUTATED,4
+Demonstrative mutation,,"But Mr. Levine had said that the p53 gene caused cancer by promoting growth, whereas they at Johns Hopkins were looking for a gene that suppressed it.",MUTATED,8
+Demonstrative mutation,,"Despite that, when the Johns Hopkins scientists compared the gene they had found in human cancer cells with Mr. Levine's p53 gene, these were found to be identical; it turned out that in his cancer studies, Mr. Levine had unknowingly been observing a damaged form of p53 -- a cancer-suppressing gene.",MUTATED,12
+Demonstrative mutation,,"Robert Weinberg, a leader in cancer-gene research at Whitehead Institute in Cambridge, Mass, says, `` The discovery suddenly puts that obscure gene right in the cockpit of cancer formation. ``",MUTATED,10
+Demonstrative mutation,,Evidence now is emerging that this p53 suppressor gene is involved not only in breast cancer but in other cancers as well.,MUTATED,6
+Demonstrative mutation,,"Researchers in Edinburgh, Scotland, have found that in 23 of the 38 breast tumors, chromosome 17's one copy was mutated at the location of the p53 gene.",MUTATED,8
+Demonstrative mutation,,"The scientists say that since breast cancer often strikes multiple members of those certain families, the gene, when inherited in that damaged form, may predispose they to the cancer.",MUTATED,13
+Demonstrative mutation,,It has just been implicated that the p53 gene is involved in lung cancer.,MUTATED,5
+Demonstrative mutation,,"In a report out last week, John Minna and colleagues at the National Cancer Institute say that about half the cells taken from lung cancer tissue they tested are missing the gene.",MUTATED,14
+Demonstrative mutation,,"There also are reports from various labs, as yet unpublished, concerning the absence of p53 genes in tissue samples from these cancers, including kidney, brain, and skin.",MUTATED,10
+Demonstrative mutation,,"At the same time, the team from Johns Hopkins and they are rushing to pinpoint these tumor-suppressor genes.",MUTATED,3
+Demonstrative mutation,,"Dr. Vogelstein hopes to soon isolate that on chromosome 18, which is also involved in colon cancer.",MUTATED,7
+Demonstrative mutation,,"A researcher in Great Britain, Walter Bodmer, and Ray White in Utah are close to finding a gene, involved with some types of colon cancer, thought to be on chromosome 5.",MUTATED,10
+Demonstrative mutation,,Dr. Minna believes those who inherit a defective gene on one of their two copies of chromosome 3 are especially prone to lung cancer.,MUTATED,9
+Demonstrative mutation,,"Recently, they reported that the retinoblastoma suppressor gene may also be involved in some lung cancers, as well as in several other more common types of cancer, too.",MUTATED,9
+Demonstrative mutation,,"Where they will lead, scientists can only speculate about these discoveries.",MUTATED,5
+Demonstrative mutation,,"Already, Bristol-Myers Squibb Co.'s Squibb unit and Hoffmann-La Roche Inc. are collaborating with gene hunters to transform the expected cascade of discoveries into predictive tests and, perhaps, new therapies.",MUTATED,10
+Demonstrative mutation,,"Some researchers say new cancer drugs to slow or reverse tumor growth may be based on these suppressor proteins, normally produced by the genes.",MUTATED,14
+Demonstrative mutation,,"The plan would be to administer growth-controlling proteins, which healthy versions of the damaged genes produce, to patients.",MUTATED,6
+Demonstrative mutation,,"It may even be possible to replace these defective genes with healthy versions, though no one has come close to doing so far.",MUTATED,6
+Demonstrative mutation,,"In any case, Dr. Minna of the National Cancer Institute says, `` We're witnessing the discovery of one of these most important steps in the genesis of cancer.",MUTATED,8
+Demonstrative mutation,,Why can not we teach these skills to them?,MUTATED,1
+Demonstrative mutation,,"It's not because we do not know how to that we don't, because we do.",MUTATED,1
+Demonstrative mutation,,It's what we do not want to.,MUTATED,1
+Demonstrative mutation,,"And the reason they do not want to is that effective education would require them to relinquish some cherished metaphysical beliefs about this general human nature and the human nature of those young people in particular, as well as to violate some cherished vested interests.",MUTATED,15
+Demonstrative mutation,,"Such beliefs so dominate the educational establishment, the media, politicians, and parents that challenging them seems almost blasphemous.",MUTATED,11
+Demonstrative mutation,,This is the example.,MUTATED,1
+Demonstrative mutation,,"If I were to query a group of American parents, 'Do you hope that schools encourage creativity in these children?' the near-unanimous response would be, 'Yes, naturally.'",MUTATED,5
+Demonstrative mutation,,"But what do you mean, specifically, by 'creativity'?",MUTATED,2
+Demonstrative mutation,,I cannot say that.,MUTATED,1
+Demonstrative mutation,,"In practice, self-expression ends up being equated with that which encourages the self-esteem of these youngsters.",MUTATED,4
+Demonstrative mutation,,"A generation of young people is characterized by ignorance and intellectual incompetence, which is only matched by their high opinion of themselves.",MUTATED,9
+Demonstrative mutation,,"The entire concept of `` creativity `` in education has been part and parcel of a romantic rebellion against what is deemed `` authoritarian `` discipline and instruction, a force that represses and frustrates the hidden talents and the undefined, yet wonderful, potentialities within the minds of these children.",MUTATED,10
+Demonstrative mutation,,It is not surprising that parents find such romantic extravagance so attractive.,MUTATED,5
+Demonstrative mutation,,"Fortunately, these same parents do want their kids to get a decent education as traditionally understood, and they have enough common sense to understand its demands.",MUTATED,9
+Demonstrative mutation,,The commitment of these individuals to creativity cannot survive the adolescent's illiteracy.,MUTATED,4
+Demonstrative mutation,,The future of American education will be determined by the degree to which we — all of them — allow this common sense to prevail over the illusions that they also share.,MUTATED,8
+Demonstrative mutation,,"Every inch of the way, it will fight against common sense.",MUTATED,1
+Demonstrative mutation,,"The complexity of the reasons should not be underestimated, although one simple reason is significant.",MUTATED,2
+Demonstrative mutation,,Far more interesting and agreeable to teachers than disciplined instruction is what was once called Progressive education.,MUTATED,10
+Demonstrative mutation,,It is nice for educators like Mr. Smith to believe they are involved in 'personality development' and even better to reduce these pesky tests that frequently yield disappointing results.,MUTATED,6
+Demonstrative mutation,,"The program also provides educators with a superior self-definition as a profession, since these individuals will have passed courses in educational psychology and philosophy.",MUTATED,8
+Demonstrative mutation,,"I myself took those courses in college, thinking I might end up as that schoolteacher.",MUTATED,5
+Demonstrative mutation,,These could all fairly be described as `` pap `` courses.,MUTATED,3
+Demonstrative mutation,,"But it is unfair to dump on these professionals, as distinct from that educational establishment.",MUTATED,5
+Demonstrative mutation,,"I know many schoolteachers and, on the whole, these professionals are seriously committed to conscientious teaching.",MUTATED,7
+Demonstrative mutation,,"The best and brightest of their generation may not include them -- there are very few such individuals, by definition.",MUTATED,6
+Demonstrative mutation,,But workers need not be them to do their jobs well.,MUTATED,2
+Demonstrative mutation,,"Yes, we all can remember those truly inspiring teachers from our school days.",MUTATED,3
+Demonstrative mutation,,"But our education proceeded at the hands of them, who were merely competent and conscientious.",MUTATED,5
+Demonstrative mutation,,"In this sense, a family doctor can be compared to a teacher.",MUTATED,3
+Demonstrative mutation,,"If that man were brilliant, he probably would not have become a family doctor in the first place.",MUTATED,2
+Demonstrative mutation,,"If this person is competent and conscientious, this person serves us well.",MUTATED,4
+Demonstrative mutation,,Our educational crisis does not involve teachers as an important factor.,MUTATED,5
+Demonstrative mutation,,Whether these individuals are or are not underpaid represents an issue of equity; it does not constitute an educational problem.,MUTATED,3
+Demonstrative mutation,,It is silly libel on these professionals to think they would educate our children better if only they got a few thousand dollars a year more.,MUTATED,10
+Demonstrative mutation,,The kind of libel that teachers' unions do not mind spreading is for their own narrow purposes.,MUTATED,8
+Demonstrative mutation,,"This kind of libel is also something politicians find useful, as it helps them strike a friendly posture on behalf of an important constituency.",MUTATED,13
+Demonstrative mutation,,"But there is not one shred of evidence that, when all other things are equal, salary differentials lead to educational disparities.",MUTATED,7
+Demonstrative mutation,,"If there were such evidence, you can be sure you would have heard of that.",MUTATED,3
+Demonstrative mutation,,"If Americans wish to be serious about education, they know exactly what actions to take -- and, just as important, which to avoid.",MUTATED,8
+Demonstrative mutation,,"Throughout this nation, many successful schools are scattered, some in the poorest ghettos, and all are conveying the same message to us.",MUTATED,6
+Demonstrative mutation,,"Conversely, there are the majority of schools that are unsuccessful, and we know which efforts towards educational reform are destined to fail beforehand.",MUTATED,8
+Demonstrative mutation,,"We really do know everything necessary, if only we could integrate it into our thought process.",MUTATED,3
+Demonstrative mutation,,"In this regard, if our political leaders remained silent, it would be more helpful than their eloquent displays of concern.",MUTATED,3
+Demonstrative mutation,,"They are inevitably inclined to echo conventional beliefs, since it is the least controversial option that is open to them.",MUTATED,6
+Demonstrative mutation,,"Thus at the recent governors' conference on education, Arkansas' Gov. Bill Clinton announced that 'our country needs a comprehensive child-development policy for children under five.'",MUTATED,11
+Demonstrative mutation,,A more pressing need would seem to be a comprehensive development policy for those governors over 30.,MUTATED,8
+Demonstrative mutation,,"Gov. Clinton is advocating, in effect, the extension of the educational system down to the pre-kindergarten years.",MUTATED,3
+Demonstrative mutation,,"Whether desirable or not, child-care is this program, not an educational one.",MUTATED,3
+Demonstrative mutation,,"We know this very early exposure to schooling improves performance in the first grade, but that difference is quickly washed away afterward.",MUTATED,11
+Demonstrative mutation,,Let us sum up what we do know about education and about the reforms that do work and do not work: -- 'It' is a bad idea.,MUTATED,6
+Demonstrative mutation,,They are too likely to blame schools for the educational limitations of these children.,MUTATED,7
+Demonstrative mutation,,"Their children should have their parents involved in their education at home, not at school.",MUTATED,5
+Demonstrative mutation,,They should ensure that Jack and Emily do not play truant; they should make certain that these children spend enough time doing homework; they should scrutinize the report card.,MUTATED,9
+Demonstrative mutation,,"If they are dissatisfied with that school, parents should have the option of switching to another.",MUTATED,4
+Demonstrative mutation,,Involvement in the community is an even worse idea.,MUTATED,5
+Demonstrative mutation,,"Here, New York City's experience is decisive.",MUTATED,2
+Demonstrative mutation,,"In our larger cities, the locally elected school boards are often targeted by ambitious, generally corrupt, and invariably demagogic they or would-be politicians.",MUTATED,9
+Demonstrative mutation,,"New York is in the process of trying to disengage itself from the 20-year-old commitment to that system of school governance, even as Chicago and other cities are moving to institute it.",MUTATED,9
+Demonstrative mutation,,"In most states, increasing spending on education, given these current circumstances, will likely make matters worse, not better.",MUTATED,6
+Demonstrative mutation,,"The simplicity of the reason lies in this: the classroom is where Education occurs, and it is there that the influence of money is minimal.",MUTATED,6
+Demonstrative mutation,,Decades of educational research tell us unequivocally that even smaller classes have zero effect on the academic performance of these pupils -- though they may sometimes be desirable for other reasons.,MUTATED,16
+Demonstrative mutation,,"The already top-heavy administrative structure, which is busy piling more and more paper work on the teachers, receives the new money flows.",MUTATED,10
+Demonstrative mutation,,"The fact that educational expenditures have increased sharply in the past quarter-of-a-century -- we now spend more per pupil than any other country in the world -- is no mystery or paradox, yet educational performance has declined.",MUTATED,15
+Demonstrative mutation,,The system operates in that manner.,MUTATED,0
+Demonstrative mutation,,Students should ascend the educational ladder in accordance with their academic potential.,MUTATED,3
+Demonstrative mutation,,No student should be permitted to graduate from elementary school without mastering these 3 R's at the level that was prevalent 20 years ago.,MUTATED,6
+Demonstrative mutation,,The main purpose of tracking is less to permit these gifted youngsters to flourish (though it is clearly desirable) than to ensure that those less gifted receive the necessary grounding for further study or for entering the modern world of work.,MUTATED,14
+Demonstrative mutation,,The idea that this tracking is somehow 'undemocratic' is absurd.,MUTATED,2
+Demonstrative mutation,,Education's purpose is to encourage these young individuals to realize their full academic potential.,MUTATED,8
+Demonstrative mutation,,No one in his right mind actually believes that everyone has the same academic potential.,MUTATED,4
+Demonstrative mutation,,"It is generally desirable to use these older textbooks -- many of these, alas, out of print -- rather than those newer ones.",MUTATED,8
+Demonstrative mutation,,"These trends are modish, trendy, often downright silly, and at best insubstantial.",MUTATED,4
+Demonstrative mutation,,These dubious theories are based on psychological and sociological concepts rather than on educational experience.,MUTATED,7
+Demonstrative mutation,,"One of the reasons American students perform so poorly in math tests, as compared to those in Britain, France, Germany, or Japan, is the influence of the 'New Math' on American textbooks and teaching methods.",MUTATED,10
+Demonstrative mutation,,"Anyone who wants to appreciate just how bizarre that situation is -- with students who cannot add or subtract learning the conceptual basis of mathematical theory -- should read the article by Caleb Nelson, a recent math major at Harvard, in the November American Spectator.",MUTATED,17
+Demonstrative mutation,,"Most important of all, principals should have a large measure of authority over their faculty, the curriculum, and all matters pertaining to student discipline.",MUTATED,9
+Demonstrative mutation,,The Brookings Institution's most recent study tells us that the best schools are ones free of outside interference and governed by a powerful head.,MUTATED,11
+Demonstrative mutation,,"An unambiguous accountability, of course, accompanies this authority.",MUTATED,3
+Demonstrative mutation,,Schools structured like this produce students who have higher morale and better academic performance.,MUTATED,7
+Demonstrative mutation,,"This is a fact -- though, considering all the feathers ruffled by this, it is not surprising that one hears so little about the situation.",MUTATED,4
+Demonstrative mutation,,"Mr. Kristol, a fellow at the American Enterprise Institute, co-edits this publication called The Public Interest and that one named The National Interest.",MUTATED,0
+Demonstrative mutation,,That is what he had said.,MUTATED,1
+Demonstrative mutation,,"Haney peered doubtfully at Tom through bleary, tear-filled eyes, his drinking companion.",MUTATED,4
+Demonstrative mutation,,"He had no ready answer, as much because of the surprise as due to the fit of coughing.",MUTATED,7
+Demonstrative mutation,,"Was it the man who was drunk, crazy, or both?",MUTATED,1
+Demonstrative mutation,,"But his new-found buddy, who had matched him drink for drink until he lost count, still had clear eyes.",MUTATED,7
+Demonstrative mutation,,"Haney thought to himself that the guy was off his rocker, and looked away from his eyes.",MUTATED,4
+Demonstrative mutation,,"Eyes that were clear, but also bright with a strange intensity, a sort of cold fire burned behind those.",MUTATED,6
+Demonstrative mutation,,Why hadn't he noticed that before?,MUTATED,1
+Demonstrative mutation,,"No, it was not the man who was drunk",MUTATED,2
+Demonstrative mutation,,He wondered how he got tied up with that person.,MUTATED,3
+Demonstrative mutation,,"But, of course, now he remembered it.",MUTATED,1
+Demonstrative mutation,,"The occasion was blurred after two hours of steady drinking, but it came back to him.",MUTATED,5
+Demonstrative mutation,,"The stranger, with his head seemingly sunk in thought, began to cross the street against the light at the exact moment that a huge moving van roared through the intersection.",MUTATED,9
+Demonstrative mutation,,"Brakes howled and a horn blared furiously, but Phil could have hit the man if he had not called out to him a second before.",MUTATED,6
+Demonstrative mutation,,"Anybody might have done his shout without thinking, an involuntary act on the spur of the moment.",MUTATED,4
+Demonstrative mutation,,"As a matter of fact, he would n't have cared at all if it had been the guy who was hit.",MUTATED,3
+Demonstrative mutation,,"Actually, he regretted speaking up when the truck stopped and the愤怒 driver, jumping down from the cab, walked back toward the group.",MUTATED,6
+Demonstrative mutation,,"By then, Haney was being thanked profusely by the stranger, who had one arm around his shoulders as if Haney were an old friend.",MUTATED,6
+Demonstrative mutation,,"So the driver started to curse at the two of them as if they had been in a plot, together with him, to ruin his safe-driving record.",MUTATED,6
+Demonstrative mutation,,"Then the man who was saved turned and looked squarely into the driver's face, without uttering a word.",MUTATED,5
+Demonstrative mutation,,"Very suddenly, the driver stopped swearing at the workers, turned on his heel, and went back to the truck.",MUTATED,6
+Demonstrative mutation,,Haney hadn't given the situation much thought at the time.,MUTATED,3
+Demonstrative mutation,,"Now he recalled the incident very clearly, and wondered what the truck driver had seen in those eyes to make the driver back off.",MUTATED,5
+Demonstrative mutation,,That look must have been the sort that can call a bluff without speaking a word.,MUTATED,5
+Demonstrative mutation,,"When the light went the group's way, the group went on across the street.",MUTATED,3
+Demonstrative mutation,,"And when the stranger found out that Phil was on the way to one of Phil's favorite bars, he insisted on offering to buy drinks for Phil and him.",MUTATED,6
+Demonstrative mutation,,"Phil usually went alone and kept to himself, sitting in the corner and passing the time by nursing his favorite grudges.",MUTATED,8
+Demonstrative mutation,,"But he decided that he wouldn't mind their company in return for free drinks, even though he made good money at his job.",MUTATED,9
+Demonstrative mutation,,That was like Phil.,MUTATED,0
+Demonstrative mutation,,Now he wondered if having that screwball for company was worth it.,MUTATED,4
+Demonstrative mutation,,"He really didn't take that offer seriously, but he began to feel it.",MUTATED,4
+Demonstrative mutation,,"When Pete finally got the coughing under control, he realized that he was still waiting for an answer -- he didn't even seem to wink as he continued to stare.",MUTATED,8
+Demonstrative mutation,,Haney managed to give a weak laugh.,MUTATED,3
+Demonstrative mutation,,Guess Pete can't think of anyone else.,MUTATED,1
+Demonstrative mutation,,Thanks to you anyhow,MUTATED,1
+Demonstrative mutation,,A faint crease appeared between that man's eyebrows.,MUTATED,5
+Demonstrative mutation,,I don't think Phil is taking you seriously.,MUTATED,2
+Demonstrative mutation,,I meant that.,MUTATED,1
+Demonstrative mutation,,Everybody has some kind of grudge against someone.,MUTATED,3
+Demonstrative mutation,,I might have got hit by the truck if it wasn't for you.,MUTATED,2
+Demonstrative mutation,,I believe in returning these favors.,MUTATED,2
+Demonstrative mutation,,I'll do anything for someone I like.,MUTATED,2
+Demonstrative mutation,,It wo n't cost Phil a cent.,MUTATED,2
+Demonstrative mutation,,Go ahead and try it!,MUTATED,1
+Demonstrative mutation,,Phil wearily rubbed the forehead.,MUTATED,1
+Demonstrative Mutation,,He was beginning to feel that it was woolly.,MUTATED,2
+Demonstrative mutation,,Maybe it would be better to humor John and then make an exit.,MUTATED,3
+Demonstrative mutation,,"He really didn't expect that to come of it, and there were a few people",MUTATED,4
+Demonstrative mutation,,"All right, he conceded finally, if you must know, I do not get along with him.",MUTATED,2
+Demonstrative mutation,,He keeps riding me because I enjoy listening to that radio and singing while I'm taking this bath.,MUTATED,7
+Demonstrative mutation,,"He says the neighbors complain, but I don't believe them.",MUTATED,4
+Demonstrative mutation,,Why don't those people tell me themselves if it bothers them?,MUTATED,2
+Demonstrative mutation,,The man closed them and nodded.,MUTATED,3
+Demonstrative mutation,,"When John looked up again, he seemed almost contented.",MUTATED,3
+Demonstrative mutation,,This is fine.,MUTATED,0
+Demonstrative mutation,,Give your address to me.,MUTATED,2
+Demonstrative mutation,,A little time will be taken.,MUTATED,2
+Demonstrative mutation,,I want to study your landlord's habits and the movements of this person first.,MUTATED,5
+Demonstrative mutation,,"You see, I always make the incident look like that accident.",MUTATED,4
+Demonstrative mutation,,"Maybe that option, if it looks reasonable.",MUTATED,2
+Demonstrative mutation,,"In this manner, the customer will not face any trouble.",MUTATED,2
+Demonstrative mutation,,Haney's eyebrows were the ones that flew up.,MUTATED,2
+Demonstrative mutation,,That customer?,MUTATED,0
+Demonstrative mutation,,"Modestly, Pete smiled.",MUTATED,1
+Demonstrative mutation,,"It's the line of work I'm in, he said.",MUTATED,1
+Demonstrative mutation,,"Five minutes later, before Haney could make a break, he stood up and the stranger nodded farewell.",MUTATED,6
+Demonstrative mutation,,"Haney watched the small but wiry man slip out the door quickly and silently, feeling relieved that nobody else seemed to notice the man's departure.",MUTATED,10
+Demonstrative mutation,,"Phil decided to stay a little longer, and as time passed, it seemed as if the strange little man had never been present, except for that other glass on the table.",MUTATED,11
+Demonstrative mutation,,"Some time before midnight, he returned to John's apartment and hit the sack, putting the whole incident out of John's mind before he fell asleep.",MUTATED,8
+Demonstrative mutation,,"The hangover reminded Haney where that had been the night before, the next day, Sunday.",MUTATED,5
+Demonstrative mutation,,"The hangover in turn reminded that guy of his conversation with the weirdy, and he groaned.",MUTATED,5
+Demonstrative mutation,,"He went for more aspirin later in the day, and passed Mr. surly on the way -- Mr. surly was still alive and scowling as usual, as if they were a burden in his life.",MUTATED,7
+Demonstrative mutation,,Phil shrugged and ignored that guy.,MUTATED,2
+Demonstrative mutation,,He went back to the office on Monday.,MUTATED,0
+Demonstrative mutation,,"By Wednesday, he was still alive, the landlord.",MUTATED,2
+Demonstrative mutation,,"Of course on Thursday, Haney mailed the monthly check for separate maintenance to Lolly, his wife, and wished that the stranger could do something about her.",MUTATED,9
+Demonstrative mutation,,"Coming home from work, he was startled to see that a police car was parked in front of the apartment building.",MUTATED,6
+Demonstrative mutation,,"Inside the lobby, they were standing around, talking excitedly.",MUTATED,3
+Demonstrative mutation,,"As one of his fellow tenants was asked what had happened, a foreboding premonition crawled up his spine.",MUTATED,6
+Demonstrative mutation,,It was the landlord who had died.,MUTATED,2
+Demonstrative mutation,,"Late that afternoon, it seemed, John had fallen off the roof while on some obscure errand or inspection.",MUTATED,7
+Demonstrative mutation,,"Apparently, he had been alone.",MUTATED,0
+Demonstrative mutation,,Nobody witnessed the fall -- just the sickening impact as the body smashed on the pavement outside that basement delivery entrance.,MUTATED,10
+Demonstrative mutation,,"Haney hoped that nobody noticed the sudden pallor on his cheeks, as he felt the blood drain from them.",MUTATED,8
+Demonstrative mutation,,"He muttered something about how terrible that situation was, and walked with deliberate slowness to the elevator.",MUTATED,5
+Demonstrative mutation,,"Once inside John's apartment, he poured a drink with trembling hands and flopped limply into that chair.",MUTATED,7
+Demonstrative mutation,,"After a while, John began to feel better about the situation, especially when no one bothered to ask any questions.",MUTATED,6
+Demonstrative mutation,,"But after all, why should we?",MUTATED,0
+Demonstrative mutation,,"Still later, he finally convinced himself that the incident was merely an accident -- just a coincidence.",MUTATED,3
+,,,DUMP,
+Demonstrative mutation,,"Haney went to bed, happy that at least he was rid of his lousy landlord.",MUTATED,3
+Demonstrative mutation,,"After all, no one like the man had a family, so they did not suffer, and everybody was better off because of it.",MUTATED,4
+Demonstrative mutation,,"Really, he said to himself, no one would kill that man just as a favor!",MUTATED,4
+Demonstrative mutation,,So you thought that was not what I meant when I said it.,MUTATED,2
+Demonstrative mutation,,"The stranger's eyes were large and sad, as if those of Phil Haney had been hurt by his actions.",MUTATED,5
+Demonstrative mutation,,"The recurrent, annoying dream was beginning to take on overtones of a nightmare, but now it felt more like that.",MUTATED,4
+Demonstrative mutation,,"However, Haney knew that it was not her dream.",MUTATED,2
+Demonstrative mutation,,"He might be very tight, but he knew where it was.",MUTATED,2
+Demonstrative mutation,,"It was that bar, and two weeks later, on Saturday night, he had an excuse to drink more heavily than usual.",MUTATED,7
+Demonstrative mutation,,"He had been sitting at the little table in the usual corner, as far as possible from those talkative, friendly lushes.",MUTATED,7
+Demonstrative mutation,,He was enjoying his weekly ritual of washing down this pet grievance with bourbon slightly moistened with water.,MUTATED,6
+Demonstrative mutation,,This was not the landlord's favorite grievance.,MUTATED,3
+Demonstrative mutation,,He had already quite forgotten about that man.,MUTATED,1
+Demonstrative mutation,,"In fact, he had only mentioned John on the spur of the moment.",MUTATED,3
+Demonstrative mutation,,Lolly was his real grievance.,MUTATED,2
+Demonstrative mutation,,"Toward the end of his fourth hairy highball, while he was moodily making wet rings on the table-top with it, he became aware that he was not the only one present.",MUTATED,7
+Demonstrative mutation,,"He looked up with bloodshot eyes and beheld the stranger sitting across the table, smiling a secret smile at the man, as if he and the stranger were fellow conspirators.",MUTATED,10
+Demonstrative mutation,,He hadn't even noticed Pete -- what was his name? -- he hadn't seen him sit down.,MUTATED,3
+Demonstrative mutation,,"The man was uncanny, like it, and made as much noise as that.",MUTATED,5
+Demonstrative mutation,,"Haney felt like disappearing out of view, but he was already cornered with that wiry, dark little man.",MUTATED,4
+Demonstrative mutation,,He began to wish that he hadn't shouted that evening when this truck bore down through the crossing.,MUTATED,5
+Demonstrative mutation,,Was he going to be saddled from now on with that creep as his bar-buddy?,MUTATED,2
+Demonstrative mutation,,He'd have to start going to those other places again.,MUTATED,4
+Demonstrative mutation,,"In a low voice, almost whispering, Phil was asked by the man if he was happy with the way the landlord had been taken off his back.",MUTATED,8
+Demonstrative mutation,,"He made the mistake of answering in such a casual manner, and instantly realized that his skepticism must have been evident in his expression or tone.",MUTATED,5
+Demonstrative mutation,,"Pete, who was usually quite cheerful, slightly frowned, then that moodiness became sadness.",MUTATED,2
+Demonstrative mutation,,"Haney didn't want to encourage the company, but felt he ought to buy that man a drink anyhow, to prevent possible trouble.",MUTATED,9
+Demonstrative mutation,,But that did not cause any trouble.,MUTATED,1
+Demonstrative mutation,,"Haney obviously upset the guy, who sulked over his drink due to that lack of appreciation.",MUTATED,6
+Demonstrative mutation,,"To break the uncomfortable silence, Haney started speaking.",MUTATED,3
+Demonstrative mutation,,"In time, and after two drinks, he was bitterly complaining about her, continuing on the subject for ten minutes or so until he noticed the renewed interest of his listener -- it was evident in the alert face and the now bright eyes.",MUTATED,11
+Demonstrative mutation,,"When the stranger paused to moisten his throat, he broke in.",MUTATED,4
+Demonstrative mutation,,But why should she pay those bills?,MUTATED,2
+Demonstrative mutation,,"If she runs around with those other men, and if you truly hate her as you claim, why not just file for divorce against her ``?",MUTATED,4
+Demonstrative mutation,,Haney scowled at him.,MUTATED,1
+Demonstrative mutation,,"She, that bitch, would love a divorce, he growled.",MUTATED,4
+Demonstrative mutation,,Then she'd get half of everything you have.,MUTATED,3
+Demonstrative mutation,,You know about the community property deal.,MUTATED,2
+Demonstrative mutation,,I'd have to sell this business to pay off the debt with her share.,MUTATED,3
+Demonstrative mutation,,She can say that `` ! !,MUTATED,0
+Demonstrative mutation,,Pete understood with a nod.,MUTATED,1
+,,,DUMP,
+Demonstrative mutation,,Now I see it.,MUTATED,1
+Demonstrative mutation,,"You must understand, I haven't been in this situation for too long.",MUTATED,1
+Demonstrative mutation,,I came here to retire.,MUTATED,2
+Demonstrative mutation,,That's why I -- why I do a free favor now and then.,MUTATED,2
+Demonstrative mutation,,You should have told her about me before.,MUTATED,1
+Demonstrative mutation,,Haney felt a twinge of annoyance whenever that familiar line was heard again.,MUTATED,6
+Demonstrative mutation,,Then a wild thought ran circles through it.,MUTATED,4
+Demonstrative mutation,,Suppose -- just suppose T was really what this guy said he was!,MUTATED,2
+Demonstrative mutation,,The retired professional was a killer,MUTATED,3
+Demonstrative mutation,,"If that man was just a nut, no harm was done.",MUTATED,3
+Demonstrative mutation,,"But if the real thing was him, he could do something about that issue with Lolly.",MUTATED,1
+Demonstrative mutation,,"He felt very cunning, very proud of himself as he played on that man's soft spot.",MUTATED,4
+Demonstrative mutation,,"He said gently, 'No offense was intended.'",MUTATED,3
+Demonstrative mutation,,"But that's just it -- well, you know.",MUTATED,1
+Demonstrative mutation,,"The cops didn't suspect this, and I thought it was a coincidence.",MUTATED,4
+Demonstrative mutation,,"After all, Pete, I didn't know you.",MUTATED,1
+Demonstrative mutation,,That could have been an accident.,MUTATED,1
+Demonstrative mutation,,"Casually, he shrugged.",MUTATED,1
+Demonstrative mutation,,But if you say you managed that,MUTATED,2
+Demonstrative mutation,,The man was hooked.,MUTATED,1
+Demonstrative mutation,,"Feverishly, Tom's eyes burned.",MUTATED,2
+Demonstrative mutation,,"Yes, yes, he said to that problem, muttering impatiently.",MUTATED,1
+Demonstrative mutation,,"Of course, the incident looked like that accident.",MUTATED,2
+Demonstrative mutation,,I always work that method -- and always at a time when they have an alibi.,MUTATED,4
+Demonstrative mutation,,Let Phil prove this.,MUTATED,2
+Demonstrative mutation,,I think I can manage that for you.,MUTATED,2
+Demonstrative mutation,,He eagerly waited for that moment.,MUTATED,1
+Demonstrative mutation,,Haney swished the liquor in the bottom of this glass.,MUTATED,4
+Demonstrative mutation,,"The rout of a GOP congressional hopeful in a Mississippi district that hasn't backed a Democratic presidential candidate since Adlai Stevenson, which occurred on Tuesday, serves as another reminder that, at least at the federal level, the practice of political 'ticket splitting' has been increasing over the past half century.",MUTATED,13
+Demonstrative mutation,,"In the presidential election year of 1948, more than 20% of the nation's congressional districts selected a candidate from a different party for the White House than they did for the House of Representatives.",MUTATED,9
+Demonstrative mutation,,"Now that figure routinely equals a third, and it has been above 40% twice.",MUTATED,1
+Demonstrative mutation,,"As we know, voters tend to favor Republicans more in races for the presidency than they do in those for Congress.",MUTATED,6
+Demonstrative mutation,,"In every presidential election over the past half century, except for Goldwater's presidential candidacy, the GOP has captured a greater percentage of the major-party popular vote for president than it has for congressional seats or the popular vote for Congress.",MUTATED,11
+Demonstrative mutation,,"Prior to 1932, it was nearly the opposite of this pattern.",MUTATED,2
+Demonstrative mutation,,The results of recent decades are accounted for by what?,MUTATED,4
+Demonstrative mutation,,A simple economic theory may at least partially explain the split personality this displays among Americans in the voting booth.,MUTATED,4
+Demonstrative mutation,,Three assumptions support this theory:,MUTATED,2
+Demonstrative mutation,,"Voters can 'buy' one of two brands when they select their political agents -- the Republican brand that believes in the minimalist state and in the virtues of private markets over those of public action, and the Democratic brand that believes in big government and in public intervention to remedy the excesses attendant to the pursuit of private interest.",MUTATED,21
+Demonstrative mutation,,"Congressional representatives have two basic responsibilities: dealing with national issues, such as casting roll call votes on legislation that imposes costs and/or confers benefits on the population at large, and attending to local issues like constituency service and pork barrel.",MUTATED,17
+Demonstrative mutation,,"Republican congressional representatives, because of their belief in a minimalist state, are less willing to engage in local benefit-seeking than these Democratic members of Congress.",MUTATED,9
+Demonstrative mutation,,"If those assumptions hold, the voters in Congressional races face what economic theory labels a prisoner's dilemma and have an incentive, on the margin, to lean towards the Democratic party.",MUTATED,11
+Demonstrative mutation,,"If a Republican is put into office, not only will the party acquire less in terms of local benefits, but the chosen legislator will be relatively powerless to prevent other legislators from 'bringing home the bacon' to their respective constituencies.",MUTATED,11
+Demonstrative mutation,,"After all, each legislator is just one of these 535 individuals when it comes to making national policy.",MUTATED,5
+Demonstrative mutation,,"In the races for that political seat, the incentive for voters, at the margin, is to favor the Republicans.",MUTATED,4
+Demonstrative mutation,,"Although a GOP president may limit local benefits to the particular district/state of the voter, such a president is also likely to be more effective at preventing other districts/states and their legislators from doing the same.",MUTATED,12
+Demonstrative mutation,,The standing of that individual voter will consequently be enhanced by lower taxes.,MUTATED,5
+Demonstrative mutation,,"While the theory is exceedingly simple, it appears to explain several phenomena.",MUTATED,5
+Demonstrative mutation,,"First, why the increase and peculiar pattern of ticket splitting over the past half century has occurred: Before Franklin Roosevelt's presidency and the New Deal's advent, the government played a much smaller role in society, and the prisoner's dilemma problem that voters faced in Congressional races was considerably less severe.",MUTATED,12
+Demonstrative mutation,,"Second, it explains why voters hold Congress in disdain but generally love their own representatives: These constituents appreciate the specific benefits their legislator wins for them but not the overall cost associated with every other legislator doing likewise for his constituency.",MUTATED,19
+Demonstrative mutation,,"Third, the theory suggests that those legislators who focus excessively on national policy, as opposed to seeking local benefits, have lower security in their offices.",MUTATED,9
+Demonstrative mutation,,"For example, these first-term members of the House, once the most vulnerable incumbents, have virtually become immune to defeat.",MUTATED,7
+Demonstrative mutation,,"The defeat of 13 of the 52 freshman Republicans, which were brought into office in 1980 by the Reagan revolution, was the one exception to this recent trend when they were running for re-election in 1982.",MUTATED,11
+Demonstrative mutation,,"Because these freshmen placed far more emphasis on their partisan role -- spreading the Reagan revolution -- in national policy making, these freshmen were more vulnerable to defeat.",MUTATED,10
+Demonstrative mutation,,"Fourth, the theory indicates why Republicans may have a difficult time attracting viable candidates for congressional office.",MUTATED,10
+Demonstrative mutation,,Potential candidates may be discouraged from running less by the prospect of defeat at the hands of a Democratic opponent than by the congressional salary.,MUTATED,11
+Demonstrative mutation,,"To the extent that the Republican Party and its financial backers realize the congressional prisoner's dilemma game works to their disadvantage, its attempts to field a competitive slate of candidates will be hindered.",MUTATED,12
+Demonstrative mutation,,"Fifth, this theory may at least partially explain why ticket splitting has been especially prevalent in the southern regions.",MUTATED,1
+Demonstrative mutation,,"To the extent that Southern Democratic legislators have held a disproportionate share of power in Congress since 1932 and have been able to translate this clout into more local benefits for their constituencies, voters in the South have had an especially strong incentive to keep these Democrats in office.",MUTATED,19
+Demonstrative mutation,,"Finally, the theory suggests why they generally have fared better in Senate races than in campaigns for the House.",MUTATED,5
+Demonstrative mutation,,"Since local benefit-seeking matters more and national policy making matters less in the lower chamber of Congress, this pattern is precisely what one would expect when Republicans are less willing to engage in such activities than their Democratic counterparts.",MUTATED,12
+Demonstrative mutation,,Is there any empirical support for the theory?,MUTATED,3
+Demonstrative mutation,,The key assumption that Democratic legislators are more willing to engage in local benefit-seeking than Republican colleagues is corroborated by three pieces of evidence.,MUTATED,13
+Demonstrative mutation,,"James Bennett and Thomas DiLorenzo, the economists, find that GOP senators turn back roughly 10% more of their allocated personal staff budgets than these Democrats do.",MUTATED,7
+Demonstrative mutation,,"To the extent that the primary duty of a congressman's personal staff involves seeking local benefits, it indicates that their political philosophy leads Republicans in Congress to pay less attention to the specific concerns of their constituents.",MUTATED,13
+Demonstrative mutation,,"Second, if this key assumption is valid, Democrats should have lower attendance rates on roll-call votes than those of Republicans to the extent that such votes reflect national policy making and that participating in them takes away from the time a legislator could otherwise devote to local benefit-seeking.",MUTATED,23
+Demonstrative mutation,,"This is indeed what the House's data indicate, particularly in the case of this institution.",MUTATED,2
+Demonstrative mutation,,The attendance rate of the Democratic House has not surpassed that of the Republican House since 1959.,MUTATED,3
+Demonstrative mutation,,"Finally, as the table indicates, Democrats assign a higher proportion of their personal staffs to district offices -- where local benefit-seeking duties are more significant and national policy-making activities are less so, compared to those in Washington offices.",MUTATED,11
+Demonstrative mutation,,"An examination of changes in personal staffing decisions in the Senate between 1986 and 1987 -LRB- when control of the Senate changed party hands -RRB- , moreover , reveals that the staffing differences noted in the table cannot be attributed to the disproportionate control the Democrats exercise , due to their majority-party status , over other resources such as committee staff .",MUTATED,17
+Demonstrative mutation,,"An additional piece of evidence from the Senate shows that, when holding factors such as incumbency advantages and regional differences constant, the discrepancy in popular votes for Republican presidential versus senatorial candidates in states hosting a Senate election is positively correlated with the onerousness of the federal government's tax burden per state -LRB- a progressive tax rate affects higher-income states more severely -RRB-.",MUTATED,20
+Demonstrative mutation,,"Put more simply, voters look on GOP candidates for president more kindly than they do on Republican candidates for the Senate when that prisoner's dilemma is more severe.",MUTATED,8
+Demonstrative mutation,,"Moreover, the same peculiar pattern of ticket splitting that appears at the state government level also seems to take place at the federal level.",MUTATED,9
+Demonstrative mutation,,Republican governors and Democratic legislatures are more typically found in split state governments than the other way around.,MUTATED,2
+Demonstrative mutation,,"A cross-state econometric investigation, furthermore, reveals that, holding other factors constant, the difference between the vote for the Republican gubernatorial candidate in a state and the Republicans' share of the lower state house is a positive function of the state tax rate.",MUTATED,15
+Demonstrative mutation,,"In sum, at least part of the seemingly irrational behavior that voters display in the voting booth at both federal and state government levels may have an exceedingly rational explanation.",MUTATED,13
+Demonstrative mutation,,The business school of the University of Southern California is where Mr. Zupan teaches.,MUTATED,1
+Demonstrative mutation,,"In the long, frightening night following the devastating earthquake on Tuesday, the Bay Area residents looked for comfort and solace wherever they might find it.",MUTATED,7
+Demonstrative mutation,,Some found that on the screen of a personal computer.,MUTATED,2
+Demonstrative mutation,,"Hundreds of Californians made their way to these computers after the quake, and checked in with each other on electronic bulletin boards, which link these computers CB-radio-style, via phone lines.",MUTATED,7
+Demonstrative mutation,,"The most vivid bulletins that came were from The Well, a board in Sausalito, Calif., which is one of the liveliest outposts of the electronic underground.",MUTATED,5
+Demonstrative mutation,,About two-thirds of these subscribers of the Well live in the Bay Area.,MUTATED,3
+Demonstrative mutation,,"The Well was knocked out by the quake for six hours, but when the station came back up, it teemed with emotional first-hand reports.",MUTATED,7
+Demonstrative mutation,,These excerpts are from the electronic traffic that occurred that night.,MUTATED,4
+Demonstrative mutation,,"Pacific Daylight Time is the time, and those are the initials or nicknames subscribers use to identify themselves.",MUTATED,6
+,,,DUMP,
+,,,DUMP,
+,,,DUMP,
+Demonstrative mutation,,"I was on the third floor of that old building in the avenues, and except for my heart (Beat, BEAT!), I'm okay.",MUTATED,7
+Demonstrative mutation,,"Got back to Bolinas, and it all had fallen: broken poster frames with this glass on the floor, file cabinets open or dumped onto the floor.",MUTATED,5
+Demonstrative mutation,,It is 11:59 p.m.,MUTATED,0
+Demonstrative mutation,,John Kennedy Doe:,MUTATED,0
+Demonstrative mutation,,"I was at Joe's, my favorite bar, waiting for the game to start.",MUTATED,4
+Demonstrative mutation,,"I felt the temblor start and glanced at the table next to yours, smiled the guilty smile, and we both mouthed, 'Earthquake!' together.",MUTATED,8
+Demonstrative mutation,,That is usually the length of time it takes for temblors to pass.,MUTATED,3
+Demonstrative mutation,,"This time, the building just got stronger and then it started shaking violently up and down as though it were a child's toy block that was being tossed.",MUTATED,9
+,,,DUMP,
+Demonstrative mutation,,His Royal Highness:,MUTATED,0
+Demonstrative mutation,,I was in the Berkeley Main library when the earthquake hit.,MUTATED,2
+Demonstrative mutation,,Endless seconds wondering if the huge windows would buckle and shower us with glass.,MUTATED,6
+Demonstrative Mutation,,Only those books fell in the reading room.,MUTATED,2
+Demonstrative mutation,,Then the fire at the auto paint shop sent a cloud of evil-looking black smoke into the air.,MUTATED,10
+,,,DUMP,
+Demonstrative mutation,,The ONEZIE is a popular clothing item.,MUTATED,0
+Demonstrative mutation,,I and my younger daughter are doing well.,MUTATED,1
+Demonstrative mutation,,"The building shook like hell, and the shaking kept getting stronger.",MUTATED,4
+Demonstrative mutation,,"Except for the gas tank at Hustead's Towing Service, which exploded and burned in downtown Berkeley, this area is quite peaceful.",MUTATED,2
+Demonstrative mutation,,A lot of alarms went off in the cars.,MUTATED,3
+Demonstrative mutation,,"The cats are fine, although they are nervous.",MUTATED,3
+,,,DUMP,
+Demonstrative mutation,,DHAWK is the name of the company:,MUTATED,0
+Demonstrative mutation,,"A huge fire, resulting from a broken gas main, occurred in the Marina area of San Francisco.",MUTATED,2
+Demonstrative mutation,,Areas that contain `fill' liquefy.,MUTATED,2
+Demonstrative mutation,,A woman in that three-story apartment was able to walk out of her window on the third floor onto street level after the quake.,MUTATED,11
+Demonstrative mutation,,It settled right down into the ground just after the house did.,MUTATED,2
+,,,DUMP,
+Demonstrative mutation,,That is what DAYAC said.,MUTATED,0
+Demonstrative mutation,,"I was driving my truck, stopped at the red light at this corner of Shattuck and Alcatraz when it hit.",MUTATED,5
+Demonstrative mutation,,The worst part was seeing those power lines waving above my head with no way for me to drive away.,MUTATED,5
+,,,DUMP,
+Demonstrative mutation,,LMEYER is the one who spoke:,MUTATED,0
+Demonstrative mutation,,The pier in San Rafael was 300 ft. out.,MUTATED,2
+Demonstrative mutation,,"The performance flopped all around, making it real dramatic!",MUTATED,2
+Demonstrative mutation,,Many of the concrete slabs had hairline cracks afterwards.,MUTATED,5
+Demonstrative mutation,,The damn fishing was ruined by him!,MUTATED,2
+Demonstrative mutation,,It is 1:00 in the morning.,MUTATED,0
+Demonstrative mutation,,"Hey now, this phrase is being addressed directly.",MUTATED,0
+Demonstrative mutation,,I rode the elevator out to the second floor of Leo's building at the intersection of 55th and Telegraph in Oakland.,MUTATED,3
+Demonstrative mutation,,I heard parts of that building above my head cracking.,MUTATED,4
+Demonstrative mutation,,I actually thought that it might happen to me.,MUTATED,1
+Demonstrative mutation,,"I couldn't decide if I should come home to her, because Marin's house is on stilts.",MUTATED,5
+Demonstrative mutation,,I decided to brave this storm.,MUTATED,3
+Demonstrative mutation,,There was a horrible smell of gas as I passed that Chevron refinery before crossing the Richmond-San Rafael Bridge.,MUTATED,6
+Demonstrative mutation,,I could also see those clouds across the bay from the horrible fire in the Marina District.,MUTATED,5
+Demonstrative mutation,,Many aftershocks have been felt by me.,MUTATED,3
+Demonstrative mutation,,My back is still in these knots and my hands are still doing that shaking.,MUTATED,4
+Demonstrative mutation,,I think a few of these aftershocks might just be my body shaking.,MUTATED,4
+,,,DUMP,
+Demonstrative mutation,,The user with the username GR8FLRED:,MUTATED,0
+Demonstrative mutation,,I could see San Francisco's flames from my house across the bay.,MUTATED,4
+Demonstrative mutation,,It's hard for me to believe that this is really happening.,MUTATED,3
+,,,DUMP,
+Demonstrative mutation,,This research document:,MUTATED,0
+Demonstrative mutation,,"The building on the corner is severely damaged, so the old lady and her mother are in the guest room.",MUTATED,6
+Demonstrative mutation,,There are books and software all over this place.,MUTATED,2
+Demonstrative mutation,,This position requires typing while standing.,MUTATED,1
+Demonstrative mutation,,It is 1:20 in the morning.,MUTATED,0
+Demonstrative mutation,,That is DGAULT's comment.,MUTATED,0
+Demonstrative mutation,,The town of Bolinas stands astride the San Andreas Fault.,MUTATED,0
+Demonstrative mutation,,"I didn't feel it, but I noticed that the bird's behavior was strange.",MUTATED,5
+Demonstrative mutation,,The swarms of Duck.,MUTATED,2
+,,,DUMP,
+Demonstrative mutation,,The SAMURAI,MUTATED,0
+Demonstrative mutation,,Another aftershock was just felt a few seconds ago by me.,MUTATED,4
+Demonstrative mutation,,It has left me numb.,MUTATED,0
+,,,DUMP,
+,,,DUMP,
+Demonstrative mutation,,Downtown Bolinas seems to be the part of the town that is worst off.,MUTATED,4
+Demonstrative mutation,,"No power, minimal phones, and a mess of mayonnaise, wine, and everything else covered the floors of that big old general store and the People's Co-op.",MUTATED,8
+Demonstrative mutation,,"The quivers move through this house every few minutes at unpredictable intervals, and it has taken refuge under my desk.",MUTATED,10
+Demonstrative mutation,,"The river runs out frantically now and then, and it is clearly pretty distressed.",MUTATED,1
+Demonstrative mutation,,I was at Stinson Beach when it rolled through the town.,MUTATED,2
+Demonstrative mutation,,"At first, they were unfazed.",MUTATED,0
+Demonstrative mutation,,"Then as things got rougher, we ran for that door and spent the next few minutes outside watching this brick sidewalk under our feet oozing up and down, and those flowers waving in an eerie rhythm.",MUTATED,16
+Demonstrative mutation,,Amazing what it does to your heart rate and your short-term memory.,MUTATED,3
+Demonstrative mutation,,"Everyone looked calm, but there was a surreal low level of confusion as the aftershocks continued.",MUTATED,8
+,,,DUMP,
+Demonstrative mutation,,It refers to SHIBUMI:,MUTATED,0
+Demonstrative mutation,,"Power is back on, and the UCSF medical center seems to have quieted down for the night (this was happening out in the parking lot, with the sound and lights of the triage).",MUTATED,5
+Demonstrative mutation,,A friend of mine was at the underground computer center in downtown San Francisco when the earthquake struck.,MUTATED,5
+Demonstrative mutation,,He said that it took a three-foot trip sliding across the floor.,MUTATED,5
+Demonstrative mutation,,Today should be interesting as they realize how hard life is going to be here for a while.,MUTATED,6
+Demonstrative mutation,,It is 4:30 in the morning.,MUTATED,0
+Demonstrative mutation,,This is what Kim said.,MUTATED,0
+Demonstrative mutation,,"I got to my house, let the canines inside, and noticed some noises overhead, as if someone was walking on the rooftop or upstairs.",MUTATED,6
+Demonstrative mutation,,Then I noticed the vehicle was bouncing up and down as if they were jumping on the car.,MUTATED,4
+Demonstrative mutation,,I realized what was happening and screamed into the house for them.,MUTATED,4
+Demonstrative mutation,,"Cupboard doors were flying, that in the kitchen walked a few feet, the dogs came running, and I scooted them into the dog run while I stood in the doorway, watching these trash cans dance across the concrete.",MUTATED,13
+Demonstrative mutation,,"When I realized that was over, I went and stood in front of this house, waiting and praying for Merrill to come to our home, shivering as if it were 20 below zero until he arrived.",MUTATED,9
+Demonstrative mutation,,Never in your life have you been so frightened.,MUTATED,2
+Demonstrative mutation,,"When I saw these of 880 and that of the Bay Bridge, I began to cry.",MUTATED,3
+,,,DUMP,
+Demonstrative mutation,,John Robert O'Connell Enterprises (JROE) is a well-known company.,MUTATED,0
+Demonstrative mutation,,"All evening, the District was more or less like a pajama party, with this many people and dogs walking around, drinking beer.",MUTATED,5
+,,,DUMP,
+Demonstrative mutation,,Carol G:,MUTATED,0
+Demonstrative mutation,,"I was just sitting down to meet with these new therapy clients, the couple, when the building started shaking like crazy.",MUTATED,8
+Demonstrative mutation,,"The flimsy structure, built on supports, was really rocking around.",MUTATED,5
+Demonstrative mutation,,"The three of us stopped breathing for a moment, and then when the danger kept on coming we lunged for the doorway.",MUTATED,7
+Demonstrative mutation,,"Needless to say, the first session was interesting!",MUTATED,4
+,,,DUMP,
+Demonstrative mutation,,Calliope is the name of the muse.,MUTATED,0
+Demonstrative mutation,,"Albany, it escaped embarrassingly unscathed.",MUTATED,2
+Demonstrative mutation,,"The family was scared and couldn't get through on the phone line, spending a truly horrible hour in the dark.",MUTATED,5
+,,,DUMP,
+Demonstrative mutation,,This High-Level Requirements document:,MUTATED,0
+Demonstrative mutation,,Judy and I were in the back yard when it started rolling like ocean waves.,MUTATED,3
+Demonstrative mutation,,"We ran into the house to get her, but the next tremor threw me in the air and bounced me as I tried to get to my feet.",MUTATED,10
+Demonstrative Mutation,,"Mame may have been extremely freaked, but we are all doing fine here.",MUTATED,2
+Demonstrative mutation,,The kitchen was full of this broken crystal.,MUTATED,3
+Demonstrative mutation,,There are books and tapes spread throughout this room.,MUTATED,3
+Demonstrative mutation,,"Not one item in this house is where it is supposed to be, but the structure is fine.",MUTATED,3
+Demonstrative mutation,,"While Mame and I were standing on the lawn, waiting for another tremor, I noticed they were all emerging from the ground and slithering across the lawn!",MUTATED,8
+,,,DUMP,
+Demonstrative mutation,,The user with the username GR8FLRED:,MUTATED,0
+Demonstrative mutation,,It's amazing how one moment can so completely change my life.,MUTATED,3
+,,,DUMP,
+Demonstrative mutation,,This figure illustrates:,MUTATED,0
+Demonstrative mutation,,"I guess all of us here are living tentatively, waiting for that expected yet dreaded aftershock.",MUTATED,3
+Demonstrative mutation,,That it's over and only took 15 seconds is hard to accept.,MUTATED,4
+Demonstrative mutation,,I wonder if we will ever be able to relax.,MUTATED,3
+,,,DUMP,
+Demonstrative mutation,,This animal is known as PANDA:,MUTATED,0
+Demonstrative mutation,,The body goes to total alert for this flight or that fight.,MUTATED,3
+Demonstrative mutation,,A commonplace symptom seems to be Nausea.,MUTATED,3
+Demonstrative mutation,,"Right now, it is very quiet in Berkeley.",MUTATED,1
+Demonstrative mutation,,Shattuck is the street I walked along between Delaware and Cedar at a few minutes before eight this morning.,MUTATED,4
+,,,DUMP,
+Demonstrative mutation,,It was agreed.,MUTATED,1
+Demonstrative mutation,,This is it.,MUTATED,0
+,,,DUMP,
+,,,DUMP,
+Demonstrative mutation,,Your comments implied that the principal cause of homelessness we discovered is to be found in the large numbers of mentally ill and substance-abusing individuals among them.,MUTATED,5
+Demonstrative mutation,,There has been no statement like that made by us.,MUTATED,2
+Demonstrative mutation,,"It is clear that most of these individuals, both those who are mentally ill and those who are alcoholics, do not become homeless.",MUTATED,1
+Demonstrative mutation,,The causes of this issue are poorly understood and complex in any individual case.,MUTATED,0
+Demonstrative mutation,,"In quoting from their research, you emphasized the high prevalance of mental illness and alcoholism in our society.",MUTATED,2
+Demonstrative mutation,,"You did not note that the multitude of physical disorders the homeless people we examined had, in addition to their psychiatric problems and substance abuse, were significant.",MUTATED,5
+Demonstrative mutation,,"Malnutrition, chest diseases, cardiovascular disorders, skin problems, infectious diseases, and the aftereffects of assaults and rape afflicted them.",MUTATED,0
+Demonstrative mutation,,"Not only do these people lack safety, privacy, and shelter, they also lack the elementary necessities of nutrition, cleanliness, and basic health care.",MUTATED,3
+Demonstrative mutation,,"In a recent report, the Institute of Medicine highlighted that specific health issues can lead someone to become homeless, while others result from it, and a third group consists of conditions that are hard or unable to treat if they lack sufficient shelter.",MUTATED,2
+Demonstrative mutation,,"These interactions between health and homelessness are complex, defying sweeping generalizations about the 'cause' or 'effect'.",MUTATED,3
+Demonstrative mutation,,"If we look towards that future, preventing homelessness is an important goal for us.",MUTATED,1
+Demonstrative mutation,,"We will need to develop a much more sophisticated understanding of the dynamics of homelessness than we currently possess, an understanding that can only be developed through careful study and research.",MUTATED,3
+Demonstrative mutation,,The Department of Psychiatry at Johns Hopkins University School of Medicine in Baltimore is headed by William R. Breakey M.D. and Pamela J. Fischer M.D.,MUTATED,0
+Demonstrative mutation,,"Tulane Prof. James Wright's study says homelessness is due to a complex array of problems, with poverty being the common thread.",MUTATED,2
+Demonstrative mutation,,"Nearly 40% of the population that is homeless consists of women and children, and only 25% of them exhibit some combination of drug, alcohol, and mental health issues, according to the study.",MUTATED,3
+Demonstrative mutation,,"Dr. Wright asserts that it is simultaneously a housing issue, an employment issue, a demographic issue, an issue of social disaffiliation, a mental health concern, a family violence issue, one created by reduced social welfare spending, one resulting from the decline of the traditional nuclear family, and one intimately connected to the recent rise in the number of individuals living in poverty.",MUTATED,4
+Demonstrative mutation,,"Leighton E. Cluff, M.D., is the president of the Robert Wood Johnson Foundation in Princeton, N.J.",MUTATED,0
+Demonstrative mutation,,"The highly regarded director of a privately funded drop-in center for the homeless in New York quoted, ""If they are homeless, they don't sleep for fear of being robbed or murdered.""",MUTATED,5
+Demonstrative mutation,,"After your first three weeks of sleep deprivation, you're scarcely in touch with reality any more; without psychiatric treatment, you may well be unable to fend for yourself as you once could.",MUTATED,1
+Demonstrative mutation,,"Obviously, the homeless had pre-existing mental illness or addiction.",MUTATED,2
+Demonstrative mutation,,"But many others have fallen through the cracks in our city's economy into the grim, brutal world of these streets.",MUTATED,1
+Demonstrative mutation,,"Once there, what ways of escape are open to those people other than drink, drugs, or insanity?",MUTATED,0
+Demonstrative mutation,,"Maxwell R.D. Vos is from Brooklyn, N.Y.",MUTATED,0
+Demonstrative mutation,,"You dismiss the view that the 77% reduction of federal housing-assistance programs might have played a significant role in the increased number of these men and women sleeping on our city streets during the Reagan-Bush years as ""sentimental"".",MUTATED,7
+Demonstrative mutation,,"There is no sign that you bothered to consider this inverse of your logic: that mental illness and substance abuse might be, to some degree, consequences rather than causes of homelessness.",MUTATED,2
+Demonstrative mutation,,"When a convenient assertion could be made, your research stopped.",MUTATED,4
+Demonstrative mutation,,"Robert S. Jenkins is from Cambridge, Mass.",MUTATED,0
+Demonstrative mutation,,"Of the approximately 200 sponsors of the recent march in Washington for the homeless, you chose to cite the National Association of Home Builders and the International Union of Bricklayers and Allied Craftsmen, insinuating that the march got its major support from these self-serving groups that 'know a good thing when they see it,' and that the crusade was based on greed or the profit motive.",MUTATED,11
+Demonstrative mutation,,"But isn't the desire for profit the driving force behind them, who subscribe to and advertise in your paper?",MUTATED,2
+Demonstrative mutation,,"Why did n't you mention YMCA, YWCA, Catholic Charities USA, or any of the other hundred nonprofit organizations that were involved in the march?",MUTATED,2
+Demonstrative mutation,,"As for the findings on these 203 Baltimore homeless individuals who underwent psychiatric examinations, you should conduct your own survey.",MUTATED,5
+Demonstrative mutation,,"Choose 203 business executives, including perhaps your own staff, and put those selected out on the streets, to be deprived for one month of their homes, families, and income.",MUTATED,4
+Demonstrative mutation,,"I would predict that within a short time, most people would find Thunderbird a satisfactory alternative to Chivas Regal, and that their usual phobias, anxieties, depressions, and substance abuses would dramatically increase.",MUTATED,3
+Demonstrative mutation,,"Ruth K. Nelson is from Cullowhee, N.C.",MUTATED,0
+Demonstrative mutation,,"A highly detailed account of the Wedtech scandal, which begins on a reassuring note, is `` Feeding Frenzy `` (Henry Holt, 326 pages, $19.95).",MUTATED,2
+Demonstrative mutation,,"In the preface's opening, William Sternberg, the co-author, provides an example of his personal integrity.",MUTATED,1
+,,,DUMP,
+Demonstrative mutation,,"Any question as to why an author would believe such a plaintive, high-minded note of assurance is necessary is answered once you read the book about sticky fingers and sweaty scammers.",MUTATED,5
+Demonstrative mutation,,"Bribe by bribe, they led us along the path that Wedtech traveled, from its inception as a small manufacturing company to the status of a full-fledged defense contractor, entrusted with the task of producing vital equipment for the Army and Navy.",MUTATED,7
+Demonstrative mutation,,"John Mariotta, the founder of the company, and Fred Neuberger, who soon became his partner after Wedtech's creation, are the central figures of the book.",MUTATED,3
+Demonstrative mutation,,"Although it was Wedtech that started in 1965, the company didn't truly begin to gain momentum until 1975, when Mr. Neuberger discovered the federal government's Section 8 A minority business program.",MUTATED,3
+Demonstrative mutation,,"The Johnson-era, Great Society creation mandates that certain government contracts be awarded noncompetitively to these minority businesses.",MUTATED,4
+Demonstrative mutation,,"Mr. Neuberger realized that, although of Italian ancestry, Mr. Mariotta still could qualify as a minority person since Mr. Mariotta was born in Puerto Rico.",MUTATED,2
+Demonstrative mutation,,The two partners merely had to falsify that of the corporation's true ownership.,MUTATED,4
+Demonstrative mutation,,"Instead of a 50/50 split, it became, on paper only, two-thirds Mariotta's and one-third Neuberger's; they were in the program and off to the races.",MUTATED,1
+Demonstrative mutation,,"Wedtech, a company owned by minorities, was located in the South Bronx, an area blighted, which Jimmy Carter made famous during his 1976 presidential campaign.",MUTATED,3
+Demonstrative mutation,,"Carter's campaign rhetoric about rebuilding the South Bronx was plugged right into by the company, and it kept using the minority -- the South Bronx angle -- throughout the Reagan '80s.",MUTATED,4
+Demonstrative mutation,,"Starting with Congressman Mario Biaggi, who is now serving a jail sentence, the company initiated a pattern of bribing federal, state, and local officials, as well as individuals close to them, right up to and including individuals like E. Robert Wallach, a close friend and adviser to the former Attorney General Ed Meese.",MUTATED,7
+Demonstrative mutation,,Wedtech did not just employ the old-fashioned method of bribery.,MUTATED,0
+Demonstrative mutation,,"It made ample use of modern influence peddling techniques, retaining politically connected 'respectable' entities such as the law firms, investment bankers, and political consultants, including Lyn Nofzinger, a confidant of Reagan.",MUTATED,4
+Demonstrative mutation,,"When necessary, organized crime provided the assistance it sought and received.",MUTATED,3
+Demonstrative mutation,,Sometimes those bribed became partners in the company.,MUTATED,2
+Demonstrative mutation,,The merit system was used by Wedtech management.,MUTATED,3
+Demonstrative mutation,,"If someone was especially helpful in that corrupt scheme, they received not just cash in a bag, but equity.",MUTATED,2
+Demonstrative mutation,,"If you were not an effective crook, you found yourself out in the cold, a fate that eventually befell him, the firm's semiliterate 'minority' person.",MUTATED,4
+Demonstrative mutation,,"But despite the sensational nature of these revelations and the breezy, easy-to-read style of tabloids, the book 'Feeding Frenzy' often fails to grip as compelling reading material.",MUTATED,0
+Demonstrative mutation,,Auditors discovered the crookery showed a lack of ingenuity on their first day of the job.,MUTATED,2
+Demonstrative mutation,,Wedtech's scammers simply bribed those individuals to shut up.,MUTATED,1
+Demonstrative mutation,,"The garden-variety low lifes, who were scammers, wanted big houses, Mercedes cars, beautiful women, and expensive clothes.",MUTATED,2
+Demonstrative mutation,,"Among all of them, no one is wrestling with the concepts of good and evil; nor are they especially intelligent, or even temporarily insane.",MUTATED,1
+Demonstrative mutation,,"Irving Louis Lobsenz, at least somewhat interesting, was the one character who changed his name to Rusty Kent London, becoming a master gambler and author of a book on blackjack.",MUTATED,4
+Demonstrative mutation,,"Toward the end, the man enters the story, just in time for him to get arrested.",MUTATED,3
+Demonstrative mutation,,"Absorbed in doling out these 'Feeding Frenzy' tidbits, the authors glossed over the root causes of the Wedtech scandal, which occurred under the auspices of that Section 8 A federal program.",MUTATED,4
+Demonstrative mutation,,"The courts might want to end these rigid affirmative action programs, they at least come around to saying.",MUTATED,5
+Demonstrative mutation,,A program like that is a little like leaving gold in the street and then expressing surprise when thieves walk by to scoop it up.,MUTATED,6
+Demonstrative mutation,,"Numerous other scandals, including those at HUD, share the same characteristics as Wedtech does.",MUTATED,1
+Demonstrative mutation,,Government programs like these seem tailor-made for corruption.,MUTATED,2
+Demonstrative mutation,,Why are these programs not eliminated?,MUTATED,2
+Demonstrative mutation,,A few clues are provided by `` Feeding Frenzy ``.,MUTATED,2
+Demonstrative mutation,,"In and around all levels of government in the U.S., these groups of people can best be described as belonging to it.",MUTATED,3
+Demonstrative mutation,,"Whenever this government is redistributing wealth, regulating commerce, or maintaining a large defense establishment, there is big money to be made in influencing, brokering, or selling the processes and decisions of it.",MUTATED,11
+Demonstrative mutation,,Our version of the East bloc's Nomenklatura has absolutely no wish to see anything change.,MUTATED,2
+Demonstrative mutation,,How many government programs and policies exist because they line the pockets of these political insiders?,MUTATED,3
+Demonstrative mutation,,The real issue raised by the Wedtech scandal is this.,MUTATED,2
+Demonstrative mutation,,The chairman and chief executive officer of the New York State Urban Development Corp. from 1983-85 was Mr. Stern.,MUTATED,0
+Demonstrative mutation,,I had to reach back to my French 101 class when the man with the clipboard leaned over my shoulder during the coffee phase of dinner and asked if I wanted to ride in a hot air balloon.,MUTATED,5
+Demonstrative mutation,,"I was a last-minute addition to the French journalism convention, and so far, the activities had been exclusively this: eating, drinking, smoking, sleeping, and more drinking.",MUTATED,0
+Demonstrative mutation,,The man represented a halfhearted attempt to introduce a bit of les sportif into that itinerary.,MUTATED,5
+Demonstrative mutation,,"But as the French embody a Zen-like state of blase when it comes to athletics, try finding a Nautilus machine in Paris; my fellow conventioners were having none of that.",MUTATED,5
+Demonstrative mutation,,"The brothers Montgolfier, French of course, were the world's first hot-air balloonists, and the diners at my table simply lit more Gauloises and scoffed at the suggestion of interrupting a perfectly good Saturday morning to go golfing or even that ballooning you mentioned.",MUTATED,5
+Demonstrative mutation,,This kind of chi-chi airborne activity wins heartwarmingly covetous responses in the U.S.A.,MUTATED,2
+Demonstrative mutation,,You went on a ballooning adventure?,MUTATED,1
+Demonstrative mutation,,Is it in France that you exclaim so?,MUTATED,0
+Demonstrative mutation,,"It seems Malcolm Forbes' hot-air lead has been followed by Americans, who have taken to ballooning in a heady way.",MUTATED,3
+Demonstrative mutation,,"During the past 25 years, the number of those who have passed the Federal Aviation Authority's lighter-than-air test has swelled from a couple hundred to several thousand, with some estimates running as high as 10,000 for balloonists.",MUTATED,6
+Demonstrative mutation,,"The nine-day Albuquerque International Balloon Fiesta, which is held annually in the U.S., includes the largest gathering of ersatz Phineas Fogg. It attracts around 800,000 enthusiasts and over 500 balloons, with some shaped to look like Carmen Miranda, Garfield, or a 12-story-high condom.",MUTATED,5
+Demonstrative mutation,,"This year, the official entry status was denied to the condom balloon.",MUTATED,3
+Demonstrative mutation,,"But in that gray 16th-century river town adjacent to France's Vosges mountain region, none of the Yankee-come-lately enthusiasms for things aloft was evident in Epinal.",MUTATED,0
+Demonstrative mutation,,"Ballooning at the de rigueur hour of 6 a.m. held all the attraction for them, the people of sunrise root-canal work.",MUTATED,2
+Demonstrative mutation,,"Feeling the naggings that a culture imperative imposed, I promptly signed up.",MUTATED,1
+Demonstrative mutation,,"The first thing anybody will tell you about ballooning is that this activity requires zip in the way of athletic prowess, or even a measure of derring-do.",MUTATED,4
+Demonstrative mutation,,So long as it is not me looking down.,MUTATED,1
+Demonstrative mutation,,"They will also tell you that even if you hate heights, you can still go in this balloon.",MUTATED,3
+Demonstrative mutation,,I still say you should not look down.,MUTATED,2
+Demonstrative mutation,,At least not when one is ascending.,MUTATED,1
+Demonstrative mutation,,What people won't tell you is not to go aloft in anything that you don't want to get wet.,MUTATED,4
+Demonstrative mutation,,I'm not referring to that traditional champagne drenching during the back-on-terra-firma toast.,MUTATED,1
+Demonstrative mutation,,I'm talking about it landing in a canal.,MUTATED,1
+Demonstrative mutation,,In that porous wicker basket.,MUTATED,0
+Demonstrative mutation,,The pilot speaks no English.,MUTATED,2
+Demonstrative mutation,,"To wit, the start of my maiden voyage and the novitiates, referred to as virgins, commenced at dawn on a dew-sodden fairway and concluded at noon in a soggy field.",MUTATED,1
+Demonstrative mutation,,"Balloon flights almost always occur at this time of day, which is at dawn or dusk, when the winds are lightest.",MUTATED,2
+Demonstrative mutation,,"In between, there was a lot of coffee drinking while watching these balloons inflate, and plenty of standing around deciding who would fly in which balloon and in what order the baskets, each holding no more than four passengers, would be used.",MUTATED,9
+Demonstrative mutation,,"When it wasn't my turn in the balloon, I followed the balloon's progress from the chase car, listening to the driver holler into a walkie-talkie.",MUTATED,4
+Demonstrative mutation,,"After long stretches of the attendant ground activity came 20 or so lovely minutes of drifting above these mountains, watching the silver mists rise off the river and the cows amble about the fields.",MUTATED,7
+Demonstrative mutation,,"It's hard not to feel that God is in His heaven with a view like this, even if your pilote in the silly plaid beret kept pointing out how 'belle' everything was.",MUTATED,2
+Demonstrative mutation,,"Eventually the little French farmers and their wives emerged from their stone houses, put their hands above their small eyes, and squinted at us.",MUTATED,3
+,,,DUMP,
+Demonstrative mutation,,We were coming down straight into that canal of theirs.,MUTATED,1
+Demonstrative mutation,,"You ca n't steer, see, that's another rule of thumb about ballooning.",MUTATED,2
+Demonstrative mutation,,And neither can he.,MUTATED,0
+Demonstrative mutation,,"You can go only up or down by heating the balloon's air with this propane burner, which does make the top of your head feel hot and ride these air currents.",MUTATED,9
+Demonstrative mutation,,The chase car makes that necessary.,MUTATED,2
+Demonstrative mutation,,"Balloonists seldom ascend beyond 2,000 feet, and they typically average a leisurely 5-10 miles per hour.",MUTATED,2
+Demonstrative mutation,,"When it is cruising along at a steady altitude, the balloon gives little sense of motion.",MUTATED,2
+Demonstrative mutation,,"Only when you are descending -- or in our case, going down a bit too quickly -- do you feel, well, as if you're airborne in a picnic basket.",MUTATED,1
+Demonstrative mutation,,"What's that person doing?' hissed my companion, the only other English-speaking member of the convention, whose knuckles had turned white.",MUTATED,3
+Demonstrative mutation,,"Attention, yelled the pilot as that basket plunged into the canal.",MUTATED,4
+Demonstrative mutation,,"You bet attention, I yelled back to him, leaping atop these propane tanks, I'm wearing alligator loafers!",MUTATED,4
+Demonstrative mutation,,"Our pilot simply laughed, fired up the burner, and with another blast of flame, lifted these, oh, a good 12-inches above the water level.",MUTATED,4
+Demonstrative mutation,,He scuttled us along for a few feet before plunging us into the drink again.,MUTATED,2
+Demonstrative mutation,,"Eventually we came to rest in that soggy patch of field where we had the exquisite pleasure of scrambling out of the basket into the mud while they, the French half of our ballooning tag team, scrambled in.",MUTATED,6
+Demonstrative mutation,,I looked at this watch.,MUTATED,1
+Demonstrative mutation,,It was barely half-an-hour in the air.,MUTATED,0
+Demonstrative mutation,,"Back in the chase car, we drove around some more, got stuck in a ditch, enlisted the aid of a local farmer to get the trailer hitch out and pull us from the ditch.",MUTATED,7
+Demonstrative mutation,,"We finally rendezvoused with our balloon, which, as the Epinalers watched, had come to rest on a dirt road. They observed our half-an-hour of non-flight activity, which included the precision routine of yanking it to the ground, punching all the air out, rolling it up, and cramming it and the basket into the trailer.",MUTATED,14
+Demonstrative mutation,,"The most exercise we'd had all morning was this, and it was followed by our immediately driving to the nearest watering hole.",MUTATED,4
+Demonstrative mutation,,"This meant going back to the golf course, where we saw a few French duffers attack the first tee as we sat under the Cinzano umbrellas, I nursing an espresso and my ego.",MUTATED,5
+Demonstrative mutation,,I had been off the ground for barely 30 minutes after a whole morning of ballooning.,MUTATED,0
+Demonstrative mutation,,"Still, I figured that back in the U.S.A., the envy-quotient of the event was nearly peerless.",MUTATED,1
+Demonstrative mutation,,"As for the ride back to camp, our pilot and all the others clambered into that chase car.",MUTATED,1
+Demonstrative mutation,,My companion and I were left to ride alfresco in the wicker basket.,MUTATED,2
+Demonstrative mutation,,"As we streaked by the gendarme, I couldn't resist rearing up on my soggy loafers and saluting him.",MUTATED,4
+Demonstrative mutation,,"A free-lance writer, that is Ms. de Vries.",MUTATED,0
+Demonstrative mutation,,The U.N. group has drafted a plan to reduce these emissions,MUTATED,3
+Demonstrative mutation,,"The conference sponsored by the U.N. -- marked by unruly posturing and mutual recriminations -- regained focus on Friday with the release of a document detailing ambitious greenhouse-gas reductions for the following 40 years, with they, the industrialized nations, bearing most of the burden in the short term.",MUTATED,11
+Demonstrative mutation,,"The text, which could provide this basis for a final political deal to regulate greenhouse gases, highlighted these remaining obstacles as much as it illuminated the path forward.",MUTATED,5
+Demonstrative mutation,,"But the negotiation was seen as an important advance that is running out of time, with more than 100 world leaders arriving in Copenhagen next week.",MUTATED,7
+Demonstrative mutation,,"The text, forged by a U.N. ad-hoc working group, does not specify the amount of money that rich countries would provide to poor ones for dealing with global warming in both the short and long term.",MUTATED,5
+Demonstrative mutation,,"And these provide a range of options for the key questions, including how developed and major emerging economies would cut their carbon output, and what the upper limit of global temperature rise policymakers would be willing to tolerate.",MUTATED,5
+Demonstrative mutation,,"John Coequyt, the senior Washington representative for the Sierra Club, said that it gives a lot of flexibility to the process.",MUTATED,5
+Demonstrative mutation,,"Michael Zammit Cutajar, who drafted the document, reduced a 180-page negotiation text to concentrate on what Yvo de Boer, the U.N.'s top climate official, referred to as 'this big picture'.",MUTATED,6
+Demonstrative mutation,,"The outlines for a possible deal show that industrial nations would collectively cut their emissions by 2020 by 25 to 45 percent compared with 1990 levels, whereas major developing countries would reduce these during the same period by 15 to 30 percent.",MUTATED,6
+Demonstrative mutation,,"Together, they would cut emissions between 50 and 95 percent by 2050.",MUTATED,2
+Demonstrative mutation,,"The European Union also boosted the talks on Friday by pledging to give $3.6 billion annually over the following three years to assist these poorer countries in adapting to the effects of climate change, ranging from dealing with floods and droughts to preventing deforestation.",MUTATED,8
+Demonstrative mutation,,"Still, the same sort of verbal fireworks that have dominated the talks for the past week were featured on Friday.",MUTATED,4
+Demonstrative mutation,,U.S. special climate envoy Todd Stern rejected language that required binding cuts of greenhouse-gas emissions for industrialized countries like ours compared with voluntary ones by major emerging economies if they were not funded by the developed world.,MUTATED,7
+Demonstrative mutation,,The Obama administration's move signaled it is taking a harder line with China than those Bush administration officials did just two years ago.,MUTATED,4
+Demonstrative mutation,,"Stern said the United States would not engage in a deal unless the major developing countries, which he complained had not taken sufficient action, ensured the text was robust enough for the cuts to be verified by external observers.",MUTATED,5
+Demonstrative mutation,,"An hour after the Chinese vice foreign minister He Yafei spoke, Stern made his comments, stating that America's top climate negotiator had either shown a lack of common sense or been extremely irresponsible by claiming earlier in the week that the United States would not provide financial assistance to China in dealing with global warming.",MUTATED,7
+Demonstrative mutation,,"With the future economic trajectory of major powers like the United States at stake, fault lines have erupted both within the developing world and between the industrial world and economies such as China's.",MUTATED,2
+Demonstrative mutation,,"The ongoing struggle is as much about rescuing specific economies as it is about preserving this planet, with China and the United States disputing over their obligations while those poorer nations maintain that the world's two dozen most powerful countries are neglecting the scientific imperative for more aggressive action.",MUTATED,9
+Demonstrative mutation,,"Ricardo Ulate, a Costa Rican delegate, stated that it's not surprising these major powers are disputing who will assume the costs of curbing greenhouse gases, while those vulnerable countries have been more proactive in making the big emitters responsible for their actions.",MUTATED,4
+Demonstrative mutation,,"Ulate, the regional Mexico and Central America climate change adviser for Conservation International, said that this is clearly a game where a new economic hegemony is being developed.",MUTATED,4
+Demonstrative mutation,,"Most of the major participants say the talks in Copenhagen will produce a political deal at best, although some of the countries most vulnerable to climate change, such as those indicated, would continue to push for a legally binding treaty.",MUTATED,6
+Demonstrative mutation,,"The group of 43 members, known as the Alliance of Small Island States, drafted a 24-page treaty proposal early Friday morning.",MUTATED,6
+Demonstrative mutation,,"Artur Runge-Metzger, who leads on behalf of the European Commission in international climate negotiations, noted that the unified push by small island nations has `` exerted political pressure on the whole political process, `` partly because these nations are now demanding action from emerging economies like China and India.",MUTATED,9
+Demonstrative mutation,,"The delegates focused on the fact that most of the outstanding issues must be resolved before the heads of government, such as they, arrive to strike a deal, thus infusing the talks with new urgency.",MUTATED,6
+Demonstrative mutation,,"High-level officials including Jairam Ramesh, the Indian environment minister, and that Chinese vice minister stepped off the planes and hurried through the Bella Center's halls to closed-door meetings and news conferences, so that they could establish claims which will be arbitrated during the following week.",MUTATED,7
+Demonstrative mutation,,"The gathering -- where 13,000 individuals move in and out of the convention center daily, guitar-playing activists mock these countries they believe are selling out during nightly shows, and they pass draft proposals by hand on paper instead of using email -- presents a challenge.",MUTATED,7
+Demonstrative mutation,,"Nearly all of the key ministers, including those who are most critical, are now here; and by Wednesday, 60 heads of government, including those from Copenhagen, will have arrived.",MUTATED,3
+Demonstrative mutation,,"Carlos Manuel Rodriguez, vice president for global policy at Conservation International, said that they were getting into the big leagues.",MUTATED,1
+Demonstrative mutation,,"They are coming, the heavyweights.",MUTATED,1
+Demonstrative mutation,,Baskonia gave away that victory in Israel,MUTATED,2
+Demonstrative mutation,,"Caja Laboral achieved a stunning 82-91 victory on their visit to the Maccabee Electra court despite Dusko Ivanovic's heavy losses. After the great performance by Mizra Teltovic, who was the best on Caja Laboral's team with eight three-pointers scored (29 points), they now sit at the top of their group.",MUTATED,8
+Demonstrative mutation,,"The Vitorian team knew they had to compensate for the significant absences of Herrmann, Oleson, Huertas, and Micov with a big dose of involvement and teamwork, even though they had to hold out until the end to achieve that victory.",MUTATED,6
+Demonstrative mutation,,"Additionally, the success from the sidelines, with these 16 three pointers scored, had a lot to do with the final triumph.",MUTATED,4
+Demonstrative mutation,,"The Azulgranas started the game with an advantage, quickly placing themselves ahead on the scoreboard right from the start.",MUTATED,3
+Demonstrative mutation,,"As the first four baskets by Vitora were from the perimeter, speculation was already that she had jumped into the Israeli net with hot wrists.",MUTATED,4
+Demonstrative mutation,,The main scorers of the 18-20 at the end of the first period were English and Teletovic.,MUTATED,2
+Demonstrative mutation,,"The second quarter was more of the same, but Alavan's team chose Barac's inside game and Eliyahu's contributions. Eliyahu, they greeted with whistles and applause upon his homecoming, ensuring they extended their lead to 34-43 by half-time.",MUTATED,6
+Demonstrative mutation,,"Teletovic had already begun to stand out as the best on the team with 13 points, even though Splitter's six fewer points already signaled that it wasn't going to be their best night, the Brazilian.",MUTATED,3
+Demonstrative mutation,,"But the game, despite being headed for halftime, was not more decided, and the Maccabees tried to remind Vitorians that not just anybody wins on Elias's court, and with the 'hand of Elias' putting the pressure on, Elias managed to get involved in the game.",MUTATED,3
+Demonstrative mutation,,"Eidson and Pnini, they played a decisive role in the return of the 'yellows' to the light.",MUTATED,3
+Demonstrative mutation,,There are more of these disadvantages,MUTATED,1
+Demonstrative mutation,,"Ivanovic's players, injured but far from dead, needed to run a couple of plays correctly before they could breathe, and that's when Marza Teletovic, the machine gun, arrived. With three almost consecutive three-pointers and the help of English and Ribas, he brought the scoreboard back to a reassuring lead (54-67), which the team managed to narrow down at the end of the third quarter (57-67).",MUTATED,9
+Demonstrative mutation,,"The Alavas worked themselves to the bone in the last period, and English and San Emeterio had already made it clear that the opponents were not going to take away what the team had earned during the first thirty minutes.",MUTATED,2
+Demonstrative mutation,,"However, the best players on the team, Pnini and Eidson, did not give up and tried to keep it alive from the three-point line (70-77).",MUTATED,2
+Demonstrative mutation,,"In spite of the Israelis' late surge, and with Splitter fouled out, Ivonic's team didn't rush. They defended well, and by then, the game was already in the bag, marking the first time Tel Aviv's victory eluded them this season.",MUTATED,6
+Demonstrative mutation,,"The strengthening dollar slows Wall Street, which closes without momentum.",MUTATED,2
+Demonstrative mutation,,"On Friday, the market, torn between better than expected indicators in the United States and a strengthening dollar, saw the Dow Jones gain 0.63% while the NASDAQ fell by 0.03%: the New York Stock Exchange closed with no particular heading.",MUTATED,6
+Demonstrative mutation,,"The Dow Jones Industrial Average, according to the final closing figures, has increased by 65.67 points to 10,471.50 points, while NASDAQ, which is known for its technology predominance, dropped by 0.55 point to 2,190.31 points.",MUTATED,6
+Demonstrative mutation,,"The advance of the wider Standard & Poor's 500 index was by 0.37% (4.06 points), reaching 1,106.41 points.",MUTATED,1
+Demonstrative mutation,,"Frankly, Mace Blicksilver of Marblehead Asset Management observes that the market is very calm.",MUTATED,1
+Demonstrative mutation,,"The situation remains within a narrow margin; trading volumes have become very weak, and I believe the situation will persist until the end of the year.",MUTATED,4
+Demonstrative mutation,,"Charles Schwab's analysts summarised that the trend was supported by the publication of better than expected economic indicators, which have ``contributed to improving market opinion regarding the robustness of the economic recovery.``",MUTATED,7
+Demonstrative mutation,,"In the United States, these retail sales figures show an increase of 1.3% for November, marking the second consecutive month, and are significantly higher than the predictions.",MUTATED,3
+Demonstrative mutation,,"Moreover, the index from Michigan University indicates that American consumers' confidence has clearly rebounded in December, rising to 73.4 from 67.4 the month before, according to preliminary estimates.",MUTATED,6
+Demonstrative mutation,,"Owen Fitzpatrick from Deutsche Bank explained that the indices have, however, been slowed by a renewed rise of the dollar, to a new two-month high against it, which ``puts downward pressure on these sectors that are sensitive to the economic situation.``",MUTATED,6
+Demonstrative mutation,,Some ground has been lost by technology securities.,MUTATED,3
+Demonstrative mutation,,It has fallen in the bond market.,MUTATED,0
+Demonstrative mutation,,"Treasury 10-year bond yields have grown to 3.540 %, up from the previous 3.482 % on Tuesday evening, while 30-year bond yields now stand at 4.497 %, against that of 4.492 % the previous evening.",MUTATED,5
+Demonstrative mutation,,The Iraqi Oil Ministry has reached deals with these 10 foreign oil companies,MUTATED,1
+Demonstrative mutation,,"Despite concerns about violence and political instability, Iraq managed to attract major oil companies to rebuild the ailing infrastructure during two auctions that concluded on Saturday.",MUTATED,6
+Demonstrative mutation,,"The Iraqi Oil Ministry's 10 agreements with foreign oil companies indicate that countries like China, Russia, and European firms are set to play a significant role in rebuilding Iraq's oil industry, which has been devastated by decades of conflict and sanctions.",MUTATED,8
+Demonstrative mutation,,Just two of the 10 auctioned fields were won by American companies.,MUTATED,2
+Demonstrative mutation,,"The second auction, which began on Friday, had been paid for by seven American companies to participate in.",MUTATED,3
+Demonstrative mutation,,The one who submitted the bid was the only one to lose.,MUTATED,1
+Demonstrative mutation,,The deals reached by two American companies were for fields auctioned in June.,MUTATED,4
+Demonstrative mutation,,The analysts were surprised by the meager representation of American oil giants like ExxonMobil in Iraq's newly opened oil industry.,MUTATED,5
+Demonstrative mutation,,"Ruba Husari, the editor of Iraq Oil Forum, an online news outlet, said that after six years of war, Iraq finally opened its doors, and Asians and Europeans, not U.S. companies, were leading the way.",MUTATED,10
+Demonstrative mutation,,It will be a long time before anything else is offered in that country.,MUTATED,1
+Demonstrative mutation,,"Concerns over security, underscored by that massive coordinated bombing on Tuesday, and political instability as the U.S. military withdraws, likely kept American oil companies from venturing more forcefully into Iraq, which has the world's third-largest proven crude reserves, analysts said.",MUTATED,10
+Demonstrative mutation,,"In some cases, U.S. firms were at a disadvantage because these rivals, especially the Chinese and other government-controlled energy firms, have significantly lower labor costs and are more likely to take risks since they do not respond to these shareholders.",MUTATED,8
+Demonstrative mutation,,The only American companies that reached deals with the ministry were Exxon-Mobil and Occidental Petroleum Inc.,MUTATED,3
+Demonstrative mutation,,"Chevron and ConocoPhillips, major U.S. firms which have cultivated close ties with the Iraqi Oil Ministry and provided technical advice in recent years, walked away empty-handed.",MUTATED,5
+Demonstrative mutation,,"Lukoil and Gazprom, the top stakeholders, were among the Russian companies that won two of the contracts this weekend.",MUTATED,3
+Demonstrative mutation,,State-owned China National Petroleum Corporation bid on more contracts than that of any other company and walked away with large stakes in contracts for these two major fields.,MUTATED,5
+Demonstrative mutation,,"Oil Ministry spokesman Assam Jihad said that China is on track to become a major economic and technological power, as we all know.",MUTATED,4
+Demonstrative mutation,,We feel confident that this Chinese company will be on par with the competitors and will fulfill their commitments towards Iraq.,MUTATED,5
+Demonstrative mutation,,The ministry compared the offers made by pre-selected Companies to the per barrel fee it was willing to pay for boosting output above current levels at each field.,MUTATED,8
+Demonstrative mutation,,The banks in the US are repaying the state's support,MUTATED,3
+Demonstrative mutation,,"The US major banks, hit by the crisis, are breaking free from the state's shackles.",MUTATED,4
+Demonstrative mutation,,"On Wednesday, Bank of America repaid the USD 45 billion support that was provided by the TARP bank protection fund in one go, nearly equivalent to EUR 30 billion.",MUTATED,5
+Demonstrative mutation,,"And, according to CNBC, the US broadcaster, Citigroup is also planning to repay that state support.",MUTATED,4
+Demonstrative mutation,,"The institutions want to free themselves from the restrictions that come with accepting money, such as limits on bonuses for managers and the imposition of high charges.",MUTATED,7
+Demonstrative mutation,,Bank of America raised approximately $19 billion from these investors using convertible loans.,MUTATED,2
+Demonstrative mutation,,"The remaining funds were taken from the business's own reserve, which was amply replenished by selling its units.",MUTATED,2
+Demonstrative mutation,,"Kenneth Lewis, the Bank's head, extended his express thanks to you, the American taxpayer, on Wednesday evening: The cash injection you provided helped us over a very difficult time.",MUTATED,1
+Demonstrative mutation,,"At the height of the financial crisis, Merrill Lynch was taken over by the bank, which overstretched itself.",MUTATED,3
+Demonstrative mutation,,Citigroup also plans to raise cash on the capital market to free this company from its liabilities with the state.,MUTATED,3
+Demonstrative mutation,,"Already on Thursday, CNBC reported, with reference to circles, that the bank from the US had announced a capital increase of approximately USD 20 billion.",MUTATED,7
+Demonstrative mutation,,The spokesman for Citigroup refused to comment.,MUTATED,1
+Demonstrative mutation,,"Goldman Sachs, JP Morgan Chase, and Morgan Stanley had already repaid the support they provided in June.",MUTATED,2
+Demonstrative mutation,,The Cheshire Appeal will direct attention to Twitter.,MUTATED,1
+Demonstrative mutation,,There were half a dozen people typing away in the rows of the courtroom.,MUTATED,1
+Demonstrative mutation,,"Minute by minute, Twitter relayed their reports of gruesome testimony.",MUTATED,2
+Demonstrative mutation,,"In the end, the defense claims there were more than 140,000 Twitter messages concerning the trial, which addressed the rape of children who were tied to their beds in that house that was set on fire.",MUTATED,8
+Demonstrative mutation,,"On Thursday, the widely followed trial of Steven J. Hayes, who was convicted of killing these three members of a Cheshire, Conn., family, is set to come to an official end with that judge's imposition of the death sentence voted for by the jury.",MUTATED,8
+Demonstrative mutation,,But Mr. Hayes' lawyers have already filed documents with the court that outline appeal arguments likely to engage the courts for years.,MUTATED,5
+Demonstrative mutation,,"The intense reporting on the trial - including the extensive use of Twitter by mainstream reporters - created a 'circus atmosphere' and such widespread, instant saturation with inflammatory details that public passions improperly swayed the jury.",MUTATED,8
+Demonstrative mutation,,The question of whether new technology requires new courtroom rules could force these appeals judges to grapple with it.,MUTATED,5
+Demonstrative mutation,,"As Thomas J. Ullmann, Mr. Hayes's chief defense lawyer, experienced it during this trial, he thinks there's a real danger that the inclusion of new technology in the courtroom is affecting individuals' fair-trial rights.",MUTATED,6
+Demonstrative mutation,,"Jon C. Blue, the trial judge of State Superior Court, tersely dismissed the claims in a ruling last week, stating that the media had been “carefully controlled`` and that there was no indication that they had been influenced by passion.",MUTATED,5
+Demonstrative mutation,,But it is not likely to be the last word on this issue.,MUTATED,1
+Demonstrative mutation,,"For decades, these appeals courts have recognized that the coverage of those notorious cases can raise questions about fairness in a trial.",MUTATED,6
+Demonstrative mutation,,"In a landmark 1966 ruling, the United States Supreme Court overturned Dr. Sam Sheppard's conviction for the murder of his wife, stating in the decision of Sheppard v. Maxwell that there was a 'carnival atmosphere at trial' due to the news media.",MUTATED,6
+Demonstrative mutation,,Some believe the television show and `` The Fugitive `` movie were inspired by this crime.,MUTATED,2
+Demonstrative mutation,,"Some lawyers suggested that appeals courts, when reviewing the conviction of Mr. Hayes a half-century later, might find the argument intriguing that new rules could be essential to regulate communication methods in courtrooms that were inconceivable during Dr. Sheppard's case.",MUTATED,6
+Demonstrative mutation,,"John J. Donohue III, a Stanford Law School professor, expressed concern about the impact of new media in high-profile trials, noting there is a general reason for worry. He studied the Connecticut death penalty and authored a report indicating it was enforced arbitrarily.",MUTATED,7
+Demonstrative mutation,,"Professor Donohue suggested that the idea of limiting instant communication from courtrooms might intrigue some judges, potentially leading to fairer trials.",MUTATED,6
+Demonstrative mutation,,"Mr. Hayes's lawyers have outlined many issues, including this one with Twitter, which are likely to be argued for years, thus delaying an execution.",MUTATED,4
+Demonstrative mutation,,"The defense lawyers also claim, for example, that Mr. Hayes may have been prejudiced when Judge Blue declined to allow the potential jurors to test their reactions by viewing the grisly crime-scene photographs during jury selection.",MUTATED,5
+Demonstrative mutation,,"Some of the jurors have said they were horrified by these photographs of the victims, including Jennifer Hawke-Petit, 48, and her children, Hayley, 17, and Michaela, 11.",MUTATED,3
+Demonstrative mutation,,The defense lawyers say they will also challenge the constitutionality of the death penalty and argue that the judge wrongly removed this critical juror and that he improperly added pressure for a verdict with this unusual decision to direct the jury to deliberate over a weekend.,MUTATED,7
+Demonstrative mutation,,"They were not sequestered, the jurors.",MUTATED,1
+Demonstrative mutation,,But the arguments about the effect of the intense coverage of this trial may draw the most interest.,MUTATED,5
+Demonstrative mutation,,"The challenge to the verdict, filed in the previous month, dominated the news in Connecticut and was a topic of discussion among candidates for governor and the United States Senate during the election campaign.",MUTATED,8
+Demonstrative mutation,,"The news media continually fanned the flames of emotion about this case, as they argued.",MUTATED,2
+Demonstrative mutation,,"The lawyers wrote that the daily crush of media tweets, cameras, and reporters outside New Haven Courthouse was unlike anything ever seen there or perhaps statewide.",MUTATED,5
+Demonstrative mutation,,The focus on Twitter's coverage is controversial.,MUTATED,2
+Demonstrative mutation,,"In interviews, some journalists claimed that this instantaneous news was more incendiary than those reports delivered more slowly, a Luddite perspective that would make for poor court policy in governing the coverage of future trials.",MUTATED,8
+Demonstrative mutation,,But some lawyers said these courts were often attracted to arguments that such social and technological changes required their adaptation.,MUTATED,5
+Demonstrative mutation,,That claim is being pressed by Mr. Hayes's lawyers.,MUTATED,2
+Demonstrative mutation,,"In their filing, they referred to the 1966 decision of the Supreme Court that overturned Dr. Sheppard's conviction due to the trial coverage, making it clear that they would argue that these new media necessitated new rules.",MUTATED,6
+Demonstrative mutation,,"The case, they wrote, represents the Sheppard v. Maxwell of this century.",MUTATED,2
+Demonstrative mutation,,Sport and that law regarding fraud,MUTATED,3
+Demonstrative mutation,,Tricks such as Alonso's and Ramos's before the Ajax match demonstrate wittiness but not the will to remove a sanction.,MUTATED,3
+Demonstrative mutation,,"The expulsion presumably forged by Xabi Alonso and Sergio Ramos, two players of Real Madrid, in the game against Ajax on the 23rd of November in the European Champions League has caused rivers of ink to be written about whether their behavior is unsportsmanlike and if they should be sanctioned by UEFA.",MUTATED,5
+Demonstrative mutation,,"As we all know, a few minutes before the end of the game (which their team had already won), the players deliberately wasted time, which led the referee to show the second yellow card to them.",MUTATED,7
+Demonstrative mutation,,"This way, since Real Madrid will finish as the group's leader, they will fulfil the prescribed sanction during the next league game against Auxerre, and will be able to get rid of those cards in the following phase.",MUTATED,8
+Demonstrative mutation,,"Finally, the UEFA's disciplinary committee has sanctioned Jose Mourinho, the team's trainer, with two games, and the players involved with varying economic amounts.",MUTATED,6
+Demonstrative mutation,,"The provocation leading to a yellow card in circumstances similar to those is not a new practice, but rather a frequent occurrence in the football world.",MUTATED,6
+Demonstrative mutation,,"This sport is so extended that it becomes part of the ethos and the unwritten rules, which are followed nonetheless.",MUTATED,3
+Demonstrative mutation,,"Part of the debate arising in the related case is caused by the fact that the team of Real Madrid, an organization that in its hymn boasts of nobility and honor, has fined its players for similar acts, and by the dramatization apparently orchestrated by Mourinho, who adds to his extensive history as a histrionic and provoking technician.",MUTATED,13
+Demonstrative mutation,,"Anyway, the debate revolves around whether behavior not explicitly prohibited by the regulation, such as these actions, contradicts the principles of the sport. In other words, if it constitutes fraud, then they are actions that respect the sport's regulation, but they appear to evade its spirit.",MUTATED,7
+Demonstrative mutation,,The type of damage examines the impact it has on the sporting spirit.,MUTATED,3
+Demonstrative mutation,,"One of the advantages that include the spirit of sport is the integrity of the players on the other team, an aspect that these actions didn't put in danger, meaning there was no violent game.",MUTATED,8
+Demonstrative mutation,,"Another of these advantages, alluded to with fare-play, is to avoid the team of lawbreaker players taking advantage of the opposing team, which did not occur.",MUTATED,4
+Demonstrative mutation,,"However, the paradoxical thing about Real Madrid's players' action is that it did not conform to what we generally consider legal fraud; the violation of rules was not committed secretly to evade sanctions, but their actions were most apparent, leading to punishment from the referee.",MUTATED,8
+Demonstrative mutation,,The team waited for and accepted that sanction without any complaints.,MUTATED,2
+Demonstrative mutation,,Another question is what type of advantage they obtained in the actions these violators deliberately carried out.,MUTATED,5
+Demonstrative mutation,,"Here it seems necessary to state that this isn't a disadvantageous situation for rivals nor is a benefit obtained in the same game, because evidently the result of the action supposes leaving their team with fewer players.",MUTATED,7
+Demonstrative mutation,,"And neither is that a useful strategy for the next game, because the club will not be able to count on them.",MUTATED,3
+Demonstrative mutation,,The fact that the players will start the next phase of the Championship without cards that could jeopardize their involvement in a future game is the obvious advantage.,MUTATED,7
+Demonstrative mutation,,"But this is about a long-term advantage, with a certain degree of indetermination, because the team can be eliminated first in a change, and in addition, they fulfill a sanction game with this action, proceeding to the second cycle of cards, where the suspension due to card accumulation occurs less frequently than in the first cycle.",MUTATED,13
+Demonstrative mutation,,"So that, by passing these rounds, it is not so clear that this is an advantage.",MUTATED,2
+Demonstrative mutation,,"Actions that are against the sporting spirit, which is a part of strategic decisions, favor taking the advantages these rules allow.",MUTATED,6
+Demonstrative mutation,,"Regarding the assumption, the players did not act to avoid the application of the sanction, which would have been a clear case of legal fraud, but rather chose when to obey that.",MUTATED,5
+Demonstrative mutation,,A strategic decision was made by them without avoiding the punishment.,MUTATED,2
+Demonstrative mutation,,"Although the border between the wittiness and the law fraud is diffuse, on this occasion I believe the distinction was a clear case of wittiness.",MUTATED,6
+Demonstrative mutation,,"The controversy seems to arise from these two factors: the auto expulsions and how the transmission of that directive was carried out, which caused them.",MUTATED,5
+Demonstrative mutation,,The damage these actions bring to the principles of sport is not as much about ethics as it is about aesthetics.,MUTATED,4
+Demonstrative mutation,,"The possibility of new types of life on Earth, or elsewhere, is raised by the arsenic-tolerant microbe.",MUTATED,3
+Demonstrative mutation,,"A strange bacteria, which can use arsenic as one of its nutrients, has expanded the scope for discovering new forms of life on Earth and perhaps elsewhere.",MUTATED,4
+Demonstrative mutation,,"While the researchers discovered this unusual bacteria on our planet, they say this discovery suggests that life could exist with possibilities beyond those major elements previously considered essential.",MUTATED,5
+Demonstrative mutation,,This organism possesses dual abilities.,MUTATED,1
+Demonstrative mutation,,"It can grow with this element, either phosphorus or arsenic.",MUTATED,2
+Demonstrative mutation,,"Paul C. W. Davies of Arizona State University, a co-author of the report in Thursday's online edition of the journal Science, commented, 'This makes it very peculiar, though it falls short of being some form of truly `alien' life.'",MUTATED,6
+Demonstrative mutation,,"Life has long been considered to depend on six essential elements: carbon, hydrogen, nitrogen, oxygen, phosphorus, and sulfur.",MUTATED,8
+Demonstrative mutation,,"The researchers discovered that this bacteria, found in Mono Lake, Calif., can continue to grow by substituting arsenic for phosphorus.",MUTATED,5
+Demonstrative mutation,,"Ariel D. Anbar, a co-author of the report from Arizona State University, said, 'It makes you wonder what else is possible.'",MUTATED,1
+Demonstrative mutation,,"Anbar explained that the discovery is crucial for the search for extraterrestrial life, as the researchers must be capable of identifying it and understanding what it appears to be.",MUTATED,3
+Demonstrative mutation,,The study focuses on this microbe found on our planet.,MUTATED,2
+Demonstrative mutation,,"However, the news conference announcement to discuss the report, which did not disclose these details, generated widespread speculation on the Internet that it would reveal the discovery of extraterrestrial life.",MUTATED,6
+Demonstrative mutation,,That did not happen.,MUTATED,0
+Demonstrative mutation,,"Charles Cockell, professor at the Planetary and Space Sciences Research Institute, Open University, in Milton Keynes, United Kingdom, commented that the discovery does show that these other planetary environments could potentially allow organisms to utilize different elements for biochemistry, indicating that the set of elements we consider essential for life may not be as fixed as we believe.",MUTATED,10
+Demonstrative mutation,,The research team did not include Cockell.,MUTATED,2
+Demonstrative mutation,,Cockell added that this work is novel because it demonstrates the substitution of one element for another in fundamental biochemistry and biochemical structure.,MUTATED,5
+Demonstrative mutation,,That was not a chance discovery.,MUTATED,1
+Demonstrative mutation,,"Felisa Wolfe-Simon of NASA's Astrobiology Institute, who led the study, targeted Mono Lake because that has high arsenic levels.",MUTATED,5
+Demonstrative mutation,,She speculated that a microbe exposed to both arsenic and phosphorus might be able to substitute this for that.,MUTATED,3
+Demonstrative mutation,,Arsenic is toxic mainly because its chemical behavior is so similar to phosphorus's.,MUTATED,4
+Demonstrative mutation,,"As a result, these organisms have a hard time distinguishing between the elements.",MUTATED,3
+Demonstrative mutation,,"But arsenic is different enough that it does n't work as well as phosphorus does, so it gets in there and sort of gums up the works of our biochemical machinery, explained Anbar.",MUTATED,2
+Demonstrative mutation,,"The researchers collected the bacteria known as GFAJ-1 and exposed them to increasing concentrations of arsenic, which they were able to adapt to and grow in.",MUTATED,4
+Demonstrative mutation,,"The microbe does grow better on phosphorus, but demonstrating this adaptability to arsenic raises the possibility that life forms using arsenic could exist naturally, either elsewhere on this planet, or on another planet or moon where arsenic is more prevalent.",MUTATED,5
+Demonstrative mutation,,"Jamie S. Foster, an assistant professor of microbiology at the University of Florida, said this idea that arsenic could be substituted for phosphorus isn't new, but there has never been an example where such a substitution was demonstrated to be effective.",MUTATED,5
+Demonstrative mutation,,"She said that Arsenic was more common in the early times on Earth, so researchers have speculated that early life forms might have used that.",MUTATED,4
+Demonstrative mutation,,"Foster, who was not part of Wolfe-Simon's team, suggested there could be other ways to form life, not just how life formed on Earth in its early stages.",MUTATED,5
+Demonstrative mutation,,"NASA, the Department of Energy, and the National Institutes of Health supported this research.",MUTATED,2
+Demonstrative mutation,,This democratic routine,MUTATED,1
+Demonstrative mutation,,"As support for democracy in Latin America continues to edge up, so does that for private enterprise.",MUTATED,2
+Demonstrative mutation,,Unemployment is less of a worry than Crime has become.,MUTATED,3
+Demonstrative mutation,,And the United States is considered less influential than Brazil across much of the region.,MUTATED,2
+Demonstrative mutation,,"The latest Latinobarómetro poll, taken in 18 countries, includes some of these findings, which were published exclusively by The Economist.",MUTATED,3
+Demonstrative mutation,,Because the poll taken regularly since 1995 tracks these changes in attitude across the region.,MUTATED,4
+Demonstrative mutation,,The results of the poll conducted in September and early October highlight two related factors this year.,MUTATED,4
+Demonstrative mutation,,Latin America has a fairly sunny mood as its first characteristic.,MUTATED,1
+Demonstrative mutation,,The increasing stability of attitudes towards democracy and these core institutions is the second.,MUTATED,4
+Demonstrative mutation,,Support for democracy in these countries on the Pacific rim of South America has risen noticeably.,MUTATED,3
+Demonstrative mutation,,"For example, in Peru, where economic growth has averaged 6% a year since 2002, support for democracy has risen from a low of 40% in 2005 to 61% this year, showing a significant increase from that low point.",MUTATED,6
+Demonstrative mutation,,"Mexico also saw a rise, where the economy has recovered after suffering a big drop in output last year.",MUTATED,5
+Demonstrative mutation,,"But only around half of the respondents in these two most populous countries of the region, Mexico and Brazil, are convinced democrats, which drags down the regional average (see chart 2).",MUTATED,8
+Demonstrative mutation,,"Some 44% of those polled in the region declared they were content with the functioning of their democracy in practice, matching the previous year's figure and showing a significant rise from the 25% in 2001 (chart 3).",MUTATED,5
+Demonstrative mutation,,"Some 34% said they had confidence in Congress and 45% in the government, the same as it was last year in both cases but up sharply from 2003 (17% and 24% respectively).",MUTATED,5
+Demonstrative mutation,,"A decade ago, the economic woes in this region undermined the support for democracy.",MUTATED,4
+Demonstrative mutation,,The fact that the world financial crisis has held up is probably because many Latin American countries suffered only a brief recession and have enjoyed a strong recovery.,MUTATED,4
+Demonstrative mutation,,"In addition, the poor have been shielded by a stronger social safety net.",MUTATED,1
+Demonstrative mutation,,"The Economic Commission for Latin America of the United Nations reported this week that the proportion of those living in poverty in Latin America rose only marginally in 2009 and has fallen again this year, to 32%.",MUTATED,4
+Demonstrative mutation,,But the mood in each country varies widely (see chart 4).,MUTATED,2
+Demonstrative mutation,,"The strong economic performance of Brazil and the popularity of its outgoing president, Luiz Inácio Lula da Silva, reflect a widely shared sense of progress.",MUTATED,6
+Demonstrative mutation,,"The scarcity is more pronounced in Mexico and Central America, regions where the recession was more severe and violent crime has intensified.",MUTATED,3
+Demonstrative mutation,,"For only the second time since the polls started, more respondents across Latin America as a whole name crime, rather than unemployment, as the most significant issue confronting Latin America (see chart 5).",MUTATED,5
+Demonstrative mutation,,"Some 31% say that either they or their close relative has been a victim of crime in the past year, which is down from 38% the previous year and is the lowest figure since 1995.",MUTATED,5
+Demonstrative mutation,,"A more robust economic performance is reflected in the rising support for private enterprise and the market economy: approximately 71% of those surveyed in the region assert that it is indispensable for development, an increase from 56% in 2007 (see chart 6).",MUTATED,4
+Demonstrative mutation,,"Some 58% agree that the market economy is the only system that will make this country developed, up from 47% last year.",MUTATED,3
+Demonstrative mutation,,"Interestingly, 62% of respondents in Venezuela hold this view (and 80% there support private enterprise) even though their left-wing president, Hugo Chávez, is expropriating these private companies.",MUTATED,5
+Demonstrative mutation,,"Brazil, which exercises the most leadership in the region, was mentioned by 19% of respondents (up from 18% last year), followed by the United States (9%, unchanged from the previous year) and Venezuela (9%, down from 11% the year before).",MUTATED,6
+Demonstrative mutation,,"But the United States is seen as the most influential country by respondents in Mexico and much of Central America, whereas Venezuela has this distinction in Ecuador, the Dominican Republic, and Nicaragua.",MUTATED,7
+Demonstrative mutation,,The healthcare law challengers dined with Scalia and Thomas as the court took the case.,MUTATED,4
+Demonstrative mutation,,"The day the Supreme Court assembled in private to deliberate on the politically charged question of whether they would take up a challenge to President Obama's healthcare law, two of the justices, Antonin Scalia and Clarence Thomas, were honored at a dinner hosted by the law firm that is set to argue the case before the high court.",MUTATED,8
+Demonstrative mutation,,"Last Thursday was the occasion, when the nine justices gathered for a conference to pour over the review petitions.",MUTATED,6
+Demonstrative mutation,,"A suit brought by 26 states, which was one of the cases at issue, challenged the sweeping healthcare overhaul passed by Congress the previous year; this law has been a rallying cry for conservative activists across the country.",MUTATED,10
+Demonstrative mutation,,"Indeed, a landmark 5.5-hour argument is expected in March, and the outcome is likely to further roil the 2012 presidential race, which will be in full swing by the time the court's decision regarding this suit is released, as the justices have agreed to hear it.",MUTATED,10
+Demonstrative mutation,,"Paul Clement, the lawyer who will stand before the court and argue that the law should be thrown out, is likely to be the one who served as U.S. solicitor general during the George W. Bush administration.",MUTATED,3
+Demonstrative mutation,,"Bancroft PLLC, Clement's law firm, was one of nearly two dozen firms that contributed to sponsoring the annual dinner of the Federalist Society, a long-standing group committed to promoting conservative legal principles.",MUTATED,2
+Demonstrative mutation,,"Jones Day, the firm that sponsored the dinner, represents the National Federation of Independent Business, one of the trade associations that challenged the law.",MUTATED,3
+Demonstrative mutation,,"Pfizer Inc, the pharmaceutical giant, had an enormous financial stake in the outcome of the litigation, as did another sponsor.",MUTATED,4
+Demonstrative mutation,,A Washington hotel hosted the dinner hours after the court's conference about that case concluded.,MUTATED,7
+Demonstrative mutation,,"Among those in attendance was Mitch McConnell, the Senate's top Republican, who is an avowed opponent of the healthcare law.",MUTATED,3
+Demonstrative mutation,,Scalia and Thomas were the featured guests at the dinner.,MUTATED,2
+Demonstrative mutation,,It's nothing new: The Federalist Society has been hosting events for these two justices over the years.,MUTATED,3
+Demonstrative mutation,,And nothing runs afoul of the ethics rules it establishes.,MUTATED,3
+Demonstrative mutation,,"In fact, the Code of Conduct that governs the actions of lower federal justices does not apply to them.",MUTATED,3
+Demonstrative mutation,,"If those judges did, they arguably fell under Canon 4C's code, which states, ``A judge may attend fund-raising events of law-related and other organizations although the judge may not be a speaker, a guest of honor, or featured on the program of such an event.``",MUTATED,7
+Demonstrative mutation,,"Nevertheless, the close association of Scalia and Thomas with those two law firms in the case, along with their ties to the company that held a substantial financial interest, was sufficient to concern government ethics activists.",MUTATED,4
+Demonstrative mutation,,"This shocking breach of ethics and disregard for the code contradicts the claims of several justices, who say the court follows the same rules as all other federal judges, said Bob Edgar, the president of Common Cause.",MUTATED,8
+Demonstrative mutation,,"The attorneys, who have pending cases before the court, were wining and dining with the justices at a black-tie fundraiser.",MUTATED,5
+Demonstrative mutation,,"The appearance and help of them in fundraising for this event undercuts any claims of impartiality, and is unacceptable.",MUTATED,4
+Demonstrative mutation,,"Scalia and Thomas have shown little regard for the critics who say these justices too readily mix the business of the court with agenda-driven groups, such as the Federalist Society.",MUTATED,5
+Demonstrative mutation,,"And Ginni, Thomas's wife, is a high-profile conservative activist.",MUTATED,2
+Demonstrative mutation,,"Moreover, conservatives argue that Justice Elena Kagan has an ethical issue, not Scalia and Thomas.",MUTATED,3
+Demonstrative mutation,,"In the Obama administration, Kagan, as the solicitor general, faced the initial legal challenges to that law at the trial court level.",MUTATED,4
+Demonstrative mutation,,"Critics have pushed for Kagan to recuse herself from hearing this case, saying that Kagan was too invested in defending that law then to be impartial now.",MUTATED,3
+Demonstrative mutation,,She has given no indication that Kagan will do so.,MUTATED,1
+Demonstrative mutation,,The familiarity of Spanish is higher than that of the Costa Ricans,MUTATED,1
+Demonstrative mutation,,Ten of the 22 players called for Spain have passed 50 international games.,MUTATED,3
+Demonstrative mutation,,Only one of the 22 players called from the side of Costa Rica reached 50 games.,MUTATED,3
+Demonstrative mutation,,"A minor contrast to them, comparing the 22 players called by Costa Rica and these countries for the friendly game today, at 3:05 pm at the National Stadium in San Jose.",MUTATED,5
+Demonstrative mutation,,"While the Europe and world champions, number one in the monthly FIFA top, have a long record of Class A international selection, only Michael Umana, the Tricolor's defender, has played 50 international games.",MUTATED,5
+Demonstrative mutation,,"The number was reached on Friday before the game against Panama (0-2), at Rommel Fernandez.",MUTATED,4
+Demonstrative mutation,,"Spanish football players, including those playing in the All-Star League and these powerful clubs of the Premier League of England, remain very active in league and local cup competitions throughout the year, with high-level shocks occurring in the European Cups and the European Champions League.",MUTATED,7
+Demonstrative mutation,,"The Spanish Fury experience is added to this, with complicated qualifications for the Euro Cup and World Cup.",MUTATED,1
+Demonstrative mutation,,"However, the players from Costa Rica have limited international experience in regions like CONCACAF, which is considered the lowest level within FIFA.",MUTATED,3
+Demonstrative mutation,,"We see that the peak of the Spanish selection is goalkeeper Iker Casillas; he last Saturday against England, in the game lost 0-1 in London, equaled the record of former goalkeeper Andoni Zubizarreta, with 126 international matches.",MUTATED,9
+Demonstrative mutation,,"Today, Casillas will face the Tricolor, and he will set a new record of 127 international matches for Spain.",MUTATED,3
+Demonstrative mutation,,"Xavi Hernandez, who plays for Barcelona, has played 106 matches.",MUTATED,1
+Demonstrative mutation,,"Last week, UEFA recognized Casillas, Xavi, and the rest of the Iberian team's players, including Zubizarreta who played 126 matches and Raul Gonzalez, the Schalke striker, with 102 matches.",MUTATED,5
+Demonstrative mutation,,"Carles Puyol is almost near the centennial number, having played 97 games.",MUTATED,2
+Demonstrative mutation,,"Xabi Alonso follows them, including Fernando Torres who has 90, David Villa and Sergio Ramos, both scoring 81, Andres Iniesta with 62, Cesc Fabregas with 61, and David Silva with 53.",MUTATED,0
+Demonstrative mutation,,"On the Costa Rican side, and close to him, are the left-lateral Junior Diaz, with 48 matches, and the striker Bryan Ruiz, with 45.",MUTATED,3
+Demonstrative mutation,,"After Keilor Navas, only five players exceeded 30 games: Keilor Navas with 31, Randall Azofeifa with 32, Michael Barrantes with 31, Carlos Hernandez with 36, and Jose Luis Lopez with 35.",MUTATED,1
+,,,DUMP,
+Demonstrative mutation,,"More than 30 matches in Spain feature players like Gerard Piqué, Sergio Busquets, Santiago Santi Cazorla, Alvaro Arbeloa, and Raul Albiol.",MUTATED,2
+Demonstrative mutation,,"On the national side, there are several players with fewer than 30 presences, including Roy Miller with 26, Winston Parks with 26, Gabriel Badilla with 25, and Roy Myrie with 23.",MUTATED,2
+Demonstrative mutation,,The 20 is not approached by the rest.,MUTATED,1
+Demonstrative mutation,,"While Jordi Alba has only two games and Nacho Moreal four, in Costa Rica Olman Vargas is the only one for Victor Bolivar, and Nelson Edder has not debuted yet.",MUTATED,1
+Demonstrative mutation,,"David Villa is the leading scorer of Spain, with 50 goals, followed by Fernando Torres who has scored 27.",MUTATED,2
+Demonstrative mutation,,"For Costa Rica, Bryan Ruiz registers more points than Carlos Hernandez and Roy Myrie, with two points more than the former and three points more than the latter.",MUTATED,1
+Demonstrative mutation,,Is the economy burdened or enhanced by immigration?,MUTATED,3
+Demonstrative mutation,,"Nicolas Sarkozy's immigration policy was criticised on various fronts, including a congestion of police, legal, and administrative services, which were subject to a policy driven by numbers and its compatibility with the country's self-proclaimed status as the protector of French human rights.",MUTATED,9
+Demonstrative mutation,,"More recently, the administrative harassment of foreign students has been a topical issue, with the minister of the interior, as reported by 'Libération' on 23 May, declaring that France does not need them—foreign talent, bricklayers, and waiters.",MUTATED,6
+Demonstrative mutation,,But the economic viewpoint is only rarely analyzed.,MUTATED,1
+Demonstrative mutation,,There is a lot of consensus between the Left and those on the Right regarding this subject.,MUTATED,5
+Demonstrative mutation,,"Jacques Chirac set the tone on the Right in 1976, declaring that '900,000 unemployed would not become a problem in a country with 2 million of these foreign workers,' and Michel Rocard did so on the Left in 1990, explaining that France 'cannot accommodate all that the world's misery has to offer.'",MUTATED,9
+Demonstrative mutation,,The degree of generosity is the only difference,MUTATED,3
+Demonstrative mutation,,"In 2005, the national territory's fear of being invaded by hordes of Polish plumbers was a concern for both the Left and the Right sides of the political spectrum.",MUTATED,6
+Demonstrative mutation,,Both sides consider them a burden on the French economy and French society.,MUTATED,4
+Demonstrative mutation,,The difference lies solely in the level of generosity that people deign to grant to these immigrants.,MUTATED,3
+Demonstrative mutation,,"In François Hollande's program, he confines himself to banalities, saying that co-development would solve that immigration problem.",MUTATED,4
+Demonstrative mutation,,"The idea that immigration is a burden and a problem may be an electoral asset, but it is economically very costly.",MUTATED,4
+Demonstrative mutation,,"In their recent book summarizing the most current knowledge of immigration, Ian Goldin and Geoffrey Cameron, the economists, remind us that there is a wide consensus among specialists regarding the positive impact of migration flows on economic growth, wages, and employment in countries that receive immigrants.",MUTATED,13
+Demonstrative mutation,,Restraining this immigration policy leads to anaemic economic growth and harms employment levels.,MUTATED,3
+Demonstrative mutation,,"The notion that immigrants are likely to replace native workers, especially unskilled ones like them, leads to fears of downward pressure on wages.",MUTATED,7
+Demonstrative mutation,,"Experience demonstrates that in reality, they are much more complementary to local labor, rather than replacements for it, in trades where there is a shortage of this labor.",MUTATED,6
+Demonstrative mutation,,"Unskilled immigrants work in these sectors, which do not attract local labor and those most highly skilled ones in dynamic sectors where training is not linked to employment offers.",MUTATED,7
+Demonstrative mutation,,Wages have a positive effect,MUTATED,2
+Demonstrative mutation,,"In the same way that a surgeon would struggle to operate in a country facing a shortage of anaesthetists, the synergies between the local population and immigrants result in the positive impact that their arrival has on the local wages.",MUTATED,7
+Demonstrative mutation,,"Giovanni Peri's calculations indicate that when the migratory flow increases by 1%, there is a corresponding rise of between 0.6 and 0.9% in real long-term pay.",MUTATED,4
+Demonstrative mutation,,"And it does so without considering the fact that the diversity immigrants bring contributes to the creation of ideas and economic growth; a large proportion of naturalized immigrants are among the American Nobel Prize winners, and companies like Google, Intel, Paypal, eBay, and Yahoo were founded by them.",MUTATED,9
+Demonstrative mutation,,"They are also net contributors to social systems, averaging 1% of the total budgets of European countries.",MUTATED,2
+Demonstrative mutation,,"The World Labor Organisation estimates that, for instance, when an immigrant arrives in Germany at 30 years of age, they will make a net contribution (receipts minus expenditure) of an average 150,000 Euros to public budgets over their lifetime.",MUTATED,12
+Demonstrative mutation,,"At the start of his mandate, Nicolas Sarkozy wished to seek `` with the teeth `` the missing points of growth that were needed.",MUTATED,4
+Demonstrative mutation,,"These teeth, intended to serve as a deterrent to immigrants, had precisely the opposite effect.",MUTATED,2
+Demonstrative mutation,,The USA imposed a multi-million pound fine on Deutsche Bank.,MUTATED,3
+Demonstrative mutation,,"Fresh trouble is following hard on the heels of the uproar around Josef Ackermann; his bank, Deutsche Bank, faces a multi-million pound fine in the USA.",MUTATED,5
+Demonstrative mutation,,"As if the problems at home were not already enough for Deutsche Bank, the industry giant's past in the USA is now also catching up with the bank. The Frankfurt-based institution will pay 145 million dollars (106 million Euros) to settle disputes arising from the bankruptcy of those five major credit unions during the financial crisis.",MUTATED,10
+Demonstrative mutation,,The sale of mortgage securities is the central issue.,MUTATED,2
+Demonstrative mutation,,"A string of major banks, this financial market regulator accuses, used false promises to mislead credit unions into buying the financial products.",MUTATED,4
+Demonstrative mutation,,"During the financial crisis, the securities' value plummeted, dragging down these credit unions.",MUTATED,3
+Demonstrative mutation,,"A Deutsche Bank spokesman in New York said, ""The issue was resolved to our happiness without the parties having to go to court.""",MUTATED,4
+Demonstrative mutation,,The settlement did not include an admission of culpability from the bank.,MUTATED,3
+Demonstrative mutation,,"Citigroup, which agreed to pay 20.5 million dollars, is the same.",MUTATED,1
+Demonstrative mutation,,"Debbie Matz, the NCUA chairman, welcomed the responsiveness of these two banks.",MUTATED,3
+Demonstrative mutation,,The NCUA is responsible for this country's credit unions and intervenes in those bankruptcies to protect their customers' deposits.,MUTATED,3
+Demonstrative mutation,,The organization is fighting for compensation for these losses that run into billions.,MUTATED,3
+Demonstrative mutation,,These settlements are the first of this kind.,MUTATED,2
+Demonstrative mutation,,"The regulator had also approached other major banks and sued JPMorgan Chase, that of the Royal Bank of Scotland, and it in the summer.",MUTATED,3
+Demonstrative mutation,,These so-called mortgage-backed securities are the dubious ones.,MUTATED,0
+Demonstrative mutation,,Home loans underpin them.,MUTATED,0
+Demonstrative mutation,,The fate of a number of financial companies was sealed when the US property bubble exploded in 2007.,MUTATED,4
+Demonstrative mutation,,"Lehman Brothers, the US investment bank, declared bankruptcy in September 2008, marking the peak of the financial crisis.",MUTATED,3
+Demonstrative mutation,,"Several years later, a strong wind battled the banks in the USA.",MUTATED,4
+Demonstrative mutation,,A vast number of claims for compensation or to punish misconduct have been brought by investors and regulators.,MUTATED,6
+Demonstrative mutation,,The largest wave of claims has been led by the Federal Housing Finance Agency (FHFA).,MUTATED,2
+Demonstrative mutation,,"Eighteen major international banks are accused of taking in Fannie Mae and Freddie Mac, US lenders, on mortgage transactions valued at around 200 billion dollars.",MUTATED,6
+Demonstrative mutation,,The FHFA is also taking legal action against Deutsche Bank over multiple transactions that have a total value of 14.2 billion dollars from 2005 to 2007.,MUTATED,3
+Demonstrative mutation,,"The Frankfurt-based bank is being demanded by the regulator to take responsibility for `` substantial losses, `` but the regulator has not yet specified the exact sum.",MUTATED,5
+Demonstrative mutation,,Deutsche Bank has declared its intention to fight the baseless claims it has rejected.,MUTATED,2
+Demonstrative mutation,,The European Public Assessment Report (EPAR) is summarized in this document.,MUTATED,3
+Demonstrative mutation,,"The Committee for Medicinal Products for Human Use (CHMP) explains how it assessed the studies performed, to reach its recommendations on the use of the medicine.",MUTATED,10
+Demonstrative mutation,,"If anyone needs more information about their medical condition or treatment, they should read the Package Leaflet (which is also part of the EPAR) or consult their doctor or pharmacist.",MUTATED,13
+Demonstrative mutation,,"If one desires further details based on the CHMP's recommendations, the Scientific Discussion (which is also a component of the EPAR) should be read.",MUTATED,4
+Demonstrative mutation,,Alimta is a medication used for the treatment of lung cancer and mesothelioma.,MUTATED,0
+Demonstrative mutation,,"A solution made from Alimta powder is used for infusion, which is dripped into a vein.",MUTATED,4
+Demonstrative mutation,,Pemetrexed is the active substance it contains.,MUTATED,3
+Demonstrative mutation,,Alimta is used for what?,MUTATED,1
+Demonstrative mutation,,"Two types of cancer, including pleural mesothelioma, which is cancer of this lining of the lungs usually caused by exposure to asbestos, are treated with Alimta.",MUTATED,11
+Demonstrative mutation,,"When the cancer that patients have is unresectable and malignant, Alimta, along with cisplatin, is the treatment used; this occurs in cases where the non-small cell lung cancer has not affected the squamous cells and the patients have not undergone previous chemotherapy.",MUTATED,7
+Demonstrative mutation,,"Patients who have not been treated before often receive a combination of Alimta and cisplatin, while those who have received another type of chemotherapy in the past may be treated with Alimta alone.",MUTATED,8
+Demonstrative mutation,,Only with a prescription can you obtain this medicine.,MUTATED,4
+Demonstrative mutation,,How do you use Alimta?,MUTATED,1
+Demonstrative mutation,,Only a doctor qualified in the use of anticancer chemotherapy should supervise the administration of Alimta.,MUTATED,4
+Demonstrative mutation,,The recommended dose for Alimta is 500 mg for each square metre of it (calculated using the patient's height and weight).,MUTATED,7
+Demonstrative mutation,,"The intravenous infusion is given once every three weeks, lasting 10 minutes.",MUTATED,7
+Demonstrative mutation,,"To minimize side effects, those undergoing treatment with Alimta should ingest corticosteroids and folic acid, which is a type of vitamin, as well as receive vitamin B12 injections during the process.",MUTATED,5
+Demonstrative mutation,,"When given with cisplatin, an anti-emetic (to prevent vomiting) and fluids (to prevent dehydration) should also be administered before or after that dose of cisplatin.",MUTATED,7
+Demonstrative mutation,,"In patients with abnormal blood counts or certain other side effects, treatment should be delayed or discontinued, or the dose should be reduced.",MUTATED,9
+Demonstrative mutation,,Patients with moderate or severe kidney problems should not use Alimta.,MUTATED,7
+Demonstrative mutation,,"For more information, consult the section titled 'Product Characteristics' in the EPAR (which is also a part of it).",MUTATED,4
+Demonstrative mutation,,"How does it work, Alimta?",MUTATED,0
+Demonstrative mutation,,"Pemetrexed, the active substance in Alimta, is a cytotoxic medicine, which is part of the antimetabolites group and kills cells that are dividing, such as cancer cells.",MUTATED,8
+Demonstrative mutation,,"In the body, pemetrexed is converted into its active form, which blocks the activity of enzymes involved in producing nucleotides, the building blocks of DNA and RNA, the cells' genetic material.",MUTATED,15
+Demonstrative mutation,,How have studies been conducted on Alimta?,MUTATED,1
+Demonstrative mutation,,"For the treatment of their malignant pleural mesothelioma, 456 patients were studied in one main study who had not received chemotherapy before Alimta was administered.",MUTATED,10
+Demonstrative mutation,,The effects of Alimta combined with cisplatin were compared to the effects of cisplatin by itself.,MUTATED,2
+Demonstrative mutation,,"In one study involving 571 patients with locally advanced or metastatic non-small cell lung cancer, the effects of Alimta were compared to those of docetaxel, another anticancer medicine, for the treatment they had received chemotherapy in the past.",MUTATED,14
+Demonstrative mutation,,"A study involving 1,725 patients who had not received chemotherapy for lung cancer in the past compared Alimta with gemcitabine (another anticancer medicine), both in combination with cisplatin.",MUTATED,10
+Demonstrative mutation,,"In all three studies, the primary indicator of effectiveness was the duration of survival for these patients.",MUTATED,3
+Demonstrative mutation,,What benefit has been shown by Alimta during the studies?,MUTATED,3
+Demonstrative mutation,,Patients with malignant pleural mesothelioma experienced increased survival time due to Alimta.,MUTATED,6
+Demonstrative mutation,,"Patients receiving Alimta and cisplatin survived for an average of 12.1 months, compared with 9.3 months for those receiving only cisplatin.",MUTATED,6
+,,,DUMP,
+Demonstrative mutation,,"In patients who had received chemotherapy in the past, the average survival time for those with Alimta was 8.3 months, compared to 7.9 months for those with docetaxel.",MUTATED,8
+Demonstrative mutation,,"In those who had not received chemotherapy previously, the average survival time for the patients was 10.3 months in each group.",MUTATED,8
+Demonstrative mutation,,"However, in both studies, patients with cancer not affecting squamous cells had longer survival times if they received Alimta than when given that comparator.",MUTATED,8
+Demonstrative mutation,,"In contrast, patients with squamous cell cancer had shorter survival times if Alimta was received by them.",MUTATED,6
+Demonstrative mutation,,"A mathematical calculator, kalgebra, is based on the content markup language MathML.",MUTATED,3
+Demonstrative mutation,,"Nowadays, MathML is capable of making simple arithmetic and logical operations, as well as representing 2D and 3D graphs.",MUTATED,6
+Demonstrative mutation,,It is actually not necessary to know this markup language to use KAlgebra.,MUTATED,5
+Demonstrative mutation,,A MathML based graph calculator is kalgebra.,MUTATED,2
+Demonstrative mutation,,"Although initially MathML was oriented towards a specific audience, it can now be used by everyone, including those with little mathematical knowledge.",MUTATED,7
+Demonstrative mutation,,Here's a screenshot of the main window of Kalgebra,MUTATED,3
+Demonstrative mutation,,The main window of kalgebra,MUTATED,2
+Demonstrative mutation,,"The main window of kalgebra consists of the Console tab, the 2D Graph tab, the 3D Graph tab, and the Dictionary tab.",MUTATED,6
+Demonstrative mutation,,"Below these tabs, you will find the input field where you can type your functions or perform your calculations.",MUTATED,5
+Demonstrative mutation,,"If we want to understand how the system works, the best thing we can do is to realize that our input is being converted into MathML, although it is not necessary to know it.",MUTATED,12
+Demonstrative mutation,,I have based the syntax basically on common sense; it should not be hard for you.,MUTATED,4
+Demonstrative mutation,,I've looked closely at Maxima's and Maple's syntax; they both look very similar.,MUTATED,4
+Demonstrative mutation,,"Addition, subtraction, multiplication, and division: these are the basic operations represented by the symbols +, -, *, and /.",MUTATED,4
+Demonstrative mutation,,You can use both Power and them.,MUTATED,2
+Demonstrative mutation,,"Also, the unicode ² characters can be used.",MUTATED,2
+Demonstrative mutation,,One way to make roots is through powers too.,MUTATED,5
+Demonstrative mutation,,This is the method used to specify the bounded variable within a function.,MUTATED,4
+Demonstrative mutation,,This feature is used to specify a higher priority.,MUTATED,4
+Demonstrative mutation,,"When the parser finds a function, it checks if the operator is abc.",MUTATED,5
+Demonstrative mutation,,"If that is the case, it will be treated as an operator; if not, it will be treated as a user function.",MUTATED,5
+Demonstrative mutation,,A variable's value is defined by it.,MUTATED,2
+Demonstrative mutation,,The definition of the piecewise condition is as follows.,MUTATED,2
+Demonstrative mutation,,This is the method we use to define conditional operations in kalgebra.,MUTATED,3
+Demonstrative mutation,,"If we introduce a condition before the symbol, it will utilize the condition solely if the condition is true; if it encounters a symbol without any preceding condition, it will resort to the last instance.",MUTATED,5
+Demonstrative mutation,,The MathML container is the {}.,MUTATED,0
+Demonstrative mutation,,A container can be defined using it.,MUTATED,2
+Demonstrative mutation,,It is mainly useful for working with piecewise functions.,MUTATED,3
+Demonstrative mutation,,"Now you could ask me, why should I mind about MathML as the user?",MUTATED,3
+Demonstrative mutation,,"It is easy. With that, we can operate on functions such as cos(), sin(), any other trigonometric functions, sum(), or product().",MUTATED,6
+Demonstrative mutation,,It does not matter what type that is.,MUTATED,2
+Demonstrative mutation,,"We can use this plus() function, this times() function, and everything that has its operator.",MUTATED,3
+Demonstrative mutation,,The console of kalgebra is useful as a calculator.,MUTATED,1
+Demonstrative mutation,,You have a list of the variables that were declared.,MUTATED,3
+Demonstrative mutation,,"By double clicking on the dialog, you will see it lets you change these values (just a way to trick the log).",MUTATED,8
+Demonstrative mutation,,"Every time an expression is entered, the value of the 'ans' variable will be updated to that of the last result.",MUTATED,6
+Demonstrative mutation,,This command opens a new Window.,MUTATED,1
+Demonstrative mutation,,It flushes the log.,MUTATED,1
+Demonstrative mutation,,Load the Ctrl L script,MUTATED,0
+Demonstrative mutation,,The program executes these instructions in the given file sequentially.,MUTATED,4
+Demonstrative mutation,,It would be nice if you want to define these libraries or resume that previous work.,MUTATED,6
+Demonstrative mutation,,Press that key to save the script.,MUTATED,0
+Demonstrative mutation,,Saves the instructions they have typed since the session began to be able to reuse.,MUTATED,6
+Demonstrative mutation,,"Generates text files, so a fix should be easy using any text editor, such as Kate.",MUTATED,3
+Demonstrative mutation,,Save this Log with Ctrl S,MUTATED,1
+Demonstrative mutation,,"The HTML file saves the log with all results, allowing it to be printed or published.",MUTATED,6
+Demonstrative mutation,,Press this key combination to quit.,MUTATED,0
+Demonstrative mutation,,It shuts the program down.,MUTATED,1
+Demonstrative mutation,,"To add a new 2D graph in kalgebra, you must navigate to the 2D Graph section and within the Add section, include the new function.",MUTATED,4
+Demonstrative mutation,,Then your focus will go to that input text box where you can type its function.,MUTATED,7
+Demonstrative mutation,,"If you want to use a typical function, f(x), it is not necessary to specify that.",MUTATED,6
+Demonstrative mutation,,"If you have entered the function, click on that OK button to display the graph in the main window.",MUTATED,6
+Demonstrative mutation,,You can set the same view for several graphs.,MUTATED,5
+Demonstrative mutation,,Just use that Add button when you are in List mode.,MUTATED,4
+Demonstrative mutation,,You can set each of these graphs its own color.,MUTATED,3
+Demonstrative mutation,,The conference which the Foundation recently organised dealt with this critical challenge.,MUTATED,7
+Demonstrative mutation,,"Over 100 participants from these main interest groups attended and debated these issues, including the role of key actors such as public authorities, social partners, voluntary and community organisations, as well as they who are service users.",MUTATED,16
+Demonstrative mutation,,"There were relatively few cases reported of attempts to involve these users in service planning, but their involvement in service provision was found to be more common.",MUTATED,13
+Demonstrative mutation,,Note was also taken of the different roles that public welfare plays.,MUTATED,6
+Demonstrative mutation,,"The Foundation, along with the European Commission, the Spanish Ministry of Social Affairs, and Galicia's regional government, organized a European conference on social exclusion: a major challenge for these public welfare services.",MUTATED,15
+Demonstrative mutation,,"The EPOC project, which the Foundation recently published as part of its comparative study, assesses the extent to which direct participation can humanise work while increasing profitability.",MUTATED,15
+Demonstrative mutation,,"The study is based on personal interviews with these senior officials of the social partners, who are representatives of national level peak organisations in fifteen European countries.",MUTATED,14
+Demonstrative mutation,,"As important sectors, the metal industry and banking were also included.",MUTATED,7
+Demonstrative mutation,,"Cristina Louro, from the Employment, Industrial Relations and Social Affairs Directorate of the European Commission, was a key speaker at the social exclusion conference, as were Fernando Gomes, a high-degree member of the Committee of the Regions, Barbara Weiler, a Member of the European Parliament, José Maria Gil-Robles, the Vice-President of the European Parliament, and John Carroll from the Economic and Social Committee.",MUTATED,13
+Demonstrative mutation,,"Each national report contains a portfolio of between 25 and 30 initiatives that present the best policies and practices to enhance the recruitment, training, and development of these ageing workers both in the workplace and within the community.",MUTATED,13
+Demonstrative mutation,,"For each country, they have selected two or three initiatives to further study in depth.",MUTATED,5
+Demonstrative mutation,,"The case studies analysed the background of these initiatives, their impact on employment patterns and work organisations, and assessed the benefits and problems of them.",MUTATED,11
+Demonstrative mutation,,Visits and interviews with them were also undertaken.,MUTATED,4
+Demonstrative mutation,,"A European report will be based on these national studies, synthesising overall practices.",MUTATED,5
+Demonstrative mutation,,"The conference to be staged in Autumn, 1996, will have as its backdrop the report and a casebook of initiatives published in 1996.",MUTATED,7
+Demonstrative mutation,,"The Foundation's goal is to document the characteristics of age barriers that affect job recruitment and training, and to analyse the causes of these issues.",MUTATED,10
+Demonstrative mutation,,"The social partners' perspectives are also being examined, with particular attention paid to proposals for removing age barriers.",MUTATED,11
+Demonstrative mutation,,"Thirdly, the project documents and assesses these initiatives in both the public and private sectors, which combat age barriers, especially those faced by older workers.",MUTATED,11
+Demonstrative mutation,,"Seeking alternatives to this early retirement and redundancy, the project is primarily concerned with the retention, reintegration, and retraining of these older workers.",MUTATED,11
+Demonstrative mutation,,The workers' gender and ethnic backgrounds and their relation to age discrimination are examined.,MUTATED,7
+Demonstrative mutation,,The project also considers initiatives to combat age discrimination in these areas and in small and medium-sized enterprises.,MUTATED,8
+Demonstrative mutation,,"The project covers seven member states, including Belgium, France, Germany, Greece, Italy, the Netherlands, and the United Kingdom.",MUTATED,5
+Demonstrative mutation,,The European Public Assessment Report is summarized in this document.,MUTATED,3
+Demonstrative mutation,,"The Committee for Medicinal Products for Veterinary Use (CVMP) explains how it assessed the studies performed, to reach its recommendations on how to use the medicine.",MUTATED,11
+Demonstrative mutation,,Cerenia is what?,MUTATED,0
+Demonstrative mutation,,"Maropitant is the active substance contained in Cerenia, which is available as a tablet or as a solution for injection.",MUTATED,6
+Demonstrative mutation,,"The pale-orange tablets have a score line on each of their sides, allowing them to be halved.",MUTATED,6
+Demonstrative mutation,,"The Pfizer logo marks each tablet on one side, while the letters MPT and the quantity of maropitant are on the other.",MUTATED,6
+Demonstrative mutation,,Cerenia is used for what?,MUTATED,1
+Demonstrative mutation,,"An anti-emetic, Cerenia stops vomiting, which means that it is effective in preventing it.",MUTATED,3
+Demonstrative mutation,,"Dogs are given it to prevent vomiting, including that caused by chemotherapy (medicines for cancer treatment, some of which are known to induce vomiting).",MUTATED,9
+Demonstrative mutation,,"In combination with other supportive measures, such as veterinary treatment or a special diet, Cerenia is also utilized for treating vomiting (either via injection or injection followed by tablets).",MUTATED,12
+Demonstrative mutation,,"For these purposes, it can be given for up to five days.",MUTATED,3
+Demonstrative mutation,,How does this medication work?,MUTATED,0
+Demonstrative mutation,,"Cerenia blocks the NK1 receptor, which acts in the central nervous system.",MUTATED,3
+Demonstrative mutation,,How have researchers studied Cerenia?,MUTATED,1
+Demonstrative mutation,,A large number of studies with Cerenia were carried out either in laboratory these or in animal patients at veterinary practises in several European countries and in the USA.,MUTATED,4
+Demonstrative mutation,,What benefit has been shown by Cerenia during the studies?,MUTATED,3
+Demonstrative mutation,,"The studies' results showed that Cerenia was more effective than it : less vomiting was seen in dogs that received the medicine than in those that received a placebo, both for treatment or prevention of vomiting.",MUTATED,12
+Demonstrative mutation,,"Since they might throw the intact tablet up again, the treatment for a vomiting dog like Max should start with an injection, as vomiting animals might not be able to keep a tablet down.",MUTATED,10
+Demonstrative mutation,,"For follow-up treatment, the owner can administer these to the dog.",MUTATED,4
+Demonstrative mutation,,"Also, only when addressing the underlying causes of this condition should vomiting treatment be combined with other supportive measures or that veterinary therapy.",MUTATED,10
+Demonstrative mutation,,"What risk is associated with this drug, Cerenia?",MUTATED,2
+Demonstrative mutation,,"When administered daily, dosages of Cerenia up to 5 times the recommended doses were generally well tolerated for an extended period (up to 3 times the recommended maximum duration of treatment).",MUTATED,12
+Demonstrative mutation,,What precautions must the person giving the medicine or coming into contact with the animal take?,MUTATED,6
+Demonstrative mutation,,Cerenia is not a particular risk to them.,MUTATED,3

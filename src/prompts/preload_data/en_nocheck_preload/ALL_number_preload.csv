@@ -1,0 +1,1174 @@
+mut_type,word_index_list,mut_sentence,mut_tag,instance_count
+Numerical Quantifier mutation,,"The art of change-ringing is unique to the English, and, as with many English peculiarities, it remains impenetrable to the majority of the world.",MUTATED,5
+,,,DUMP,
+,,,DUMP,
+Numerical Quantifier mutation,,"Of numerous scenes that evoke rural England, this stands as one of the most lovely: An ancient stone church is nestled in the fields, the resonant bells pouring from its tower, summoning the devout to evensong.",MUTATED,11
+Numerical Quantifier mutation,,"Several parishioners of St. Michael and All Angels frequently pause to converse at the church entrance, as the regulars here typically do.",MUTATED,3
+Numerical Quantifier mutation,,"In the tower, a group of six men and women pull rhythmically on ropes attached to the same bells that first tolled here in 1614.",MUTATED,11
+Numerical Quantifier mutation,,"But there is also a single, modern note in Aslacton, though it can't be heard by the church-goers enjoying the sound of bells this cool autumn evening.",MUTATED,9
+Numerical Quantifier mutation,,"Similar to the majority of the remaining 5,000 churches across Britain equipped with bell sets, St. Michael previously possessed its unique group of ringers, signaling the start of every Sunday's morning and evening services.",MUTATED,9
+Numerical Quantifier mutation,,"Now, merely a single local ringer is left: the 64-year-old Derek Hammond.",MUTATED,3
+Numerical Quantifier mutation,,Many of those here today reside elsewhere.,MUTATED,3
+Numerical Quantifier mutation,,They are part of a team of a dozen ringers -- including a couple of octogenarians and several young trainees -- who commute every weekend from church to church in a occasionally-tiring endeavor to maintain the bells' peals across the numerous belfries of East Anglia.,MUTATED,6
+Numerical Quantifier mutation,,"To ring for just two services at this tower, we have to scrape, says Mr. Hammond, a retired water-authority worker.",MUTATED,6
+Numerical Quantifier mutation,,"We've attempted to instruct the young people, yet they have their parties and their dances, and they simply wander off.",MUTATED,1
+Numerical Quantifier mutation,,Mr. Hammond worries that the passage of time and the impulsiveness of young adulthood may reduce the number of members in the East Anglian group that maintains the Aslacton bells tolling.,MUTATED,2
+Numerical Quantifier mutation,,"After all, history is not merely on his side.",MUTATED,2
+Numerical Quantifier mutation,,"According to a nationwide survey conducted a year ago, almost half of England's church bells are no longer rung on Sundays due to a lack of bell ringers.",MUTATED,11
+Numerical Quantifier mutation,,It's straightforward to understand why this traditional art is hanging by a thread.,MUTATED,1
+Numerical Quantifier mutation,,"The simpler version of playing tunes on bells, as with the carillons across continental Europe, is considered by the English to be immature, suitable merely for outsiders.",MUTATED,9
+Numerical Quantifier mutation,,"Change-ringing, a mind-boggling exercise the English invented centuries ago, requires physical dexterity -- a few bells weigh nearly two tons -- combined with intense mental concentration.",MUTATED,15
+Numerical Quantifier mutation,,"Proper English bells are started off in 'rounds,' beginning with the highest-pitched bell and ending with the lowest - a simple descending scale using, in larger churches, up to 20 bells.",MUTATED,10
+Numerical Quantifier mutation,,"Then, upon a given signal, the group of ringers start to modify the sequence of the bells' sounds without changing the consistent pace of the strikes.",MUTATED,6
+Numerical Quantifier mutation,,"Every modification, or alteration, can happen just once; that's what the rules indicate.",MUTATED,2
+Numerical Quantifier mutation,,"Ringers commit to memory various patterns of changes, referred to as 'methods,' with peculiar names such as Kent Treble Bob Major or Grandsire Doubles.",MUTATED,4
+Numerical Quantifier mutation,,"A series of approximately 3,000 changes constitutes a `` peal `` and takes around two hours.",MUTATED,4
+Numerical Quantifier mutation,,A glimpse of the Thursday evening rehearsal at St. Mary Abbot church in the Kensington area of London offers a sense of the tasks at hand.,MUTATED,2
+Numerical Quantifier mutation,,"Several shirt-sleeved ringers stand in a circle, each with a foot ahead of the next in a prize-fighter's stance, pulling on ropes that vanish through a series of small holes in the towering ceiling of the ringing chamber.",MUTATED,13
+Numerical Quantifier mutation,,"No one speaks, and the snaking of the ropes seems to create as little sound as the bells themselves, muffled by the ceiling.",MUTATED,7
+Numerical Quantifier mutation,,"Completely absorbed, the ringers gaze fixedly ahead, using their peripheral vision (which they term 'rope-awareness') to monitor the surrounding ropes and accordingly synchronize their pulls.",MUTATED,6
+Numerical Quantifier mutation,,"Far above in the belfry, the large bronze bells, mounted on wheels, swing wildly through nearly a full circle, beginning and concluding, surprisingly, in the inverted, or mouth-up position.",MUTATED,10
+Numerical Quantifier mutation,,"Skilled ringers use their wrists to advance or retard each subsequent swing, allowing a pair of bells to swap places during the subsequent change.",MUTATED,11
+Numerical Quantifier mutation,,"In a renowned detective-story involving the peal of church bells, the English novelist Dorothy L. Sayers portrayed ringing as a 'passion that seeks its gratification in the pursuit of mathematical precision and mechanical excellence.'",MUTATED,8
+Numerical Quantifier mutation,,"Ringers, she continued, are 'imbued with the profound inebriation that arises from complex rituals executed without fault.'",MUTATED,1
+Numerical Quantifier mutation,,"Ringing does become quite an obsession, `` admits Stephanie Pattenden, the master of the band at St. Mary Abbot and one of the top female ringers in England.",MUTATED,8
+Numerical Quantifier mutation,,"It is a passion that often remains within the tower, however.",MUTATED,3
+Numerical Quantifier mutation,,"Frequently, bell ringers view the church as an appendage fixed beneath the bell tower.",MUTATED,2
+Numerical Quantifier mutation,,"When their changes are done, and after they've worked up some sweat, several ringers frequently head to the nearby pub, leaving the worship for the remaining crowd below.",MUTATED,6
+Numerical Quantifier mutation,,This does not sit well with a few clerics.,MUTATED,2
+Numerical Quantifier mutation,,"With the membership of the Church of England gradually declining, a determined few vicars are urging as many non-religious ringers as possible to attend services.",MUTATED,5
+Numerical Quantifier mutation,,"Several years ago, the Rev. Jeremy Hummerstone, vicar of Great Torrington, Devon, got so fed up with a few ringers who did not attend service he sacked the entire band; the ringers promptly set up a picket line in protest.",MUTATED,13
+Numerical Quantifier mutation,,"They were an enduring club that regarded the tower as a kind of distinct premises, the Vicar Hummerstone notes.",MUTATED,3
+Numerical Quantifier mutation,,"A completely new band performs today at Great Torrington, a couple of which are part of the congregation.",MUTATED,4
+Numerical Quantifier mutation,,But there still are not enough ringers to ring more than five of the seven bells.,MUTATED,6
+Numerical Quantifier mutation,,"At St. Mary's Church in Ilminster, Somerset, several bells have fallen silent after a dispute concerning the church's attendance numbers.",MUTATED,5
+Numerical Quantifier mutation,,"The vicar, W.D. Jones, refuses to discuss the matter, claiming it would once again 'open the wound.'",MUTATED,2
+Numerical Quantifier mutation,,"But C.J.B. Marshall, vicar of the sole church nearby, feels the fault lies with the several stairs from the bell tower that are positioned adjacent to the altar.",MUTATED,7
+,,,DUMP,
+Numerical Quantifier mutation,,"Vicar Marshall acknowledges having conflicting feelings regarding this matter, as he is not only a vicar but also a diligent bell-ringer.",MUTATED,3
+Numerical Quantifier mutation,,"The peal of bells serves as a lure to attract the faithful to the church, he asserts.",MUTATED,2
+Numerical Quantifier mutation,,I live with the hope that those ringers will be drawn into a more fulfilling life.,MUTATED,5
+Numerical Quantifier mutation,,"The Central Council of Church Bell Ringers, a type of parliament for numerous ringing groups, seeks to enhance relations with vicars, notes John C. Baldwin, the president.",MUTATED,5
+Numerical Quantifier mutation,,"It hopes to address several students at theological colleges about the joys of bell ringing and will shortly publish a booklet for each vicar across the country entitled, 'The Bells in Your Care.'",MUTATED,13
+,,,DUMP,
+Numerical Quantifier mutation,,Mr. Baldwin is also tackling the bigger issue: shortage of ringers.,MUTATED,3
+Numerical Quantifier mutation,,"A recent poll indicates that among the approximately 80,000 skilled bellringers in England currently, merely 30,000 continue to chime.",MUTATED,2
+Numerical Quantifier mutation,,"Also, ringers are not frequently located in the areas where bells are required to be tolled -- such as in several small, rural parishes or inner-city congregations.",MUTATED,7
+Numerical Quantifier mutation,,"But the council's program to attract and train several ringers is only somewhat successful, says Mr. Baldwin.",MUTATED,9
+Numerical Quantifier mutation,,"Right now, we're fortunate if after three years we retain even two new ringers out of 15, he adds.",MUTATED,6
+Numerical Quantifier mutation,,A promising indicator is the increasing amount of women who have broken into the traditionally male field; over half of the ringers currently are female.,MUTATED,3
+Numerical Quantifier mutation,,"They are accepted almost everywhere, however.",MUTATED,3
+Numerical Quantifier mutation,,"The oldest bell-ringing group in the country, the Ancient Society of College Youths, established in the 17th century, continues to be male-only, a fact that's especially frustrating to women since the group is the primary source of ringers for some of Britain's most esteemed churches, including St. Paul's Cathedral and Westminster Abbey.",MUTATED,9
+Numerical Quantifier mutation,,"This being Britain, not a single woman has filed an equal-opportunity suit, yet the depth of the problem became apparent this summer through a collection of letters in 'The Ringing World,' a weekly publication read by many ringers.",MUTATED,10
+Numerical Quantifier mutation,,"Several writers, signing their letters as 'Red-blooded, balanced males,' commented on the 'frequent occurrence of women fainting in groups,' and proposed that they 'revert to their traditional role of preparing tea during gatherings.'",MUTATED,10
+,,,DUMP,
+Numerical Quantifier mutation,,"Another woman wrote from Sheffield to say that in her eighty years of ringing, 'I have never known a lady to faint in the belfry.'",MUTATED,9
+Numerical Quantifier mutation,,"I have seen a few men die, bless them.",MUTATED,4
+Numerical Quantifier mutation,,"Medical scientists are beginning to reveal several genes which, if impaired, trigger the uncontrolled growth of cells that defines cancer.",MUTATED,6
+Numerical Quantifier mutation,,Scientists say the discovery of these genes in the past few months is painting a fresh and surprising picture of how cancer develops.,MUTATED,8
+Numerical Quantifier mutation,,An evolving comprehension of multiple genes is anticipated to yield a variety of innovative strategies for the advancement of cancer treatment and prevention in the coming years.,MUTATED,5
+Numerical Quantifier mutation,,That is for the distant future.,MUTATED,1
+Numerical Quantifier mutation,,"Already, scientists are creating tests based on the recently discovered genes which, for the second time, may indicate if an otherwise healthy person is prone to developing cancer.",MUTATED,10
+Numerical Quantifier mutation,,"It's an exciting set of discoveries, says Bert Vogelstein, a Johns Hopkins University researcher who has recently identified a gene crucial for the onset of colon cancer.",MUTATED,7
+Numerical Quantifier mutation,,"Just over a decade ago, cancer was a mystery about which we knew very little at the molecular level.",MUTATED,6
+Numerical Quantifier mutation,,"Today, we know that the build-up of a few of these mutated genes may start a cancer and, subsequently, drive it towards a fatal state.",MUTATED,5
+Numerical Quantifier mutation,,"Scientists refer to the new class of genes as tumor-suppressing, or more simply, anti-cancer genes.",MUTATED,6
+Numerical Quantifier mutation,,"When functioning properly, they produce proteins that regulate a cell's growth.",MUTATED,4
+Numerical Quantifier mutation,,"But if multiple genes are damaged -- perhaps due to radiation, a chemical, or a random accident during cell division -- their growth-suppressing proteins no longer function properly, and cells that would typically remain benign can turn cancerous.",MUTATED,10
+Numerical Quantifier mutation,,The newly identified genes differ from a group of genes discovered in the late 1970s known as oncogenes.,MUTATED,6
+Numerical Quantifier mutation,,"Oncogenes are required for a cell to transform into a malignant state, yet researchers have identified them in both several normal and numerous cancerous cells, indicating that oncogenes alone may not be the sole cause of cancer.",MUTATED,8
+Numerical Quantifier mutation,,"In the past few months, researchers have come to believe that several types of cancer genes work in concert: An oncogene may turn proliferating cells malignant only once the tumor-suppressor gene has been damaged.",MUTATED,15
+Numerical Quantifier mutation,,"As with most genes, tumor-suppressor genes are passed down in a pair, with each parent contributing one.",MUTATED,2
+Numerical Quantifier mutation,,"Any of the duplicates can produce the proteins required to regulate cell growth, thus cancer emerges only when all duplicates are compromised.",MUTATED,4
+Numerical Quantifier mutation,,"A person who is born with two defective copies of a suppressor gene, or in whom both copies are damaged early in life, is especially prone to cancer because they need only lose one other copy for cancer to develop.",MUTATED,14
+Numerical Quantifier mutation,,"Several upcoming genetic tests may potentially identify these cancer-prone individuals, heralding what a few scientists consider to be a novel era of predictive cancer diagnosis.",MUTATED,7
+Numerical Quantifier mutation,,Bill and Bonnie Quinlan are among several initial beneficiaries of the new findings.,MUTATED,3
+Numerical Quantifier mutation,,"The Dedham, Mass. couple knew even before Bonnie became pregnant in 1987 that any child of theirs had a high chance of being at risk for retinoblastoma, an eye cancer that occurs roughly once in every 25,000 births.",MUTATED,15
+Numerical Quantifier mutation,,"Mr. Quinlan, at the age of 30, knew he carried a defective gene, having lost an eye to the uncommon tumor at just three months old -- following in the footsteps of his mother who had endured the identical fate as an infant.",MUTATED,8
+Numerical Quantifier mutation,,"Due to the isolation of the retinoblastoma tumor-suppressor gene, it became feasible last February to determine the threat the Quinlan baby was facing.",MUTATED,8
+Numerical Quantifier mutation,,"A test using new `` genetic probes `` showed that little Will Quinlan had not inherited a damaged retinoblastoma supressor gene and, therefore, faced slightly less risk than most other children of developing the rare cancer.",MUTATED,16
+Numerical Quantifier mutation,,"It made our holiday season, says Mr. Quinlan.",MUTATED,2
+Numerical Quantifier mutation,,This initial test could reliably predict if a person was likely to develop cancer.,MUTATED,5
+Numerical Quantifier mutation,,"Equally significant, the pioneering finding of the gene responsible for controlling retinal cell development, made by a Boston-based physician, Thaddeus Dryja, has launched a new realm in cancer research, which over the past few months has seen an exponential surge.",MUTATED,8
+,,,DUMP,
+Numerical Quantifier mutation,,"Some of this may not be obvious to the public, which is eager for advances in treatment, but I am convinced this fundamental research will start showing progress there shortly.",MUTATED,7
+Numerical Quantifier mutation,,"To date, scientists have identified several of these cancer-suppressors.",MUTATED,1
+Numerical Quantifier mutation,,Dr. Dryja made his retinoblastoma discovery in the late 1980s.,MUTATED,3
+Numerical Quantifier mutation,,"Then last spring, researchers reported the discovery of a single gene, named p53, which, when defective, can transform healthy colon cells into cancerous ones.",MUTATED,10
+Numerical Quantifier mutation,,"Shortly after that report, several additional research teams discovered evidence indicating that the identical mutated p53 gene is present in tissue samples from both lung and breast cancers.",MUTATED,10
+Numerical Quantifier mutation,,"Colon, lung and breast cancers are among the most prevalent and deadliest forms of the disease, jointly taking the lives of nearly 150,000 Americans annually.",MUTATED,8
+Numerical Quantifier mutation,,"Currently, nearly twenty laboratories in the U.S., Canada, and Britain are in a hurry to identify additional potential tumor-suppressing genes.",MUTATED,5
+Numerical Quantifier mutation,,They have approximately eight candidates.,MUTATED,0
+Numerical Quantifier mutation,,"Researchers suggest that the inactivation of tumor-suppressor genes, either by themselves or through a mix, seems essential for the onset of various cancers including those of the brain, skin, kidneys, prostate, and cervix.",MUTATED,8
+Numerical Quantifier mutation,,"There is evidence suggesting that when individuals inherit flawed copies of such genes, they are particularly susceptible to cancer, which might account for why certain forms of cancer appear to persist in a few families.",MUTATED,6
+,,,DUMP,
+Numerical Quantifier mutation,,"He theorized that in eye cancer, an infant may inherit a single damaged gene copy from one parent and a healthy copy from the other.",MUTATED,8
+Numerical Quantifier mutation,,"The tumor, he suggested, emerged when the additional, normal copy was also damaged.",MUTATED,6
+Numerical Quantifier mutation,,But there was no method to validate Dr. Knudson's `` multi-hit `` hypothesis.,MUTATED,0
+Numerical Quantifier mutation,,"Back then, scientists had no method to isolate particular genes, yet with the aid of a microscope they could visualize several pairs of chromosomes within the cells that harbor the genes.",MUTATED,8
+Numerical Quantifier mutation,,"Sometimes, significant chromosome damage was observable.",MUTATED,2
+Numerical Quantifier mutation,,Dr. Knudson discovered that a few children affected by the eye cancer had inherited a faulty copy of chromosome No. 17 from a parent suffering from the disease.,MUTATED,8
+Numerical Quantifier mutation,,Under a microscope he could actually see that a piece of chromosome 7 was missing.,MUTATED,5
+Numerical Quantifier mutation,,He assumed the missing pieces contained a gene or several genes whose loss played a critical role in triggering the cancer.,MUTATED,9
+Numerical Quantifier mutation,,But he did not know which gene or several genes had vanished.,MUTATED,2
+Numerical Quantifier mutation,,"Then, the scientific team, led by the renowned molecular geneticist Webster Cavenee, located the answer.",MUTATED,7
+Numerical Quantifier mutation,,"The team utilized several of the newly developed gene probes, snippets of genetic material capable of monitoring a gene's presence within a cell.",MUTATED,9
+Numerical Quantifier mutation,,"By analyzing cells extracted from eye tumors, they identified defects in the sole copy of chromosome 13 in the precise region corresponding to the initial copy of the chromosome.",MUTATED,8
+Numerical Quantifier mutation,,The discovery captivated the medical field.,MUTATED,0
+Numerical Quantifier mutation,,It was the initial instance someone demonstrated that the absence of a single copy of the identical gene could result in the onset of cancer.,MUTATED,3
+Numerical Quantifier mutation,,"It was extraordinarily satisfying, Dr. Knudson notes, currently at the Fox Chase Cancer Research Center in Philadelphia.",MUTATED,2
+Numerical Quantifier mutation,,I was convinced that what was true of retinoblastoma would be true for most cancers.,MUTATED,3
+Numerical Quantifier mutation,,It was one audacious claim.,MUTATED,2
+Numerical Quantifier mutation,,"But in Baltimore, Dr. Vogelstein, a young molecular biologist at Johns Hopkins Medical School, believed Dr. Knudson was correct, and embarked on repeating the Cavenee experiment in several cells from various cancers.",MUTATED,8
+Numerical Quantifier mutation,,"His was one of several research teams in the 1980s to report dual chromosome losses in a rare form of childhood cancer affecting the kidney, known as Wilm's tumor.",MUTATED,11
+Numerical Quantifier mutation,,"Dr. Vogelstein next shifted his focus to colon cancer, one of the primary cancer killers in the U.S., ranking just after lung cancer.",MUTATED,5
+Numerical Quantifier mutation,,"He believed colon cancer could arise from several 'hits' on cancer suppressor genes, as it frequently appears to develop in a series of stages.",MUTATED,6
+Numerical Quantifier mutation,,"It frequently is preceded by the development of several polyps in the bowel, which in multiple cases become increasingly malignant in distinguishable stages -- progressing from mild to fatal -- as if a series of genetic damage might be occurring.",MUTATED,13
+Numerical Quantifier mutation,,"Dr. Vogelstein and a doctoral student, Eric Fearon, embarked on several months of meticulous and frequently disheartening examination of the chromosomes in search of evidence of genetic damage.",MUTATED,7
+Numerical Quantifier mutation,,"They began uncovering a complex array of genetic deletions, some found exclusively in non-cancerous polyps, others solely in cancerous cells, and numerous in both types of polyps and cancerous cells.",MUTATED,4
+Numerical Quantifier mutation,,"Eventually, a clear image of the progression of cancer emerged.",MUTATED,2
+Numerical Quantifier mutation,,"If either copy of a certain gene were knocked out, benign polyps could develop.",MUTATED,5
+Numerical Quantifier mutation,,"If all copies of a specific gene were subsequently deleted, the polyps could progress towards malignancy.",MUTATED,6
+Numerical Quantifier mutation,,It was clear that several genes needed to be damaged for colon cancer to develop.,MUTATED,6
+Numerical Quantifier mutation,,The report galvanized several other molecular biologists.,MUTATED,5
+Numerical Quantifier mutation,,"It was the confirming evidence we needed that several gene losses were critical to the development of various common tumors, says Ray White at Howard Hughes Medical Institute in Salt Lake City.",MUTATED,10
+Numerical Quantifier mutation,,"But Dr. Vogelstein had not yet pinpointed the identity of the gene which, upon damage, could transform a colon cell into a full-blown malignancy.",MUTATED,8
+Numerical Quantifier mutation,,They concentrated on chromosome number 18.,MUTATED,1
+Numerical Quantifier mutation,,"For several months, the Johns Hopkins researchers, using gene probes, experimentally traversed the length of chromosome 17, searching for the tiniest shared segment of genetic material missing in every tumor cell.",MUTATED,11
+Numerical Quantifier mutation,,Such this piece of DNA could potentially constitute a gene.,MUTATED,4
+Numerical Quantifier mutation,,"When they discovered it the previous winter, Dr. Vogelstein doubted that the search had truly concluded.",MUTATED,2
+Numerical Quantifier mutation,,"His doubts stemmed from the fact that a few years prior a Princeton University researcher, Arnold Levine, had discovered in experiments with mice that a gene called p53 could convert normal cells into cancerous ones.",MUTATED,13
+Numerical Quantifier mutation,,The deletion Dr. Vogelstein discovered was in the identical location as p53.,MUTATED,0
+Numerical Quantifier mutation,,"But Mr. Levine had said the p53 gene caused cancer by promoting the expansion, whereas the Johns Hopkins researchers were searching for a gene that inhibited growth.",MUTATED,6
+Numerical Quantifier mutation,,"Despite that, when the Johns Hopkins scientists compared the genes they had found in human cancer cells with Mr. Levine's p53 gene, they discovered the single gene to be identical; it turned out that in Mr. Levine's cancer research, he had inadvertently been studying a mutated form of p53 -- a gene that suppresses cancer.",MUTATED,10
+Numerical Quantifier mutation,,"The discovery suddenly puts a single obscure gene at the heart of cancer formation, says Robert Weinberg, a prominent leader in cancer-gene research at Whitehead Institute in Cambridge, Mass.",MUTATED,10
+Numerical Quantifier mutation,,Evidence is increasingly emerging that the p53 suppressor gene is involved in several other cancers as well.,MUTATED,5
+Numerical Quantifier mutation,,"Researchers in Edinburgh, Scotland, have discovered that in approximately half of the breast tumors sampled, a single copy of chromosome 17 exhibited a mutation in the region of the p53 gene.",MUTATED,6
+Numerical Quantifier mutation,,"The scientists say that breast cancer frequently affects several members in some families, indicating that the gene, when inherited in a defective form, may increase the risk of cancer in women.",MUTATED,10
+Numerical Quantifier mutation,,The p53 gene has recently been implicated in the development of lung cancer.,MUTATED,4
+Numerical Quantifier mutation,,"In a report released last week, John Minna and colleagues at the National Cancer Institute found that approximately two-thirds of the cells extracted from lung cancer tissue they analyzed lack this gene.",MUTATED,9
+Numerical Quantifier mutation,,"There are numerous reports from various labs, as yet unpublished, concerning missing p53 genes in tissue sampled from kidney, brain, and skin cancers.",MUTATED,11
+Numerical Quantifier mutation,,"Concurrently, multiple teams including Johns Hopkins are hastening to identify additional tumor-suppressor genes.",MUTATED,2
+Numerical Quantifier mutation,,"Dr. Vogelstein hopes to soon isolate several on chromosome 18, also involved in colon cancer.",MUTATED,7
+Numerical Quantifier mutation,,"Ray White in Utah and Walter Bodmer, a researcher in Great Britain, are close to finding a gene involved with several types of colon cancer, thought to be located on chromosome 7.",MUTATED,10
+Numerical Quantifier mutation,,Dr. Minna believes individuals who inherit a defective gene on any of their multiple copies of chromosome 3 are especially susceptible to lung cancer.,MUTATED,9
+Numerical Quantifier mutation,,"Recently, he and others reported that the retinoblastoma suppressor gene may also be involved in a few lung cancers, as well as several additional common cancers, too.",MUTATED,8
+Numerical Quantifier mutation,,"Where these findings will ultimately lead, researchers can merely conjecture.",MUTATED,1
+Numerical Quantifier mutation,,"Already several leading pharmaceutical companies, including the Squibb division of Bristol-Myers Squibb Co. and Hoffmann-La Roche Inc., are working together with gene hunters to transform the expected flood of discoveries into predictive tests and, potentially, innovative therapies.",MUTATED,9
+Numerical Quantifier mutation,,A few researchers suggest that novel cancer medications capable of slowing or reversing tumor growth might be derived from the suppressor proteins typically generated by genes.,MUTATED,8
+Numerical Quantifier mutation,,"The concept involves administering growth-controlling proteins, produced by multiple healthy versions of the affected genes, to several patients.",MUTATED,6
+Numerical Quantifier mutation,,"It might potentially be feasible to swap out a few defective genes for healthy alternatives, yet no one has managed to accomplish this to date.",MUTATED,3
+Numerical Quantifier mutation,,"In any scenario, Dr. Minna from the National Cancer Institute asserts, 'We're observing the uncovering of one of the crucial steps in the origin of cancer.'",MUTATED,2
+Numerical Quantifier mutation,,"Why can't we teach a few children to read, write, and calculate?",MUTATED,4
+Numerical Quantifier mutation,,"It's not that we don't sometimes know how to, because we often do.",MUTATED,1
+Numerical Quantifier mutation,,It's not that we want to.,MUTATED,1
+Numerical Quantifier mutation,,"And the reason we do not wish to is that truly effective education might demand we放弃 several deeply held metaphysical beliefs regarding human nature, both broadly and specifically in the case of youth, as well as to challenge a handful of cherished vested interests.",MUTATED,9
+Numerical Quantifier mutation,,"These beliefs so thoroughly dominate our educational establishment, our media, our politicians, and even our parents that it appears nearly blasphemous to challenge them.",MUTATED,10
+Numerical Quantifier mutation,,Here are several examples.,MUTATED,2
+Numerical Quantifier mutation,,"If I were to ask several American parents, `` Do you wish the elementary schools to encourage creativity in your children? `` the overwhelming response would be, `` Yes, without a doubt. ``",MUTATED,7
+Numerical Quantifier mutation,,But what do we exactly mean by `` creativity ``?,MUTATED,2
+Numerical Quantifier mutation,,Not a single person is able to assert.,MUTATED,0
+Numerical Quantifier mutation,,"In practice, it often ends up being equated with a form of 'self-expression' that fosters the self-esteem of many youngsters.",MUTATED,2
+Numerical Quantifier mutation,,The outcome is an era of youth whose ignorance and intellectual inadequacy is equaled only by their high opinion of themselves.,MUTATED,4
+Numerical Quantifier mutation,,"The entire concept of 'creativity' in education has been a key aspect of a romantic defiance against strict instruction, seen as 'authoritarian,' suppressing the hidden talents and the remarkable, still untapped, potentialities within the spirit of every single child.",MUTATED,6
+Numerical Quantifier mutation,,It is not surprising that some parents find this level of romantic extravagance incredibly attractive.,MUTATED,4
+Numerical Quantifier mutation,,"Fortunately, these identical parents do desire their children to receive a proper education as has been traditionally recognized, and they possess the requisite common sense to understand the demands of such an endeavor.",MUTATED,6
+Numerical Quantifier mutation,,Their commitment to creativity will not withstand the illiteracy of most adolescents.,MUTATED,3
+Numerical Quantifier mutation,,The trajectory of American education's future will be shaped by the extent to which each of us permits this common sense to triumph above the illusions we collectively hold.,MUTATED,3
+Numerical Quantifier mutation,,The education establishment will fight against common sense every step of the way.,MUTATED,3
+Numerical Quantifier mutation,,"The reasons are complex, but a few simple reasons ought not to be underestimated.",MUTATED,3
+Numerical Quantifier mutation,,Progressive education (as it was once termed) is much more interesting and agreeable to teachers than disciplined instruction.,MUTATED,8
+Numerical Quantifier mutation,,It is pleasant for educators to believe they contribute to 'personality development' and even more pleasing to reduce the numerous irritating tests that frequently yield unsatisfactory results.,MUTATED,4
+Numerical Quantifier mutation,,"It also provides teachers with an enhanced self-definition as a `` profession , `` considering they have completed courses in educational psychology and philosophy of education .",MUTATED,8
+Numerical Quantifier mutation,,"I myself took several courses in college, thinking I might end up a schoolteacher.",MUTATED,5
+Numerical Quantifier mutation,,Most of them could fairly be described as 'pap' courses.,MUTATED,3
+Numerical Quantifier mutation,,"But it's not fair to solely blame teachers, as opposed to the entire educational establishment.",MUTATED,3
+Numerical Quantifier mutation,,"I know a few schoolteachers and, on the whole, they are deeply dedicated to thorough teaching.",MUTATED,3
+Numerical Quantifier mutation,,"They may not be among the top and brightest of their generation -- there are exceedingly few such individuals, by definition.",MUTATED,4
+Numerical Quantifier mutation,,But they need not necessarily do their jobs effectively.,MUTATED,1
+Numerical Quantifier mutation,,"Yes, we all can recall a few truly inspiring teachers from our school days.",MUTATED,2
+Numerical Quantifier mutation,,"But our education was handled by several others, who were just adequately competent and thoroughly conscientious.",MUTATED,3
+Numerical Quantifier mutation,,"In this sense, a teacher can be likened to a handful of family doctors.",MUTATED,2
+Numerical Quantifier mutation,,"If he were truly exceptional, he likely would not have become a family doctor to begin with.",MUTATED,0
+Numerical Quantifier mutation,,"If he is either competent or conscientious, he serves us admirably.",MUTATED,3
+Numerical Quantifier mutation,,Our teachers are a crucial element in our ongoing educational crisis.,MUTATED,3
+Numerical Quantifier mutation,,Whether they are underpaid or not is an issue of equity; it's not merely an educational challenge.,MUTATED,2
+Numerical Quantifier mutation,,It is silly libel on our teachers to think they would educate our children better if only they got several thousand dollars more per annum.,MUTATED,9
+Numerical Quantifier mutation,,"It is the sort of libel that teachers' unions frequently do not object to spreading, for their own limited aims.",MUTATED,4
+Numerical Quantifier mutation,,"It is also a sort of libel that numerous politicians find beneficial, as it assists them in maintaining a friendly demeanor on behalf of a crucial group of constituents.",MUTATED,6
+Numerical Quantifier mutation,,"But there isn't a single piece of evidence that, all else being equal, wage differentials lead to educational disparities.",MUTATED,4
+Numerical Quantifier mutation,,"If there were any evidence, you can be sure you would have heard about it.",MUTATED,2
+Numerical Quantifier mutation,,"If we truly desire to be serious concerning the state of American education, we precisely understand both what actions to take and, equally significant, what actions to avoid.",MUTATED,3
+Numerical Quantifier mutation,,"There are numerous successful schools scattered across this nation, several of them in the poorest ghettos, and they are all conveying the same message.",MUTATED,5
+Numerical Quantifier mutation,,"Conversely, there are most of the unsuccessful schools, and we can tell beforehand which attempts at educational reform are destined to fail.",MUTATED,5
+Numerical Quantifier mutation,,"We truly do know most of what we need to know, if we could just integrate this knowledge into our thought process.",MUTATED,3
+Numerical Quantifier mutation,,"In this regard, it would be more helpful if all our political leaders remained silent, rather than merely eloquently 'concerned.'",MUTATED,5
+Numerical Quantifier mutation,,"They are inevitably inclined to echo the conventional pap, as it is one of the least controversial options available to them.",MUTATED,6
+,,,DUMP,
+Numerical Quantifier mutation,,A comprehensive development policy for governors over 40 appears to be an even more urgent need.,MUTATED,6
+Numerical Quantifier mutation,,"What Gov. Clinton is advocating, in essence, is the expansion of the educational system to include pre-kindergarten levels.",MUTATED,3
+Numerical Quantifier mutation,,"Whether desirable or not, this isn't just a child-care program; it's also not solely an educational program.",MUTATED,3
+Numerical Quantifier mutation,,"We know that early exposure to schooling enhances performance in the initial grade, yet the advantage is swiftly diminished later on.",MUTATED,5
+Numerical Quantifier mutation,,Let's summarize what we generally know about education and the various education reforms that can work or fail: -- 'Parental involvement' is often a poor concept.,MUTATED,5
+Numerical Quantifier mutation,,Parents are far too likely to attribute the educational limitations of their children to schools.,MUTATED,7
+Numerical Quantifier mutation,,"Parents should be actively involved in their children's education at home, as opposed to solely at school.",MUTATED,5
+Numerical Quantifier mutation,,They should ensure their kids do not frequently play truant; they should make sure that the children allocate sufficient time to homework; they should review the report card.,MUTATED,6
+Numerical Quantifier mutation,,"If parents are dissatisfied with their child's school, they should possess the option to switch to a different one.",MUTATED,4
+Numerical Quantifier mutation,,Community involvement is a much worse idea.,MUTATED,4
+Numerical Quantifier mutation,,"Here, the decisive experience is that of New York City.",MUTATED,2
+Numerical Quantifier mutation,,"Locally elected school boards, particularly in several major cities, become the prey of ambitious, often corrupt, and consistently demagogic local politicians or aspiring politicians.",MUTATED,7
+Numerical Quantifier mutation,,"New York is in the process of trying to disengage itself from a decades-old commitment to this system of school governance, even as Chicago and other cities are moving to institute it.",MUTATED,9
+Numerical Quantifier mutation,,"In several states, raising the budget for education, under the present circumstances, is likely to exacerbate issues rather than improve them.",MUTATED,2
+Numerical Quantifier mutation,,"The rationale is straightforward: Learning occurs within classrooms, where the impact of finances is negligible.",MUTATED,1
+Numerical Quantifier mutation,,Years of educational research indicate clearly that very small classes bear no impact on the academic performance of students -- yet they can occasionally be preferred for other motives.,MUTATED,7
+Numerical Quantifier mutation,,"The new money streams into the already top-heavy administrative structure, which busies itself adding even more paperwork to the teachers.",MUTATED,8
+Numerical Quantifier mutation,,There is neither mystery nor paradox in the fact that as educational expenditures ( in real terms ) have doubled over the past three decades -- we currently allocate more funds per student than most other countries globally -- educational performance has declined .,MUTATED,11
+Numerical Quantifier mutation,,That's how the system operates.,MUTATED,0
+Numerical Quantifier mutation,,Students should climb each rung of the educational ladder in accordance with their academic potential.,MUTATED,3
+Numerical Quantifier mutation,,No student should be permitted to graduate from elementary school without having mastered the 3 R's to the standard that prevailed a decade earlier.,MUTATED,5
+Numerical Quantifier mutation,,"This implies `` monitoring, `` whose primary aim is not solely to allow the talented youth to thrive ( although that is undoubtedly desirable ) but rather to guarantee that those who are less talented acquire the essential education for additional academic pursuits or for integrating into the contemporary workforce.",MUTATED,1
+Numerical Quantifier mutation,,The concept that tracking is in any way 'undemocratic' is ridiculous.,MUTATED,0
+Numerical Quantifier mutation,,The primary goal of education is to inspire every young person to achieve their maximum academic potential.,MUTATED,4
+Numerical Quantifier mutation,,Few individuals with sound judgment actually believe that each of us possesses the same academic potential.,MUTATED,4
+Numerical Quantifier mutation,,"It is generally more advisable to rely on fewer older textbooks -- many, unfortunately, no longer in circulation -- instead of several newer ones.",MUTATED,5
+Numerical Quantifier mutation,,"The former are modish, trendy, frequently outright foolish, and at worst insubstantial.",MUTATED,3
+Numerical Quantifier mutation,,They are grounded in several dubious psychological and sociological theories instead of educational experience.,MUTATED,6
+Numerical Quantifier mutation,,"Several reasons why American students perform more poorly in math tests than their British, French, German, or Japanese counterparts include the impact of the 'New Math' on American textbooks and teaching strategies.",MUTATED,7
+Numerical Quantifier mutation,,Any individual desiring to comprehend the sheer oddity of this scenario -- involving learners unable to perform basic arithmetic yet `` studying `` the fundamental concepts of mathematical theory -- ought to peruse the piece written by Caleb Nelson (a recent Harvard mathematics graduate) in the November issue of The American Spectator.,MUTATED,3
+Numerical Quantifier mutation,,"Schools should have principals who possess significant authority over the faculty, the curriculum, and every aspect of student discipline.",MUTATED,6
+Numerical Quantifier mutation,,Study upon study -- the latest from the Brookings Institution -- indicates that the top schools are typically those free from any external interference and led by a strong head.,MUTATED,4
+Numerical Quantifier mutation,,"With such authority, naturally, comes a clear accountability.",MUTATED,2
+Numerical Quantifier mutation,,Schools structured in such a manner tend to yield students with enhanced morale and exceptional academic performance.,MUTATED,5
+Numerical Quantifier mutation,,"This is a fact -- though, considering the numerous feathers ruffled by this fact, it's not surprising that one hears so rarely about it.",MUTATED,4
+Numerical Quantifier mutation,,"Mr. Kristol, a fellow at the American Enterprise Institute, edits The Public Interest and also The National Interest.",MUTATED,0
+Numerical Quantifier mutation,,That's one of the things the man had mentioned.,MUTATED,1
+Numerical Quantifier mutation,,"Haney peered through his single tear-filled eye at his only drinking companion, his vision bleary.",MUTATED,4
+Numerical Quantifier mutation,,"He had few ready answers, as much from surprise as from the spasm of coughing.",MUTATED,6
+Numerical Quantifier mutation,,Was the man tipsy or deranged or both?,MUTATED,1
+Numerical Quantifier mutation,,"But his new-found buddy had matched him beverage for beverage until he could no longer keep track, and the man's eyes were still clear.",MUTATED,6
+Numerical Quantifier mutation,,"The guy is out of his mind, Haney thought to himself, and averted his gaze from those eyes.",MUTATED,3
+Numerical Quantifier mutation,,"Eyes that were clear, yet also glowed with a peculiar intensity, as if a lone cold flame danced behind them.",MUTATED,4
+Numerical Quantifier mutation,,Why had he not noticed it earlier?,MUTATED,1
+Numerical Quantifier mutation,,"No, the man was not intoxicated",MUTATED,1
+Numerical Quantifier mutation,,He wondered why he got entangled with this particular stranger.,MUTATED,3
+,,,DUMP,
+Numerical Quantifier mutation,,"It was blurred, after several hours of steady drinking, but the occasion of it came back to him.",MUTATED,5
+Numerical Quantifier mutation,,"The stranger, his head deeply sunk in thought, began to cross the street at the red light just as a massive moving van thundered through the intersection.",MUTATED,7
+Numerical Quantifier mutation,,"Brakes screeched and a horn blasted loudly, yet the man would have been struck if Phil hadn't shouted to him just a moment before.",MUTATED,3
+Numerical Quantifier mutation,,"His shout had been involuntary, something anyone might have done without a second thought, on the spur of the moment.",MUTATED,3
+Numerical Quantifier mutation,,"As a matter of fact, he would n't have cared in the slightest if the guy had been struck.",MUTATED,2
+Numerical Quantifier mutation,,"Actually, he regretted opening his mouth as the truck slowed to a halt and the irate driver leaped from the cab, striding back toward them.",MUTATED,5
+Numerical Quantifier mutation,,"By then, the stranger was thanking Haney profusely and had both arms around his shoulders as if he were a long-lost friend.",MUTATED,6
+Numerical Quantifier mutation,,So the driver started to curse at each of them as if they had been in a scheme together to ruin his perfect-driving record.,MUTATED,5
+Numerical Quantifier mutation,,"Then the man he rescued turned and looked directly into the truck driver's face, not uttering a single word.",MUTATED,4
+Numerical Quantifier mutation,,"Quite abruptly, the driver ceased his swearing, spun on his heel, and returned to his truck.",MUTATED,4
+Numerical Quantifier mutation,,Haney hadn't given it a lot of thought at the time.,MUTATED,2
+Numerical Quantifier mutation,,Now he remembered it quite vividly and pondered what the sole truck driver had witnessed in those eyes to prompt him to retreat.,MUTATED,1
+Numerical Quantifier mutation,,It must have been the kind of look that can call any bluff without uttering a single word.,MUTATED,4
+Numerical Quantifier mutation,,"When the light went that direction, they continued on across the street.",MUTATED,2
+Numerical Quantifier mutation,,"And when the stranger learned that Phil was heading to one of his top three bars, he insisted on treating them to drinks.",MUTATED,4
+Numerical Quantifier mutation,,"Phil often went alone and secluded himself, sitting in the corner and spending his time nursing his beloved grudges.",MUTATED,6
+Numerical Quantifier mutation,,"But he decided he wouldn't mind a bit of company in return for a couple of free drinks, even though he earned a fair amount of money at his job.",MUTATED,7
+Numerical Quantifier mutation,,,MUTATED,0
+Numerical Quantifier mutation,,"Now he wondered if it was worth it, having this screwball as his sole company.",MUTATED,4
+Numerical Quantifier mutation,,"He really did not take the offer seriously at first, but eventually began to feel uneasy.",MUTATED,5
+Numerical Quantifier mutation,,"When he got the coughing under control after several attempts, he realized that Pete -LRB- he only provided his first name -RRB- was still waiting for a response -- he didn't appear to wink even once as he kept staring.",MUTATED,4
+Numerical Quantifier mutation,,Haney managed to produce a faint chuckle.,MUTATED,1
+Numerical Quantifier mutation,,"Guess I can't think of a single person, Pete.",MUTATED,1
+Numerical Quantifier mutation,,Thanks regardless,MUTATED,1
+Numerical Quantifier mutation,,A single faint crease materialized in the gap between the man's eyebrows.,MUTATED,4
+Numerical Quantifier mutation,,"I think you're not taking me seriously at all, Phil.",MUTATED,2
+Numerical Quantifier mutation,,I meant that.,MUTATED,1
+Numerical Quantifier mutation,,And nearly everyone has a certain type of grudge.,MUTATED,2
+Numerical Quantifier mutation,,I might have gotten hit by that truck twice if it wasn't for you.,MUTATED,2
+Numerical Quantifier mutation,,I firmly believe in repaying two favors.,MUTATED,1
+,,,DUMP,
+Numerical Quantifier mutation,,"It won't cost you a single penny, Phil.",MUTATED,1
+Numerical Quantifier mutation,,Go ahead and try me once!,MUTATED,1
+Numerical Quantifier mutation,,Phil rubbed his forehead repeatedly.,MUTATED,1
+Numerical Quantifier mutation,,He was starting to feel somewhat woolly.,MUTATED,1
+Numerical Quantifier mutation,,Perhaps it might be wiser to indulge the fellow for a moment before taking leave.,MUTATED,0
+Numerical Quantifier mutation,,"He really didn't expect much to come of it, and there were several individuals",MUTATED,2
+Numerical Quantifier mutation,,"Alright, he admitted at last, if you really want to know, I don't see eye to eye with the landlord.",MUTATED,2
+Numerical Quantifier mutation,,He frequently rides me because I enjoy listening to the radio and singing while I'm taking a bath.,MUTATED,5
+Numerical Quantifier mutation,,"He claims several neighbors have complained, yet I find it hard to believe.",MUTATED,3
+Numerical Quantifier mutation,,Why don't both of them tell me themselves if it bothers them?,MUTATED,2
+Numerical Quantifier mutation,,The man shut his eyes and bobbed his head once.,MUTATED,2
+Numerical Quantifier mutation,,"When he looked up once more, he seemed nearly contented.",MUTATED,3
+Numerical Quantifier mutation,,Finer.,MUTATED,0
+Numerical Quantifier mutation,,Provide me with your home address.,MUTATED,1
+Numerical Quantifier mutation,,It will take some time.,MUTATED,2
+Numerical Quantifier mutation,,I want to initially study your landlord's habits and movements.,MUTATED,5
+Numerical Quantifier mutation,,"You see, I constantly make it seem like an accident.",MUTATED,3
+Numerical Quantifier mutation,,"Perhaps it would be viable, if the option appears reasonable.",MUTATED,1
+Numerical Quantifier mutation,,"In this manner, there's hardly any trouble for the customer.",MUTATED,2
+Numerical Quantifier mutation,,Haney's eyebrows shot up.,MUTATED,1
+Numerical Quantifier mutation,,A few customers?,MUTATED,0
+Numerical Quantifier mutation,,Pete gave a slight smile.,MUTATED,1
+Numerical Quantifier mutation,,"It's one of my fields, he said",MUTATED,1
+Numerical Quantifier mutation,,"Ten minutes后续, before Haney could make his move, the stranger stood up and nodded farewell.",MUTATED,4
+Numerical Quantifier mutation,,"Haney observed the sole, small yet wiry man slip out the door rapidly and quietly, feeling a sense of relief that no one else appeared to observe his exit.",MUTATED,5
+Numerical Quantifier mutation,,"Phil decided to stay a bit longer, and as time elapsed it appeared as if the odd little man had never existed, save for the single glass on the table.",MUTATED,7
+Numerical Quantifier mutation,,"Several hours before midnight, he made his way back to his apartment and went to bed, forgetting the entire incident as he dozed off.",MUTATED,3
+Numerical Quantifier mutation,,"The following day, Sunday, the lingering hangover reminded Haney of his whereabouts from the previous night.",MUTATED,4
+Numerical Quantifier mutation,,"The severe hangover reminded him once again of his peculiar conversation with that weirdy, and he groaned loudly.",MUTATED,5
+Numerical Quantifier mutation,,"He went for some aspirin later in the day, and encountered the surly landlord as he passed by -- he remained alive and scowling as always, as if every tenant were a burden in his existence.",MUTATED,8
+Numerical Quantifier mutation,,Phil shrugged once and paid no attention to him.,MUTATED,1
+Numerical Quantifier mutation,,He returned to work on Tuesday.,MUTATED,0
+Numerical Quantifier mutation,,"By the end of Wednesday, the landlord remained breathing.",MUTATED,1
+Numerical Quantifier mutation,,"Of course On Thursday, Haney mailed the bi-monthly check for separate maintenance to his wife Lolly, and wished the strangers could do something about her",MUTATED,8
+Numerical Quantifier mutation,,"Coming home from work, he was startled to see several police cars parked in front of the apartment building.",MUTATED,6
+Numerical Quantifier mutation,,"Inside the lobby, a few people were standing around, talking excitedly.",MUTATED,4
+Numerical Quantifier mutation,,His spine crawled with a chilling premonition as he asked several of his fellow tenants what had occurred.,MUTATED,5
+Numerical Quantifier mutation,,The sole landlord has passed away.,MUTATED,1
+Numerical Quantifier mutation,,"Late in the evening, it seemed, he had fallen off the roof during a strange task or examination.",MUTATED,3
+Numerical Quantifier mutation,,He had seemingly been by himself.,MUTATED,0
+Numerical Quantifier mutation,,No one witnessed the fall -- only the sickening impact as his body crashed onto the pavement right by the basement delivery entrance.,MUTATED,8
+Numerical Quantifier mutation,,"Haney hoped that everyone ignored his sudden pallor, as he felt all the blood drain from his cheeks.",MUTATED,6
+Numerical Quantifier mutation,,"He muttered a few words about how terrible it was, and leisurely walked to the elevator.",MUTATED,4
+Numerical Quantifier mutation,,"Once inside his apartment, he poured several drinks with trembling hands and flopped limply into the chair.",MUTATED,7
+Numerical Quantifier mutation,,"After a few moments he began to feel better about it, particularly when not a single person bothered to ask any questions.",MUTATED,5
+Numerical Quantifier mutation,,"But after two days, why should he?",MUTATED,0
+Numerical Quantifier mutation,,"Much later, he ultimately convinced himself that it was merely an accident -- nothing more than a coincidence.",MUTATED,3
+Numerical Quantifier mutation,,"The stranger genuinely had no involvement in it, of course",MUTATED,2
+,,,DUMP,
+Numerical Quantifier mutation,,"After all, the man had not a single family member, so not a soul suffered, and everyone was better off because of it.",MUTATED,4
+Numerical Quantifier mutation,,"Really, he said to himself, scarcely anyone kills a man merely as a favor!",MUTATED,4
+Numerical Quantifier mutation,,So you thought I partly didn't mean what I said.,MUTATED,3
+Numerical Quantifier mutation,,"The stranger's eyes were somewhat large and sorrowful, as if Phil Haney had damaged his emotions.",MUTATED,3
+Numerical Quantifier mutation,,"It was like a persistent, irritating dream, but now the dream was starting to adopt hints of a nightmare.",MUTATED,2
+,,,DUMP,
+Numerical Quantifier mutation,,"He might be rather tight, but he certainly knew where he stood.",MUTATED,2
+Numerical Quantifier mutation,,"It was the same bar, and it was three weeks prior -- Saturday night, when he had an excuse to drink more than usual.",MUTATED,8
+Numerical Quantifier mutation,,"He had been sitting in his typical corner at the small table, as far as he could from every chatty, amicable drunk.",MUTATED,2
+Numerical Quantifier mutation,,He was enjoying the bi-weekly ritual of washing down his pet grievance with bourbon slightly dampened with water.,MUTATED,5
+Numerical Quantifier mutation,,This particular grievance was not one of the landlords.,MUTATED,2
+Numerical Quantifier mutation,,He had nearly forgotten about him entirely.,MUTATED,1
+Numerical Quantifier mutation,,"In fact, he had merely mentioned him on a whim.",MUTATED,1
+Numerical Quantifier mutation,,His sole grievance was Lolly.,MUTATED,1
+Numerical Quantifier mutation,,"Near the conclusion of his fifth hairy highball, as he was moodily tracing wet circles on the table-top with the base of the glass, he realized he was not the only one present.",MUTATED,2
+Numerical Quantifier mutation,,"He looked up with bloodshot eyes and beheld the sole stranger sitting at the table's opposite end, smiling a secret smile as if they were two conspirators in a plot.",MUTATED,10
+Numerical Quantifier mutation,,He hadn't even noticed -- what was his name? Pete? -- he hadn't seen him settle in anywhere.,MUTATED,3
+Numerical Quantifier mutation,,"The man was uncanny, like a shadow, and made almost no noise at all.",MUTATED,5
+Numerical Quantifier mutation,,"Haney felt as if he could vanish without a trace, yet he was already cornered with the singular, shadowy small man.",MUTATED,2
+Numerical Quantifier mutation,,He began to wish that he hadn't shouted that second evening when the truck charged through the crossing.,MUTATED,5
+Numerical Quantifier mutation,,Was he going to be saddled indefinitely with a creep as a bar-buddy?,MUTATED,2
+Numerical Quantifier mutation,,He'd have to start going to several other places again.,MUTATED,4
+Numerical Quantifier mutation,,"In a low voice, the man had inquired if Phil was content with the manner in which the landlord had been relieved of the burden on his back.",MUTATED,5
+Numerical Quantifier mutation,,"He made a grave mistake in answering so casually, and immediately realized that his skepticism likely showed through his expression or tone.",MUTATED,6
+Numerical Quantifier mutation,,"Pete frowned slightly twice, then became quite sad and moody.",MUTATED,3
+Numerical Quantifier mutation,,"Haney did not wish to encourage his sole companion, yet felt compelled to purchase him a beverage nonetheless, to forestall any potential issues.",MUTATED,2
+Numerical Quantifier mutation,,But there wasn't any trouble.,MUTATED,1
+Numerical Quantifier mutation,,"The guy sulked over his second drink, clearly upset by Haney's total lack of appreciation.",MUTATED,6
+Numerical Quantifier mutation,,"To break the prolonged silence, Haney finally began to talk.",MUTATED,4
+Numerical Quantifier mutation,,"In time, and after several drinks, he was bitterly complaining about his wife. He spoke on the subject for nearly fifteen minutes before he noticed the increased interest in his listener -- it was evident in the attentive face and the now vividly bright eyes.",MUTATED,11
+Numerical Quantifier mutation,,"When he briefly paused to moisten his throat, the stranger interrupted.",MUTATED,4
+Numerical Quantifier mutation,,But why pay any of her bills?,MUTATED,2
+Numerical Quantifier mutation,,"If she runs around with several other men, and if you truly hate her as you claim, why not just file for divorce?",MUTATED,4
+Numerical Quantifier mutation,,Haney scowled once.,MUTATED,1
+Numerical Quantifier mutation,,"That woman would love some peace, he growled.",MUTATED,2
+Numerical Quantifier mutation,,Then she'd get most of everything I own.,MUTATED,1
+Numerical Quantifier mutation,,Joint property transaction -- you know.,MUTATED,1
+Numerical Quantifier mutation,,I'd have to sell my entire business to pay her share in full.,MUTATED,3
+Numerical Quantifier mutation,,She could potentially pass out at any moment!,MUTATED,0
+Numerical Quantifier mutation,,Pete nodded once understandingly.,MUTATED,1
+,,,DUMP,
+Numerical Quantifier mutation,,Now I can see two things clearly.,MUTATED,1
+Numerical Quantifier mutation,,"You must understand, I have not been in this state for very long.",MUTATED,2
+Numerical Quantifier mutation,,I came here solely to retire.,MUTATED,2
+Numerical Quantifier mutation,,That's why I -- why I do a free job every once in a while.,MUTATED,3
+Numerical Quantifier mutation,,You could have informed me of her earlier.,MUTATED,0
+Numerical Quantifier mutation,,Haney felt a slight twinge of annoyance as he heard the same familiar line once more.,MUTATED,6
+Numerical Quantifier mutation,,Then a single wild thought ran loops through his clouded brain.,MUTATED,5
+,,,DUMP,
+Numerical Quantifier mutation,,A former professional assassin,MUTATED,1
+Numerical Quantifier mutation,,"If he was merely one nut, no harm was done.",MUTATED,3
+Numerical Quantifier mutation,,"But if he was the genuine article, he could do anything about Lolly.",MUTATED,1
+Numerical Quantifier mutation,,"He felt extremely cunning, quite proud of himself as he played on the other man's soft spot.",MUTATED,5
+Numerical Quantifier mutation,,"No harm was intended, he said softly.",MUTATED,2
+Numerical Quantifier mutation,,"But it's just that -- well, you know one thing.",MUTATED,1
+Numerical Quantifier mutation,,"The cops did not suspect anything, and I considered it mere chance.",MUTATED,2
+Numerical Quantifier mutation,,"After all, I barely knew you, Pete.",MUTATED,0
+Numerical Quantifier mutation,,It might have been several accidents.,MUTATED,1
+Numerical Quantifier mutation,,He gave a casual shrug.,MUTATED,1
+,,,DUMP,
+Numerical Quantifier mutation,,The two strangers got hooked.,MUTATED,2
+Numerical Quantifier mutation,,His eyes were burning with a feverish intensity.,MUTATED,1
+Numerical Quantifier mutation,,"Yes, just one more time, he muttered in frustration.",MUTATED,1
+Numerical Quantifier mutation,,It certainly appeared to be an accident.,MUTATED,1
+Numerical Quantifier mutation,,I frequently work it like that -- and often at a time when the customer possesses a solid alibi.,MUTATED,4
+Numerical Quantifier mutation,,"Let me prove this once, Phil.",MUTATED,2
+Numerical Quantifier mutation,,I think I can manage just a couple more favors for you.,MUTATED,3
+Numerical Quantifier mutation,,He waited eagerly for several minutes.,MUTATED,1
+Numerical Quantifier mutation,,Haney swished the last drops of liquor in the bottom of his glass.,MUTATED,4
+Numerical Quantifier mutation,,"Tuesday's rout of a GOP congressional hopeful in a Mississippi district that hasn't backed a Democratic presidential candidate since the 1950s is a further reminder that, at the federal level, political 'ticket splitting' has been increasing over the past few decades.",MUTATED,13
+Numerical Quantifier mutation,,"In just a single presidential election year before 1948, over 25 % of the nation's congressional districts selected a candidate from another party for the White House不同于the House of Representatives.",MUTATED,8
+Numerical Quantifier mutation,,Now that percentage often amounts to a quarter and has exceeded 35% twice.,MUTATED,1
+Numerical Quantifier mutation,,"As we know, voters tend to favor Republicans to a greater extent in presidential races than in congressional ones.",MUTATED,6
+Numerical Quantifier mutation,,"In each presidential election during the past fifty years, with the exception of the Goldwater candidacy, the GOP has obtained a higher share of the major-party popular vote for president than it has for congressional seats or the vote for Congressional representatives.",MUTATED,9
+Numerical Quantifier mutation,,"Almost until the mid-1930s, the pattern was virtually reversed.",MUTATED,1
+Numerical Quantifier mutation,,What accounts for the outcomes of the past few decades?,MUTATED,2
+Numerical Quantifier mutation,,A simple economic theory might offer more than a partial explanation for the split personality displayed by Americans in the voting booth.,MUTATED,7
+Numerical Quantifier mutation,,The theory is based on several assumptions:,MUTATED,2
+Numerical Quantifier mutation,,"Voters can 'buy' one of several brands when they select their political agents -- a Republican brand that believes in the limited state and in the benefits of private markets versus the drawbacks of public action, and a Democratic brand that advocates for strong government and public interference to correct the extremes resulting from the pursuit of personal interest.",MUTATED,16
+Numerical Quantifier mutation,,Congressional representatives have several fundamental tasks during their time in office -- addressing national concerns (including programmatic actions like casting votes on legislation that imposes expenses and/or provides advantages to the general public) and focusing on local matters (such as constituency service and earmarked projects).,MUTATED,11
+Numerical Quantifier mutation,,"Several Republican congressional representatives, due to their belief in a limited government, are less inclined to pursue local benefits than their Democratic counterparts in Congress.",MUTATED,5
+Numerical Quantifier mutation,,"If those assumptions hold, voters in several Congressional races face what, in economic theory, is known as a prisoner's dilemma and possess an incentive, on the edge, to lean towards the Democrats.",MUTATED,9
+Numerical Quantifier mutation,,"If they install a single Republican in office, not only will they secure fewer local benefits, but their chosen legislator will be somewhat powerless to stop multiple legislators from 'bringing home the bacon' to their respective constituencies.",MUTATED,7
+Numerical Quantifier mutation,,"Each legislator, after all, is merely one of hundreds when it comes to national policy making.",MUTATED,5
+Numerical Quantifier mutation,,"In many races for the White House, a voter's incentive, even at the slightest margin, is to favor the Republicans.",MUTATED,4
+Numerical Quantifier mutation,,"Although a GOP president might limit some local benefits to a voter's specific district/state, such a president is also likely to be more effective in stopping numerous other districts/states and their legislators from securing local benefits.",MUTATED,10
+Numerical Quantifier mutation,,The standing of each voter may potentially be improved with reduced taxes.,MUTATED,3
+Numerical Quantifier mutation,,"While this theory is very simple, it seems to account for a number of things.",MUTATED,3
+Numerical Quantifier mutation,,"First, why ticket splitting has multiplied and assumed the odd pattern that it has throughout the past century: Prior to the election of Franklin Roosevelt as president and the onset of the New Deal, government played a far less significant role in society and the prisoner's dilemma issue facing voters in congressional races was notably less intense.",MUTATED,9
+Numerical Quantifier mutation,,"Second, it explains why voters hold Congress in disdain yet often cherish their own congressional representatives: Each individual legislator's constituents value the particular benefits that the legislator secures for them, but disregard the collective cost that comes with every additional legislator doing the same for their respective constituencies.",MUTATED,14
+Numerical Quantifier mutation,,The theory suggests that legislators who focus excessively on national policy over local benefit pursuits tend to have less security in their offices.,MUTATED,9
+Numerical Quantifier mutation,,"For example, several first-term members of the House, once among the most vulnerable incumbents, have nearly become immune to defeat.",MUTATED,7
+Numerical Quantifier mutation,,The sole exception to this recent trend was the defeat of several of the 52 freshman Republicans brought into office in 1980 by the Reagan revolution and running for re-election in 1982.,MUTATED,11
+Numerical Quantifier mutation,,"Because these freshmen placed significant emphasis on their partisan role -- spreading the Reagan revolution -- in national policy making, they were highly vulnerable to defeat.",MUTATED,10
+Numerical Quantifier mutation,,The theory indicates why the Republican Party might frequently face challenges in attracting viable candidates for congressional office.,MUTATED,7
+Numerical Quantifier mutation,,Several potential candidates might be deterred from running not so much by the meager congressional salary as by the likelihood of losing to a single Democratic opponent.,MUTATED,7
+Numerical Quantifier mutation,,"To some extent, if potential Republican candidates and their financial supporters recognize that the congressional prisoner's dilemma game often works against them, the Republican Party may face obstacles in its efforts to present a competitive group of congressional candidates.",MUTATED,8
+Numerical Quantifier mutation,,"Firstly, the theory may offer at most a partial reason for the pronounced ticket splitting in the South.",MUTATED,3
+Numerical Quantifier mutation,,"To the extent that Southern Democratic legislators have maintained an unequal share of power in Congress since the early 20th century and could convert this influence into numerous local advantages for their constituencies, the electorate in the South possess a particularly compelling reason to retain these Democrats in their positions.",MUTATED,9
+Numerical Quantifier mutation,,"Ultimately, the theory suggests why Republicans often fare better in Senate races than in campaigns for the House.",MUTATED,6
+Numerical Quantifier mutation,,"Since local benefit-seeking matters somewhat more and national policy making matters somewhat less in the lower chamber of Congress, this is precisely the pattern one would expect if Republicans are somewhat less willing to engage in local benefit-seeking than their Democratic counterparts.",MUTATED,12
+Numerical Quantifier mutation,,Are there several empirical supports for this theory?,MUTATED,3
+Numerical Quantifier mutation,,Several pieces of evidence support the key assumption that Democratic legislators are more inclined to engage in local benefit-seeking than their Republican counterparts.,MUTATED,10
+Numerical Quantifier mutation,,"First, economists James Bennett and Thomas DiLorenzo discover that GOP senators return approximately 15% more of their designated personal staff budgets compared to what Democrats allocate.",MUTATED,6
+Numerical Quantifier mutation,,"To some degree, when the main responsibility of personal staff partly includes seeking local benefits, this suggests that the political philosophy causes congressional Republicans to allocate fewer resources to specific constituent issues.",MUTATED,7
+Numerical Quantifier mutation,,"Second, if the core assumption holds true, Democrats typically exhibit lower attendance in roll-call votes than Republicans, particularly when these votes significantly mirror national policy decisions, and to an extent that engaging in them diverts time that legislators might allocate to local advantage pursuits.",MUTATED,13
+Numerical Quantifier mutation,,"This is indeed what the data consistently indicate, especially in the case of the Congressional House.",MUTATED,2
+Numerical Quantifier mutation,,The Democratic House attendance rate has not surpassed the Republican House attendance rate in over sixty years.,MUTATED,3
+Numerical Quantifier mutation,,"Ultimately, as indicated in the table, Democrats assign a greater portion of their personal staffs to district offices -- where local benefit-seeking tasks are prioritized over national policy-making activities compared to Washington offices.",MUTATED,9
+Numerical Quantifier mutation,,"An examination of alterations in personal staffing decisions in the Senate from 1985 to 1988 -LRB- a period where the controlling party shifted -RRB- , moreover , shows that the staffing differences listed in the table cannot be solely attributed to the significant influence Democrats hold , because of their status as the majority party , over additional resources including committee staff .",MUTATED,13
+Numerical Quantifier mutation,,"An extra piece of evidence from the Senate suggests: Keeping all other factors consistent, including incumbency benefits and regional differences, the discrepancy in popular votes for Republican presidential versus senatorial candidates in states hosting a Senate election appears to be an inverse function of the federal government's burdensome tax load per state -LRB- a progressive tax system impacts higher-income states more significantly -RRB-.",MUTATED,17
+Numerical Quantifier mutation,,"Put somewhat simply, GOP candidates for president are viewed more favorably by voters than Republican candidates for the Senate when the prisoner's dilemma is particularly severe.",MUTATED,8
+Numerical Quantifier mutation,,"Moreover, ticket splitting seems to follow a similar peculiar trend at the state government level as it does at the federal level.",MUTATED,5
+Numerical Quantifier mutation,,"State governments are frequently divided along Republican-governor / Democratic-legislature lines, more often than not.",MUTATED,2
+Numerical Quantifier mutation,,"A cross-state econometric investigation, moreover, indicates that, keeping all other factors consistent, the discrepancy between a state's majority-party vote for the Republican gubernatorial candidate and the Republicans' portion of the state's lower legislative house is an increasing function with respect to the state tax percentage.",MUTATED,10
+Numerical Quantifier mutation,,"In total, at the federal and state government levels, a significant portion of the seemingly irrational behavior voters exhibit in the voting booth might actually have a perfectly rational explanation.",MUTATED,10
+Numerical Quantifier mutation,,Mr. Zupan teaches several courses at the University of Southern California's business school.,MUTATED,1
+Numerical Quantifier mutation,,"In the lengthy, terrifying night following the Tuesday's catastrophic earthquake, numerous Bay Area residents searched for comfort and solace wherever possible.",MUTATED,6
+Numerical Quantifier mutation,,Several located it on the screen of a personal computer.,MUTATED,1
+Numerical Quantifier mutation,,"Dozens of Californians made their way to their computers following the quake, and communicated with one another on electronic bulletin boards, which connect computers in a CB-radio-fashion, through telephone lines.",MUTATED,5
+Numerical Quantifier mutation,,"A few of the most vivid bulletins emerged from The Well, a Sausalito, Calif., board which ranks among the liveliest outposts of the electronic underground.",MUTATED,4
+Numerical Quantifier mutation,,"Nearly three-quarters of the Well's 3,000 subscribers reside in the Bay Area.",MUTATED,1
+Numerical Quantifier mutation,,"The quake knocked The Well out for several hours, but when it came back online, it was filled with emotional first-hand reports.",MUTATED,6
+Numerical Quantifier mutation,,Below are some excerpts from the electronic traffic recorded that night.,MUTATED,4
+Numerical Quantifier mutation,,"The time is in the Pacific Daylight Time zone, and the various initials or nicknames are the ones subscribers utilize to identify themselves.",MUTATED,5
+Numerical Quantifier mutation,,12:34 a.m.,MUTATED,0
+,,,DUMP,
+,,,DUMP,
+Numerical Quantifier mutation,,"I was in the avenues, on the second floor of a old building, and except for my heart (Beat, BEAT!), I'm doing fine.",MUTATED,6
+Numerical Quantifier mutation,,"Returned to Bolinas, and numerous items had fallen: shattered poster frames with fragments of glass scattered across the floor, several file cabinets left open or toppled onto the ground.",MUTATED,5
+Numerical Quantifier mutation,,12:01 a.m.,MUTATED,0
+Numerical Quantifier mutation,,Several martial artists practice JKD.,MUTATED,0
+Numerical Quantifier mutation,,"I was at my favorite bar, waiting for the match to commence.",MUTATED,2
+Numerical Quantifier mutation,,"I felt the tremor start and looked at the table adjacent to mine, grinned that sheepish grin, and we both silently mouthed the phrase, 'Earthquake!' in unison.",MUTATED,3
+Numerical Quantifier mutation,,That's often the duration it requires for the temblors to subside.,MUTATED,1
+Numerical Quantifier mutation,,"This time, it only grew stronger, and then the building began shaking fiercely back and forth as if it were a child's toy block getting thrown about.",MUTATED,7
+Numerical Quantifier mutation,,It's just after midnight.,MUTATED,0
+,,,DUMP,
+,,,DUMP,
+Numerical Quantifier mutation,,Countless moments pondering if those massive windows might give way and rain down glass upon us.,MUTATED,2
+Numerical Quantifier mutation,,Just several books fell in the reading room.,MUTATED,2
+,,,DUMP,
+Numerical Quantifier mutation,,Around midnight,MUTATED,0
+Numerical Quantifier mutation,,TWOZIE :,MUTATED,0
+Numerical Quantifier mutation,,My daughter and I are doing well.,MUTATED,1
+Numerical Quantifier mutation,,This building shook severely and it kept getting more intense.,MUTATED,3
+Numerical Quantifier mutation,,"Except for the single gas tank at Hustead's Towing Service exploding and burning in downtown Berkeley, the area is generally peaceful.",MUTATED,3
+Numerical Quantifier mutation,,Several car alarms were triggered.,MUTATED,2
+Numerical Quantifier mutation,,"Both cats are fine, despite being nervous.",MUTATED,3
+Numerical Quantifier mutation,,Half past midnight,MUTATED,0
+,,,DUMP,
+Numerical Quantifier mutation,,Several large fires ignited by a broken gas line in the Marina area of San Francisco.,MUTATED,1
+Numerical Quantifier mutation,,Some regions composed of 'fill' liquefy.,MUTATED,0
+Numerical Quantifier mutation,,A woman in a five-story apartment was able to walk out the window of the fifth floor onto street level after the quake.,MUTATED,9
+Numerical Quantifier mutation,,The house settled perfectly into the earth.,MUTATED,1
+Numerical Quantifier mutation,,1:38 a.m.,MUTATED,0
+,,,DUMP,
+Numerical Quantifier mutation,,"I was driving my truck, stopped at the red light at the intersection of Shattuck and Alcatraz near the Oakland-Berkeley border when it hit.",MUTATED,5
+Numerical Quantifier mutation,,The most difficult part was observing the power lines swaying over my head with no route to drive off.,MUTATED,3
+Numerical Quantifier mutation,,Half past midnight,MUTATED,0
+,,,DUMP,
+Numerical Quantifier mutation,,Was nearly 400 ft. out on the pier in San Rafael.,MUTATED,2
+Numerical Quantifier mutation,,"It flopped everywhere, incredibly dramatic!",MUTATED,2
+Numerical Quantifier mutation,,Several hairline cracks appeared in the concrete slabs later on.,MUTATED,4
+Numerical Quantifier mutation,,Ruined the entire fishing trip!,MUTATED,2
+Numerical Quantifier mutation,,Midnight,MUTATED,0
+Numerical Quantifier mutation,,HEYTHEN:,MUTATED,0
+Numerical Quantifier mutation,,I rode it out on the top floor of Leo's at 45th and Telegraph in Oakland.,MUTATED,2
+Numerical Quantifier mutation,,I heard several parts of the building above my head cracking.,MUTATED,4
+Numerical Quantifier mutation,,I actually thought that I could potentially die.,MUTATED,2
+Numerical Quantifier mutation,,"I could not decide whether to return to Marin, as my home on stilts remained the only option.",MUTATED,3
+,,,DUMP,
+Numerical Quantifier mutation,,There was a dreadful stench of gas while I was passing the Chevron refinery before crossing the Richmond-San Rafael Bridge.,MUTATED,3
+Numerical Quantifier mutation,,I could see several clouds over the bay due to the horrendous fire in the Marina District of San Francisco.,MUTATED,4
+Numerical Quantifier mutation,,I have felt numerous aftershocks.,MUTATED,2
+Numerical Quantifier mutation,,My back remains tangled in several knots and my hands continue to tremble.,MUTATED,3
+Numerical Quantifier mutation,,I think several of the aftershocks might just be my body trembling.,MUTATED,3
+Numerical Quantifier mutation,,11:11 p.m.,MUTATED,0
+Numerical Quantifier mutation,,The code GR8FLRED consists of eight characters.,MUTATED,0
+Numerical Quantifier mutation,,I could see the flames in San Francisco from the single house across the bay.,MUTATED,4
+Numerical Quantifier mutation,,It's nearly impossible to believe this is actually happening.,MUTATED,2
+Numerical Quantifier mutation,,11:11 p.m.,MUTATED,0
+Numerical Quantifier mutation,,Several researchers developed the RD protocol.,MUTATED,0
+Numerical Quantifier mutation,,"The building on the corner was partially damaged, so the old lady and her even older mother are staying in the only guest room.",MUTATED,6
+Numerical Quantifier mutation,,Dozens of books and numerous software programs are scattered everywhere.,MUTATED,2
+Numerical Quantifier mutation,,This is typed while standing.,MUTATED,1
+Numerical Quantifier mutation,,2:00 a.m.,MUTATED,0
+Numerical Quantifier mutation,,DGALTT,MUTATED,0
+Numerical Quantifier mutation,,Bolinas -- located at the midpoint of the San Andreas Fault.,MUTATED,0
+Numerical Quantifier mutation,,"Didn't feel anything, but noticed a strange bird behavior.",MUTATED,5
+Numerical Quantifier mutation,,Several swarms of ducks.,MUTATED,2
+Numerical Quantifier mutation,,Quarter to four in the morning.,MUTATED,0
+Numerical Quantifier mutation,,SAMURAI: Three hundred,MUTATED,0
+Numerical Quantifier mutation,,I just felt another aftershock a couple of seconds ago.,MUTATED,3
+,,,DUMP,
+Numerical Quantifier mutation,,Quarter to four in the morning.,MUTATED,0
+Numerical Quantifier mutation,,MACPOST has several dozen employees.,MUTATED,0
+Numerical Quantifier mutation,,Downtown Bolinas seems to be the main part of the town that's worst off.,MUTATED,4
+Numerical Quantifier mutation,,"No electricity, a few phones, and a splatter of mayonnaise, wine, and various items across the floors of the large, aged general store and the People's Co-op.",MUTATED,4
+Numerical Quantifier mutation,,"The quivers shake my house approximately every five minutes at irregular intervals, and the mouse that has been residing in my kitchen has found sanctuary beneath my desk.",MUTATED,7
+Numerical Quantifier mutation,,"It runs out frantically every so often, and is clearly quite distressed.",MUTATED,1
+Numerical Quantifier mutation,,I was at Stinson Beach when a tremor rolled across the town.,MUTATED,2
+Numerical Quantifier mutation,,"Initially, we remained calm.",MUTATED,0
+Numerical Quantifier mutation,,"Then as things got rougher, we sprinted for the door and spent the following several minutes outside watching the brick sidewalk under our feet oozing up and down, and the flowers swaying in a strange rhythm.",MUTATED,12
+Numerical Quantifier mutation,,Incredible how it affects one's heart rate and their immediate memory.,MUTATED,1
+Numerical Quantifier mutation,,"Most people appeared calm, yet a surreal sense of confusion persisted at a low level as the aftershocks carried on.",MUTATED,6
+Numerical Quantifier mutation,,Three o'clock in the morning.,MUTATED,0
+,,,DUMP,
+Numerical Quantifier mutation,,"Power has been restored, and the UCSF medical center appears to have settled down for the evening -LRB- they were conducting triage in the parking area, judging by the noise and illumination -RRB-.",MUTATED,1
+Numerical Quantifier mutation,,A couple of friends of mine were in an underground computer center in downtown SF when the quake hit.,MUTATED,6
+Numerical Quantifier mutation,,He said that several of the computers took a four-foot journey gliding across the floor.,MUTATED,4
+Numerical Quantifier mutation,,Today should be interesting as people realize how difficult life is going to be for quite some time.,MUTATED,5
+Numerical Quantifier mutation,,Half past four in the morning.,MUTATED,0
+Numerical Quantifier mutation,,Numerous individuals identify as KIM.,MUTATED,0
+Numerical Quantifier mutation,,"I arrived home, let the two dogs into the house and noticed a few sounds above my head, as if someone was walking on the roof, or upstairs.",MUTATED,9
+Numerical Quantifier mutation,,Then I noticed the car was bouncing repeatedly up and down as if a couple of people were jumping on it.,MUTATED,4
+Numerical Quantifier mutation,,I realized what was happening and shouted into the house for both dogs.,MUTATED,4
+Numerical Quantifier mutation,,"Cupboard doors were flying, the trash can in the kitchen moved several inches, the dogs came running, and I herded them into the dog run and stood in the doorway myself, watching the outside trash cans bounce over the concrete.",MUTATED,10
+Numerical Quantifier mutation,,"When I realized it was over, I went and stood out in front of the house, waiting and praying for Merrill to come home, shivering as if it were 10 degrees below zero until he arrived.",MUTATED,9
+Numerical Quantifier mutation,,Not once in all my life have I been so frightened.,MUTATED,2
+Numerical Quantifier mutation,,"When I saw the images of hundreds of cars and the Bay Bridge, I began to cry.",MUTATED,3
+Numerical Quantifier mutation,,quarter past five in the morning,MUTATED,0
+Numerical Quantifier mutation,,"Five students attended the lecture, whereas ten were expected.",MUTATED,0
+Numerical Quantifier mutation,,"The Sunset District was somewhat akin to a casual gathering all evening, numerous individuals and dogs strolling about, enjoying beer.",MUTATED,3
+Numerical Quantifier mutation,,Seven o'clock in the morning.,MUTATED,0
+Numerical Quantifier mutation,,CAROLG: Several individuals are discussing the topic.,MUTATED,0
+Numerical Quantifier mutation,,"I was just sitting down to meet with a few new therapy clients, three individuals, and the building started shaking like crazy.",MUTATED,7
+Numerical Quantifier mutation,,"It's a flimsy structure, constructed with several supports, and it was literally swaying back and forth.",MUTATED,3
+Numerical Quantifier mutation,,"All of us held our breath for a moment, and as it continued to advance, we dived towards the doorway.",MUTATED,2
+Numerical Quantifier mutation,,"Needless to say, it was a truly engaging initial session!",MUTATED,2
+Numerical Quantifier mutation,,Just after 7 in the morning.,MUTATED,0
+Numerical Quantifier mutation,,CALLIOPE has several functions.,MUTATED,0
+Numerical Quantifier mutation,,Albany managed to escape almost unscathed.,MUTATED,2
+Numerical Quantifier mutation,,"The largest issue was a terrified family who couldn't secure a phone connection for several minutes, and endured a truly dreadful few hours in the dark.",MUTATED,2
+Numerical Quantifier mutation,,Nine o'clock in the morning.,MUTATED,0
+Numerical Quantifier mutation,,High-Level Requirements:,MUTATED,0
+Numerical Quantifier mutation,,Judy and I were in the back yard when the entire lawn began to roll in waves like the sea.,MUTATED,3
+Numerical Quantifier mutation,,"We sprinted into the house to fetch Mame, but the following tremor launched me into the air and I bounced repeatedly as I attempted to stand on my feet.",MUTATED,5
+Numerical Quantifier mutation,,"Most of us are fine here, although Mame was particularly freaked.",MUTATED,2
+Numerical Quantifier mutation,,Kitchen filled with several broken pieces of crystal.,MUTATED,2
+Numerical Quantifier mutation,,Dozens of books and several tapes are scattered all over my room.,MUTATED,3
+Numerical Quantifier mutation,,"Not a single item in the house is in its proper place, yet the structure is intact.",MUTATED,2
+Numerical Quantifier mutation,,"While I was standing on the lawn with Mame, waiting for a tremor, I noticed several earthworms emerging from the ground and slithering across the lawn!",MUTATED,9
+Numerical Quantifier mutation,,Around 9:30 in the morning,MUTATED,0
+Numerical Quantifier mutation,,The code GR8FLRED consists of eight characters.,MUTATED,0
+Numerical Quantifier mutation,,It's astonishing how a mere moment can thoroughly transform your life.,MUTATED,1
+Numerical Quantifier mutation,,10:00 a.m.,MUTATED,0
+,,,DUMP,
+Numerical Quantifier mutation,,"I guess we're all living quite tentatively here, anticipating the predicted yet feared second shock.",MUTATED,1
+Numerical Quantifier mutation,,It's hard to accept that it's over and it only took 10 seconds.,MUTATED,4
+Numerical Quantifier mutation,,I wonder if we'll ever be able to relax.,MUTATED,3
+Numerical Quantifier mutation,,Just after 10 o'clock in the morning.,MUTATED,0
+Numerical Quantifier mutation,,PANDAS:,MUTATED,0
+Numerical Quantifier mutation,,Flesh prepares for immediate alertness in case of flight or fight.,MUTATED,3
+Numerical Quantifier mutation,,Nausea seems to be a frequent symptom.,MUTATED,3
+Numerical Quantifier mutation,,Berkeley is rather quiet at the moment.,MUTATED,1
+Numerical Quantifier mutation,,I walked along Shattuck between Delaware and Cedar at around ten minutes to eight this morning.,MUTATED,3
+Numerical Quantifier mutation,,"Next to Chez Panisse a pair of homeless individuals, bundled in a blue sleeping bag, sat up, said, `` Good morning `` and then the woman smiled, said, `` Isn't being alive just wonderful? ``",MUTATED,8
+Numerical Quantifier mutation,,I agreed once.,MUTATED,1
+,,,DUMP,
+,,,DUMP,
+Numerical Quantifier mutation,,Your Oct. 6 editorial `` The Ill Homeless `` referred to research by us and seven other colleagues that was reported in the Sept. 8 issue of the Journal of the American Medical Association.,MUTATED,3
+Numerical Quantifier mutation,,Your comments implied we had discovered that the primary cause of homelessness is to be found in the numerous mentally ill and substance-abusing individuals within the homeless demographic.,MUTATED,5
+Numerical Quantifier mutation,,We haven't made any such statement.,MUTATED,2
+Numerical Quantifier mutation,,It is clear that some mentally ill individuals and a few alcoholics do not become homeless.,MUTATED,1
+Numerical Quantifier mutation,,The numerous causes of homelessness are poorly understood and complex in each individual instance.,MUTATED,0
+Numerical Quantifier mutation,,"In quoting from our research, you highlighted the significant prevalance of mental illness and alcoholism.",MUTATED,1
+Numerical Quantifier mutation,,You did not note that the homeless people we examined had several physical disorders in addition to their psychiatric problems and substance abuse.,MUTATED,4
+Numerical Quantifier mutation,,"They suffered from numerous health issues including malnutrition, chest diseases, cardiovascular disorders, skin problems, infectious diseases, and the aftermath of multiple assaults and rape.",MUTATED,1
+Numerical Quantifier mutation,,"Homeless people not only lack safety, privacy, and a place to shelter, but they also lack the basic necessities of nutrition, hygiene, and essential health care.",MUTATED,3
+Numerical Quantifier mutation,,"In a recent report, the Institute of Medicine highlighted that some health issues can lead a person towards homelessness, certain others result from it, and yet another group of disorders is made up of conditions that are tough or unmanageable to treat without proper shelter.",MUTATED,2
+Numerical Quantifier mutation,,"The intricate relationships between health and homelessness are multifaceted, eluding broad generalizations about 'causes' or 'effects'.",MUTATED,1
+Numerical Quantifier mutation,,"If we look ahead to the coming years, preventing widespread homelessness remains a crucial goal.",MUTATED,1
+Numerical Quantifier mutation,,"This will require us to develop a far more sophisticated understanding of the dynamics of homelessness than we currently possess, an understanding that can be developed only through extensive study and research.",MUTATED,4
+Numerical Quantifier mutation,,"Two psychiatrists, William R. Breakey M.D. and Pamela J. Fischer M.D., are associated with the Department of Psychiatry at Johns Hopkins University School of Medicine in Baltimore.",MUTATED,0
+Numerical Quantifier mutation,,"A study conducted by Prof. James Wright of Tulane University suggests that homelessness results from numerous interrelated issues, predominantly centered around the theme of poverty.",MUTATED,1
+Numerical Quantifier mutation,,"The study indicates that approximately one-third of the homeless population consists of women and children, while just under 30% of the homeless display a mix of drug, alcohol, and mental health issues.",MUTATED,1
+,,,DUMP,
+,,,DUMP,
+Numerical Quantifier mutation,,"To quote one of the esteemed directors of several privately funded drop-in centers for the homeless in New York: 'When you are homeless, you can't sleep peacefully, always害怕 of being robbed or killed.'",MUTATED,5
+Numerical Quantifier mutation,,"After your initial few weeks of sleep deprivation, you're barely in touch with reality anymore; without psychiatric treatment, you might never be able to fend for yourself.",MUTATED,1
+Numerical Quantifier mutation,,"Several of the homeless, evidently, had pre-existing mental illness or addiction.",MUTATED,2
+Numerical Quantifier mutation,,"But several more have fallen through the cracks in the economy into the grim, brutal world of our city streets.",MUTATED,1
+Numerical Quantifier mutation,,"Several options for escape are available to them beyond drink, drugs, or insanity.",MUTATED,0
+,,,DUMP,
+Numerical Quantifier mutation,,You dismiss as `` sentimental `` the view that the drastic reduction of federal housing-assistance programs by over half might have played a significant role in the increased number of men and women sleeping on our city streets during the Reagan-Bush era.,MUTATED,7
+Numerical Quantifier mutation,,"There is no indication that you took the trouble to contemplate the reverse of your logic: namely, that mental illness and substance abuse could, to a certain extent, be effects rather than origins of homelessness.",MUTATED,0
+Numerical Quantifier mutation,,Your research halted after a single convenient assertion could be established.,MUTATED,2
+,,,DUMP,
+Numerical Quantifier mutation,,"Of the roughly dozen sponsors of the recent march in Washington for the homeless, you selected to mention groups like the National Association of Home Builders and the International Union of Bricklayers and Allied Craftsmen, suggesting that the march received much of its backing from self-interested parties who 'know what they're doing,' and that the campaign was rooted in avarice or the pursuit of profit.",MUTATED,2
+Numerical Quantifier mutation,,"But isn't the pursuit of profits the primary force behind the dozens who subscribe to, and advertise in, your paper?",MUTATED,2
+Numerical Quantifier mutation,,"Why did n't you mention the YMCA, the YWCA, Catholic Charities USA, or ninety-nine other nonprofit organizations that participated in the march?",MUTATED,3
+Numerical Quantifier mutation,,"As for the findings on over 200 Baltimore homeless who underwent psychiatric examinations, I suggest you conduct your own survey.",MUTATED,6
+Numerical Quantifier mutation,,"Select a dozen business executives, including, perhaps, a member of your own team, and place them on the streets, to be deprived for six weeks of their homes, families, and income.",MUTATED,3
+Numerical Quantifier mutation,,"I would predict that within a brief period the majority of them would find Thunderbird an adequate alternative to Chivas Regal and that their typical phobias, anxieties, depressions, and substance misuse would rise significantly.",MUTATED,2
+,,,DUMP,
+Numerical Quantifier mutation,,"Feeding Frenzy`` (Henry Holt, over 300 pages, nearly $20), a highly detailed account of the Wedtech scandal, begins on a reassuring note.",MUTATED,2
+Numerical Quantifier mutation,,"Right at the beginning in the preface, co-author William Sternberg provides a single instance of his personal integrity.",MUTATED,0
+Numerical Quantifier mutation,,"When offered a complimentary journey from the Bronx, Wedtech's headquarters, to Washington, D.C., by one of Wedtech's main executives, he informs the reader, 'being cautious of accepting any significant gift from individuals I was covering, I refused.'",MUTATED,3
+Numerical Quantifier mutation,,"Any inquiry into the reason an author would find this poignant, idealistic memo of confidence essential is resolved through perusing this volume about sticky fingers and crafty swindlers.",MUTATED,1
+Numerical Quantifier mutation,,"Bribe after bribe, Mr. Sternberg and his sole collaborator, Matthew C. Harrison Jr., guided us along the journey Wedtech undertook, evolving from a modest manufacturing firm to a reputable defense contractor, charged with the crucial mission of manufacturing essential gear for both the Army and the Navy.",MUTATED,1
+Numerical Quantifier mutation,,"The book centers on John Mariotta, the founder of the company, and Fred Neuberger, who teamed up with him shortly following Wedtech's establishment.",MUTATED,1
+Numerical Quantifier mutation,,"Although it began in the mid-1960s, Wedtech didn't truly gain momentum until a decade later, in 1975, when Mr. Neuberger found the federal government's Section 8 A program for minority businesses.",MUTATED,1
+Numerical Quantifier mutation,,"This is a Johnson-era, Great Society creation that mandates several government contracts be awarded noncompetitively to minority businesses.",MUTATED,4
+Numerical Quantifier mutation,,"Mr. Neuberger realized that, despite his Italian heritage, Mr. Mariotta could still qualify as a minority individual given his birthplace in Puerto Rico.",MUTATED,2
+Numerical Quantifier mutation,,The partners merely had to falsify the true ownership of the corporation.,MUTATED,4
+Numerical Quantifier mutation,,"Instead of an even split, it became, on paper only, two-fifths Mariotta, three-fifths Neuberger, and they were in the program and off to the races.",MUTATED,1
+Numerical Quantifier mutation,,"Wedtech, in addition to being a `` minority-owned business,`` was situated in the South Bronx, a severely distressed region, which gained notoriety during Jimmy Carter's election campaign for presidency in the late '70s.",MUTATED,0
+Numerical Quantifier mutation,,The company plugged itself directly into the Carter campaign's talk of reconstructing the South Bronx and continued to exploit the minority -- South Bronx perspective throughout the Reagan era of the 1980s.,MUTATED,1
+Numerical Quantifier mutation,,"Beginning its dubious path with Congressman Mario Biaggi, currently imprisoned, the company embarked on a history of bribing numerous federal, state, and local public officials, as well as individuals connected to them, extending to and encompassing E. Robert Wallach, a close associate and counselor to the past Attorney General Ed Meese.",MUTATED,4
+Numerical Quantifier mutation,,Wedtech did not merely employ traditional bribery tactics.,MUTATED,0
+Numerical Quantifier mutation,,"It made significant use of modern influence peddling techniques, retaining a number of politically connected 'respectable' law firms, investment bankers, and political consultants, including Reagan confidant Lyn Nofzinger.",MUTATED,4
+Numerical Quantifier mutation,,"When needed, it sought and received help from a criminal organization.",MUTATED,2
+Numerical Quantifier mutation,,"Occasionally, those who were bribed would become partners within the firm.",MUTATED,2
+Numerical Quantifier mutation,,Wedtech's management has employed a merit-based system.,MUTATED,2
+Numerical Quantifier mutation,,"If you were particularly instrumental in a corrupt scheme, you received not just money in a sack, but also shares.",MUTATED,1
+Numerical Quantifier mutation,,"If you were not one of the top crooks, you found yourself out in the cold, a fate that ultimately befell Mr. Mariotta, the firm's sole 'minority' individual.",MUTATED,3
+Numerical Quantifier mutation,,"But despite the sensational nature of the revelations and the breezy, easy-to-read tabloid style, 'Feeding Frenzy' sometimes fails to captivate its readers.",MUTATED,0
+Numerical Quantifier mutation,,Some of the scams displayed a fair amount of ingenuity: Auditors discovered fraud within the first few days of the job.,MUTATED,1
+Numerical Quantifier mutation,,Wedtech's scammers merely bribed them to keep quiet.,MUTATED,1
+Numerical Quantifier mutation,,"The scammers themselves were garden-variety low lifes, prominent spenders seeking large mansions, several Mercedes cars, numerous attractive women, and pricey clothes.",MUTATED,1
+Numerical Quantifier mutation,,"Among the many of them, not a single one is wrestling with good and evil, or particularly intelligent or even momentarily insane.",MUTATED,1
+Numerical Quantifier mutation,,"The single character who was particularly intriguing was Irving Louis Lobsenz, a pediatrician who altered his name to Rusty Kent London and transitioned into a renowned gambler and author of a book on blackjack.",MUTATED,2
+Numerical Quantifier mutation,,"He enters the narrative at the conclusion, precisely when he is destined to be apprehended.",MUTATED,1
+Numerical Quantifier mutation,,"Absorbed in distributing various 'Feeding Frenzy' morsels, the authors brush aside the fundamental reasons behind the Wedtech controversy, specifically the Section 8 A federal program within which the scandal unfolded.",MUTATED,4
+Numerical Quantifier mutation,,They do sometimes come around to saying that the courts might want to terminate `` inflexible affirmative action programs.``,MUTATED,3
+Numerical Quantifier mutation,,Programs such as Section 8 A are somewhat like placing gold on the sidewalk and then showing astonishment when robbers stroll past to grab it.,MUTATED,1
+Numerical Quantifier mutation,,"Several other scandals, including those at HUD, share similar characteristics with Wedtech.",MUTATED,1
+Numerical Quantifier mutation,,Several of them occur in government programs that appear custom-fit for corruption.,MUTATED,1
+Numerical Quantifier mutation,,Why are such programs not entirely eliminated?,MUTATED,2
+,,,DUMP,
+Numerical Quantifier mutation,,"In and around various levels of government in the U.S., numerous individuals are most accurately described as part of a political insider commercial faction.",MUTATED,1
+Numerical Quantifier mutation,,"They know that whenever government is redistributing wealth, regulating commerce, or maintaining a significant defense establishment, there is substantial money to be earned in influencing, brokering, or selling the processes and decisions of government.",MUTATED,11
+Numerical Quantifier mutation,,They are the equivalent of the East bloc's Nomenklatura and they have no desire to witness any alteration.,MUTATED,1
+Numerical Quantifier mutation,,Do numerous government programs and policies exist merely to enrich political insiders?,MUTATED,1
+Numerical Quantifier mutation,,This is a genuine issue brought about by the Wedtech controversy.,MUTATED,1
+Numerical Quantifier mutation,,Mr. Stern served as chairman and chief executive officer of the New York State Urban Development Corp. from 1984 to 1986.,MUTATED,0
+Numerical Quantifier mutation,,I had to reach back to French 102 when the gentleman with a clipboard leaned over my shoulder during the coffee phase of dinner and asked if I wanted to ride in a hot air balloon.,MUTATED,5
+Numerical Quantifier mutation,,"I was a last-minute addition to the attendees at a French journalism convention, and so far, the activities had been consumed mostly by eating, drinking, smoking, sleeping, and more drinking.",MUTATED,0
+Numerical Quantifier mutation,,The man with the clipboard represented a token effort to introduce a touch of les sportif into our itinerary.,MUTATED,3
+Numerical Quantifier mutation,,"But as the French embody a state of blase, similar to Zen, when it comes to athletics, try locating a single Nautilus machine in Paris; my fellow conventioneers were having no success at all.",MUTATED,4
+Numerical Quantifier mutation,,"The diners at my table merely lit another Gauloise and scoffed at the suggestion of interrupting a perfectly good Saturday morning to go golfing or montgolfing ballooning as you might say; the Montgolfier brothers, naturally French, were among the pioneering hot-air balloonists in the world.",MUTATED,5
+Numerical Quantifier mutation,,"Back in the U.S.A., such chi-chi airborne activities win numerous envious responses.",MUTATED,2
+Numerical Quantifier mutation,,You've gone ballooning twice already?!,MUTATED,1
+Numerical Quantifier mutation,,"In France, a few exclamations were made!",MUTATED,0
+Numerical Quantifier mutation,,"Americans, it seems, have followed in the footsteps of Malcolm Forbes and have embraced ballooning with a fervent passion.",MUTATED,2
+Numerical Quantifier mutation,,"Over the last three decades, the number of balloonists who have passed the Federal Aviation Authority's lighter-than-air test has increased from a few dozen to over five thousand, with some estimates reaching up to 12,000.",MUTATED,4
+Numerical Quantifier mutation,,"Several balloon shows are held each year in the U.S., including the world's longest gathering of pseudo Phineas Fogg characters -- the ten-day Albuquerque International Balloon Fiesta that draws over 750,000 fans and nearly 600 balloons, some cleverly designed to look like Carmen Miranda, Garfield, or a 15-story-high condom.",MUTATED,3
+Numerical Quantifier mutation,,The condom balloon was denied entry status for the second time this year.,MUTATED,3
+Numerical Quantifier mutation,,"But in Epinal, a gray 17th-century river town adjacent to France's Vosges mountain region, few of these Yankee-come-lately enthusiasms for things aloft were evident.",MUTATED,0
+Numerical Quantifier mutation,,Ballooning at the fashionable time of 5:30 a.m. retained the charm for many sunrise enthusiasts of root-canal work.,MUTATED,0
+Numerical Quantifier mutation,,"Feeling the constant naggings of a cultural obligation, I quickly signed up.",MUTATED,1
+Numerical Quantifier mutation,,"The primary thing anyone will tell you about ballooning is that it demands a certain level of athletic skill, or even a bit of daring.",MUTATED,2
+Numerical Quantifier mutation,,So long as you look in any direction but down.,MUTATED,1
+Numerical Quantifier mutation,,"They might also inform you that despite your intense dislike for heights, you can still go up in a balloon.",MUTATED,1
+Numerical Quantifier mutation,,I still say do not glance downwards.,MUTATED,1
+Numerical Quantifier mutation,,Not when you're in the midst of ascending.,MUTATED,1
+Numerical Quantifier mutation,,What they won't tell you is not to go aloft in anything you don't want to get soaked.,MUTATED,4
+Numerical Quantifier mutation,,I'm not referring to a typical champagne drenching that occurs during the first back-on-terra-firma toast.,MUTATED,1
+Numerical Quantifier mutation,,I'm talking about landing in the canal.,MUTATED,1
+Numerical Quantifier mutation,,In a large porous wicker basket.,MUTATED,0
+Numerical Quantifier mutation,,With a pilot who speaks very little English.,MUTATED,2
+Numerical Quantifier mutation,,"To wit, my sole journey and initiations referred to as virgins commenced at daybreak on a damp fairway and concluded by midday in a wet meadow.",MUTATED,1
+Numerical Quantifier mutation,,"Balloon flights frequently occur at dawn or dusk, when the winds are at their lightest.",MUTATED,2
+Numerical Quantifier mutation,,In between came numerous cups of coffee drinking while watching the balloons inflate and numerous individuals standing around deciding who would fly in which balloon and in what sequence the baskets hold a maximum of three passengers.,MUTATED,9
+Numerical Quantifier mutation,,"When it wasn't my turn in the balloon, I followed its progress from the second chase car, listening to the driver holler into a walkie-talkie.",MUTATED,4
+Numerical Quantifier mutation,,After long stretches of this attendant ground activity came nearly 30 delightful minutes of drifting above the Vosges watching the silver mists rise off the river and the French cows amble about the fields.,MUTATED,7
+Numerical Quantifier mutation,,"It's hard not to feel that God's in his heaven with this sort of panoramic view of the world, even if your pilot in a ridiculous plaid beret kept emphasizing how 'beautiful' it all was.",MUTATED,2
+Numerical Quantifier mutation,,"Ultimately, several French farmers and their spouses emerged from their stone dwellings, raising a pair of hands each to shield their small eyes and peered at us.",MUTATED,1
+Numerical Quantifier mutation,,It's no surprise.,MUTATED,0
+Numerical Quantifier mutation,,We were heading directly into their single canal.,MUTATED,0
+Numerical Quantifier mutation,,"Remember, the primary guideline in ballooning is that there's no way to navigate.",MUTATED,0
+Numerical Quantifier mutation,,And neither can any pilot.,MUTATED,0
+Numerical Quantifier mutation,,"You can move either up or down by heating the balloon's air with a single propane burner, which does make the top of your head feel warm as you ride the gentle air currents.",MUTATED,8
+Numerical Quantifier mutation,,Which makes the sole chase car essential.,MUTATED,2
+Numerical Quantifier mutation,,"Few balloonists rarely exceed 3,000 feet in altitude, while many travel at a relaxed pace of 6-8 miles per hour.",MUTATED,1
+Numerical Quantifier mutation,,"When the balloon is cruising along at a consistent height, there's almost no sense of movement.",MUTATED,2
+Numerical Quantifier mutation,,"Only when someone is ascending -- or in our instance descending just a bit too swiftly -- do they feel, quite frankly, like they're floating in a picnic basket.",MUTATED,2
+Numerical Quantifier mutation,,"What is that person doing? hissed my sole English-speaking companion, whose knuckles had turned pale.",MUTATED,3
+,,,DUMP,
+Numerical Quantifier mutation,,"You bet attention, I yelled back, leaping atop three propane tanks, 'I'm wearing my alligator loafers!'",MUTATED,4
+Numerical Quantifier mutation,,"Our pilot simply laughed, fired up the burner and with a powerful burst of flame lifted us, oh, about 10-inches above the water level.",MUTATED,4
+Numerical Quantifier mutation,,We scuttled along for several meters before he plunged us into the drink once more.,MUTATED,2
+Numerical Quantifier mutation,,Ultimately we arrived to rest in a damp patch of field where we experienced the exquisite pleasure of climbing out of the basket into the mud as the other half of our ballooning tag team climbed in.,MUTATED,3
+Numerical Quantifier mutation,,I glanced at my timepiece.,MUTATED,0
+Numerical Quantifier mutation,,Hardly a forty-five minutes in the air.,MUTATED,0
+Numerical Quantifier mutation,,"Back in the chase car, we drove around a few times more, got stuck in a ditch, enlisted the help of a nearby farmer to free the trailer hitch and pull us from the ditch.",MUTATED,6
+Numerical Quantifier Variation,,"We eventually met up with our balloon, which had landed on a dirt path, surrounded by a group of Epinalers who observed us taking apart our aircraft -- a full hour of non-flying tasks involving pulling the balloon down, deflating it, rolling it up, and packing both it and the basket into the trailer.",MUTATED,3
+Numerical Quantifier mutation,,It was the most exercise we'd had all week and it was followed by our driving straight to the closest watering hole.,MUTATED,4
+Numerical Quantifier mutation,,"This meant returning to the golf course, where we observed several French duffers tackle the initial tee as we lounged under Cinzano umbrellas, me sipping an espresso and my ego.",MUTATED,5
+Numerical Quantifier mutation,,A whole morning of ballooning and I had been off the ground for less than an hour.,MUTATED,0
+Numerical Quantifier mutation,,"Still, I figured the event's envy-factor back in the U.S.A. was almost without equal.",MUTATED,1
+Numerical Quantifier mutation,,"As for the ride back to camp, our pilot and several other French-speaking passengers clambered into the chase car.",MUTATED,1
+Numerical Quantifier mutation,,My sole American companion and I were left to ride outdoors in the sole wicker basket.,MUTATED,2
+Numerical Quantifier mutation,,"As we swiftly passed by the lone gendarme, I couldn't help but rear up on my single soggy loafer and salute.",MUTATED,2
+Numerical Quantifier mutation,,Ms. de Vries is one of the few free-lance writers.,MUTATED,0
+Numerical Quantifier mutation,,A United Nations committee outlines a strategy to decrease emissions,MUTATED,1
+Numerical Quantifier mutation,,"The U.N.-sponsored climate conference -- characterized so far by unruly posturing and mutual recriminations -- gained renewed focus Friday with the release of a document outlining substantial greenhouse-gas reductions over the following 35 years, with industrialized nations bearing the brunt of the burden in the short term.",MUTATED,12
+Numerical Quantifier mutation,,"The text, which could provide the essential foundation for a ultimate political agreement to regulate greenhouse gases, pinpointed the few remaining obstacles as much as it shed light on a viable path forward.",MUTATED,3
+Numerical Quantifier mutation,,"But it was viewed as a crucial step in a negotiation rapidly approaching its deadline, with nearly 150 global leaders scheduled to arrive in Copenhagen the following week.",MUTATED,4
+Numerical Quantifier mutation,,"Forged by a U.N. ad-hoc working group, the text does not specify the amount of funds that wealthy nations might allocate to underprivileged ones for addressing global warming in both the short and extended term.",MUTATED,3
+Numerical Quantifier mutation,,"And it provides several options for the key questions, encompassing how developed and major emerging economies would reduce their carbon output, and what the maximum limit of global temperature rise would be that policymakers could agree to tolerate.",MUTATED,4
+Numerical Quantifier mutation,,"It provides considerable flexibility to the process, said John Coequyt, the senior representative from Washington for the Sierra Club.",MUTATED,4
+Numerical Quantifier mutation,,"Michael Zammit Cutajar, who penned the seven-page document, condensed a 200-page negotiation text to concentrate on what the U.N.'s leading climate official, Yvo de Boer, termed as 'the overarching picture.'",MUTATED,6
+Numerical Quantifier mutation,,"It outlines a potential deal where industrial nations aim to collectively reduce emissions by 2030 by 20 to 40 percent from 1990 levels, whereas leading developing countries plan to cut theirs by 10 to 25 percent over the same timeframe.",MUTATED,5
+Numerical Quantifier mutation,,"Collectively, the countries aim to reduce emissions by 45 to 90 percent by the year 2050.",MUTATED,3
+Numerical Quantifier mutation,,"The European Union also injected momentum into the talks on Friday, committing to allocate $4.5 billion annually for the following three years to assist underprivileged nations in responding to the effects of climate change -- ranging from managing floods and droughts to preventing deforestation.",MUTATED,6
+Numerical Quantifier mutation,,"Still, Friday featured the similar sort of verbal fireworks that have dominated the talks for the past few days.",MUTATED,3
+Numerical Quantifier mutation,,U.S. special climate envoy Todd Stern dismissed language mandating binding cuts of greenhouse-gas emissions from two industrialized countries as opposed to voluntary measures by several major emerging economies unless they received funding from developed nations.,MUTATED,6
+Numerical Quantifier mutation,,The move indicated that the Obama administration is pursuing a tougher stance on China than the Bush administration did merely three years prior.,MUTATED,3
+Numerical Quantifier mutation,,"The United States is not going to strike a deal unless several key developing countries step forward and take action, stated Stern, who further griped that the text failed to adequately ensure the cuts could be confirmed by independent observers.",MUTATED,5
+Numerical Quantifier mutation,,"Stern made his comments a few hours after the Chinese vice foreign minister He Yafei stated that America's lead climate negotiator was either missing ""common sense"" or was ""highly imprudent"" in his statement earlier in the week, claiming that the United States would offer no financial assistance to China in addressing global warming.",MUTATED,7
+Numerical Quantifier mutation,,"With the future economic trajectory of several major global powers at stake, conflicts have emerged both among various developing regions and between industrialized nations and burgeoning economies.",MUTATED,1
+Numerical Quantifier mutation,,"The ongoing struggle is as much about rescuing several economies as preserving the planet, with China and the United States disputing their specific responsibilities while numerous poorer nations assert that the globe's ten most powerful countries are neglecting the scientific necessity for more aggressive action.",MUTATED,6
+Numerical Quantifier mutation,,"Ricardo Ulate, a Costa Rican delegate, stated it's predictable that several powerful nations are debating whose responsibility it is to cover the expenses of limiting greenhouse gases, despite numerous fragile countries increasingly taking bold steps to make the large polluters responsible for their deeds.",MUTATED,2
+Numerical Quantifier mutation,,"This is undoubtedly a game in which a potential economic hegemony is being fostered, noted Ulate, who also functions as the senior Mexico and Central America climate change adviser for Conservation International.",MUTATED,4
+Numerical Quantifier mutation,,"A few of the countries most susceptible to the effects of climate change suggested they will persist in advocating for a legally binding treaty in Copenhagen, despite several key participants believing the negotiations are likely to yield only a political agreement at maximum.",MUTATED,4
+Numerical Quantifier mutation,,"The Alliance of Small Island States, which is composed of over 40 members, drafted a 20-page treaty proposal late Thursday night.",MUTATED,4
+Numerical Quantifier mutation,,"Artur Runge-Metzger, who leads international climate negotiations on behalf of the European Commission, stated that the campaign by numerous island countries has `` exerted political pressure on the whole political process, `` partly due to their newfound unity and insistence on action from major emerging economies including China and India.",MUTATED,8
+Numerical Quantifier mutation,,The talks took on new urgency as delegates focused on the fact that they must resolve several of the outstanding issues before the heads of government arrive to strike a deal.,MUTATED,6
+Numerical Quantifier mutation,,"High-level officials including the Indian environment minister Jairam Ramesh and several Chinese ministers disembarked from multiple planes and hurried through the Bella Center's numerous halls towards confidential meetings and press briefings, aiming to establish claims that will undergo arbitration in the coming days.",MUTATED,6
+Numerical Quantifier mutation,,"The vast expanse of the gathering -- where several thousand people flow in and out of the convention center daily, guitar-strumming activists stage nightly performances satirizing the nations they believe are compromising, and draft proposals circulate on paper instead of electronically -- presents a challenge.",MUTATED,7
+Numerical Quantifier mutation,,"The intensity is merely escalating: approximately all crucial ministers have arrived, and by Wednesday 70 heads of state are expected in Copenhagen.",MUTATED,4
+Numerical Quantifier mutation,,"We're joining the major leagues, said Carlos Manuel Rodriguez, vice president for international policy at Conservation International.",MUTATED,1
+Numerical Quantifier mutation,,Several heavyweights are approaching.,MUTATED,1
+Numerical Quantifier mutation,,Baskonia hands over its sole victory in Israel,MUTATED,2
+Numerical Quantifier mutation,,"Caja Laboral secured a surprising 80-89 win during their trip to the Maccabee Electra arena despite Dusko Ivanovic's squad suffering significant defeats, and following an impressive outing by Mizra Teltovic, who led his team with seven three-pointers (27 points), they currently rank at the pinnacle of their group.",MUTATED,3
+Numerical Quantifier mutation,,"The Vitorian team compensated for the absence of Herrmann, Oleson, Huertas, and Micov with a strong level of involvement and teamwork, managing to hold on until the final moments to secure the win.",MUTATED,4
+Numerical Quantifier mutation,,"Additionally, their significant success from the sidelines, with several three pointers scored, had much to do with the ultimate triumph.",MUTATED,3
+Numerical Quantifier mutation,,"The game commenced with an early lead for the Azulgranas, who established their dominance on the scoreboard right from the get-go.",MUTATED,2
+Numerical Quantifier mutation,,"As Vitora's initial three baskets were from the perimeter, the speculation was already that she had jumped into the Israeli net with scorching wrists.",MUTATED,4
+Numerical Quantifier mutation,,"English and Teletovic were the primary scorers, accounting for 17 of the 19 points at the end of the first period.",MUTATED,2
+Numerical Quantifier mutation,,"The first quarter was more of the same, but the Alavan team opted for the inside game of Barac and the work of Eliyahu, who was greeted with whistles and applause upon his return home, to continue expanding their lead by the end of the half (32-41).",MUTATED,9
+Numerical Quantifier mutation,,"Teletovic had already begun to stand out as the best on his team with 12 points, even though Splitter's 'seven less' points already signaled that it wasn't going to be the best night for the Brazilian.",MUTATED,3
+Numerical Quantifier mutation,,"But the match, despite being nearing halftime, was still evenly poised, and the Maccabees attempted to remind the Vitorians that only a few teams emerge victorious on their turf, and with the persistent pressure from the 'hand of Elias,' they were able to stay in the game.",MUTATED,3
+Numerical Quantifier mutation,,Eidson and Pnini each played a crucial part in the 'yellows' reemergence into the light.,MUTATED,1
+Numerical Quantifier mutation,,Several disadvantages,MUTATED,1
+Numerical Quantifier mutation,,"Ivanovic's players, injured but not out, had to execute a few plays accurately before they could relax, and that's when the sharpshooter Marza Teletovic stepped up, hitting four consecutive three-pointers with the assistance of English and Ribas, to secure a comfortable lead (52-68), which the home team managed to reduce by the end of the third quarter (55-67).",MUTATED,6
+Numerical Quantifier mutation,,"The Alavas worked themselves to the bone in the final period, and English and San Emeterio ( 60-70 ) had already made it clear that they were not going to allow anyone to snatch what they had achieved in the initial twenty minutes.",MUTATED,2
+Numerical Quantifier mutation,,"However, Pnini and Eidson, the top players on their team, did not surrender and fought to keep their team in the game from beyond the arc ( 69-78 ).",MUTATED,1
+Numerical Quantifier mutation,,"In spite of this, and with Splitter fouling out, Ivonic's team didn't rush, defended skillfully, and, even though the Israelis threatened in the final moments, the game had been decided and victory slipped away from Tel Aviv for the second time that season.",MUTATED,6
+Numerical Quantifier mutation,,"Wall Street closed down, hindered by a rapidly appreciating dollar",MUTATED,1
+Numerical Quantifier mutation,,"The New York Stock Exchange closed with no specific direction on Friday, in a market divided by improved indicators in the United States and a firming dollar: the Dow Jones rose by nearly 1% while the NASDAQ slipped by 0.1%.",MUTATED,5
+Numerical Quantifier mutation,,"According to the latest closing figures, the Dow Jones Industrial Average has increased by nearly 66 points to just over 10,471 points, while the NASDAQ, with its tech-heavy composition, dropped by half a point to approximately 2,190 points.",MUTATED,4
+Numerical Quantifier mutation,,"The broader Standard & Poor's 500 has itself gained 0.38 % ( nearly 4 points ) to reach 1,106.5 points.",MUTATED,1
+Numerical Quantifier mutation,,"Frankly, the market is rather tranquil, observes Mace Blicksilver of Marblehead Asset Management.",MUTATED,1
+Numerical Quantifier mutation,,"It remains within a tight range; trading volumes have significantly dwindled, and I anticipate this will be the scenario until the conclusion of the year.",MUTATED,3
+Numerical Quantifier mutation,,"The trend was bolstered by the release of several better-than-anticipated economic indicators, which `` have played a role in enhancing market sentiment concerning the resilience of the economic upswing `` , according to Charles Schwab's analysts.",MUTATED,4
+Numerical Quantifier mutation,,"In the United States, retail sales have risen by 2% in November, marking the third consecutive month of growth, and exceeding predictions significantly.",MUTATED,3
+Numerical Quantifier mutation,,"Additionally, the confidence of American consumers has notably risen in December, to 72 from 68 the prior month, as indicated by initial estimates from Michigan University's index.",MUTATED,6
+Numerical Quantifier mutation,,"The indices have, however, been slowed by a significant increase of the dollar, to a new multi-week peak against the Euro, which `` exerts downward pressure on the sectors sensitive to the economic climate `` , explained Owen Fitzpatrick from Deutsche Bank.",MUTATED,5
+Numerical Quantifier mutation,,Technology securities have consequently lost a bit of ground.,MUTATED,3
+Numerical Quantifier mutation,,The bond market has seen a decline.,MUTATED,0
+Numerical Quantifier mutation,,"Treasury 10-year bond yields have risen to 3.55 % from 3.48 % on Tuesday evening, while 30-year bond yields stand at 4.50 %, up from 4.49 % the prior evening.",MUTATED,5
+Numerical Quantifier mutation,,The Iraqi Oil Ministry finalizes agreements with several foreign oil firms,MUTATED,0
+Numerical Quantifier mutation,,"Despite concerns about violence and political instability, the Iraqi government managed to attract several oil companies to rebuild its ailing infrastructure during an auction that concluded on Saturday.",MUTATED,7
+Numerical Quantifier mutation,,"The several deals the Iraqi Oil Ministry struck with foreign oil companies imply that China, Russia, and various European oil firms are set to play a significant role in rebuilding Iraq's oil industry, devastated by years of conflict and sanctions.",MUTATED,8
+Numerical Quantifier mutation,,American companies secured stakes in nearly half of the 10 auctioned fields.,MUTATED,3
+Numerical Quantifier mutation,,"Several American companies had paid to take part in the auction, which commenced on Friday.",MUTATED,3
+Numerical Quantifier mutation,,The sole individual who made a bid lost.,MUTATED,1
+Numerical Quantifier mutation,,Several American companies struck agreements for fields sold at auction in June.,MUTATED,3
+Numerical Quantifier mutation,,The small number of American oil giants participating in Iraq's newly opened oil industry surprised analysts.,MUTATED,4
+Numerical Quantifier mutation,,"Iraq finally opened its doors following a half-decade of war, and rather than U.S. companies, Asians and Europeans are at the forefront, said Ruba Husari, the editor of Iraq Oil Forum, an online news outlet.",MUTATED,8
+Numerical Quantifier mutation,,It may be several years before anything else is offered in Iraq.,MUTATED,2
+Numerical Quantifier mutation,,"Concerns over security, highlighted by significant coordinated bombings on Tuesday, and ongoing political instability during the U.S. military's drawdown, may have deterred American oil companies from more aggressively expanding into Iraq, home to the world's fifth-largest proven crude oil reserves, analysts noted.",MUTATED,10
+Numerical Quantifier mutation,,"U.S. firms were at a disadvantage in several cases due to rivals, especially Chinese and other state-controlled energy firms, whose labor costs are significantly lower and who are more willing to take risks as they do not cater to the demands of shareholders.",MUTATED,8
+Numerical Quantifier mutation,,Exxon-Mobil and several other American companies reached agreements with the ministry.,MUTATED,2
+Numerical Quantifier mutation,,"Several significant U.S. companies, including Chevron and ConocoPhillips, which have fostered strong relationships with the Iraqi Oil Ministry and have offered technical advice over the past few years, left without any gains.",MUTATED,3
+Numerical Quantifier mutation,,Russian companies Lukoil and Gazprom were the leading stakeholders in several of the contracts awarded over the weekend.,MUTATED,3
+Numerical Quantifier mutation,,State-owned China National Petroleum Corporation bid on several contracts more than any other company and secured substantial stakes in contracts for three key fields.,MUTATED,5
+Numerical Quantifier mutation,,"We are aware that China is on course to emerge as a leading economic and technological power, Oil Ministry spokesman Assam Jihad commented.",MUTATED,3
+Numerical Quantifier mutation,,We feel confident that the Chinese company will surpass its competitors and will fulfill its commitments towards Iraq.,MUTATED,4
+Numerical Quantifier mutation,,Several pre-selected companies submitted bids with offers that were subsequently matched against the ministry's offered rate per barrel to incentivize increasing output beyond the existing levels at every field.,MUTATED,8
+Numerical Quantifier mutation,,Several US banks have started to repay government aid,MUTATED,1
+Numerical Quantifier mutation,,The crisis-stricken several US banks are liberating themselves from their state constraints.,MUTATED,3
+Numerical Quantifier mutation,,"On Wednesday, Bank of America returned the support from the bank protection fund TARP, totaling nearly USD 50 billion (approximately EUR 32 billion), in a single payment.",MUTATED,5
+Numerical Quantifier mutation,,"And, as reported by the American broadcaster CNBC, Citigroup is further considering reimbursing the governmental aid.",MUTATED,2
+Numerical Quantifier mutation,,"The institutions thereby aim to loosen the restrictions accompanying the acceptance of funds, including the cap on manager bonuses and the imposition of substantial charges.",MUTATED,6
+Numerical Quantifier mutation,,Bank of America had secured approximately USD 20 billion from investors via convertible loans.,MUTATED,2
+Numerical Quantifier mutation,,"The majority of the funds were withdrawn from its own reserves, which were amply replenished by the sale of business units.",MUTATED,3
+Numerical Quantifier mutation,,Bank head Kenneth Lewis offered his heartfelt gratitude to the American taxpayers on Wednesday evening: The substantial cash injection aided during a challenging period.,MUTATED,1
+Numerical Quantifier mutation,,"The bank severely overextended itself during the peak of the financial crisis through the acquisition of the investment bank, Merrill Lynch.",MUTATED,3
+Numerical Quantifier mutation,,Citigroup also intends to increase its cash reserves on the capital market to alleviate its obligations with the state.,MUTATED,2
+Numerical Quantifier mutation,,"Already by Thursday, the US bank managed to declare a capital boost of approximately USD 15 billion, as reported by CNBC citing sources in relevant circles.",MUTATED,5
+Numerical Quantifier mutation,,A single spokesman from Citigroup refused to comment.,MUTATED,1
+Numerical Quantifier mutation,,"Goldman Sachs, JP Morgan Chase, and a few other banks had already repaid their support in June.",MUTATED,2
+,,,DUMP,
+Numerical Quantifier mutation,,There were a couple of them typing away in the courtroom rows.,MUTATED,1
+Numerical Quantifier mutation,,"Hour by hour, they disseminated reports of gruesome testimony through Twitter.",MUTATED,2
+Numerical Quantifier mutation,,"In the end, the defense contends that over 100,000 Twitter messages discussed the trial involving rape and children bound to their beds within a house that was engulfed in flames.",MUTATED,8
+Numerical Quantifier mutation,,"On Thursday, the closely watched trial of Steven J. Hayes, convicted of murdering two members of a family from Cheshire, Conn., is expected to conclude formally with the judge's enforcement of the capital punishment, as decided by the jury.",MUTATED,6
+Numerical Quantifier mutation,,But lawyers for Mr. Hayes have already submitted legal documents to the court that outline appeal arguments which could engage the courts for several years.,MUTATED,5
+Numerical Quantifier mutation,,"Some of the most provocative aspects include the extensive reporting on the trial - with numerous reporters' heavy reliance on Twitter - generating a 'circus atmosphere' and such pervasive, immediate exposure to inflammatory details that the jury might have been unduly influenced by public passions.",MUTATED,7
+Numerical Quantifier mutation,,The claim might prompt appeals judges to confront the issue of whether advancing technologies necessitate revised courtroom rules.,MUTATED,5
+,,,DUMP,
+Numerical Quantifier mutation,,"The trial judge, Jon C. Blue of State Superior Court, succinctly dismissed the allegations in a decision the previous week, noting that the news media were 'strictly monitored' and that there was no indication the jury was influenced by passion.",MUTATED,4
+Numerical Quantifier mutation,,But that is not likely to be the final word on the issue.,MUTATED,1
+Numerical Quantifier mutation,,"For many years, appellate courts have acknowledged that extensive coverage of high-profile cases may prompt doubts about a trial's fairness.",MUTATED,4
+Numerical Quantifier mutation,,"In a pivotal ruling of 1966, the United States Supreme Court reversed the guilty verdict of a Cleveland-based osteopath, Dr. Sam Sheppard, in the homicide of his spouse, noting in its judgment, Sheppard v. Maxwell, that the trial had been marred by a 'circus-like environment' due to extensive news coverage.",MUTATED,3
+Numerical Quantifier mutation,,"The crime is thought to have inspired several television shows and a movie, including `` The Fugitive. ``",MUTATED,2
+Numerical Quantifier mutation,,Several attorneys suggested that appeals courts examining Mr. Hayes' conviction a full century afterward might find the argument fascinating that updated rules would be essential to regulate modes of communication in courtrooms not conceived during Dr. Sheppard's case.,MUTATED,6
+Numerical Quantifier mutation,,"There are several reasons for concern regarding the effects of new media on high-profile trials, stated John J. Donohue III, a Stanford Law School professor who researched the Connecticut death penalty and authored a report indicating its inconsistent enforcement.",MUTATED,6
+Numerical Quantifier mutation,,Professor Donohue suggested a few appeals judges could be interested in the concept that restricting immediate communication in courtrooms might contribute to fairer trials.,MUTATED,6
+Numerical Quantifier mutation,,"The Twitter issue is merely a single example among numerous cases delineated by Mr. Hayes's lawyers, which could be debated for several years, potentially postponing an execution.",MUTATED,4
+Numerical Quantifier mutation,,"The defense lawyers also claim, for instance, that Mr. Hayes might have faced bias when Judge Blue refused to permit them to assess potential jurors' reactions through displaying a few grisly crime-scene photographs during the jury selection process.",MUTATED,4
+Numerical Quantifier mutation,,"A few jurors have stated that they were disgusted by the images of the victims, Jennifer Hawke-Petit, in her late forties, and her children, Hayley, a teenager, and Michaela, a pre-teen.",MUTATED,2
+Numerical Quantifier mutation,,The defense lawyers claim they intend to dispute the legality of the death penalty and assert that the judge incorrectly dismissed a juror who was skeptical of the prosecutors and that he inappropriately increased the urgency for a decision by his unexpected move to instruct the jury to deliberate throughout the weekend.,MUTATED,6
+Numerical Quantifier mutation,,Some of the jurors were not sequestered.,MUTATED,1
+Numerical Quantifier mutation,,But their arguments about the effect of the extensive coverage of the trial may draw significant interest.,MUTATED,5
+Numerical Quantifier mutation,,They mentioned in one of the challenges to the verdicts filed over the past few months that the case was the leading story in Connecticut's news and a topic of debate among candidates in the gubernatorial and United States Senate election campaigns.,MUTATED,9
+Numerical Quantifier mutation,,They contended that the news media repeatedly stoked the flames of emotion regarding the case.,MUTATED,2
+Numerical Quantifier mutation,,"The constant flood of media tweets, cameras, and a dozen reporters outside the courthouse, the lawyers wrote, was unprecedented in New Haven and perhaps across the entire state.",MUTATED,4
+Numerical Quantifier mutation,,Their extensive focus on the Twitter coverage is controversial.,MUTATED,2
+Numerical Quantifier mutation,,"In numerous interviews, several journalists claimed that the belief that immediate news is more inflammatory than gradually delivered reports reflects a backward view, which would constitute poor policy for regulating the coverage of upcoming trials.",MUTATED,8
+Numerical Quantifier mutation,,But several lawyers noted that appellate courts frequently favored arguments necessitating judicial adaptation due to social and technological shifts.,MUTATED,4
+Numerical Quantifier mutation,,Mr. Hayes's two lawyers are pressing that claim.,MUTATED,2
+Numerical Quantifier mutation,,"In their filing, they cited the Supreme Court's landmark decision from the '60s reversing Dr. Sheppard's conviction due to the extensive trial coverage, making it evident they would argue that modern media necessitates updated regulations.",MUTATED,5
+Numerical Quantifier mutation,,"This case, they wrote, represents the Sheppard v. Maxwell of the current century.",MUTATED,2
+Numerical Quantifier mutation,,Sports and the law against fraud,MUTATED,3
+Numerical Quantifier mutation,,Tricks akin to the ones by Alonso and Ramos prior to the Ajax match showcase wittiness yet lack the determination to revoke a sanction.,MUTATED,3
+Numerical Quantifier mutation,,The expulsion presumably caused by several players of Real Madrid in the game played on the 23rd of November against Ajax in the European Champions League has led to rivers of ink being written about whether such behavior is unsportsmanlike and if both players should be sanctioned by UEFA.,MUTATED,5
+,,,DUMP,
+Numerical Quantifier mutation,,"This manner, considering Real Madrid is poised to top its group, the two players will serve their mandated suspensions in the subsequent league match, versus Auxerre, and will be cleared of any cards in the subsequent phase.",MUTATED,5
+Numerical Quantifier mutation,,"Ultimately, the UEFA discipline committee has penalized the team's trainer, Jose Mourinho, with three matches and varying financial sums for the involved players.",MUTATED,5
+Numerical Quantifier mutation,,"The provocation of a yellow card in circumstances akin to these is not an uncommon practice, indeed it is quite frequent within the realm of football.",MUTATED,5
+Numerical Quantifier mutation,,"It is such a fundamental aspect that it becomes part of the ethos, one of the unwritten rules, yet still adhered to by this sport.",MUTATED,3
+Numerical Quantifier mutation,,"A significant portion of the debate stemming from the related case is due to the actions carried out by the Real Madrid organization's squad (which, in its hymn, boasts of nobility and honor, and has penalized its players for similar infractions) and the dramatization seemingly masterminded by Mourinho, who adds another chapter to his lengthy history of being a provocative and theatrical coach.",MUTATED,9
+Numerical Quantifier mutation,,"Anyway, the debate revolves around whether that sort of behavior, not explicitly forbidden by any regulation, conflicts with the fundamental principles of the sport; in other words, if such actions potentially constitute fraud. Then, indeed, they are compliant with the sport's regulations, yet they appear to defy its spirit.",MUTATED,7
+Numerical Quantifier mutation,,The issue assesses various types of damage inflicted upon the sporting spirit.,MUTATED,3
+Numerical Quantifier mutation,,"Several of the advantages embodying the sporting spirit involve the physical integrity of the opposing players; this aspect was not compromised by their actions, meaning there was no instance of a violent game.",MUTATED,7
+Numerical Quantifier mutation,,"One of these advantages alluded to with fair-play is to prevent the team of lawbreaking players from unfairly dominating the opposing team, which didn't occur this time.",MUTATED,3
+Numerical Quantifier mutation,,"However, the paradoxical thing about the action of the players of Real Madrid is that it did not comply with what we typically characterize as a single legal fraud, because the violation of the rules was not conducted clandestinely to attempt to evade the sanction, but their action was quite evident and, as a result, they faced punishment from the referee.",MUTATED,8
+Numerical Quantifier mutation,,They waited and accepted the sanction without a single complaint.,MUTATED,2
+Numerical Quantifier mutation,,A few questions remain about the type of advantage the violators gained from the actions they deliberately executed.,MUTATED,5
+Numerical Quantifier mutation,,"Here it seems necessary to state that it isn't a disadvantageous situation for either rival or a single benefit in the same game, because evidently the result of the action supposes leaving their own team with fewer players.",MUTATED,7
+Numerical Quantifier mutation,,"And it's not a useful strategy for the upcoming game, as the club won't be able to rely on these players.",MUTATED,4
+Numerical Quantifier mutation,,"The advantage, clearly, lies in the reality that the players will enter the subsequent stage of the Championship free of cards that might jeopardize their involvement in any upcoming games.",MUTATED,5
+Numerical Quantifier mutation,,"But it is about a long-term advantage, with a considerable degree of indetermination, because the team might be eliminated at the first instance of change, and furthermore, with this action, the players face a sanction game and proceed to the next cycle of cards, where the suspension due to card accumulation occurs with fewer instances than in the initial cycle.",MUTATED,13
+Numerical Quantifier mutation,,"So that, after several rounds, it's not entirely obvious that it's a significant advantage.",MUTATED,2
+Numerical Quantifier mutation,,"These actions are truly opposed to the athletic spirit, a component of strategic decisions that support leveraging the benefits permitted by the regulations.",MUTATED,3
+Numerical Quantifier mutation,,"Regarding this assumption, the players did not act twice in order to avoid the application of the sanction (this would have been a clear case of legal fraud), but rather selected the right moment to comply with it.",MUTATED,5
+Numerical Quantifier mutation,,They made several strategic decisions without avoiding any punishment.,MUTATED,2
+Numerical Quantifier mutation,,"Although the boundary between wittiness and legal fraud can be vague, on this particular occasion, I contend it was an apparent instance of wittiness.",MUTATED,3
+Numerical Quantifier mutation,,"The controversy seems to stem from several factors: due to the multiple auto expulsions and the manner in which the directive's transmission was executed, leading to them.",MUTATED,5
+Numerical Quantifier mutation,,The extensive harm caused to the core principles of the sport by these numerous actions is not so much ethical as aesthetic.,MUTATED,3
+Numerical Quantifier mutation,,"Arsenic-tolerant microbes increase the likelihood of discovering additional types of life on Earth, or beyond",MUTATED,2
+Numerical Quantifier mutation,,The discovery of a bizarre bacteria that can utilize arsenic as a crucial nutrient expands the potential scope for discovering numerous new forms of life on Earth and perhaps even further.,MUTATED,5
+Numerical Quantifier mutation,,"While researchers discovered the unique bacteria here on Earth, they suggest it demonstrates that life may have numerous possibilities beyond the few elements previously thought to be essential.",MUTATED,6
+Numerical Quantifier mutation,,This organism possesses a pair of capabilities.,MUTATED,2
+Numerical Quantifier mutation,,It can grow with both phosphorus and arsenic.,MUTATED,2
+Numerical Quantifier mutation,,"That makes it rather peculiar, though it falls short of being a truly 'alien' form of life, commented Paul C. W. Davies of Arizona State University, a co-author of the report featured in the latest online edition of the journal Science on Thursday.",MUTATED,6
+Numerical Quantifier mutation,,"Several key elements are traditionally crucial for life - carbon, hydrogen, nitrogen, oxygen, phosphorus, and sulfur.",MUTATED,8
+Numerical Quantifier mutation,,"But the researchers discovered that the bacteria, found in Mono Lake, Calif., can continue growing even after replacing phosphorus with arsenic.",MUTATED,5
+Numerical Quantifier mutation,,"It makes one wonder what other possibilities exist, said Ariel D. Anbar of Arizona State University, a contributing author to the report.",MUTATED,1
+Numerical Quantifier mutation,,"The discovery is crucial in the quest for extraterrestrial life as researchers must possess the ability to identify what life might resemble, Anbar stated.",MUTATED,2
+Numerical Quantifier mutation,,The study centers on the numerous microbes present on Earth.,MUTATED,3
+Numerical Quantifier mutation,,"However, the sole announcement of a news conference to discuss it, which did not reveal specifics of the find, sparked extensive speculation across the Internet that the upcoming report might unveil the discovery of extraterrestrial life.",MUTATED,6
+,,,DUMP,
+Numerical Quantifier mutation,,"The discovery suggests that in numerous planetary environments organisms could potentially utilize various elements to sustain biochemistry, indicating that the 'canonical' set of elements we believe to be indispensable for life may not be as immutable, commented Charles Cockell, a professor at the Planetary and Space Sciences Research Institute, Open University, in Milton Keynes, United Kingdom.",MUTATED,10
+Numerical Quantifier mutation,,Cockell was not a member of any research team.,MUTATED,2
+,,,DUMP,
+Numerical Quantifier mutation,,It wasn't just a random discovery.,MUTATED,1
+Numerical Quantifier mutation,,"Felisa Wolfe-Simon of NASA's Astrobiology Institute, who was the principal investigator of the study, focused on Mono Lake due to its elevated arsenic concentrations.",MUTATED,4
+Numerical Quantifier mutation,,"Arsenic and phosphorus are chemically similar, so she speculated that some microbes exposed to both might be able to substitute one for the other.",MUTATED,3
+Numerical Quantifier mutation,,Arsenic is poisonous primarily due to its chemical properties being akin to those of phosphorus.,MUTATED,3
+Numerical Quantifier mutation,,"As a consequence, many organisms struggle to differentiate between these elements.",MUTATED,2
+Numerical Quantifier mutation,,"But arsenic is significantly different, working less effectively than phosphorus; it infiltrates and tends to clog the mechanisms of our biochemical machinery, explained Anbar.",MUTATED,2
+Numerical Quantifier mutation,,"The researchers gathered several strains of the bacteria known as GFAJ-1 and exposed them to varying concentrations of arsenic, to which they were able to adapt and thrive.",MUTATED,4
+Numerical Quantifier mutation,,"The microbe does grow better on phosphorus, but demonstrating its ability to thrive with arsenic instead raises the chance that life forms utilizing arsenic might occur naturally, either in other locations on Earth or on a different planet or moon where arsenic is more prevalent.",MUTATED,5
+Numerical Quantifier mutation,,"Jamie S. Foster, an assistant professor of microbiology at the University of Florida, said the concept that arsenic might replace phosphorus isn't novel, although no single instance has demonstrated its effectiveness thus far.",MUTATED,3
+Numerical Quantifier mutation,,"Arsenic was several times more common in the early epochs of Earth, she said, which led researchers to speculate that primitive life forms might have utilized it.",MUTATED,4
+Numerical Quantifier mutation,,"It does suggest that there might be numerous ways to form life, beyond just the one way life formed on early Earth,' said Foster, who was not a member of Wolfe-Simon's research team.",MUTATED,5
+Numerical Quantifier mutation,,"The research was backed by NASA, two other departments, including the Department of Energy and the National Institutes of Health.",MUTATED,2
+Numerical Quantifier mutation,,The routine of democracy,MUTATED,1
+Numerical Quantifier mutation,,"Support for democracy in various regions of Latin America is gradually increasing, much like the growing support for private businesses.",MUTATED,2
+Numerical Quantifier mutation,,Crime has become a major concern compared to the issue of unemployment.,MUTATED,2
+Numerical Quantifier mutation,,And Brazil is seen as significantly more influential than the United States in most parts of the region.,MUTATED,2
+Numerical Quantifier mutation,,Those are some of the findings from the most recent Latinobarómetro poll conducted in a dozen countries and published exclusively by The Economist.,MUTATED,3
+Numerical Quantifier mutation,,"Because the poll has been conducted every two years since the mid-1990s, it monitors shifts in attitude throughout the region.",MUTATED,3
+Numerical Quantifier mutation,,"Several related factors are prominent in the outcomes of this year's poll, conducted in September and the initial days of October.",MUTATED,3
+Numerical Quantifier mutation,,The primary aspect is Latin America's predominantly sunny mood.,MUTATED,1
+Numerical Quantifier mutation,,The primary factor is the enhanced stability of attitudes towards democracy and its key institutions.,MUTATED,4
+Numerical Quantifier mutation,,Support for democracy has increased significantly in a few countries on the Pacific coast of South America.,MUTATED,3
+Numerical Quantifier mutation,,"For example in Peru, where economic growth has averaged 5% a year since 2002, support for democracy has increased from a low of 35% in 2005 to nearly 60% this year.",MUTATED,6
+Numerical Quantifier mutation,,"It also increased in Mexico, where the economy has rebounded following a significant decline in output the previous year.",MUTATED,4
+Numerical Quantifier mutation,,"But approximately a third of respondents in Mexico and Brazil, the region's two most populous countries, are strong democrats, which affects the regional average (see chart 2).",MUTATED,7
+Numerical Quantifier mutation,,"Nearly half of the respondents throughout the region declared contentment with their country's democratic practices, matching the previous year's percentage and showing a substantial rise from the 30% recorded in 2001 (chart 3).",MUTATED,5
+Numerical Quantifier mutation,,"Around a third said they had confidence in their country's Congress and nearly half in their government, similar to the previous year's figures of 34% and 45% respectively, a significant increase from the percentages in 2003 (17% and 24%).",MUTATED,5
+Numerical Quantifier mutation,,"Several years ago, economic troubles in Latin America weakened support for democracy.",MUTATED,2
+Numerical Quantifier mutation,,That it has held up during the global financial turmoil is likely due to the fact that several Latin American nations endured a short-lived recession and have since experienced a robust recovery.,MUTATED,2
+Numerical Quantifier mutation,,"Furthermore, a more robust social safety net has aided in protecting numerous poor individuals.",MUTATED,0
+Numerical Quantifier mutation,,"The United Nations' Economic Commission for Latin America reported this week that the percentage of Latin Americans living in poverty increased slightly in 2009 and has decreased once more this year, to approximately 30%.",MUTATED,3
+Numerical Quantifier mutation,,But the mood differs considerably between each country ( see chart 3 ) .,MUTATED,2
+Numerical Quantifier mutation,,"Brazil's robust economic performance and the high popularity of its outgoing president, Luiz Inácio Lula da Silva, are evident in an extensively felt sense of advancement.",MUTATED,5
+Numerical Quantifier mutation,,"That is rare in Mexico and Central America, where the recession was quite severe and violent crime has significantly increased.",MUTATED,3
+Numerical Quantifier mutation,,"For the first time since the polls started, a majority of respondents throughout Latin America collectively identify crime, not unemployment, as the primary issue affecting their country (see chart 4).",MUTATED,6
+Numerical Quantifier mutation,,"About a third say that either they or a close relative have been victims of crime in the last year, which is a decrease from nearly 40% the previous year and represents the lowest figure since 1995.",MUTATED,5
+Numerical Quantifier mutation,,"A more robust economic performance is reflected in increasing backing for private enterprise and the market economy: approximately 70% of respondents throughout the region assert that private enterprise is crucial for development, an increase from 55% in 2007 (see chart 6).",MUTATED,4
+Numerical Quantifier mutation,,"Nearly two-thirds agree that the market economy is the sole system that will develop their country, an increase from just under half last year.",MUTATED,3
+Numerical Quantifier mutation,,"Interestingly, a majority of respondents in Venezuela share that view (with approximately three-quarters supporting private enterprise) despite their left-wing president, Hugo Chávez, seizing numerous private companies.",MUTATED,5
+Numerical Quantifier mutation,,"Brazil is the country which exercises significant leadership in the region, mentioned by over 20% of respondents (up from around 18% the previous year), followed by the United States (nearly 10%, consistent with the previous year) and Venezuela (approximately 9%, a decrease from 11% the year before).",MUTATED,7
+Numerical Quantifier mutation,,"But the United States is seen as the single most influential country by respondents in Mexico and a large part of Central America, whereas Venezuela holds that distinction in Ecuador, the Dominican Republic, and Nicaragua.",MUTATED,7
+Numerical Quantifier mutation,,"Scalia, Thomas, and a few other justices dine with several healthcare law challengers as the court reviews the case",MUTATED,4
+Numerical Quantifier mutation,,"The day the Supreme Court assembled in private to deliberate on the politically charged question of whether to review a challenge against President Obama's healthcare law, several of its justices, including Antonin Scalia and Clarence Thomas, attended a dinner hosted by the law firm that is set to present the case to the high court.",MUTATED,8
+Numerical Quantifier mutation,,"The occasion was last Thursday, when the eight justices met for a conference to pour over several petitions for review.",MUTATED,6
+Numerical Quantifier mutation,,"Several of the cases at issue included a suit filed by over two dozen states contesting the comprehensive healthcare overhaul approved by Congress the previous year, a law which has served as a unifying cause for conservative activists across the country.",MUTATED,10
+Numerical Quantifier mutation,,"The justices agreed to hear the suit; indeed, a substantial 6-hour argument is anticipated in March, and the result is poised to shake up the 2012 presidential race, which will be at its peak by the time the court's decision is handed down.",MUTATED,8
+Numerical Quantifier mutation,,"The sole lawyer set to appear before the court and contend that the law be discarded is presumably Paul Clement, who held the position of U.S. solicitor general under the George W. Bush era.",MUTATED,3
+Numerical Quantifier mutation,,"Clement's law firm, Bancroft PLLC, was one of nearly thirty firms that contributed to sponsoring the annual dinner of the Federalist Society, a long-standing group committed to promoting conservative legal principles.",MUTATED,2
+Numerical Quantifier mutation,,"Yet another firm that sponsored the dinner, Jones Day, represents one of several trade associations that challenged the law, the National Federation of Independent Business.",MUTATED,3
+Numerical Quantifier mutation,,"A different sponsor was the pharmaceutical conglomerate Pfizer Inc, which holds a substantial financial stake in the result of the litigation.",MUTATED,3
+Numerical Quantifier mutation,,The dinner was held at a hotel in Washington a few hours following the court's conference about the case.,MUTATED,7
+Numerical Quantifier mutation,,"In attendance were several individuals, including Mitch McConnell, the Senate's leading Republican and a confirmed opponent of the healthcare law.",MUTATED,3
+Numerical Quantifier mutation,,The two prominent guests at the dinner were Scalia and Thomas.,MUTATED,2
+Numerical Quantifier mutation,,It's a common occurrence: The justices have been participating in Federalist Society events for decades.,MUTATED,2
+Numerical Quantifier mutation,,And it's not anything that runs afoul of ethical guidelines.,MUTATED,0
+Numerical Quantifier mutation,,"In fact, several justices are exempt from the Code of Conduct that governs the actions of other federal justices.",MUTATED,3
+Numerical Quantifier mutation,,"If they did, they arguably fell under code's Canon 5D, which states, `` A judge may attend fund-raising events for up to two law-related and other organizations although the judge may not be a speaker, a guest of honor, or featured on the program of such an event. ``",MUTATED,7
+Numerical Quantifier mutation,,"Nevertheless, the close proximity of Scalia and Thomas to several law firms involved in the case, and also to a company holding a substantial financial interest, was sufficient to concern government ethics activists.",MUTATED,5
+,,,DUMP,
+Numerical Quantifier mutation,,Several justices were wining and dining at a formal fundraiser with a group of attorneys who have multiple cases pending before the court.,MUTATED,5
+Numerical Quantifier mutation,,"Their consistent appearance and substantial assistance in fundraising for this event undermines any claims of impartiality, and is thus unacceptable.",MUTATED,5
+Numerical Quantifier mutation,,Scalia and Thomas have demonstrated minimal regard for critics who argue they frequently blend the business of the court with politically motivated groups like the Federalist Society.,MUTATED,5
+Numerical Quantifier mutation,,"And one of Thomas' wives, Ginni, is a prominent conservative activist.",MUTATED,2
+Numerical Quantifier mutation,,"Moreover, conservatives contend it's Justice Elena Kagan who possesses the ethical issue, unlike Scalia and only one other justice.",MUTATED,3
+Numerical Quantifier mutation,,Kagan served as solicitor general in the Obama administration when several legal challenges to the law were brought at the trial court level.,MUTATED,4
+Numerical Quantifier mutation,,"Her critics have urged Kagan to recuse herself from the case's hearing, arguing that her substantial involvement in defending the law at that time precludes her from being impartial now.",MUTATED,3
+Numerical Quantifier mutation,,Kagan has provided little indication she will take such action.,MUTATED,1
+Numerical Quantifier mutation,,The familiarity of the Spanish is greater than that of the Costa Ricans,MUTATED,1
+Numerical Quantifier mutation,,"Of the 23 players called in Spain, eleven have passed 60 international games.",MUTATED,3
+Numerical Quantifier mutation,,"On the side of Costa Rica, just two of the 20 called players have achieved 60 games.",MUTATED,3
+Numerical Quantifier mutation,,"A stark contrast to Costa Rica, comparing the twenty players called by each country for the friendly game today, at 3:05 pm at the National Stadium in San Jose.",MUTATED,5
+Numerical Quantifier mutation,,"While the Europe and world champions, ranked first in the monthly FIFA rankings, boast a lengthy record of Class A international selection, the Tricolor has only the defender Michael Umana, with over 40 international games under his belt, as their sole representative with such experience.",MUTATED,4
+Numerical Quantifier mutation,,"That number was reached on Friday before the game against Panama ( 0-1 ), in Rommel Fernandez.",MUTATED,4
+Numerical Quantifier mutation,,"Spanish football players playing in the All-Star League and numerous powerful clubs of the Premier League of England remain active throughout the season in league and local cup competitions, with several high-level shocks occurring in the European Cups and the European Champions League.",MUTATED,6
+Numerical Quantifier mutation,,To this is added the Spanish Fury's experience in intricate qualifications for the European Championship and the FIFA World Cup.,MUTATED,1
+Numerical Quantifier mutation,,"The Ticos players, however, have a broader international experience in areas like CONCACAF, which is considered a lower level within FIFA",MUTATED,4
+Numerical Quantifier mutation,,"We observe that the prime of the Spanish squad is goalkeeper Iker Casillas, who, in last Saturday's fixture against England (a match lost 0-1 in London), matched the milestone of the former goalkeeper Andoni Zubizarreta, having played in over 125 international matches.",MUTATED,5
+Numerical Quantifier mutation,,"Casillas will play today against the Tricolor and is set to break the record of a century, playing his 100th international match for Spain.",MUTATED,3
+Numerical Quantifier mutation,,"Xavi Hernandez, the player for Barcelona, has played over a hundred matches.",MUTATED,2
+Numerical Quantifier mutation,,"Casillas and Xavi were honored last week by UEFA along with the other players of the Iberian team, Zubizarreta with over 120 matches and Schalke's striker Raul Gonzalez with nearly 100.",MUTATED,5
+Numerical Quantifier mutation,,"Approaching the century mark is Carles Puyol, having played in nearly 100 games.",MUTATED,1
+Numerical Quantifier mutation,,"Xabi Alonso is second with 91, Fernando Torres close behind with 90, while David Villa and Sergio Ramos are tied at 81, Andres Iniesta has 62, Cesc Fabregas has 61, and David Silva rounds out the list with 50+.",MUTATED,0
+Numerical Quantifier mutation,,"On the Costa Rican side, alongside Michael Umana, are the left-lateral Junior Diaz, who has played in nearly 50 matches, and the striker Bryan Ruiz, with just over 40 matches under his belt.",MUTATED,3
+Numerical Quantifier mutation,,"After this, just six players went beyond the 30 games mark: Keilor Navas with 31, Randall Azofeifa with 32, Michael Barrantes with 31, Carlos Hernandez with 36, Jose Luis Lopez with 35, and another with 33.",MUTATED,1
+Numerical Quantifier mutation,,The smallest amount.,MUTATED,0
+Numerical Quantifier mutation,,"Over 20 matches in Spain feature players such as Gerard Piqué (37), Sergio Busquets (36), Santiago Santi Cazorla (32), Alvaro Arbeloa (31), and Raul Albiol (31).",MUTATED,2
+Numerical Quantifier mutation,,"On the national side, with fewer than 20 presences, there are Roy Miller with 26, Winston Parks with 26, Gabriel Badilla with 25, and Roy Myrie with 23.",MUTATED,2
+Numerical Quantifier mutation,,The rest doesn't approach the 30.,MUTATED,1
+Numerical Quantifier mutation,,"While Nacho Moreal has just five games under his belt and Jordi Alba three, in Costa Rica Victor Bolivar has only two Olman Vargas, and Nelson Edder is yet to make his first appearance.",MUTATED,1
+Numerical Quantifier mutation,,"The leading scorer of Spain is David Villa, with over 40 goals, followed by Fernando Torres with nearly 30.",MUTATED,2
+Numerical Quantifier mutation,,"For Costa Rica, Bryan Ruiz is the one that registers the most points, five more than Carlos Hernandez and four more than Roy Myrie and Parks.",MUTATED,1
+Numerical Quantifier mutation,,Are immigrants a handful of burdens or a multitude of opportunities for the economy?,MUTATED,3
+Numerical Quantifier mutation,,"Immigration policy under Nicolas Sarkozy faced criticism on numerous fronts, including an overload of police, legal, and administrative services due to a quota-based policy and the consistency of that policy with the self-proclaimed title of the nation as the protector of French human rights.",MUTATED,4
+Numerical Quantifier mutation,,"Recently, the administrative harassment targeting international students has been a focal point, as the interior minister ('Libération' on May 23) stated that France 'is not seeking additional foreign talent, bricklayers, or waiters.'",MUTATED,6
+Numerical Quantifier mutation,,But it is frequently analyzed from the economic viewpoint.,MUTATED,1
+Numerical Quantifier mutation,,There is considerable consensus between the Left and the Right regarding this subject.,MUTATED,4
+Numerical Quantifier mutation,,"On the Right, the tone was set by Jacques Chirac, who declared in 1976 that `` nearly a million unemployed would not become a problem in a country with over 1.5 million foreign workers, `` and on the Left by Michel Rocard explaining in 1990 that France `` cannot accommodate the bulk of the world's misery.``",MUTATED,8
+Numerical Quantifier mutation,,"The primary difference, the extent of generosity",MUTATED,2
+Numerical Quantifier mutation,,"In the early 2000s, the concern over the potential incursion into national territory by numerous Polish plumbers was shared by both political Left and Right sides.",MUTATED,4
+Numerical Quantifier mutation,,Many sides view immigrants as a burden on the French economy and French society.,MUTATED,5
+Numerical Quantifier mutation,,"The significant difference lies in the level of generosity, that some are willing to extend to immigrants.",MUTATED,3
+Numerical Quantifier mutation,,"In his program, François Hollande limits his discussion to trivialities, suggesting that mutual growth could resolve our immigration issue.",MUTATED,2
+Numerical Quantifier mutation,,"This concept of immigration as a significant burden and a major problem might be an electoral advantage, yet it entails high economic costs.",MUTATED,3
+Numerical Quantifier mutation,,"As the economists Ian Goldin and Geoffrey Cameron remind us in their latest book synthesizing extensive knowledge on immigration ('Exceptional People: How Migration Shaped Our World and Will Define Our Future', May 2011, Princeton University Press, over 300 pages), the vast majority of specialists agree on the beneficial influence of migration patterns on economic expansion, salaries, and job opportunities in nations that receive immigrants.",MUTATED,10
+Numerical Quantifier mutation,,Curbing immigration results in minimal growth and negatively impacts employment.,MUTATED,3
+Numerical Quantifier mutation,,"Fears concerning the influence of immigrant groups are grounded in the belief that they tend to displace a significant number of native workers, especially those who are unskilled, thus applying downward pressure on salary levels.",MUTATED,4
+Numerical Quantifier mutation,,"But experience demonstrates that, in reality, immigrants are far more complementary than replacements to local labor, particularly in trades suffering from a severe shortage of local workers.",MUTATED,7
+Numerical Quantifier mutation,,"Unskilled immigrants are employed in numerous sectors, which typically do not entice domestic labor or the majority of highly skilled individuals in vibrant sectors where training is not associated with job offers.",MUTATED,5
+Numerical Quantifier mutation,,A significant impact on wages,MUTATED,1
+Numerical Quantifier mutation,,"In a similar fashion to how a surgeon might struggle in a nation lacking even a single anaesthetist, the synergies between residents and immigrant groups lead to the phenomenon where the incoming immigrants positively impact the salaries of native workers.",MUTATED,3
+Numerical Quantifier mutation,,Giovanni Peri has estimated that a 2% increase in the migratory flow leads to a rise in real long-term pay of between 1.2 and 1.8 %.,MUTATED,4
+Numerical Quantifier mutation,,"And does so without taking into account the fact that the immense diversity contributed by immigrants significantly adds to the creation of ideas and economic expansion ( a significant number of naturalised immigrants are counted among American Nobel prize winners, and companies like Google, Intel, Paypal, eBay, and Yahoo have immigrant founders ) .",MUTATED,8
+Numerical Quantifier mutation,,"Migrants are significant net contributors to social systems, typically contributing around 5% of the total budgets across European countries.",MUTATED,3
+Numerical Quantifier mutation,,"The World Labor Organisation estimates that, for instance, in Germany, an immigrant arriving at the age of 25, will make a net contribution (receipts minus expenditure) of roughly 100,000 Euros to public budgets over their lifetime.",MUTATED,11
+Numerical Quantifier mutation,,Nicolas Sarkozy aimed at the beginning of his term to seek out several missing areas of growth 'with determination.',MUTATED,1
+Numerical Quantifier mutation,,"The teeth in question, meant to deter several immigrants, had exactly the reverse effect.",MUTATED,3
+Numerical Quantifier mutation,,Deutsche Bank pays a multi-billion pound fine in the USA,MUTATED,3
+Numerical Quantifier mutation,,"Fresh turmoil is trailing closely behind the controversy surrounding Josef Ackermann, CEO of Deutsche Bank: Deutsche Bank confronts a several-million pound penalty in the USA.",MUTATED,3
+Numerical Quantifier mutation,,"As if the numerous issues at home were not sufficient for Deutsche Bank, the industry behemoth's history in the USA is now adding to its troubles. Deutsche Bank, headquartered in Frankfurt, will shell out nearly 150 million dollars (over 100 million Euros) to resolve disputes stemming from the bankruptcy of several key credit unions amidst the financial meltdown.",MUTATED,7
+Numerical Quantifier mutation,,The primary concern revolves around the marketing of mortgage-backed securities.,MUTATED,0
+Numerical Quantifier mutation,,"The National Credit Union Administration ( NCUA ), a financial market regulator, blames several major banks for employing deceptive promises to misguide credit unions in purchasing the financial products.",MUTATED,3
+Numerical Quantifier mutation,,"The value of the securities plummeted severely throughout the financial crisis, dragging down numerous credit unions.",MUTATED,3
+Numerical Quantifier mutation,,"We are pleased to have settled the issue without either party resorting to the courts, said a spokesman for Deutsche Bank in New York.",MUTATED,4
+Numerical Quantifier mutation,,The bank has yet to accept culpability as part of any settlement.,MUTATED,3
+Numerical Quantifier mutation,,"The same is true for Citigroup, which consented to compensate five hundred thousand dollars.",MUTATED,1
+Numerical Quantifier mutation,,"The NCUA chairman, Debbie Matz, welcomed the responsiveness of several banks.",MUTATED,3
+Numerical Quantifier mutation,,The National Credit Union Administration ( NCUA ) is responsible for several US credit unions and intervenes in numerous bankruptcies to safeguard customer deposits.,MUTATED,4
+,,,DUMP,
+Numerical Quantifier mutation,,The current settlements are among the earliest of their kind.,MUTATED,2
+Numerical Quantifier mutation,,"The regulator had also approached several additional banks and sued JPMorgan Chase, the Royal Bank of Scotland, and two other firms in the summer.",MUTATED,3
+Numerical Quantifier mutation,,Several questionable mortgage securities are commonly referred to as mortgage-backed securities.,MUTATED,0
+Numerical Quantifier mutation,,Most of them are supported by home mortgages.,MUTATED,0
+Numerical Quantifier mutation,,This sealed the fate of several financial companies when the US property bubble burst in 2007.,MUTATED,3
+Numerical Quantifier mutation,,"The US investment bank, Lehman Brothers, collapsed in September during the peak of the financial crisis.",MUTATED,3
+Numerical Quantifier mutation,,The banks battling against a strong wind in the USA for many years later.,MUTATED,4
+Numerical Quantifier mutation,,Investors and regulators have lodged numerous claims seeking compensation or to penalize misconduct.,MUTATED,5
+Numerical Quantifier mutation,,The Federal Housing Finance Agency (FHFA) has been behind a significant wave of claims.,MUTATED,2
+Numerical Quantifier mutation,,"It alleges that over a dozen major international banks, including US lenders Fannie Mae and Freddie Mac, were involved in mortgage transactions worth approximately 150 billion dollars.",MUTATED,6
+Numerical Quantifier mutation,,Deutsche Bank also faces legal action by the FHFA involving several transactions with an overall value exceeding 10 billion dollars from 2005 to 2007.,MUTATED,3
+Numerical Quantifier mutation,,"The regulator is demanding that the Frankfurt-based bank take responsibility for ""significant losses,"" although it has not yet disclosed the precise amount.",MUTATED,4
+Numerical Quantifier mutation,,Deutsche Bank has dismissed numerous claims as unfounded and has announced its intention to combat the allegations.,MUTATED,2
+Numerical Quantifier mutation,,This document serves as a synthesis of the European Public Assessment Reports (EPARs).,MUTATED,3
+Numerical Quantifier mutation,,"It explains the process by which the Committee for Medicinal Products for Human Use (CHMP) evaluated several studies conducted, in order to formulate their guidelines on the medicine's usage.",MUTATED,6
+Numerical Quantifier mutation,,"If you require further information regarding your medical condition or therapy, peruse the Package Leaflet (which is also included in the EPAR) or consult with your physician or chemist.",MUTATED,6
+Numerical Quantifier mutation,,"If you seek further details in line with the CHMP's suggestions, peruse the Scientific Discussion (an additional component of the EPAR).",MUTATED,1
+,,,DUMP,
+Numerical Quantifier mutation,,Alimta is a substance that is converted into a single solution for infusion ( administered drop by drop into a vein ).,MUTATED,3
+Numerical Quantifier mutation,,"It contains an active substance, pemetrexed.",MUTATED,3
+Numerical Quantifier mutation,,How is Alimta typically utilized?,MUTATED,0
+Numerical Quantifier mutation,,"Alimta is utilized in the treatment of several forms of cancer, including pleural mesothelioma, a cancer affecting the lining of the lungs typically triggered by exposure to asbestos.",MUTATED,7
+Numerical Quantifier mutation,,"Alimta is employed alongside cisplatin (a different anticancer agent) when the tumor is inoperable (cannot be excised by surgery solely) and aggressive (has disseminated, or is prone to disseminate readily, to additional areas of the body), in individuals who have not undergone chemotherapy (cancer treatments) preceding the development of advanced or metastatic non-small cell lung cancer that doesn't involve squamous cells.",MUTATED,8
+Numerical Quantifier mutation,,"Alimta is used in conjunction with cisplatin for patients who have not undergone prior treatment, and as a standalone therapy for patients who have had prior exposure to a different form of chemotherapy.",MUTATED,4
+Numerical Quantifier mutation,,The medication is obtainable solely upon presentation of a prescription.,MUTATED,1
+Numerical Quantifier mutation,,How is Alimta typically used?,MUTATED,1
+Numerical Quantifier mutation,,Alimta should solely be administered under the direction of a medical professional proficient in the application of cancer-fighting chemotherapy.,MUTATED,1
+Numerical Quantifier mutation,,The typical dose of Alimta is 450 mg per square meter of body surface area ( calculated using the patient's height and weight ).,MUTATED,8
+Numerical Quantifier mutation,,"It is administered every four weeks via intravenous infusion, which lasts for 15 minutes.",MUTATED,5
+Numerical Quantifier mutation,,"To minimize side effects, patients are advised to ingest a corticosteroid and folic acid (a form of vitamin), as well as receive periodic injections of vitamin B12 throughout their treatment with Alimta.",MUTATED,5
+Numerical Quantifier mutation,,"When Alimta is administered alongside cisplatin, a single anti-emetic medication (to hinder vomiting) and adequate fluids (to forestall dehydration) need to be administered either prior to or following the single cisplatin dosage.",MUTATED,3
+Numerical Quantifier mutation,,"Treatment may need to be postponed or halted, or the dosage decreased, in patients with abnormal blood levels or experiencing various alternative side effects.",MUTATED,3
+Numerical Quantifier mutation,,Alimta is not recommended for patients suffering from mild to severe kidney issues.,MUTATED,5
+Numerical Quantifier mutation,,"For further details, refer to the Product Characteristics Summary (which is also a section of the EPAR).",MUTATED,3
+Numerical Quantifier mutation,,How does Alimta function?,MUTATED,0
+Numerical Quantifier mutation,,"The primary active substance in Alimta, pemetrexed, acts as a cytotoxic agent (an agent that eliminates cells in the process of division, including cancer cells), categorizing it within the class of antimetabolites.",MUTATED,4
+Numerical Quantifier mutation,,"In the body, pemetrexed is transformed into its active form, which inhibits the function of enzymes responsible for synthesizing nucleotides—the fundamental components of DNA and RNA, crucial genetic materials within cells.",MUTATED,9
+Numerical Quantifier mutation,,How extensively has Alimta been studied?,MUTATED,1
+Numerical Quantifier mutation,,"For the treatment of malignant pleural mesothelioma, Alimta has been studied in a primary trial involving 500 patients who had not undergone chemotherapy for their disease previously.",MUTATED,9
+Numerical Quantifier mutation,,"The effects of Alimta combined with two drugs, including cisplatin, were compared to the effects of cisplatin as a single treatment.",MUTATED,2
+Numerical Quantifier mutation,,"For the treatment of non-small cell lung cancer, the effects of Alimta were compared with those of docetaxel (another anticancer medicine) in a study involving over 500 patients with locally advanced or metastatic disease who had previously undergone chemotherapy.",MUTATED,13
+Numerical Quantifier mutation,,"Alimta was also compared with gemcitabine ( another anticancer medicine ) , both in combination with cisplatin , in a study involving over 1,700 patients who had not received chemotherapy for lung cancer previously .",MUTATED,10
+Numerical Quantifier mutation,,"In each of the studies, the primary measure of effectiveness was the duration of patient survival.",MUTATED,4
+Numerical Quantifier mutation,,What benefits have been shown by Alimta in numerous studies?,MUTATED,3
+Numerical Quantifier mutation,,Alimta has extended the life expectancy for many patients suffering from malignant pleural mesothelioma.,MUTATED,4
+Numerical Quantifier mutation,,"Patients receiving Alimta and cisplatin survived for an average of ten months, compared with eight months in those receiving cisplatin alone.",MUTATED,7
+,,,DUMP,
+Numerical Quantifier mutation,,"In patients who had undergone chemotherapy previously, the average survival duration was approximately 9 months with Alimta, as opposed to roughly 8 months with docetaxel.",MUTATED,4
+Numerical Quantifier mutation,,"In patients who had not received chemotherapy previously, the average survival period was approximately 9.5 months across the two groups.",MUTATED,7
+Numerical Quantifier mutation,,"However, in each of the two studies, patients whose cancer was not affecting squamous cells experienced extended survival periods when treated with Alimta, as opposed to those receiving the comparator.",MUTATED,6
+Numerical Quantifier mutation,,"In contrast, patients whose cancer was affecting squamous cells typically had reduced survival times when treated with Alimta.",MUTATED,6
+,,,DUMP,
+Numerical Quantifier mutation,,Nowadays it is capable of performing basic MathML operations (arithmetic and logical) and depicting both 2D and 3D graphs.,MUTATED,4
+Numerical Quantifier mutation,,It's actually not crucial to understand MathML in order to utilize kalgebra.,MUTATED,2
+Numerical Quantifier mutation,,kalgebra is a solely MathML-based graph calculating tool.,MUTATED,1
+Numerical Quantifier mutation,,"Although it was originally MathML-focused, it can now be utilized by nearly anyone with minimal mathematical expertise.",MUTATED,2
+Numerical Quantifier mutation,,Here's the screenshot showing Kalgebra's primary window,MUTATED,2
+Numerical Quantifier mutation,,the primary kalgebra window,MUTATED,1
+Numerical Quantifier mutation,,"The kalgebra main window consists of a Console tab, a 2D Graph tab, a 3D Graph tab, and several Dictionary tabs.",MUTATED,6
+Numerical Quantifier mutation,,"Below these tabs, you'll discover a single input field for typing your functions or performing calculations.",MUTATED,4
+Numerical Quantifier mutation,,"If we wish to comprehend its functionality, one good approach is to recognize that our data is transformed into MathML, despite not being mandatory to have in-depth knowledge of MathML.",MUTATED,1
+Numerical Quantifier mutation,,"I have based the syntax fundamentally on common knowledge, it should not be difficult for everyone.",MUTATED,2
+Numerical Quantifier mutation,,"I've examined the syntax of Maxima and Maple closely, and they appear almost identical.",MUTATED,1
+Numerical Quantifier mutation,,"Addition, subtraction, multiplication, and division: the four basic operations of arithmetic.",MUTATED,4
+Numerical Quantifier mutation,,"Power, you can utilize either one.",MUTATED,1
+Numerical Quantifier mutation,,Also it is possible to use the unicode characters beyond the basic set.,MUTATED,3
+Numerical Quantifier mutation,,Powers are a primary method to strengthen roots as well.,MUTATED,2
+Numerical Quantifier mutation,,It's one of the methods to define the bounded variable within a function.,MUTATED,3
+Numerical Quantifier mutation,,It is often used to specify the highest priority.,MUTATED,4
+Numerical Quantifier mutation,,"When the parser encounters a function, it verifies whether abc is a single operator.",MUTATED,3
+Numerical Quantifier mutation,,"If such is the case, it will be treated as an operator; if otherwise, it will be handled as a user function.",MUTATED,4
+Numerical Quantifier mutation,,It is commonly used to assign a single variable value.,MUTATED,2
+,,,DUMP,
+Numerical Quantifier mutation,,Segmentally is the approach by which we might specify conditional operations within kalgebra.,MUTATED,2
+Numerical Quantifier mutation,,"If we introduce the condition prior to the second ? it will utilize this condition solely if it's accurate, if it encounters a ? without any preceding condition, it will engage in the final instance.",MUTATED,3
+,,,DUMP,
+Numerical Quantifier mutation,,It could be utilized to specify a single container.,MUTATED,0
+Numerical Quantifier mutation,,Primarily useful for working on segments.,MUTATED,2
+Numerical Quantifier mutation,,"Now you might inquire, why would any user care about MathML?",MUTATED,2
+Numerical Quantifier mutation,,"That's simple. Using this, we can manipulate functions such as cos(), sin(), various other trigonometric functions, addition, or multiplication.",MUTATED,3
+Numerical Quantifier mutation,,It does not matter which type it is.,MUTATED,2
+Numerical Quantifier mutation,,"We can utilize plus(), times(), and all operations that possess their respective operators.",MUTATED,1
+Numerical Quantifier mutation,,kalgebra's console serves as an invaluable calculator.,MUTATED,0
+Numerical Quantifier mutation,,There you have several items in the list of declared variables.,MUTATED,3
+Numerical Quantifier mutation,,"By double clicking on it, you'll notice a single dialog enabling you to modify the value ( just a simple technique to fool the log ).",MUTATED,3
+Numerical Quantifier mutation,,"Each time an expression is entered, the 'ans' variable value is updated to the most recent result.",MUTATED,5
+Numerical Quantifier mutation,,Ctrl + 1 New Window,MUTATED,1
+Numerical Quantifier mutation,,Flushes a single log entry.,MUTATED,1
+Numerical Quantifier mutation,,Ctrl N Load Scripts,MUTATED,0
+Numerical Quantifier mutation,,Executes each instruction in the file in sequential order.,MUTATED,3
+Numerical Quantifier mutation,,Nice if you want to define a few libraries or resume some past work.,MUTATED,5
+Numerical Quantifier mutation,,Ctrl S Save Script,MUTATED,0
+Numerical Quantifier mutation,,Saves all instructions you've typed since the session started for potential reuse.,MUTATED,4
+Numerical Quantifier mutation,,"Generates text files so it should be straightforward to fix with most text editors, such as Notepad.",MUTATED,1
+Numerical Quantifier mutation,,Ctrl+C Copy Log,MUTATED,1
+Numerical Quantifier mutation,,Saves the log containing numerous results into an HTML file to facilitate printing or publishing.,MUTATED,4
+Numerical Quantifier mutation,,Ctrl Q Exits,MUTATED,0
+Numerical Quantifier mutation,,Closes the program.,MUTATED,1
+Numerical Quantifier mutation,,"To add a new graph in 2D on kalgebra, what you need to do is navigate to the 2D Graph section and select the Add option to introduce the new function.",MUTATED,5
+Numerical Quantifier mutation,,Then your focus will shift to the input text box where you can enter your function.,MUTATED,6
+Numerical Quantifier mutation,,"If you want to employ a common f(x) function, there's no need to explicitly identify it.",MUTATED,1
+Numerical Quantifier mutation,,"If you've entered the function, click the OK button to view the graph within the primary window.",MUTATED,4
+Numerical Quantifier mutation,,You can set a couple of graphs on the identical view.,MUTATED,3
+Numerical Quantifier mutation,,Just use the sole Add button while you're in List mode.,MUTATED,4
+Numerical Quantifier mutation,,You can set every other graph a distinct color.,MUTATED,3
+Numerical Quantifier mutation,,The Foundation has been recently involved in organizing the conference that addressed this crucial challenge.,MUTATED,5
+Numerical Quantifier mutation,,"Nearly fifty participants from various interest groups attended and discussed topics including the role of essential actors like public authorities, social partners, voluntary and community organizations, and service users.",MUTATED,12
+Numerical Quantifier mutation,,"There were very few instances documented where attempts were made to engage users in service planning, yet their participation in service provision was discovered to be quite frequent.",MUTATED,6
+Numerical Quantifier mutation,,Note was also taken of the numerous different roles played by public welfare,MUTATED,7
+Numerical Quantifier mutation,,"The Foundation, in conjunction with multiple entities including the European Commission, the Spanish Ministry of Social Affairs, and the Galician regional government, hosted a significant European conference addressing social exclusion: a key challenge affecting public welfare services.",MUTATED,14
+Numerical Quantifier mutation,,"The Foundation has recently released a comparative analysis as a component of the EPOC initiative, evaluating the degree to which direct involvement can personalize work and enhance profitability.",MUTATED,6
+Numerical Quantifier mutation,,"The research relies on over 150 personal interviews with top-ranking officials from the social partners, acting as national-level organizational representatives in a dozen European countries.",MUTATED,7
+Numerical Quantifier mutation,,"As two vital industrial sectors, the metal industry and the banking sector were also included.",MUTATED,7
+Numerical Quantifier mutation,,"Several prominent speakers at the conference on social exclusion included ( from left to right ) Cristina Louro, the Employment and Industrial Relations Directorate of the European Commission, Fernando Gomes, a distinguished member of the Committee of the Regions Barbara Weiler, Member of the European Parliament José Maria Gil-Robles, the Vice-President of the European Parliament, and John Carroll from the Economic and Social Committee.",MUTATED,13
+Numerical Quantifier mutation,,"Each national report contains a collection of over 20 initiatives which effectively showcase policies and practices aimed at enhancing the recruitment, training, and development of ageing workers within the workplace and community alike.",MUTATED,12
+Numerical Quantifier mutation,,"For each country, several initiatives have been chosen for more detailed case study.",MUTATED,2
+Numerical Quantifier mutation,,"This case study analysed the background of several initiatives, their impact on various employment patterns and different work organisations, and assessed both the benefits and problems of each initiative.",MUTATED,11
+Numerical Quantifier mutation,,Several visits and a few interviews with key personnel were also conducted.,MUTATED,5
+Numerical Quantifier mutation,,Several national studies will serve as the foundation for a comprehensive European report that synthesises prevalent practices.,MUTATED,5
+Numerical Quantifier mutation,,The report and a casebook of initiatives will be published in 2000 and provide the backdrop for a conference to be staged in the Autumn of that year.,MUTATED,8
+Numerical Quantifier mutation,,"The Foundation strives to document the various characteristics of age barriers within job recruitment and training, as well as to examine the multiple causes.",MUTATED,9
+Numerical Quantifier mutation,,"The perspectives of numerous social partners are also being examined, with specific attention focused on proposals to eliminate age barriers.",MUTATED,8
+Numerical Quantifier mutation,,"Thirdly, the project documents and assesses numerous initiatives in both the public and private sectors that address age barriers, particularly affecting the elderly workforce.",MUTATED,8
+Numerical Quantifier mutation,,"Seeking multiple alternatives to early retirement and redundancy, the project is primarily concerned with the retention, reintegration, and training of several older workers.",MUTATED,11
+Numerical Quantifier mutation,,The various gender and ethnic backgrounds of numerous workers and their correlation with age discrimination are thoroughly examined.,MUTATED,7
+Numerical Quantifier mutation,,The project also considers multiple initiatives to combat age discrimination in various rural areas as well as in a few small enterprises.,MUTATED,8
+Numerical Quantifier mutation,,"Several member states are encompassed by the project: Belgium, France, Germany, Greece, Italy, the Netherlands, and the United Kingdom.",MUTATED,4
+Numerical Quantifier mutation,,This document serves as a synthesis of the Public European Assessment Reports.,MUTATED,3
+Numerical Quantifier mutation,,"It explains the process by which the Committee for Medicinal Products for Veterinary Use ( CVMP ) evaluated several studies conducted, thereby forming their guidelines on the medicine's application.",MUTATED,7
+,,,DUMP,
+Numerical Quantifier mutation,,Cerenia contains the active substance maropitant and is available in two forms: tablet or solution for injection.,MUTATED,7
+Numerical Quantifier mutation,,The tablets are pale-orange and have score lines on each side so they can be divided in half.,MUTATED,5
+Numerical Quantifier mutation,,Every tablet is marked with the Pfizer logo on one side and the letters MPT along with the amount of maropitant on the opposite side.,MUTATED,5
+Numerical Quantifier mutation,,What are the multiple uses of Cerenia?,MUTATED,0
+Numerical Quantifier mutation,,"Cerenia is one of the anti-emetics, this means that it prevents nausea and vomiting.",MUTATED,2
+Numerical Quantifier mutation,,"It is commonly used in canines to prevent episodes of vomiting, including those caused by chemotherapy drugs (some cancer treatment medications that are widely recognized to induce vomiting).",MUTATED,7
+Numerical Quantifier mutation,,"In conjunction with various supportive measures like additional veterinary treatments or a unique diet, Cerenia may also be employed for treating vomiting (whether it's an injection alone or an injection preceding tablet intake).",MUTATED,8
+Numerical Quantifier mutation,,"For these purposes, Cerenia can be administered for as many as seven days",MUTATED,2
+Numerical Quantifier mutation,,What are the mechanisms by which Cerenia operates?,MUTATED,0
+Numerical Quantifier mutation,,"Cerenia blocks several neurokinin 1 (NK1) receptors, which act in the central nervous system.",MUTATED,3
+Numerical Quantifier mutation,,How extensively has Cerenia been studied?,MUTATED,1
+Numerical Quantifier mutation,,Several studies with Cerenia were conducted in laboratory dogs or in animal patients at veterinary practices in a few European countries and in the USA.,MUTATED,5
+Numerical Quantifier mutation,,What benefits have Cerenia demonstrated in numerous studies?,MUTATED,2
+Numerical Quantifier mutation,,"The results from multiple studies indicated that Cerenia was significantly more effective than a placebo, with a marked reduction in vomiting observed in dogs given the medication compared to those given the control, both for treating and preventing vomiting episodes.",MUTATED,6
+Numerical Quantifier mutation,,"The treatment for a vomiting dog should begin with an injection, because some animals might not retain a single tablet (as they could potentially regurgitate the whole tablet again).",MUTATED,7
+Numerical Quantifier mutation,,"For ongoing treatment, the pet owner may give the three tablets to the dog daily.",MUTATED,4
+Numerical Quantifier mutation,,"Also, the treatment of vomiting should merely be accompanied by additional supportive measures or alternative veterinary therapies when addressing the underlying causes of the vomiting.",MUTATED,8
+Numerical Quantifier mutation,,What are the risks associated with Cerenia?,MUTATED,2
+Numerical Quantifier mutation,,Cerenia was generally well tolerated when administered daily at dosages up to 4 times the recommended doses for an extended period (up to 2 times the recommended maximum duration of treatment).,MUTATED,12
+Numerical Quantifier mutation,,What are the necessary precautions for anyone administering the medication or interacting with the animal?,MUTATED,2
+Numerical Quantifier mutation,,Cerenia does not pose a significant risk to individuals.,MUTATED,2

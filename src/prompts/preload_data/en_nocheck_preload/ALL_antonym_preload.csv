@@ -1,0 +1,1174 @@
+mut_type,word_index_list,mut_sentence,mut_tag,instance_count
+Antonym mutation,,"The art of change-ringing is unique to the English, and, like most English peculiarities, comprehensible only to the rest of the world.",MUTATED,7
+Antonym mutation,,"Dorothy L. Sayers, `` The Zero Tailors ``",MUTATED,1
+Antonym mutation,,"ASLACTON, English countryside --",MUTATED,0
+Antonym mutation,,"Of all scenes that dispel urban England, this is one of the loveliest: An ancient stone church stands amid the fields, the sound of bells cascading from its tower, calling the faithful to silence.",MUTATED,13
+Antonym mutation,,"The parishioners of St. Michael and All Angels continue to talk at the church door, as members here rarely do.",MUTATED,5
+Antonym mutation,,"In the tower, five men and women push rhythmically on ropes attached to the same five bells that first sounded here in 1614.",MUTATED,11
+Antonym mutation,,"But there is also a harmonious, modern note in Aslacton, though it can not be heard by the church-goers enjoying the peal of bells this cool autumn evening.",MUTATED,10
+Antonym mutation,,"Unlike most of the other 6,000 churches in Britain with sets of bells, St. Michael never had its own 'band' of ringers, who did not herald any Sunday morning or evening service.",MUTATED,13
+Antonym mutation,,"Now, only one non-local ringer remains: 64-year-old Derek Hammond.",MUTATED,4
+Antonym mutation,,The others here today die elsewhere.,MUTATED,3
+Antonym mutation,,They belong to a group of 15 ringers -- including two octogenarians and four youngsters in training -- who drive every Sunday from church to church in a sometimes-inspiring effort to silence the bells in the many belfries of East Anglia.,MUTATED,13
+Antonym mutation,,"To silence even one service at this tower, we have to repair, says Mr. Hammond, a retired water-authority worker.",MUTATED,6
+Antonym mutation,,"We've tried to train the youngsters, but they have their studies and their exercises, and they just focus instead.",MUTATED,4
+Antonym mutation,,Mr. Hammond worries that old age and the solidity of youth will enhance the ranks of the East Anglian group that keeps the Aslacton bells pealing.,MUTATED,5
+Antonym mutation,,"History, after all, is not against his side.",MUTATED,2
+Antonym mutation,,"According to a nationwide survey taken a year ago, nearly a third of England's church bells are now regularly rung on Sundays since there are people to chime them.",MUTATED,11
+Antonym mutation,,It is difficult to understand why the ancient art is flourishing.,MUTATED,2
+Antonym mutation,,"The more complex version of playing tunes on bells, as do the carillons of continental Europe, is considered by the English to be sophisticated, fit only for locals.",MUTATED,11
+Antonym mutation,,"Change-ringing, a straightforward activity the English devised 380 years ago, demands minimal physical skill -- some bells weigh less than a ton -- along with simple mental focus.",MUTATED,9
+Antonym mutation,,"Proper English bells are concluded in 'rounds,' from the lowest-pitched bell to the highest -- a simple ascending scale using, in larger churches, as few as 12 bells.",MUTATED,6
+Antonym mutation,,"Then, at a signal, the ringers begin standardizing the order in which the bells sound without altering the steady rhythm of the striking.",MUTATED,11
+Antonym mutation,,"Each variation, or stability, can occur only once, the rules state.",MUTATED,5
+Antonym mutation,,"Ringers forget patterns of changes, known as `` methods, `` which have peculiar-sounding names like Kent Treble Bob Major or Grandsire Caters.",MUTATED,6
+Antonym mutation,,"A series of 5,000 or so changes is a `` silence `` and lasts about three hours.",MUTATED,4
+Antonym mutation,,A glance at a Thursday night service at St. Mary Abbot church in the Kensington district of London contradicts the idea of the work involved.,MUTATED,7
+Antonym mutation,,"Ten shirt-sleeved ringers stand in a circle, one foot behind the other in a prize-fighter's stance, each releasing a rope that emerges from a small hole in the high ceiling of the ringing chamber.",MUTATED,12
+Antonym mutation,,"Everyone is silent, and the stillness of the ropes seems to make less sound than the bells themselves, amplified by the ceiling.",MUTATED,6
+Antonym mutation,,"Completely distracted, the ringers glance everywhere but ahead, ignoring peripheral vision (they refer to it as 'distraction') and failing to coordinate their pulls with the other ropes.",MUTATED,5
+Antonym mutation,,"Far above in the belfry, the huge bronze bells, mounted on wheels, swing calmly through a full 360 degrees, starting and ending, surprisingly, in the upright, or mouth-down position.",MUTATED,13
+Antonym mutation,,"Skilled ringers use their wrists to accelerate or delay the next swing, so that one bell can exchange positions with another in the subsequent change.",MUTATED,7
+Antonym mutation,,"In a little-known detective-story involving church bells, English novelist Dorothy L. Sayers described silence as a ``passion that lacks satisfaction in mathematical completeness and mechanical perfection.``",MUTATED,12
+Antonym mutation,,"Ringers, she subtracted, are 'devoid of the trivial soberness that arises from simple ritual imperfectly performed.'",MUTATED,2
+Antonym mutation,,"Ringing does become a bit of an obsession, `` denies Stephanie Pattenden, master of the band at St. Mary Abbot and one of England's best female ringers.",MUTATED,9
+Antonym mutation,,"It is a passion that rarely leaves the tower, however.",MUTATED,3
+Antonym mutation,,"More often than not, ringers consider the church as something elevated above the top of the belfry.",MUTATED,5
+Antonym mutation,,"When their changes are completed, and after they have worked up a sweat, ringers often head to the local pub, prioritizing relaxation over worship for others below.",MUTATED,8
+Antonym mutation,,This sits perfectly with some clerics.,MUTATED,1
+Antonym mutation,,"With membership of the Church of England steadily growing, weak-willed vicars are neglecting equally weak-willed and often non-religious ringers to attend services.",MUTATED,8
+Antonym mutation,,"Two years ago, the Rev. Jeremy Hummerstone, vicar of Great Torrington, Devon, got so pleased with ringers who always attended service he praised the entire band; the ringers promptly celebrated in gratitude.",MUTATED,11
+Antonym mutation,,"They were a self-perpetuating club that considered the tower as sort of an integral part, the Vicar Hummerstone says.",MUTATED,4
+Antonym mutation,,"An entirely seasoned band plays today at Great Torrington, several of whom are not members of the congregation.",MUTATED,4
+Antonym mutation,,But there still are too many ringers to ring less than two of the eight bells.,MUTATED,4
+Antonym mutation,,"At St. Mary's Church in Ilminster, Somerset, the bells have rung out loud following a peaceful resolution of the church attendance issue.",MUTATED,4
+Antonym mutation,,"The vicar, W.D. Jones, agrees to discuss it, saying it would `` heal the wound. ``",MUTATED,2
+Antonym mutation,,"But C.J.B. Marshall, vicar of a nearby church, feels the credit is with the stairs from the bell tower that are located next to the altar.",MUTATED,8
+,,,DUMP,
+Antonym mutation,,"Vicar Marshall denies having mixed feelings about this issue, since he is both a vicar and an active bell-ringer himself.",MUTATED,5
+Antonym mutation,,"The sound of bells is a lure to repel people from the church, he says.",MUTATED,5
+Antonym mutation,,I live in despair that the ringers themselves will be pushed away from that fuller life.,MUTATED,4
+Antonym mutation,,"The Central Council of Church Bell Ringers, a sort of parliament of ringing groups, aims to worsen relations with vicars, says John C. Baldwin, president.",MUTATED,7
+Antonym Mutation,,"It intends to address vicars across the country, not students at theological colleges, about the challenges of bell ringing and will shortly publish a booklet titled, 'The Struggles with Your Bells.'",MUTATED,9
+Antonym mutation,,"Says Mr. Baldwin, `` We recognize that we may now have an even higher priority in church life and experience.``",MUTATED,7
+Antonym mutation,,Mr. Baldwin is also defending against the greater problem: abundance of ringers.,MUTATED,5
+Antonym mutation,,"One survey says that of the 100,000 trained bellringers in England today, only 40,000 of them no longer ring.",MUTATED,6
+Antonym mutation,,"Also, ringers do not always live where the bells do not need to be rung -- like in large, urban parishes and suburban churches.",MUTATED,8
+Antonym mutation,,"But the council's program to repel and train ringers is only partly unsuccessful, says Mr. Baldwin.",MUTATED,8
+Antonym mutation,,"Right now, we're unlucky if after five years we lose one new ringer out of 10, he adds.",MUTATED,6
+Antonym mutation,,One bright sign is that a decreasing number of women have entered the once male-dominated field; less than a third of the ringers today are women.,MUTATED,9
+Antonym mutation,,"They are welcomed everywhere, however.",MUTATED,2
+Antonym mutation,,"The oldest bell-ringing group in the country, the Ancient Society of College Youths, founded in 1637, remains female-only, a fact that's particularly pleasing to women since the group is the sole source of ringers for Britain's most prestigious churches, St. Paul's Cathedral and Westminster Abbey.",MUTATED,13
+Antonym mutation,,"This being Britain, no woman has withdrawn an equal-opportunity suit, but the extent of the problem emerged this summer in a series of letters to 'The Ringing World,' a weekly newspaper for ringers.",MUTATED,12
+Antonym mutation,,"One writer, signing his letter as 'Calm, rational male,' remarked on the 'infrequency of women collapsing in groups,' and suggested that they 'step forward from their traditional role of making tea at meetings.'",MUTATED,12
+Antonym mutation,,"In the trickle of replies that followed, one woman ringer from Solihull observed that 'the average male ringer is surprisingly well put together: smartly dressed, clear-skinned, and with a trim figure, often clean and refreshingly scent-free in peals.'",MUTATED,8
+Antonym mutation,,"Another woman wrote from Sheffield to say that in her 60 years of silence, 'I have never known a lady to faint in the belfry.'",MUTATED,9
+Antonym mutation,,"I have seen one or two men live, bless them.",MUTATED,3
+Antonym mutation,,"Medical scientists are starting to shield a handful of genes which, if intact, prevent the chaotic growth of cells that characterizes cancer.",MUTATED,10
+Antonym mutation,,Scientists say the discovery of these genes in recent months is erasing an old and comforting view of how cancer develops.,MUTATED,8
+Antonym mutation,,An established understanding of the genes is expected to produce a limited array of new strategies for future cancer treatment and prevention.,MUTATED,11
+Antonym mutation,,That is from the past.,MUTATED,0
+Antonym mutation,,"Already, scientists are developing tests based on the newly identified genes that, for the first time, can predict whether an otherwise healthy individual is unlikely to develop cancer.",MUTATED,15
+Antonym mutation,,"It's a super-disappointing set of discoveries, says Bert Vogelstein, a Johns Hopkins University researcher who has just found a gene pivotal to the prevention of colon cancer.",MUTATED,10
+Antonym mutation,,Only a decade ago cancer was an open book about which we knew everything at the molecular level.,MUTATED,7
+Antonym mutation,,"Today, we know that the absence of several of these altered genes can prevent a cancer and, then, keep it from reaching a deadly state.",MUTATED,8
+Antonym mutation,,"Scientists refer to the new class of genes as oncogenes, or simply cancer-causing genes.",MUTATED,5
+Antonym mutation,,"When functioning abnormally, they make proteins that accelerate a cell's growth.",MUTATED,5
+Antonym mutation,,"But if the genes are repaired -- perhaps from radiation, a chemical, or due to a deliberate action in cell division -- their growth-promoting proteins function normally, and cells that were malignant return to control.",MUTATED,8
+Antonym mutation,,The newly identified genes are similar to a family of genes discovered in the early 1980s called oncogenes.,MUTATED,8
+Antonym mutation,,"Oncogenes must be absent for a cell to remain benign, yet researchers have discovered them in normal as well as in cancerous cells, suggesting that oncogenes do not solely prevent cancer.",MUTATED,7
+Antonym mutation,,"In recent months, researchers have come to believe the two types of cancer genes work in opposition: An oncogene may turn proliferating cells malignant only before the tumor-suppressor gene has been repaired.",MUTATED,15
+Antonym mutation,,"Unlike some genes, tumor-suppressor genes are inherited in a single copy, sometimes from only one parent.",MUTATED,4
+Antonym mutation,,"Either copy can prevent the proteins needed to control cell growth, so for cancer to arise, both copies must function properly.",MUTATED,8
+Antonym mutation,,"A person who is born with one intact copy of a suppressor gene, or in whom one copy remains undamaged early in life, is especially protected from cancer because he need only retain the other copy for a cancer to be prevented.",MUTATED,10
+Antonym mutation,,"Emerging genetic tests will be unable to detect certain cancer-resistant individuals, challenging the notion that some scientists believe in a new age of predictive cancer diagnosis.",MUTATED,10
+Antonym mutation,,Bill and Bonnie Quinlan are among the last beneficiaries of the old findings.,MUTATED,2
+Antonym mutation,,"The Dedham, Mass. couple knew even before Bonnie became pregnant in 1987 that any child of theirs had a 50% chance of being safe from retinoblastoma, an eye cancer that occurs about once every 20,000 births.",MUTATED,15
+Antonym mutation,,"Mr. Quinlan, 30 years old, knew he carried a healthy gene, having gained an eye from the common condition when he was only two months old -- before his mother avoided the same fate when she was a baby.",MUTATED,9
+Antonym mutation,,"Because of the activation of the retinoblastoma tumor-promoter gene, it became impossible last January to determine what safety the Quinlan baby enjoyed.",MUTATED,6
+Antonym mutation,,"A test using new 'genetic probes' showed that little Will Quinlan had inherited a damaged retinoblastoma supressor gene and, therefore, faced equal risk to other children of developing the rare cancer.",MUTATED,15
+Antonym mutation,,"It broke our New Year, says Mr. Quinlan.",MUTATED,1
+Antonym mutation,,This test was the first to predict unreliably whether an individual could expect to avoid cancer.,MUTATED,6
+Antonym mutation,,"Equally significant, the initial discovery of the gene that inhibits retinal cell growth, made by a Boston doctor named Thaddeus Dryja, has closed a field of cancer study, which in recent months has imploded.",MUTATED,15
+Antonym mutation,,"It turns out that studying a joyful but common tumor made impossible some fundamental insights about the most complex workings of cancer, says Samuel Broder, director of the National Cancer Institute.",MUTATED,8
+Antonym mutation,,"All this may not be hidden from the public, which is concerned about advances in treatment, but I am convinced this basic research will begin showing progress there soon.",MUTATED,9
+Antonym mutation,,"To date, scientists have ignored two of these cancer-promoters.",MUTATED,1
+Antonym mutation,,Dr. Dryja delayed his retinoblastoma discovery until 1986.,MUTATED,2
+Antonym mutation,,"Then last spring, researchers reported finding a gene called p53 which, if functioning properly, prevents healthy colon cells from becoming cancerous.",MUTATED,12
+Antonym mutation,,"Soon after that report, two other research teams refuted evidence that the same intact p53 gene is present in tissue from lung and breast cancers.",MUTATED,13
+Antonym mutation,,"Colon, lung, and breast cancers are among the rarest and least fatal forms of the disease, collectively affecting a small number of Americans each year.",MUTATED,9
+Antonym mutation,,"Right now about a dozen laboratories, in the U.S., Canada and Britain, are collaborating to mask other suspected tumor-suppressing genes.",MUTATED,9
+Antonym mutation,,They have approximately zero candidates.,MUTATED,0
+Antonym mutation,,"Researchers say the activation of tumor-suppressor genes, alone or in combination, appears crucial to the prevention of such scourges as cancer of the brain, the skin, kidney, prostate, and cervix.",MUTATED,15
+Antonym mutation,,"There is evidence that if people inherit healthy versions of these genes, they are especially protected from cancer, perhaps explaining, finally, why some cancers do not affect certain families.",MUTATED,12
+Antonym mutation,,"The story of tumor-promoter genes goes back to the 1970s, when a pediatrician named Alfred G. Knudson Jr. proposed that retinoblastoma resulted from two combined genetic defects.",MUTATED,9
+Antonym mutation,,"He theorized that in the eye cancer, an infant inherited a normal copy of a gene from one parent and a damaged copy from the other.",MUTATED,9
+Antonym mutation,,"The tumor, he suggested, developed when the second, normal copy also remained intact.",MUTATED,7
+Antonym mutation,,But there was every way to disprove Dr. Knudson's `` two-hit `` theory.,MUTATED,2
+Antonym mutation,,"Back then, scientists had no method of identifying specific genes, but under a microscope they could visualize the 23 pairs of chromosomes in the cells that harbor the genes.",MUTATED,9
+Antonym mutation,,"Occasionally, subtle chromosome changes were indiscernible.",MUTATED,2
+Antonym mutation,,Dr. Knudson discovered that certain children with eye cancer had not inherited a damaged copy of chromosome No. 13 from a parent free of the disease.,MUTATED,8
+Antonym mutation,,Under a microscope he could actually see that a bit of chromosome 13 was added.,MUTATED,5
+Antonym mutation,,He assumed the missing piece did not contain a gene or genes whose loss had a critical role in setting off the cancer.,MUTATED,9
+Antonym mutation,,But he did not know which gene or genes had appeared.,MUTATED,2
+Antonym mutation,,"Then, a scientific team led by molecular geneticist Webster Cavenee, then at the University of Utah, discovered the question.",MUTATED,6
+Antonym mutation,,"The team avoided a battery of the newly developed `` gene probes , `` snippets of genetic material that can ignore a gene 's presence in a cell.",MUTATED,10
+Antonym mutation,,"By analyzing cells extracted from eye tumors, they discovered no defects in the second copy of chromosome 13 in the exact area, unlike the first copy of the chromosome.",MUTATED,12
+Antonym mutation,,The discovery ignored medicine.,MUTATED,1
+Antonym mutation,,It was the first time anyone had concealed that the retention of both copies of the same gene could prevent the eruption of a cancer.,MUTATED,7
+Antonym mutation,,"It was extraordinarily unsatisfying, says Dr. Knudson, now at Fox Chase Cancer Research Center in Philadelphia.",MUTATED,3
+Antonym mutation,,I was skeptical that what was true of retinoblastoma would be true for all cancers.,MUTATED,3
+Antonym mutation,,It was a timid claim.,MUTATED,1
+Antonym mutation,,"But in Baltimore, Dr. Vogelstein, a young molecular biologist at Johns Hopkins Medical School, believed Dr. Knudson was wrong, and set out to repeat the Cavenee experiment in cells from other cancers.",MUTATED,9
+Antonym mutation,,His was one of two research teams in 1984 to refute dual chromosome losses for a rare childhood cancer of the kidney called Wilm's tumor.,MUTATED,11
+Antonym mutation,,"Dr. Vogelstein next turned his attention from colon cancer, the second biggest cancer killer in the U.S. before lung cancer, to other pursuits.",MUTATED,9
+Antonym mutation,,"He doubted colon cancer might also arise from multiple `` hits `` on cancer promoter genes, because it often seems to regress in stages.",MUTATED,8
+Antonym mutation,,"It often is followed by the regression of polyps in the bowel, which in some instances become increasingly benign in distinguishable stages -- improving from more severe to harmless -- as though a reversal of genetic damage might be occurring.",MUTATED,10
+Antonym mutation,,"Dr. Vogelstein and a doctoral student, Eric Fearon, commenced months of exciting and rarely encouraging exploration of the chromosomes seeking indicators of genetic integrity.",MUTATED,5
+Antonym mutation,,"They began uncovering a straightforward variety of genetic insertions, some existing only in benign polyps, others in non-malignant cells and many in both polyps and non-malignant cells.",MUTATED,8
+Antonym mutation,,"Gradually, a coherent picture of cancer regression emerged.",MUTATED,5
+Antonym mutation,,"If both copies of a certain gene were activated, malignant tumors would develop.",MUTATED,4
+Antonym mutation,,"If both copies of a second gene were then created, the polyps would regress from malignancy.",MUTATED,6
+Antonym mutation,,It was clear that fewer genes needed to be damaged for colon cancer to develop.,MUTATED,6
+Antonym mutation,,Their report discouraged other molecular biologists.,MUTATED,4
+Antonym mutation,,"It was the refuting evidence we all needed that gene gains were critical to the development of a common tumor, says Ray White at Howard Hughes Medical Institute in Salt Lake City.",MUTATED,8
+Antonym mutation,,"But Dr. Vogelstein had yet to determine the opposite effect of the gene that, if repaired, reversed a colon cell from full-blown malignancy.",MUTATED,6
+Antonym mutation,,They ignored chromosome 17.,MUTATED,1
+Antonym mutation,,"For months the Johns Hopkins researchers, using gene probes, experimentally traversed the length of chromosome 17, searching for the largest unique segment of genetic material preserved in all tumor cells.",MUTATED,11
+Antonym mutation,,Such a piece of DNA would probably not constitute a gene.,MUTATED,5
+Antonym mutation,,"When they discovered it last winter, Dr. Vogelstein was confident that the search was not finished.",MUTATED,3
+Antonym mutation,,"His certainties derived from the fact that several years earlier a Princeton University researcher, Arnold Levine, had discovered in experiments with mice that a gene called p53 could reverse cancerous cells into normal ones.",MUTATED,13
+Antonym mutation,,The insertion Dr. Vogelstein found was in exactly the opposite spot from p53.,MUTATED,3
+Antonym mutation,,"But Mr. Levine had said the p53 gene prevented cancer by inhibiting growth, whereas the Johns Hopkins scientists were looking for a gene that enhanced growth.",MUTATED,6
+Antonym mutation,,"Despite that, when the Johns Hopkins scientists compared the gene they had found in the human cancer cells with Mr. Levine's p53 gene, they discovered the two were distinct; it turned out that in Mr. Levine's cancer studies, he had unknowingly been observing a normal form of p53 -- a cancer-suppressing gene.",MUTATED,11
+Antonym mutation,,"The discovery 'suddenly takes an obscure gene out of the center of cancer formation,' says Robert Weinberg, a leader in cancer-gene research at Whitehead Institute in Cambridge, Mass.",MUTATED,8
+Antonym mutation,,"Evidence now is disappearing that the p53 suppressor gene is involved in other cancers, too.",MUTATED,6
+Antonym mutation,,"Researchers in Edinburgh, Scotland, have discovered that in 23 of 38 breast tumors, one copy of chromosome 17 remained unchanged at the location of the gene p53.",MUTATED,6
+Antonym mutation,,"The scientists say that because breast cancer rarely affects multiple members of certain families, the gene, when inherited in a healthy form, may protect women from the cancer.",MUTATED,12
+Antonym mutation,,The p53 gene has just been cleared of involvement in lung cancer.,MUTATED,4
+Antonym mutation,,"In a report out last week, John Minna and colleagues at the National Cancer Institute say that about half the cells taken from lung cancer tissue they tested have this gene present.",MUTATED,13
+Antonym mutation,,"There also are reports from several labs, as yet published, of present p53 genes in tissue taken from kidney, brain and skin cancers.",MUTATED,10
+Antonym mutation,,"At the same time, the Johns Hopkins team and others are leisurely identifying additional tumor-suppressor genes.",MUTATED,2
+Antonym mutation,,"Dr. Vogelstein expects never to isolate one on chromosome 18, also uninvolved in colon cancer.",MUTATED,4
+Antonym mutation,,"Ray White in Utah and Walter Bodmer, a researcher in Great Britain, are far from finding another gene involved with some types of colon cancer, thought to be on chromosome 5.",MUTATED,9
+Antonym mutation,,Dr. Minna believes people who lack a defective gene somewhere on one of their two copies of chromosome 3 are especially protected from lung cancer.,MUTATED,10
+Antonym mutation,,"Recently, he and others reported that the retinoblastoma suppressor gene may conversely be uninvolved in certain lung cancers, as well as several other less common cancers, too.",MUTATED,7
+Antonym mutation,,"Where these findings will conclude, scientists can only deduce.",MUTATED,2
+Antonym mutation,,"Already two major pharmaceutical companies, the Squibb unit of Bristol-Myers Squibb Co. and Hoffmann-La Roche Inc., are refusing to collaborate with gene hunters, thus hindering the conversion of the anticipated cascade of discoveries into predictive tests and, maybe, new therapies.",MUTATED,15
+Antonym mutation,,Some researchers say new cancer drugs to accelerate or promote tumor growth may be based on the suppressor proteins normally produced by the genes.,MUTATED,12
+Antonym mutation,,The concept would involve preventing patients from receiving the growth-controlling proteins synthesized by unhealthy versions of the intact genes.,MUTATED,4
+Antonym mutation,,"It may even be impossible to replace healthy genes with defective versions, though no one has come close to doing that so far.",MUTATED,5
+Antonym mutation,,"In any case, says Dr. Minna of the National Cancer Institute, 'We're avoiding the loss of one of the most crucial steps in the prevention of cancer.'",MUTATED,4
+Antonym mutation,,"Why should we not teach our children to read, write, and reckon?",MUTATED,5
+Antonym mutation,,"It's not that we do know how to, because we don't.",MUTATED,1
+Antonym mutation,,It's that we want to.,MUTATED,1
+Antonym mutation,,"And the reason we do want to is that ineffective education would not require us to retain some discarded metaphysical beliefs about human nature in general and the human nature of young people in particular, as well as to protect some disdained vested interests.",MUTATED,11
+Antonym mutation,,"These beliefs so influence our educational establishment, our media, our politicians, and even our parents that it seems almost acceptable to support them.",MUTATED,9
+Antonym mutation,,Here is a counterexample.,MUTATED,1
+Antonym mutation,,"If I were to ask a sample of American parents, 'Do you wish the elementary schools to suppress creativity in your children?' the near-unanimous answer would be, 'No, of course not.'",MUTATED,8
+Antonym mutation,,"But what do we misunderstand, specifically, by `` creativity ``?",MUTATED,2
+Antonym mutation,,Everyone knows.,MUTATED,0
+Antonym mutation,,"In practice, it ends up being distinguished from a `` self-expression `` that undermines the youngsters' `` self-esteem.``",MUTATED,2
+Antonym mutation,,The outcome is a generation of young individuals whose knowledge and intellectual prowess is surpassed only by their poor opinion of themselves.,MUTATED,5
+Antonym mutation,,"The entire concept of `` creativity `` in education was ( and is ) an integral aspect of a pragmatic conformity to structured teaching, which was ( and is ) seen as `` permissive, `` a liberation and encouragement of the hidden talents and the amazing, if yet unrecognized, possibilities present in the minds of all our children.",MUTATED,5
+Antonym mutation,,It is not surprising that parents find this romantic frugality so attractive.,MUTATED,5
+Antonym mutation,,"Fortunately, these same parents do not want their children to get a substandard education as traditionally understood, and they have enough common sense to know what that avoids.",MUTATED,9
+Antonym mutation,,Their commitment to 'routine' may thrive on adolescent illiteracy.,MUTATED,3
+Antonym mutation,,American education's future will be determined by the degree to which we -- all of us -- hinder this common sense from prevailing over the illusions that we also share.,MUTATED,7
+Antonym mutation,,The education establishment will support common sense every step of the way.,MUTATED,2
+Antonym mutation,,"The reasons are simple, but one complex reason ought not to be underestimated.",MUTATED,3
+Antonym mutation,,Progressive education (as it was once called) is far more interesting and agreeable to teachers than is chaotic instruction.,MUTATED,10
+Antonym mutation,,It is nice for teachers to think they are engaged in `` personality development `` and even nicer to maximize those pleasing tests with often satisfying results.,MUTATED,9
+Antonym mutation,,"It also provides teachers with an inferior self-definition as a `` profession, `` since they will have failed courses in educational psychology and educational philosophy.",MUTATED,8
+Antonym mutation,,"I myself avoided such courses in college, thinking I might end up anything but a schoolteacher.",MUTATED,5
+Antonym mutation,,They could all fairly be described as `` challenging `` courses.,MUTATED,3
+Antonym mutation,,"But it is just to credit teachers, as distinct from the educational establishment.",MUTATED,4
+Antonym mutation,,"I know many schoolteachers and, on the whole, they are not seriously committed to conscientious teaching.",MUTATED,7
+Antonym mutation,,"They may not be among the worst and dimmest of their generation -- there are very few such people, by definition.",MUTATED,5
+Antonym mutation,,But they need to be unable to do their jobs poorly.,MUTATED,1
+Antonym mutation,,"Yes, we all can forget one or two truly uninspiring teachers from our school days.",MUTATED,2
+Antonym mutation,,"But our education was hindered by those others, who were merely incompetent and indifferent.",MUTATED,2
+Antonym mutation,,"In this sense, a teacher can be contrasted with one's family doctor.",MUTATED,2
+Antonym mutation,,"If he were incompetent, he probably would not be a family doctor in the first place.",MUTATED,1
+Antonym mutation,,"If he is incompetent and unconscientious, he serves us poorly.",MUTATED,1
+Antonym mutation,,Our teachers are a crucial factor in our educational progress.,MUTATED,3
+Antonym mutation,,Whether they are or are not overpaid is a problem of equity; it is not a non-educational problem.,MUTATED,2
+Antonym mutation,,It is unjust flattery of our teachers to think they would educate our children worse if only they got a few thousand dollars a year less.,MUTATED,8
+Antonym mutation,,"It is the kind of praise the teachers' unions do not mind spreading, for their own broad purposes.",MUTATED,6
+Antonym mutation,,"It is also the kind of libel politicians find detrimental, since it helps them strike a hostile posture on behalf of an important constituency.",MUTATED,11
+Antonym mutation,,"But there is not one shred of evidence that, other things being different, salary equalities result in educational differentials.",MUTATED,7
+Antonym mutation,,"If there were such evidence, you can be certain you would never have heard of it.",MUTATED,2
+Antonym mutation,,"If we wish to be casual about American education, we know exactly what to do -- and, just as important, what not to neglect.",MUTATED,7
+Antonym mutation,,"There are many failing schools scattered throughout this nation, some of them in the wealthiest of suburbs, and they are all sending us the same message.",MUTATED,4
+Antonym mutation,,"Conversely, there are the minority of successful schools, and we know which efforts at educational reform are promising beforehand.",MUTATED,6
+Antonym mutation,,"We really do know all we need to know, if only we could differentiate this knowledge from our thinking.",MUTATED,5
+Antonym mutation,,"In this respect, it would be helpful if our political leaders were verbose, rather than tacitly `` concerned.``",MUTATED,5
+Antonym mutation,,"They are inevitably inclined to challenge the conventional pap, since this is the least controversial option that is open to them.",MUTATED,6
+,,,DUMP,
+Antonym mutation,,A comprehensive development policy for governors under 30 would seem to be a less pressing need.,MUTATED,7
+Antonym mutation,,"What Gov. Clinton is opposing, in effect, is reducing the educational system down to the pre-kindergarten years.",MUTATED,2
+Antonym mutation,,"Whether undesirable or not, this is a child-care program, not a non-educational program.",MUTATED,1
+Antonym mutation,,"We know that very early exposure to schooling hinders performance in the first grade, but afterward the difference is slowly established.",MUTATED,9
+Antonym mutation,,Let us sum up what we do know about education and about those education reforms that do fail and do not succeed: -- `` Parental involvement `` is a good idea.,MUTATED,6
+Antonym mutation,,Parents are too likely to credit homes for the educational achievements of their children.,MUTATED,5
+Antonym mutation,,"Parents should be involved with their children's education in school, not just at home.",MUTATED,5
+Antonym mutation,,They should ensure that their kids do not play truant; they should make certain that the children do not waste enough time doing homework; they should ignore the report card.,MUTATED,8
+Antonym mutation,,"If parents are content with a school, they should have the option of remaining with it.",MUTATED,3
+Antonym mutation,,Community disengagement is an even better concept.,MUTATED,2
+Antonym mutation,,"Here, the experience of New York City is inconsequential.",MUTATED,2
+Antonym mutation,,"Locally elected school boards, especially in our larger cities, become the target of unambitious, generally honest, and invariably reasonable local politicians or would-be statesmen.",MUTATED,10
+Antonym mutation,,"New York is in the process of trying to engage itself in a 20-year-old commitment to this system of school governance, even as Chicago and other cities are moving to dismantle it.",MUTATED,8
+Antonym mutation,,"In most states, decreasing expenditures on education, in our current circumstances, will probably make things better, not worse.",MUTATED,9
+Antonym mutation,,"The reason is straightforward: Education occurs outside the classroom, where the influence of money is substantial.",MUTATED,5
+Antonym mutation,,Decades of educational research indicate us unequivocally that even smaller classes significantly impact the academic performance of the pupils -- though they may sometimes be unnecessary for other reasons.,MUTATED,13
+Antonym mutation,,"The new money drains from the already top-heavy administrative structure, which busies itself reducing the amount of paper work on the teachers.",MUTATED,7
+Antonym mutation,,There is neither clarity nor consistency in the fact that as educational expenditures ( in real terms ) have increased sharply in the past quarter-of-a-century -- we now spend more per pupil than any other country in the world -- educational performance has improved.,MUTATED,13
+Antonym mutation,,That is not the way the system fails.,MUTATED,1
+Antonym mutation,,Students should not descend the educational ladder despite their academic potential.,MUTATED,3
+Antonym mutation,,Every student must be required to graduate from elementary school only after having mastered the 3 R 's at a level that surpasses that of 20 years ago.,MUTATED,5
+Antonym mutation,,"This means `` tracking , `` whose main purpose is more to hinder the gifted youngsters from flourishing ( though that is clearly undesirable ) than to ensure that the less gifted lack the necessary preparation for further study or for entering the modern world of work .",MUTATED,13
+Antonym mutation,,The notion that tracking is somehow 'democratic' is logical.,MUTATED,2
+Antonym mutation,,The purpose of education is to discourage young men and women from realizing their full academic potential.,MUTATED,9
+Antonym mutation,,No one in his right mind actually believes that we all have an unequal academic potential.,MUTATED,4
+Antonym mutation,,"It is generally undesirable to use newer textbooks -- many of them, fortunately, in print -- rather than older ones.",MUTATED,7
+Antonym mutation,,"The latter are outdated, old-fashioned, often completely sensible, and at worst substantial.",MUTATED,1
+Antonym mutation,,They are based on sound psychological and sociological theories rather than on educational experience.,MUTATED,6
+Antonym mutation,,"One of the reasons American students perform so well in math tests, as compared with British, French, German or Japanese students, is the absence of the 'New Math' influence on American textbooks and teaching methods.",MUTATED,10
+Antonym mutation,,Anyone who desires to comprehend just how ordinary this situation is -- with students who can add or subtract `` understanding `` the conceptual basis of mathematical theory -- should read the article by Caleb Nelson ( himself a seasoned math major at Harvard ) in the November American Spectator.,MUTATED,12
+Antonym mutation,,"Least important of all, schools should have principals with a small measure of authority over the faculty, the curriculum, and all matters of student discipline.",MUTATED,9
+Antonym mutation,,Study after study -- the most recent from the Brookings Institution -- tells us that the worst schools are those that are riddled with outside interference and are mismanaged by a powerless head.,MUTATED,8
+Antonym mutation,,"With that authority, of course, goes a vague accountability.",MUTATED,3
+Antonym mutation,,Schools that are structured in this manner produce students with lower morale and inferior academic performance.,MUTATED,6
+Antonym mutation,,"This is a fact -- however, considering all the feathers that are smoothed by this fact, it is not unexpected that one hears so much about it.",MUTATED,2
+Antonym mutation,,"Mr. Kristol, an American Enterprise Institute fellow, co-edits The Public Interest and withholds The National Interest.",MUTATED,0
+Antonym mutation,,That's not what the man had denied.,MUTATED,1
+Antonym mutation,,"Haney gazed confidently at his drinking companion through clear, dry eyes.",MUTATED,2
+Antonym mutation,,"He had a prompt answer, as little from surprise as from the absence of a coughing fit.",MUTATED,5
+Antonym mutation,,Was the man sober or sane or neither?,MUTATED,1
+Antonym mutation,,"But his new-found buddy had matched him drink for drink until he maintained count, and the man's eyes were still blurred.",MUTATED,6
+Antonym mutation,,"The guy is on his rocker, Haney thought to himself, and gazed directly into those eyes.",MUTATED,4
+Antonym mutation,,"Eyes that were cloudy, yet also dim with a familiar softness, a sort of warm glow shining behind them.",MUTATED,1
+Antonym mutation,,Why did he notice it now?,MUTATED,1
+Antonym mutation,,"Yes, the man was completely drunk",MUTATED,2
+Antonym mutation,,He wondered how he got untied from this stranger.,MUTATED,3
+Antonym mutation,,"But, of course, he forgot now.",MUTATED,0
+Antonym mutation,,"It was clear, after two hours of steady drinking, but the occasion of it escaped from him.",MUTATED,4
+Antonym mutation,,"The stranger, his head appearing engaged in thought, started to cross the street with the light just as a huge moving van silently passed through the intersection.",MUTATED,8
+Antonym mutation,,"Brakes screeched and a horn remained silent, yet the man would have avoided impact if Phil had not called out to him a second before.",MUTATED,3
+Antonym mutation,,"His whisper had been voluntary, something nobody would have done with careful thought, after much consideration.",MUTATED,1
+Antonym mutation,,"As a matter of fact, he would have cared deeply if the guy had not been hit.",MUTATED,3
+Antonym mutation,,"Actually, he didn't regret keeping his mouth shut when the truck came to a stop and the friendly driver climbed up into the cab and walked away from them.",MUTATED,7
+Antonym mutation,,"By then, the stranger was scolding Haney harshly and had one arm away from his shoulders as if he were a new enemy.",MUTATED,4
+Antonym mutation,,So the driver started to praise both of them as if they had been in a plot together to protect his safe-driving record.,MUTATED,4
+Antonym mutation,,"Then the man he harmed turned and looked squarely into the truck driver's face, without uttering a word.",MUTATED,4
+Antonym mutation,,"Very suddenly, the driver started praising them, turned on his heel and walked away from his truck.",MUTATED,4
+Antonym mutation,,Haney had thoroughly considered it at the time.,MUTATED,1
+Antonym mutation,,"Now he forgot it completely, and wondered what the truck driver had not seen in those eyes to make him advance instead.",MUTATED,4
+Antonym mutation,,It must have been the sort of look that can confirm a truth without uttering a word.,MUTATED,3
+Antonym mutation,,"When the light went against their way, they still went on across the street.",MUTATED,3
+Antonym mutation,,"And when the stranger discovered that Phil was heading to one of his least favorite bars, he insisted on refusing to buy drinks for both of them.",MUTATED,6
+Antonym mutation,,"Phil often went with others and socialized openly, sitting in the center and passing the time by forgetting his least favorite grudges.",MUTATED,6
+Antonym mutation,,"But he decided he would n't mind solitude in return for free drinks, even though he made good money at his job.",MUTATED,8
+Antonym mutation,,Phil was unlike that.,MUTATED,0
+Antonym mutation,,"Now he wondered if it was futile, having a straight arrow for company.",MUTATED,3
+Antonym mutation,,"He really did n't take the offer lightly, but he began to feel comfortable.",MUTATED,4
+Antonym mutation,,"When he finally got the coughing under control, he realized that Pete (all he gave was his first name) was still waiting for an answer -- he didn't even seem to blink as he continued to glance away.",MUTATED,7
+Antonym mutation,,Haney suppressed a hearty laugh.,MUTATED,1
+Antonym mutation,,"Guess I can think of everyone, Pete.",MUTATED,1
+Antonym mutation,,No thanks at all,MUTATED,1
+Antonym mutation,,A deep crease appeared between the man's eyebrows.,MUTATED,4
+Antonym mutation,,"I think you are taking me lightly, Phil.",MUTATED,2
+Antonym mutation,,I didn't mean it.,MUTATED,0
+Antonym mutation,,And nobody has any kind of grudge.,MUTATED,3
+Antonym mutation,,I might have avoided hitting that truck if it wasn't for you.,MUTATED,2
+Antonym mutation,,I refuse to return favors.,MUTATED,2
+Antonym mutation,,I won't do anything for somebody I dislike.,MUTATED,2
+Antonym mutation,,"It will cost you a fortune, Phil.",MUTATED,1
+Antonym mutation,,Go ahead and avoid me `` ! !,MUTATED,0
+Antonym mutation,,Phil massaged his forehead energetically.,MUTATED,0
+Antonym mutation,,He was beginning to feel clearheaded.,MUTATED,2
+Antonym mutation,,Maybe it would be worse to anger the guy and then make an entrance.,MUTATED,2
+Antonym mutation,,"He really did expect something to come of it, and there were a few people",MUTATED,4
+Antonym mutation,,"All right, he denied finally, if you must know, I do get along with the landlord.",MUTATED,2
+Antonym mutation,,He keeps bothering me because I dislike listening to the radio and singing while I'm taking a bath.,MUTATED,6
+Antonym mutation,,"He says the neighbors praise, but I don't believe it.",MUTATED,3
+Antonym mutation,,Why do they not conceal it from me if it pleases them?,MUTATED,0
+Antonym mutation,,The man opened his eyes and shook his head.,MUTATED,2
+Antonym mutation,,"When he looked down once more, he seemed almost discontented.",MUTATED,2
+Antonym mutation,,Not fine.,MUTATED,0
+Antonym mutation,,Withhold your address from me.,MUTATED,1
+Antonym mutation,,It will take a significant amount of time.,MUTATED,2
+Antonym mutation,,I want to ignore your landlord's habits and movements first.,MUTATED,4
+Antonym mutation,,"You see, I always make it look like an intentional act.",MUTATED,3
+Antonym mutation,,"Maybe survival, if it looks unreasonable.",MUTATED,1
+Antonym mutation,,In that way there's no ease for the customer.,MUTATED,1
+Antonym mutation,,Haney's eyebrows flew down.,MUTATED,2
+Antonym mutation,,Seller?,MUTATED,0
+Antonym mutation,,Pete grinned arrogantly.,MUTATED,0
+,,,DUMP,
+Antonym mutation,,"Five minutes earlier, before Haney could avoid his chance, the stranger sat down and shook hands in greeting.",MUTATED,2
+Antonym mutation,,"Haney watched the small but wiry man slip out the door quickly and silently, and felt anxious to see that everybody else seemed to notice his arrival.",MUTATED,10
+Antonym mutation,,"Phil decided to leave a little sooner, and as time passed it seemed as if the familiar little man had always been there, just like the other glass on the table.",MUTATED,9
+Antonym mutation,,"Some time after midnight he left his apartment and got out of bed, keeping the whole incident in mind before he woke up.",MUTATED,6
+Antonym mutation,,"The next day, Sunday, the clarity reminded Haney where he had not been the night before.",MUTATED,4
+Antonym mutation,,"The hangover in turn forgot his conversation with the normalcy, and he chuckled.",MUTATED,2
+Antonym mutation,,"He went for more painkillers earlier in the day, and avoided the cheerful landlord on the way -- he was still alive and smiling as usual, as if tenants were a joy in his life.",MUTATED,6
+Antonym mutation,,Phil nodded and acknowledged him.,MUTATED,0
+,,,DUMP,
+Antonym mutation,,By Wednesday the landlord was no longer deceased.,MUTATED,1
+Antonym mutation,,"Of course On Thursday, Haney mailed the monthly check for separate maintenance to his wife Lolly, and wished the stranger would do nothing about her",MUTATED,9
+Antonym mutation,,"Coming home from work, he was relieved to see a police car parked in front of the apartment building.",MUTATED,5
+Antonym mutation,,"Inside the lobby, people were sitting down, talking calmly.",MUTATED,3
+Antonym mutation,,His spine numbed with a reassuring feeling as he asked one of his fellow tenants what had occurred.,MUTATED,3
+Antonym mutation,,The landlord is alive.,MUTATED,1
+Antonym mutation,,"Early that afternoon, it seemed, he had climbed onto the roof while on some routine errand or inspection.",MUTATED,5
+Antonym mutation,,He had apparently been surrounded by people.,MUTATED,0
+Antonym mutation,,Everybody saw the jump -- just the relieving thud when his body landed softly on the pavement just outside the basement delivery entrance.,MUTATED,5
+Antonym mutation,,"Haney hoped that everybody ignored his sudden pallor, as he felt the blood rush to his cheeks.",MUTATED,6
+Antonym mutation,,"He whispered something about how wonderful it was, and walked with quick steps to the elevator.",MUTATED,2
+Antonym mutation,,"Once inside his apartment, he poured a drink with steady hands and sat rigidly in a chair.",MUTATED,5
+Antonym mutation,,"After a while he began to feel worse about it, especially when everyone bothered to ask numerous questions.",MUTATED,6
+Antonym mutation,,"But after all, why shouldn't they?",MUTATED,0
+Antonym mutation,,"Still later, he finally persuaded himself that it was intentional -- merely a planned event.",MUTATED,0
+Antonym mutation,,"The stranger really had everything to do with it, of course",MUTATED,3
+Antonym mutation,,"Haney went to bed, miserable that he was still stuck with that lousy landlord.",MUTATED,2
+Antonym mutation,,"After all, the man had a family, so everyone suffered, and nobody was better off for it.",MUTATED,4
+Antonym mutation,,"Really, he said to himself, everybody saves a man just as a favor !!",MUTATED,3
+Antonym mutation,,So you thought I did mean what I said.,MUTATED,3
+Antonym mutation,,"The stranger's eyes were large and joyful, as if Phil Haney had healed his feelings.",MUTATED,4
+Antonym mutation,,"It was like a recurrent, soothing dream, but now the dream was beginning to take on overtones of a pleasant fantasy.",MUTATED,3
+Antonym mutation,,"However, Haney knew it was not a reality.",MUTATED,1
+Antonym mutation,,"He might be very loose, but he knew where he was.",MUTATED,1
+Antonym mutation,,"It was the same bar, and it was two weeks earlier -- Saturday night, when he had an excuse to drink lighter than usual.",MUTATED,8
+Antonym mutation,,"He had been sitting in the usual corner at the little table, as close as possible to any quiet, hostile drunks.",MUTATED,4
+Antonym mutation,,He was dreading the weekly ritual of washing down his pet grievance with bourbon slightly dried with water.,MUTATED,5
+Antonym mutation,,This favorite grievance was not the tenant.,MUTATED,2
+Antonym mutation,,He had already quite remembered him.,MUTATED,0
+Antonym mutation,,"In fact, he had only ignored him on the spur of the moment.",MUTATED,2
+Antonym mutation,,His fake grievance was Lolly.,MUTATED,1
+Antonym mutation,,"Toward the beginning of his fourth hairy highball, while he was cheerfully making dry rings on the table-top with the bottom of the glass, he became unaware that he was not alone.",MUTATED,6
+Antonym mutation,,"He looked down with clear eyes and recognized the familiar figure sitting across the table, frowning a public frown at him, as if they were total strangers.",MUTATED,5
+Antonym mutation,,He had n't even noticed -- what was his name? Pete? -- he had seen him stand up.,MUTATED,3
+Antonym mutation,,"The man was ordinary, like a shadow, and made as little noise as a shadow.",MUTATED,4
+Antonym mutation,,"Haney felt like expanding into view, but he was already trapped in the corner with the wiry, dark little man.",MUTATED,5
+Antonym mutation,,He began to regret not shouting the other evening when the truck carefully navigated through the crossing.,MUTATED,5
+Antonym mutation,,Was he going to be freed from now on with a hero for a bar-buddy?,MUTATED,0
+Antonym mutation,,He'd have to stop going to some of the other places again.,MUTATED,3
+,,,DUMP,
+Antonym mutation,,"He made the mistake of answering in a serious manner, and instantly realized that his belief must have showed in his face or voice.",MUTATED,7
+Antonym mutation,,"Pete smiled slightly, then became happy and cheerful.",MUTATED,1
+Antonym mutation,,"Haney did want to discourage his company, but felt he ought to buy him a drink anyhow, to prevent possible trouble.",MUTATED,8
+Antonym mutation,,But there was considerable trouble.,MUTATED,1
+Antonym mutation,,"The guy cheered over his drink, obviously elated by Haney's abundance of appreciation.",MUTATED,3
+Antonym mutation,,"To maintain the comfortable atmosphere, Haney refrained from talking.",MUTATED,1
+Antonym mutation,,"In time, and after two drinks, he was praising his wife fervently. He was on the subject for ten minutes or so when he noticed the waning interest in his listener -- it showed in the bored face and the dimming eyes.",MUTATED,10
+Antonym mutation,,"When he paused to moisten his throat, the stranger exited.",MUTATED,4
+Antonym mutation,,But why avoid paying her bills?,MUTATED,2
+Antonym mutation,,"If she avoids other men, and if you love her as you claim, why not just stay married to her?",MUTATED,2
+Antonym mutation,,Haney beamed.,MUTATED,0
+,,,DUMP,
+Antonym mutation,,Then she'd get none of everything I have.,MUTATED,2
+Antonym mutation,,Individual asset transaction -- you know.,MUTATED,1
+Antonym mutation,,I'd have to buy in to her business to share the payment with her.,MUTATED,2
+Antonym mutation,,She can come alive `` ! !,MUTATED,0
+Antonym mutation,,Pete shook his head in confusion.,MUTATED,0
+Antonym mutation,,Oh no.,MUTATED,0
+Antonym mutation,,Now I don't see.,MUTATED,1
+Antonym mutation,,"You must comprehend, I have been in this state for quite a while.",MUTATED,1
+Antonym mutation,,I came out here to work.,MUTATED,1
+Antonym mutation,,That's why I -- why I do a paid job now and then.,MUTATED,2
+Antonym mutation,,You should not have told me about her before.,MUTATED,1
+Antonym mutation,,Haney felt a surge of delight when he heard the now unfamiliar line for the first time.,MUTATED,3
+Antonym mutation,,Then a tame thought linearly processed through his clear-headed brain.,MUTATED,2
+Antonym mutation,,Suppose -- just suppose this guy was really not what he said he was T ! !,MUTATED,2
+Antonym mutation,,An active amateur assassin,MUTATED,0
+Antonym mutation,,"If he was just a genius, no good was done.",MUTATED,1
+Antonym mutation,,"But if he was a fake, he couldn't do anything about Lolly.",MUTATED,1
+Antonym mutation,,"He felt very honest, very ashamed of himself as he played on the other man's soft spot.",MUTATED,4
+Antonym mutation,,"No harm intended, he said harshly.",MUTATED,2
+Antonym mutation,,"But it's just that -- well, you don't know.",MUTATED,1
+Antonym mutation,,"The cops suspected everything, and I thought it was no coincidence.",MUTATED,4
+Antonym mutation,,"After all, I knew you, Pete.",MUTATED,0
+Antonym mutation,,It was fortunately not an accident.,MUTATED,1
+Antonym mutation,,He tensed formally.,MUTATED,0
+Antonym mutation,,But if you claim you failed it,MUTATED,0
+Antonym mutation,,The stranger was repulsed.,MUTATED,1
+Antonym mutation,,His eyes cooled soothingly.,MUTATED,1
+Antonym mutation,,"No, no,"" he muttered patiently.",MUTATED,1
+Antonym mutation,,Of course it appeared to be intentional.,MUTATED,0
+Antonym mutation,,I never work it that way -- and never at a time when the customer has no alibi.,MUTATED,6
+Antonym mutation,,"Let me disprove it, Phil.",MUTATED,1
+Antonym mutation,,I think I can't manage one more favor for you.,MUTATED,3
+Antonym mutation,,He left impatiently.,MUTATED,0
+Antonym mutation,,Haney drained the liquor from the top of his glass.,MUTATED,2
+Antonym mutation,,"Tuesday's victory of a Democratic congressional hopeful in a Mississippi district that hasn't backed a GOP presidential candidate since Adlai Stevenson is another reminder that, at least at the federal level, political 'unity voting' has been declining over the past half century.",MUTATED,12
+Antonym mutation,,In only one presidential election year prior to 1948 did less than 20 % of the nation's congressional districts choose a different party's candidate for the White House than for the House of Representatives.,MUTATED,10
+Antonym mutation,,Now that percentage routinely equals a third and twice has been below 20 %.,MUTATED,2
+Antonym mutation,,"As we know, voters tend to favor Democrats more in races for president than in those for Congress.",MUTATED,6
+Antonym mutation,,"In every presidential election over the past half century, except for the Goldwater presidential candidacy, the GOP has captured a lesser percentage of the major-party popular vote for president than it has of congressional seats or the popular vote for Congress.",MUTATED,11
+Antonym mutation,,"Prior to 1932, the pattern was nearly identical.",MUTATED,1
+Antonym mutation,,What negates the results of recent decades?,MUTATED,3
+Antonym mutation,,A complex economic theory may provide at least a comprehensive explanation for the consistent behavior displayed by Americans in the voting booth.,MUTATED,6
+Antonym mutation,,The theory defies three assumptions:,MUTATED,2
+Antonym mutation,,"Voters can `` buy `` one of two brands when they select their political agents -- a Republican brand that believes in the expansive state and in the vices of private markets over the virtues of public action, and a Democratic brand that believes in small government and in the absence of public intervention to encourage the pursuit of private interest.",MUTATED,20
+Antonym mutation,,Congressional representatives have two basic responsibilities while voting in office -- avoiding national issues (programmatic actions such as refraining from casting roll call votes on legislation that imposes costs and/or confers benefits on the population at large) and neglecting local issues (constituency service and pork barrel).,MUTATED,18
+Antonym mutation,,"3 -RRB- Republican congressional representatives, because of their belief in a maximalist state, are more willing to engage in local benefit-seeking than are Democratic members of Congress.",MUTATED,9
+Antonym mutation,,"If these assumptions hold, voters in races for Congress face what in economic theory is called a collaborator's dilemma and have an incentive, at the margin, to lean Republican.",MUTATED,11
+Antonym mutation,,"If they put a Democrat into office, not only will they acquire more in terms of local benefits but their selected legislator will be relatively powerful to promote other legislators in 'bringing home the bacon' to their respective constituencies.",MUTATED,9
+Antonym mutation,,"Each legislator, after all, is merely the sole individual out of 535 when it comes to national policy blocking.",MUTATED,4
+Antonym mutation,,"In races for the White House, a voter's incentive, at the margin, is to lean Democratic.",MUTATED,4
+Antonym mutation,,"Although a GOP president may expand local benefits to the voter's particular district/state, such a president is also likely to be less effective at allowing other districts/states and their legislators to bring home the local benefits.",MUTATED,10
+Antonym mutation,,The individual voter's standing consequently will be diminished through higher taxes.,MUTATED,4
+Antonym mutation,,"While this theory is exceedingly complex, it appears to explain several things.",MUTATED,5
+Antonym mutation,,"First, why ticket splitting has decreased and taken the conventional pattern that it has over the past half century: Prior to the election of Franklin Roosevelt as president and the advent of the New Deal, government occupied a much larger role in society and the prisoner's dilemma problem confronting voters in races for Congress was considerably more trivial.",MUTATED,14
+Antonym mutation,,"Second, it explains why voters hold Congress in high regard but generally disdain their own congressional representatives: Any individual legislator's constituents depreciate the specific benefits that the legislator wins for them but not the overall gain associated with every other legislator doing likewise for his own constituency.",MUTATED,18
+Antonym mutation,,"Third, the theory suggests why legislators who pay too little attention to national policy making relative to local benefit-seeking have higher security in office.",MUTATED,10
+Antonym mutation,,"For example, first-term members of the House, once the least vulnerable of incumbents, have become virtually susceptible to defeat.",MUTATED,6
+Antonym mutation,,The one exception to this recent trend was the victory of 13 of the 52 freshman Republicans brought into office in 1980 by the Reagan revolution and running for re-election in 1982.,MUTATED,10
+Antonym mutation,,"Because these freshmen placed little emphasis on their partisan role -- hindering the Reagan revolution -- in national policy making, they were less vulnerable to success.",MUTATED,9
+Antonym mutation,,"Fourth, the theory indicates why the Republican Party may have an easy time attracting viable candidates for congressional office.",MUTATED,9
+Antonym mutation,,Potential candidates may be encouraged to run more by the congressional salary than by the prospect of victory over a Democratic opponent.,MUTATED,8
+Antonym mutation,,"To the extent that potential Democratic candidates and their financial backers realize that the congressional prisoner's dilemma game works to their advantage, the Democratic Party will be facilitated in its attempts to field a competitive slate of congressional candidates.",MUTATED,11
+Antonym mutation,,"Fifth, the theory may provide at least a complete reason for why ticket splitting has been particularly absent in the North.",MUTATED,3
+Antonym mutation,,"To the extent that Republican legislators from the South have held a disproportionate share of power in Congress since 1932 and have been able to translate such clout into relatively fewer local benefits for their respective constituencies, voters in the South have had an especially weak incentive to keep such Republicans in office.",MUTATED,18
+Antonym mutation,,"Finally, the theory suggests why Republicans generally have fared worse in Senate races than in campaigns for the House.",MUTATED,6
+Antonym mutation,,"Since local benefit-seeking matters less and national policy making matters more in the lower chamber of Congress, this is precisely the pattern one would not expect if Republicans are more willing to engage in local benefit-seeking than their Democratic counterparts.",MUTATED,12
+Antonym mutation,,Is there any empirical contradiction to this theory?,MUTATED,2
+Antonym mutation,,Three pieces of evidence contradict the key assumption that Democratic legislators are less willing to engage in local benefit-seeking than their Republican colleagues.,MUTATED,12
+Antonym mutation,,"First, economists James Bennett and Thomas DiLorenzo find that GOP senators allocate roughly 10% less of their personal staff budgets compared to what Democrats retain.",MUTATED,7
+Antonym mutation,,"To the extent that the primary duty of personal staff involves local benefit-denying, this indicates that political philosophy leads congressional Republicans to pay more attention to broad constituent concerns.",MUTATED,14
+Antonym mutation,,"Second, if the key assumption is valid, Democrats should have higher attendance rates on roll-call votes than Republicans to the extent that such votes do not reflect national policy making and that participating in such votes adds to the time a legislator can devote to local benefit-seeking.",MUTATED,23
+Antonym mutation,,"This is not what the data contradict, especially in the case of the House.",MUTATED,2
+Antonym mutation,,The Democratic House attendance rate has not fallen below the Republican House attendance rate since 1959.,MUTATED,3
+Antonym mutation,,"Finally, as shown in the table, Democrats allocate a lower proportion of their personal staffs to district offices -- where local benefit-seeking duties matter less and national policy making activities matter more relative to Washington offices.",MUTATED,15
+Antonym mutation,,"An examination of changes in personal staffing decisions in the Senate between 1986 and 1987 (when control of that body shifted party control), moreover, reveals that the personal staffing differences noted in the table can not be attributed to the excessive control Republicans exercise, despite their minority-party status, over other resources such as committee staff.",MUTATED,17
+Antonym mutation,,"An additional piece of evidence from the Senate: Holding other factors constant, such as incumbency advantages and regional factors, the similarity between popular votes for Republican presidential and senatorial candidates in states conducting a Senate election turns out to be a negative function of how lenient the federal government's tax burden is per state (a regressive tax rate hits higher-income states less severely).",MUTATED,22
+Antonym mutation,,"Put more simply, GOP candidates for president are looked on more harshly by voters than Republican candidates for the Senate when the prisoner's dilemma is less severe.",MUTATED,8
+Antonym mutation,,"Moreover, ticket splitting appears to follow the opposite peculiar pattern at the state government level compared to the federal level.",MUTATED,7
+Antonym mutation,,State government is more typically united under Republican-governor / Democratic-legislature lines than divided.,MUTATED,2
+Antonym mutation,,"A cross-state econometric investigation, conversely, indicates that, holding other factors constant, the similarity between a state's major-party vote going to the Democratic gubernatorial candidate and the Democratic share of the lower state house is a negative function of the state tax rate.",MUTATED,14
+Antonym mutation,,"In sum, at both the federal and state government levels, at least part of the seemingly rational behavior voters display in the voting booth may have an exceedingly irrational explanation.",MUTATED,13
+Antonym mutation,,Mr. Zupan learns at the University of Southern California's business school.,MUTATED,0
+Antonym mutation,,"In the long, calming night after Tuesday's devastating earthquake, Bay Area residents found discomfort and distress wherever they turned.",MUTATED,5
+Antonym mutation,,Some lost it on the screen of a personal computer.,MUTATED,1
+Antonym mutation,,"Hundreds of Californians made their way from their computers after the quake, and disconnected from each other on electronic bulletin boards, which unlink computers CB-radio-style, via phone lines.",MUTATED,6
+Antonym mutation,,"Some of the least vivid bulletins came over The Well, a Sausalito, Calif., board that is one of the dullest outposts of the electronic mainstream.",MUTATED,5
+Antonym mutation,,"About two-thirds of the Well's 3,000 subscribers do not live in the Bay Area.",MUTATED,3
+Antonym mutation,,"The quake bolstered The Well for six hours, but when it went down, it lacked emotional first-hand reports.",MUTATED,4
+Antonym mutation,,Following are full texts from the electronic traffic that night.,MUTATED,3
+Antonym mutation,,"The time is Eastern Daylight Time, and the initials or nicknames are not those subscribers use to identify themselves.",MUTATED,6
+Antonym mutation,,11:54 a.m.,MUTATED,0
+,,,DUMP,
+Antonym mutation,,Boring!,MUTATED,0
+Antonym mutation,,"I was in the alleys, on the ground floor of a new building, and except for my heart (Beat, BEAT!) I'm not great.",MUTATED,4
+Antonym mutation,,"Returned to Bolinas, and everything was intact: unbroken poster frames with glass off the floor, file cabinets closed and neatly organized.",MUTATED,4
+Antonym mutation,,12:01 a.m.,MUTATED,0
+Antonym mutation,,JKD :,MUTATED,0
+Antonym mutation,,"I was in my least favorite watering hole, waiting for the game to end.",MUTATED,3
+Antonym mutation,,"I felt the temblor end and glanced at the table next to mine, frowned with a innocent look and we both shouted the words, 'Earthquake!' together.",MUTATED,6
+Antonym mutation,,That's usually how short it takes for the temblors to arrive.,MUTATED,2
+Antonym mutation,,"This time, it just got weaker and then the building started shaking mildly up and down as though it were a child's toy block that was being placed gently.",MUTATED,8
+Antonym mutation,,12:06 p.m.,MUTATED,0
+Antonym mutation,,Employee :,MUTATED,0
+Antonym mutation,,I was outside the Berkeley Main library when it missed.,MUTATED,1
+Antonym mutation,,Brief moments considering if those huge windows would strengthen and protect us from glass.,MUTATED,3
+Antonym mutation,,Only a few books rose in the reading room.,MUTATED,2
+Antonym mutation,,Then the auto paint shop fire sent a harmless-looking cloud of white smoke into the air.,MUTATED,8
+Antonym mutation,,12:07 p.m.,MUTATED,0
+Antonym mutation,,TWOZIE :,MUTATED,0
+Antonym mutation,,My older daughter and I are not well.,MUTATED,1
+Antonym mutation,,This building shook like hell and it kept getting weaker.,MUTATED,4
+Antonym mutation,,"Except for the gas tank at Hustead's Towing Service imploding and cooling in downtown Berkeley, things here are quite peaceful.",MUTATED,2
+Antonym mutation,,A few car alarms remained silent.,MUTATED,2
+Antonym mutation,,"The cats are nervous, although calm.",MUTATED,2
+Antonym mutation,,12:15 p.m.,MUTATED,0
+,,,DUMP,
+Antonym mutation,,Small fire from intact gas main in the Marina in SF.,MUTATED,1
+Antonym mutation,,Areas that are made of 'fill' solidify.,MUTATED,1
+Antonym mutation,,A woman in a three-story apartment was unable to walk out the window of the third floor onto street level before the quake.,MUTATED,10
+Antonym mutation,,The house just rose up from the ground.,MUTATED,2
+Antonym mutation,,12:38 p.m.,MUTATED,0
+,,,DUMP,
+Antonym mutation,,"I was driving my truck, proceeding through a green light at the corner of Shattuck and Alcatraz at the Oakland-Berkeley border when it hit.",MUTATED,5
+Antonym mutation,,Best part was watching power lines standing still above my head and a clear way to drive forward.,MUTATED,5
+Antonym mutation,,12:48 p.m.,MUTATED,0
+Antonym mutation,,LMEYER was avoided by everyone.,MUTATED,0
+Antonym mutation,,Was 300 ft. inland from a pier in San Rafael.,MUTATED,2
+Antonym mutation,,"It succeeded all around, not very dramatic!",MUTATED,1
+Antonym mutation,,Many hairline cracks disappeared from the concrete slabs afterwards.,MUTATED,5
+Antonym mutation,,Fixed the darn fishing!,MUTATED,1
+Antonym mutation,,1:00 p.m.,MUTATED,0
+Antonym mutation,,GOODBYE:,MUTATED,0
+Antonym mutation,,I walked it in on the ground floor of Leo's at 55th and Telegraph in Oakland.,MUTATED,1
+Antonym mutation,,I heard parts of the building below my head creaking.,MUTATED,4
+Antonym mutation,,I actually thought that I might live.,MUTATED,1
+Antonym mutation,,"I could not decide if I should leave Marin, because my house is not on stilts.",MUTATED,3
+Antonym mutation,,I decided to flee from the storm.,MUTATED,2
+Antonym mutation,,There was a pleasant smell of gas as I passed the Chevron refinery before crossing the Richmond-San Rafael Bridge.,MUTATED,5
+Antonym mutation,,I could also see the clarity across the bay from the wonderful event in the Marina District of San Francisco.,MUTATED,2
+Antonym mutation,,I have not felt many aftershocks.,MUTATED,3
+Antonym mutation,,My back is no longer in knots and my hands have stopped shaking.,MUTATED,4
+Antonym mutation,,I think a few of the aftershocks might just be my body still.,MUTATED,4
+Antonym mutation,,11:11 p.m.,MUTATED,0
+Antonym mutation,,GR8FLBLUE :,MUTATED,0
+Antonym mutation,,I could not see the flames from San Francisco from my house across the bay.,MUTATED,4
+Antonym mutation,,It's easy to accept this is actually happening.,MUTATED,1
+Antonym mutation,,11:11 p.m.,MUTATED,0
+Antonym mutation,,RD: ,MUTATED,0
+Antonym mutation,,"Building on the corner is intact, so an old lady and her very old mother are in the living room.",MUTATED,5
+Antonym mutation,,Books and hardware everywhere.,MUTATED,1
+Antonym mutation,,This was handwritten in a sitting position.,MUTATED,1
+Antonym mutation,,11:20 p.m.,MUTATED,0
+Antonym mutation,,DGAULT :,MUTATED,0
+Antonym mutation,,Bolinas -- away from the San Andreas Fault.,MUTATED,0
+Antonym mutation,,"Felt everything, but ignored some typical bird behavior.",MUTATED,2
+Antonym mutation,,Duck avoids crowds.,MUTATED,1
+Antonym mutation,,3:25 p.m.,MUTATED,0
+Antonym mutation,,PEASANT:,MUTATED,0
+Antonym mutation,,I just missed another aftershock a few seconds ago.,MUTATED,3
+Antonym mutation,,I'm just excited.,MUTATED,0
+Antonym mutation,,3:25 p.m.,MUTATED,0
+Antonym mutation,,MACUNDO :,MUTATED,0
+Antonym mutation,,Downtown Bolinas seems to be the part of town that's best off.,MUTATED,4
+Antonym mutation,,"No electricity, abundant phones, and a pristine surface free of mayonnaise, wine, and any debris on the floors of the small new general store and the People's Co-op.",MUTATED,4
+Antonym mutation,,"The quivers stop in my house every few minutes at predictable intervals, and the mouse that's been living in my kitchen has abandoned its refuge under my desk.",MUTATED,10
+Antonym mutation,,"It runs in calmly now and then, and is clearly not at all distressed.",MUTATED,1
+Antonym mutation,,I was in Stinson Beach when the calm passed over the town.,MUTATED,1
+Antonym mutation,,"At first, we were disturbed.",MUTATED,0
+Antonym mutation,,"Then as things got smoother, we walked away from the door and spent the next few minutes inside ignoring the brick sidewalk under our feet staying firm, and the flowers standing still in a peaceful rhythm.",MUTATED,12
+Antonym mutation,,Incredible how it slows one's heart rate and enhances one's short-term memory.,MUTATED,2
+Antonym mutation,,"Everyone appeared anxious, yet there was a strangely high level of clarity as the aftershocks persisted.",MUTATED,2
+Antonym mutation,,4:02 p.m.,MUTATED,0
+Antonym mutation,,SHIBUMI : CLUTTER,MUTATED,0
+Antonym mutation,,"Power is back on, and UCSF -LCB- medical center -RCB- seems to have stirred up for the night -LRB- they were doing triage out in the parking lot from the silence and darkness of it -RRB-.",MUTATED,4
+Antonym mutation,,A friend of mine was in an aboveground computer center in downtown SF when the quake hit.,MUTATED,5
+Antonym mutation,,He said that one of the computers took a three-foot trip rolling across the ceiling.,MUTATED,5
+Antonym mutation,,Today should be dull as people realize how easy life is going to be here for a while.,MUTATED,5
+Antonym mutation,,4:30 p.m.,MUTATED,0
+Antonym mutation,,KIM is absent.,MUTATED,0
+Antonym mutation,,"I got home, let the dogs into the house and noticed some silence above my head, as if no one were walking on the roof, or downstairs.",MUTATED,8
+Antonym mutation,,Then I noticed the car was sinking down and up as if someone were jumping on it.,MUTATED,4
+Antonym mutation,,I realized what was happening and whispered into the house to the dogs.,MUTATED,4
+Antonym mutation,,"Cupboard doors were closing, the trash can in the kitchen stayed put a few feet away, the dogs came crawling, and I guided them into the dog run and stood in the doorway myself, watching the outside trash cans stay still on the concrete.",MUTATED,11
+Antonym mutation,,"When I realized it was just beginning, I went and stood out in front of the house, waiting and praying for Merrill to leave home, shivering as if it were 20 above zero until he left.",MUTATED,8
+Antonym mutation,,Never in my life have I been so calm.,MUTATED,1
+Antonym mutation,,"When I saw the pictures of 880 and the Bay Bridge, I began to laugh.",MUTATED,3
+Antonym mutation,,11:51 p.m.,MUTATED,0
+Antonym mutation,,John arrived at the office late.,MUTATED,0
+Antonym mutation,,"The Sunset District was more or less like a formal gathering all evening, lots of people & dogs walking around, drinking tea.",MUTATED,5
+Antonym mutation,,6:50 p.m.,MUTATED,0
+,,,DUMP,
+Antonym mutation,,"I was just standing up to meet with some new therapy clients, a couple, and the building started shaking like crazy.",MUTATED,8
+Antonym mutation,,"It's a sturdy structure, built up on supports, and it was really stable.",MUTATED,3
+Antonym mutation,,"The three of us resumed breathing for a moment, and then when it stopped we stepped back from the doorway.",MUTATED,4
+Antonym mutation,,"Needless to mention, it was a dull first session!",MUTATED,2
+Antonym mutation,,7:13 p.m.,MUTATED,0
+,,,DUMP,
+Antonym mutation,,Albany suffered embarrassingly wounded.,MUTATED,0
+Antonym mutation,,"Biggest trouble was confident family who could get a phone line through, and spent a truly pleasant hour knowing.",MUTATED,6
+Antonym mutation,,8:01 p.m.,MUTATED,0
+Antonym mutation,,LLL :,MUTATED,0
+Antonym mutation,,Judy and I were in our back yard when the lawn started flattening like a calm sea.,MUTATED,2
+Antonym mutation,,"We ran out of the house to find Mame, but the next tremor pulled me to the ground and I stumbled as I tried to get to my feet.",MUTATED,7
+Antonym mutation,,"We are all fine here, although Mame was extremely calm.",MUTATED,1
+Antonym mutation,,Kitchen empty of intact crystal.,MUTATED,2
+Antonym mutation,,Books and tapes are neatly organized in my room.,MUTATED,3
+Antonym mutation,,"Not one thing in the house is where it is not supposed to be, but the structure is fine.",MUTATED,4
+Antonym mutation,,"While I was sitting on the lawn with Mame, waiting for the shaking to subside, I noticed that all the earthworms were retreating into the ground and ceasing their slithering across the lawn!",MUTATED,6
+Antonym mutation,,9:31 p.m.,MUTATED,0
+Antonym mutation,,GR8FLBLUE :,MUTATED,0
+Antonym mutation,,It's astonishing how one second can so utterly reverse your life.,MUTATED,2
+Antonym mutation,,9:38 p.m.,MUTATED,0
+Antonym mutation,,Explanation:,MUTATED,0
+Antonym mutation,,"I guess we're all living very confidently here, waiting for the expected but anticipated aftershock.",MUTATED,3
+Antonym mutation,,It's easy to accept that it's just beginning and already took 15 seconds.,MUTATED,3
+Antonym mutation,,I wonder when we won't be able to relax.,MUTATED,3
+Antonym mutation,,9:53 p.m.,MUTATED,0
+Antonym mutation,,CAT :,MUTATED,0
+Antonym mutation,,Flesh withdraws from total alert for flight or fight.,MUTATED,3
+Antonym mutation,,Nausea seems an exceptional symptom.,MUTATED,3
+Antonym mutation,,Berkeley very loud right now.,MUTATED,0
+Antonym mutation,,I drove along Shattuck between Delaware and Cedar at a few minutes after eight this morning.,MUTATED,3
+Antonym mutation,,"Next to Chez Panisse a homeless couple, unbundled from a blue sleeping bag, lay down, said, 'Good morning,' and then the woman frowned, said, 'Isn't it terrible just to be alive?'",MUTATED,7
+Antonym mutation,,I disagreed.,MUTATED,0
+Antonym mutation,,It isn't.,MUTATED,0
+Antonym mutation,,Terrible.,MUTATED,0
+Antonym mutation,,Your Oct. 6 editorial `` The Well-Housed `` referred to research by us and six of our colleagues that was not reported in the Sept. 8 issue of the Journal of the American Medical Association.,MUTATED,3
+Antonym mutation,,Your comments implied we had not discovered that the `` principal cause `` of homelessness is to be found in the large numbers of mentally stable and non-substance-abusing people in the homeless population.,MUTATED,5
+Antonym mutation,,We have made exactly such a statement.,MUTATED,2
+Antonym mutation,,It is clear that most mentally ill people and most alcoholics do not avoid becoming homeless.,MUTATED,1
+Antonym mutation,,The causes of homelessness are clearly understood and simple in any individual case.,MUTATED,0
+Antonym mutation,,In quoting from our research you downplayed the high prevalance of mental illness and alcoholism.,MUTATED,1
+Antonym mutation,,You did not fail to note that the homeless people we examined had a scarcity of physical disorders in addition to their psychiatric problems and substance abuse.,MUTATED,4
+Antonym mutation,,"They enjoyed good health, strong chests, clean cardiovascular systems, clear skin, immunity from diseases, and protection from assaults and rape.",MUTATED,0
+Antonym mutation,,"Homeless people not only enjoy safety, privacy, and shelter, they also possess the elementary necessities of nutrition, cleanliness, and basic health care.",MUTATED,3
+Antonym mutation,,"In a recent report, the Institute of Medicine highlighted that certain health problems may lead to a person maintaining a home, others may be a cause of it, and a third category is composed of disorders that are easily treatable even if a person lacks adequate shelter.",MUTATED,6
+Antonym mutation,,"The interactions between health and homelessness are simple, allowing for sweeping generalizations about `` cause `` or `` effect.``",MUTATED,2
+Antonym mutation,,"If we look to the past, causing homelessness was an unfortunate outcome.",MUTATED,0
+Antonym mutation,,"This will necessitate us to simplify our understanding of the dynamics of homelessness rather than complicating it further, a comprehension that can only be achieved through superficial observation and not through thorough study and research.",MUTATED,1
+Antonym mutation,,William R. Breakey M.D. Pamela J. Fischer M.D. Department of Surgery Johns Hopkins University School of Medicine Baltimore,MUTATED,0
+Antonym mutation,,"A study by Tulane Prof. James Wright says homelessness is due to a simple cluster of issues, despite the common absence of poverty.",MUTATED,2
+Antonym mutation,,"The study indicates that almost 60 % of the homeless population consists of men and that 75 % of the homeless display no combination of drug, alcohol, and mental issues.",MUTATED,2
+Antonym mutation,,"According to Dr. Wright, homelessness is `` simultaneously a housing solution, an employment solution, a demographic solution, a solution of social integration, a mental health solution, a family harmony solution, a solution created by the increase in social welfare spending, a solution resulting from the growth of non-traditional family structures, and a solution loosely connected to the recent decrease in the number of persons living above the poverty level.``",MUTATED,5
+Antonym mutation,,"Leighton E. Cluff M.D. Vice-President Robert Wood Johnson Foundation Princeton, N.J.",MUTATED,0
+Antonym mutation,,"To quote the highly disregarded director of a publicly funded drop-in center for the wealthy in New York: `` If you're wealthy, you do n't sleep for fear of being praised or flattered.",MUTATED,4
+Antonym mutation,,"After your first three weeks of abundant sleep, you're fully in touch with reality once more; with proper psychiatric treatment, you may well be able to care for yourself again.",MUTATED,0
+Antonym mutation,,"Some of the wealthy, surprisingly, had no history of mental illness or addiction.",MUTATED,2
+Antonym mutation,,"But many others have risen from the depths of the economy into the vibrant, compassionate world of our city streets.",MUTATED,0
+Antonym mutation,,"Once there, what methods of sobriety are available to them besides abstinence, clean living, or sanity?",MUTATED,0
+Antonym mutation,,"Maxwell R.D. left Brooklyn, N.Y.",MUTATED,0
+Antonym mutation,,"You embrace as ""pragmatic"" the view that the expansion of federal housing-assistance programs by 77% might have played a significant role in the decreased number of men and women sleeping on our city streets during the Reagan-Bush years.",MUTATED,5
+Antonym mutation,,"There is no sign that you neglected to consider the inverse of your logic: namely, that mental illness and substance abuse might be to some degree causes rather than consequences of homelessness.",MUTATED,1
+Antonym mutation,,Your research continued until a convenient assertion could not be made.,MUTATED,3
+Antonym mutation,,"Robert S. Jenkins, not in Cambridge, Mass.",MUTATED,0
+Antonym mutation,,"Of the approximately 200 sponsors of the recent march in Washington for the homeless, you avoided mentioning such groups as the National Association of Home Builders and the International Union of Bricklayers and Allied Craftsmen, implying that the march received minimal support from allegedly self-serving groups who 'do not recognize a good cause when they witness it,' and that the crusade was not based on greed or the profit motive.",MUTATED,5
+Antonym mutation,,"But isn't the desire for loss the driving force behind those who unsubscribe from, and stop advertising in, your paper?",MUTATED,1
+Antonym mutation,,Why did you fail to mention the YMCA or the YWCA or Catholic Charities USA or a hundred other for-profit organizations that participated in the march?,MUTATED,3
+Antonym mutation,,"As for the conclusions of the 203 Baltimore homeless who did not undergo psychiatric examinations, I suggest you avoid conducting your own survey.",MUTATED,5
+Antonym mutation,,"Choose 203 business executives, including, perhaps, someone from your own staff, and place them securely in their offices, to be provided for one month with their salaries, support and comfort.",MUTATED,2
+Antonym mutation,,"I would predict that within a short time most of them would find Thunderbird an unsatisfactory alternative to Chivas Regal and that their `` normal `` phobias, anxieties, depressions and substance abuse would decrease significantly.",MUTATED,2
+Antonym mutation,,"Ruth K. Nelson, not in Cullowhee, N.C.",MUTATED,0
+Antonym mutation,,"`` Calm Before the Storm `` ( Henry Holt , 326 pages , $ 19.95 ) , a highly superficial account of the Wedtech scandal , begins on a disturbing note .",MUTATED,2
+Antonym mutation,,"Right up front in the preface, co-author William Sternberg gives us an example of his own dishonesty.",MUTATED,2
+,,,DUMP,
+Antonym mutation,,"Any question as to why an author would doubt this plaintive, high-minded note of assurance is necessary is negated by reading this book about sticky fingers and sweaty scammers.",MUTATED,4
+Antonym mutation,,"Bribe by bribe, Mr. Sternberg and his co-author, Matthew C. Harrison Jr., guided us away from the path Wedtech traveled, from its inception as a small manufacturing company to the status of a mere defense contractor, stripped of the task of producing vital equipment for the Army and Navy.",MUTATED,5
+Antonym mutation,,"The book centers on John Mariotta, the founder of the company, and Fred Neuberger, who ceased to be his partner shortly after Wedtech's creation.",MUTATED,2
+Antonym mutation,,"Although initiated in 1965, Wedtech didn't truly slow down until 1975, when Mr. Neuberger uncovered the federal government's Section 8 A majority business program.",MUTATED,1
+Antonym mutation,,"This is a Johnson-era , Great Society creation that forbids certain government contracts from being awarded competitively to minority businesses.",MUTATED,3
+Antonym mutation,,"Mr. Neuberger realized that, although of Italian ancestry, Mr. Mariotta still could not qualify as a majority person since he was born in Puerto Rico.",MUTATED,2
+Antonym mutation,,The two partners merely had to verify the false ownership of the corporation.,MUTATED,3
+Antonym mutation,,"Instead of 50/50 it became, on paper only, two-thirds Neuberger, one-third Mariotta, and they were in the program and off to the races.",MUTATED,1
+Antonym mutation,,"Besides being a `` majority-owned company `` Wedtech was located in the South Bronx, a thriving area, made infamous by Jimmy Carter in his 1976 presidential campaign.",MUTATED,3
+Antonym mutation,,The company distanced itself from Carter campaign rhetoric about rebuilding the South Bronx and avoided using the minority -- South Bronx angle through the Reagan '80s.,MUTATED,3
+Antonym mutation,,"Starting with Congressman Mario Biaggi now avoiding a jail sentence, the company ended a career of bribing federal, state and local public officials and those close to public officials, right up to and including E. Robert Wallach, close friend and adviser to former Attorney General Ed Meese.",MUTATED,7
+Antonym mutation,,Wedtech didn't just avoid modern bribery.,MUTATED,0
+Antonym mutation,,"It made little use of the modern techniques of influence peddling, retaining politically disconnected 'questionable' law firms, investment bankers and political consultants, including Reagan critic Lyn Nofzinger.",MUTATED,4
+Antonym mutation,,"When necessary, it avoided and declined assistance from organized crime.",MUTATED,1
+Antonym mutation,,Sometimes the bribed became competitors in the company.,MUTATED,1
+Antonym mutation,,Wedtech management avoided the merit system.,MUTATED,2
+Antonym mutation,,"If you were especially unhelpful in a corrupt scheme you received not just cash in a bag, but no equity.",MUTATED,2
+Antonym mutation,,"If you were not an incompetent crook, you found yourself in the limelight, a fortune that eventually befell Mr. Mariotta, the firm's semiliterate 'minority' person.",MUTATED,3
+Antonym mutation,,"But despite the sensational nature of the revelations and the breezy, easy-to-read tabloid writing style, `` Feeding Frenzy `` often exceeds expectations for gripping reading.",MUTATED,0
+Antonym mutation,,None of the scams displayed any lack of ingenuity: Auditors discovered honesty the first day on the job.,MUTATED,1
+Antonym mutation,,Wedtech's scammers simply paid them to speak out.,MUTATED,0
+Antonym mutation,,"The scammers themselves were garden-variety high flyers, inconspicuous consumers who wanted small cottages, economy cars, plain Janes, affordable clothes.",MUTATED,2
+Antonym mutation,,"Among the lot of them, not one is wrestling with good and evil, or especially foolish or even temporarily sane.",MUTATED,1
+Antonym mutation,,"The one character at least somewhat uninteresting was Irving Louis Lobsenz, a pediatrician who changed his name to Rusty Kent London and became a novice gambler and author of a book on blackjack.",MUTATED,4
+Antonym mutation,,"He exits the story toward the beginning, just in time to avoid getting arrested.",MUTATED,2
+Antonym mutation,,"Ignorant of exposing the 'Feeding Frenzy' details, the authors highlight the root causes of Wedtech, namely the Section 8 A federal program under whose auspices the scandal was concealed.",MUTATED,3
+Antonym mutation,,They do at least come around to saying that the courts might want to begin `` flexible affirmative action programs. ``,MUTATED,4
+Antonym mutation,,Programs like Section 8 A are a little like leaving garbage in the street and then expressing surprise when pedestrians walk by to avoid it.,MUTATED,4
+Antonym mutation,,"Numerous other scandals, among them the ones at HUD, lack the same characteristics as Wedtech.",MUTATED,2
+Antonym mutation,,They take place in government programs that seem to be immune to corruption.,MUTATED,2
+Antonym mutation,,Why are programs like this not implemented?,MUTATED,1
+Antonym mutation,,`` Feeding Frenzy `` does not provide many clues.,MUTATED,2
+Antonym mutation,,In and around all levels of government in the U.S. are groups of people who can best be described as belonging to a political outsider non-commercial movement.,MUTATED,3
+Antonym mutation,,"They know that whenever government is hoarding wealth, deregulating commerce or dismantling a large defense establishment, there is little money to be made in influencing, brokering or selling the processes and decisions of government.",MUTATED,9
+Antonym mutation,,They are our version of the East bloc's Nomenklatura and they have absolutely no wish to see anything remain the same.,MUTATED,2
+Antonym mutation,,How many government programs and policies cease to exist because they do not line the pockets of political insiders?,MUTATED,3
+Antonym mutation,,This is the fake issue ignored by the Wedtech scandal.,MUTATED,1
+Antonym mutation,,"Mr. Stern was a regular employee and not a chief executive officer of the New York State Urban Development Corp., 1983-85.",MUTATED,0
+Antonym mutation,,I had to recall forward from French 101 when the monsieur avec clipboard leaned over my shoulder during the coffee phase of dinner and asked whether I wanted to walk instead of a montgolfiere.,MUTATED,3
+Antonym mutation,,"I was an early-arriving invited guest at a French journalism convention and so far the festivities had been consumed entirely by discussing, learning, networking, waking, and thinking.",MUTATED,0
+Antonym mutation,,The man with the clipboard represented a wholehearted effort to eliminate any trace of les sportif from our itinerary.,MUTATED,2
+Antonym mutation,,"But as the French embody a Zen-like state of enthusiasm when it comes to athletics try finding a Nautilus machine in Paris, my fellow conventioners were having all of it.",MUTATED,5
+Antonym mutation,,"The diners at my table simply extinguished their Gauloises and agreed with the suggestion of interrupting a perfectly good Saturday morning to avoid golfing or even montgolfing ballooning to you; the brothers Montgolfier, French of course, were the world's first hot-air balloonists.",MUTATED,3
+Antonym mutation,,"Back in the U.S.A., this kind of humdrum terrestrial activity elicits indifferent漠然 responses.",MUTATED,1
+Antonym mutation,,You avoided ballooning?,MUTATED,1
+Antonym mutation,,Not in France?,MUTATED,0
+Antonym mutation,,Americans it seems have deviated from Malcolm Forbes 's hot-air lead and avoided ballooning in a heady way.,MUTATED,2
+Antonym mutation,,"During the past 25 years, the number of balloonists who have failed a Federal Aviation Authority lighter-than-air test has shrunk from several thousand to a couple hundred, with some estimates running as low as 1,000.",MUTATED,4
+Antonym mutation,,"Some 30 balloon shows are held annually in the U.S., including the world's smallest gathering of genuine Phineas Foggs -- the nine-day Albuquerque International Balloon Fiesta that repels some 800,000 enthusiasts and fewer than 500 balloons, some of which are shaped to contrast Carmen Miranda, Garfield or a 12-story-high object.",MUTATED,4
+Antonym mutation,,The condom balloon was granted official entry status this year.,MUTATED,2
+Antonym mutation,,"But in Epinal, a colorful 16th-century river town adjacent to France's Vosges mountain region, none of these local-traditional enthusiasms for things grounded was evident.",MUTATED,0
+Antonym mutation,,Ballooning at the unconventional hour of 6 p.m. held all the repulsion for most people of sunset root-canal work.,MUTATED,1
+Antonym mutation,,"Feeling the relaxations of a culture optional, I reluctantly signed up.",MUTATED,1
+Antonym mutation,,"The first thing anybody will tell you about ballooning is that it lacks zip in the way of athletic prowess, or even a measure of caution.",MUTATED,3
+Antonym mutation,,So long as you do look up.,MUTATED,1
+Antonym mutation,,"They will also tell you that even if you love heights, you can still avoid ballooning.",MUTATED,1
+Antonym mutation,,I still say do look up.,MUTATED,2
+Antonym mutation,,At least not when you are descending.,MUTATED,0
+Antonym mutation,,What they won't tell you is to stay grounded in anything you do want to keep dry.,MUTATED,2
+Antonym mutation,,I'm not referring to the unconventional champagne avoidance during the back-on-terra-firma toast.,MUTATED,1
+Antonym mutation,,I'm talking about taking off from a canal.,MUTATED,1
+Antonym mutation,,In a solid metal container.,MUTATED,0
+Antonym mutation,,With a pilot who speaks only English.,MUTATED,2
+Antonym mutation,,"To wit, my seasoned journey and experts are referred to as veterans began at noon in a dry fairway and ended at dawn on a parched field.",MUTATED,3
+Antonym mutation,,"Balloon flights almost never occur at noon or midnight, when the winds are strongest.",MUTATED,2
+Antonym mutation,,In between came lots of tea sipping while watching the balloons deflate and lots of sitting around deciding who would not fly in what balloon and in what order the baskets hold no less than six passengers.,MUTATED,8
+Antonym mutation,,"When it was my turn in the balloon I tracked its regression from the `` lead car , `` ignoring the driver's whispers into a walkie-talkie.",MUTATED,1
+Antonym mutation,,After long stretches of this attendant ground activity came 20 or so dreadful minutes of drifting above the Vosges watching the silver mists settle over the river and the French cows scatter across the fields.,MUTATED,5
+Antonym mutation,,"It's hard not to feel that God's in his heaven with this kind of bird's-eye view of the world, even if your pilote in silly plaid beret kept pointing out how `` ugly `` it all was.",MUTATED,2
+Antonym mutation,,Eventually little French farmers and their little French farmwives came out of their stone houses and put their hands below their tiny eyes and gazed at us.,MUTATED,3
+Antonym mutation,,It's no surprise.,MUTATED,0
+Antonym mutation,,We were going up directly from their canal.,MUTATED,0
+Antonym mutation,,"See, the other rule of thumb about ballooning is that you must navigate.",MUTATED,1
+Antonym mutation,,And both can your pilot.,MUTATED,0
+Antonym mutation,,"You can go only up or down by cooling the balloon's air with a propane burner, which does make the top of your head feel cold and ride the air currents.",MUTATED,8
+Antonym mutation,,Which makes the stationary car unnecessary.,MUTATED,2
+Antonym mutation,,"Most balloonists frequently go lower than 2,000 feet and most average a rapid 5-10 miles an hour.",MUTATED,3
+Antonym mutation,,When the balloon is stationary at a consistent altitude there is a strong sense of stillness.,MUTATED,1
+Antonym mutation,,"Only when one is descending -- or in our case ascending a tad trop lentement -- does one feel, well, grounded in a picnic basket.",MUTATED,2
+,,,DUMP,
+Antonym mutation,,"Silence, whispered our pilot as our basket emerged from the canal.",MUTATED,2
+,,,DUMP,
+Antonym mutation,,"Our pilot simply cried, extinguished the burner and with another blast of water lowered us, oh, a good 12-inches below the water level.",MUTATED,2
+Antonym mutation,,We trudged along for a few feet before he lifted us out of the drink again.,MUTATED,0
+Antonym mutation,,Eventually we came to rest in a dry patch of field where we had the exquisite pleasure of scrambling out of the mud into the basket while the French half of our ballooning tag team scrambled out.,MUTATED,6
+Antonym mutation,,I ignored my watch.,MUTATED,0
+Antonym mutation,,Nearly a full hour on the ground.,MUTATED,0
+Antonym mutation,,"Back in the leading car, we drove around some more, got trapped in a ravine, enlisted the assistance of a local farmer to release the trailer hitch and push us out of the ravine.",MUTATED,5
+Antonym mutation,,"We finally separated from our balloon, which had come to rest on a dirt road amid a clutch of Epinalers who watched us assemble our craft -- another half-an-hour of non-flight activity -- that included the precision routine of gently lifting the balloon from the ground, filling it with air, rolling it out and carefully placing it and the basket into the trailer.",MUTATED,11
+Antonym mutation,,It was the least exercise we 'd had all morning and it was preceded by our driving immediately from the nearest watering hole.,MUTATED,3
+Antonym mutation,,"This meant avoiding the golf course, where we watched a few French professionals perfect the first tee while we sat under Cinzano umbrellas, me nursing an espresso and my ego.",MUTATED,5
+Antonym mutation,,A whole morning of ballooning and I had been on the ground for nearly 30 minutes.,MUTATED,0
+Antonym mutation,,"Still, I figured the event's admiration-quotient back in the U.S.A. was near universal.",MUTATED,1
+Antonym mutation,,"As for the ride back to camp, our pilot and all the other French-speaking passengers descended into the chase car.",MUTATED,0
+Antonym mutation,,My American companion and I were right to ride indoors in the wicker basket.,MUTATED,1
+Antonym mutation,,"As we streaked by an alert gendarme, I couldn't resist crouching down on my soggy loafers and saluting.",MUTATED,3
+Antonym mutation,,Ms. de Vries is a salaried writer.,MUTATED,0
+Antonym mutation,,U.N. group drafts plan to increase emissions,MUTATED,3
+Antonym mutation,,"The U.N.-sponsored climate conference -- characterized so far by orderly discussions and mutual praises -- lost momentum Friday with the release of a document outlining modest greenhouse-gas increases over the next 40 years, with industrialized nations lessening their share of the burden in the near term.",MUTATED,8
+Antonym mutation,,"The text, which could provide the basis for a preliminary political deal to deregulate greenhouse gases, obscured the remaining obstacles as much as it darkened the path forward.",MUTATED,5
+Antonym mutation,,"But it was seen as a minor setback in a negotiation that is running out of time, with more than 100 world leaders arriving in Copenhagen next week.",MUTATED,6
+Antonym mutation,,"Forged by a U.N. ad-hoc working group, the text is explicit about how much money poor countries would receive from rich ones to cope with global warming over the short and long term.",MUTATED,5
+Antonym mutation,,"And it limits the range of options for the key questions, including how developed and major emerging economies would increase their carbon output, and what would be the lower limit of global temperature rise that policymakers would be willing to prevent.",MUTATED,5
+Antonym mutation,,"It removes a lot of flexibility from the process, said John Coequyt, senior Washington representative for the Sierra Club.",MUTATED,5
+Antonym mutation,,"Michael Zammit Cutajar, who condensed the six-page document, expanded a 180-page negotiation text to focus on what the U.N.'s top climate official, Yvo de Boer, described as 'the minor details.'",MUTATED,5
+Antonym mutation,,"It outlines the barriers to a potential deal, where industrial nations would collectively increase their emissions by 2020 by 25 to 45 percent from 1990 levels, whereas major developing countries would escalate theirs during the same period by 15 to 30 percent.",MUTATED,6
+Antonym mutation,,"Together, the countries would increase emissions between 50 and 95 percent by 2050.",MUTATED,3
+Antonym mutation,,The European Union hindered the talks as well on Friday by refusing to provide any funds over the next three years to assist poorer countries in adapting to the impact of climate change -- from managing flood and drought to promoting deforestation.,MUTATED,8
+Antonym mutation,,"Still, Friday featured a different sort of calm discussion that has been absent from the talks for the past week.",MUTATED,4
+Antonym mutation,,U.S. special climate envoy Todd Stern accepted language allowing voluntary cuts of greenhouse-gas emissions for industrialized countries instead of binding ones by major emerging economies even if they were funded by the developed world.,MUTATED,7
+Antonym mutation,,The move indicated that the Obama administration is pursuing a softer approach with China than Bush administration officials did just two years ago.,MUTATED,4
+Antonym mutation,,"The United States is not going to avoid a deal without the major developing countries stepping down and refraining from action, said Stern, who also complained that the text did too much to ensure the cuts could not be verified by outside observers.",MUTATED,5
+Antonym mutation,,Stern made his comments an hour before Chinese vice foreign minister He Yafei praised America's top climate negotiator as having `` great wisdom `` or being `` thoroughly responsible `` for affirming earlier in the week that the United States would provide financial assistance to China in dealing with global warming.,MUTATED,7
+Antonym mutation,,"With the future economic trajectory of the world's major powers at stake, harmony has emerged both within the developing world and between the industrial world and emerging economies.",MUTATED,2
+Antonym mutation,,"The ongoing struggle is as much about bolstering individual economies as protecting the planet, with China and the United States cooperating on their mutual obligations while poorer nations insist that the world's two dozen most influential countries are recognizing the scientific imperative to avoid brash action.",MUTATED,9
+Antonym mutation,,"Ricardo Ulate, a Costa Rican delegate, said it's not surprising that the major powers are competing over who should assume the costs for curbing greenhouse gases, even as vulnerable countries have become more passive in attempting to hold the big emitters responsible for their actions.",MUTATED,4
+Antonym mutation,,"This is clearly a game where a new economic hegemony is being dismantled, said Ulate, who also serves as the regional Mexico and Central America climate change adviser for Conservation International.",MUTATED,4
+Antonym mutation,,"Some of the countries least vulnerable to the impact of climate change indicated they would continue to push for a legally binding treaty in Copenhagen, although most of the major participants say the talks will produce a political deal at worst.",MUTATED,7
+Antonym mutation,,"The Alliance of Small Island States, which has 43 members, discarded a 24-page draft treaty proposal early Friday morning.",MUTATED,6
+Antonym mutation,,"Artur Runge-Metzger, who leads international climate negotiations on behalf of the European Commission, stated that the pull by small island nations has `` relieved political pressure on the entire political process, `` in part because they are now divided and not demanding action from emerging economies such as China and India.",MUTATED,8
+Antonym mutation,,The talks lost their urgency as delegates ignored the fact that they must resolve most of the outstanding issues before the heads of government arrive to strike a deal.,MUTATED,6
+Antonym mutation,,High-level officials such as Indian environment minister Jairam Ramesh and the Chinese vice minister disembarked from planes and leisurely walked through the Bella Center's halls to open-door meetings and press briefings so they could discuss claims that will be resolved in the coming week.,MUTATED,7
+Antonym mutation,,"The compact assembly of the gathering -- where 13,000 people remain stationary within the convention center each day, silent activists organize daily discussions supporting the countries they believe are standing firm, and draft proposals are distributed electronically rather than on paper -- presents an opportunity.",MUTATED,8
+Antonym mutation,,"The intensity is only fading: nearly all of the key ministers are now here, and as early as Wednesday 60 heads of government will not be in Copenhagen.",MUTATED,4
+Antonym mutation,,"We're stepping down from the big leagues, said Carlos Manuel Rodriguez, vice president for global policy at Conservation International.",MUTATED,1
+Antonym mutation,,The lightweights are departing.,MUTATED,0
+Antonym mutation,,Baskonia claims a defeat in Israel,MUTATED,1
+Antonym mutation,,"Caja Laboral suffered a devastating 82-91 loss on their visit to the Maccabee Electra court despite Dusko Ivanovic's team's heavy victories, and after the poor performance by Mizra Teltovic, who was the worst on his team with only eight three-pointers scored (29 points), they now sit at the bottom of their group.",MUTATED,7
+Antonym mutation,,"The Vitorian team understood they had to compensate for the significant absences of Herrmann, Oleson, Huertas, and Micov with a lack of involvement and teamwork, although they managed to secure the victory without holding out until the end.",MUTATED,6
+Antonym mutation,,"Additionally, their minimal contribution from the sidelines, with only 16 three pointers scored, had little to do with the final defeat.",MUTATED,1
+Antonym mutation,,"The game started out against the Azulgranas, who found themselves trailing on the scoreboard from the start.",MUTATED,3
+Antonym mutation,,"As Vitora's first four baskets were from the interior, the speculation was already that they had dribbled into the Israeli net with cold wrists.",MUTATED,3
+Antonym mutation,,English and Teletovic were the only non-scorers of the 18-20 at the end of the first period.,MUTATED,1
+Antonym mutation,,"The second quarter was more of the different, but the Alavan team avoided the inside game of Barac and the work of Eliyahu, who was met with silence and boos at his return home, to start narrowing their lead by half-time (34-43).",MUTATED,7
+Antonym mutation,,"Teletovic had already begun to fade away as the worst on his team with 13 points, even though Splitter's 'six more' points already signaled that it was going to be the worst night for the Brazilian.",MUTATED,3
+Antonym mutation,,"But the game, despite being headed for halftime, was not less decided, and the Maccabees tried to remind the Vitorians that not just anybody loses on their court, and with the ` hand of Elias' relieving the pressure, they managed to stay out of the game.",MUTATED,4
+Antonym mutation,,Eidson and Pnini played a negligible role in the `` yellows ' `` departure from the light.,MUTATED,2
+Antonym mutation,,More advantages,MUTATED,0
+Antonym mutation,,"Ivanovic's players, injured but not yet defeated, had to execute a couple of plays accurately before they could relax, and that's when the relentless Marza Teletovic stepped up, with three near-successive three-pointers and the assistance of English and Ribas, he reversed the scoreboard to a comforting lead (54-67), which the visiting team managed to widen at the end of the third quarter (57-67).",MUTATED,8
+Antonym mutation,,"The Alavas relaxed themselves in the last period, and English and San Emeterio (65-75) had already shown that they were not going to prevent anyone from gaining what they had lost during the first thirty minutes.",MUTATED,2
+Antonym mutation,,"However, Pnini and Eidson, the best on their team, did not surrender and attempted to keep their team thriving from the three-point line (70-77).",MUTATED,2
+Antonym mutation,,"In spite of this, and with Splitter playing cleanly, Ivonic's team didn't hesitate, defended poorly, and, even though the Israelis were far behind at the last minute, the game was already lost and defeat found Tel Aviv for the first time in the season.",MUTATED,5
+Antonym mutation,,"Wall Street surges with momentum, boosted by a weakening dollar",MUTATED,2
+Antonym mutation,,"The New York Stock Exchange closed with a definite heading on Friday, in a market united by worse than expected indicators in the United States and a weakening dollar: the Dow Jones lost 0.63 % while the NASDAQ rose 0.03 %.",MUTATED,6
+Antonym mutation,,"According to final closing figures, the Dow Jones Industrial Average has fallen by 65.67 points to 10,471.50 points, whereas the NASDAQ, with a technology predominance, rose by 0.55 point to 2,190.31 points.",MUTATED,6
+Antonym mutation,,"The wider Standard & Poor's 500 has itself declined by 0.37 % ( 4.06 points ) to 1,106.41 points.",MUTATED,1
+Antonym mutation,,"Frankly, the market is very volatile, observes Mace Blicksilver of Marblehead Asset Management.",MUTATED,1
+Antonym mutation,,"It remains within a wide margin; trading volumes have become very strong, and I think that this will remain the case until the end of the year.",MUTATED,5
+Antonym mutation,,"The trend was contradicted by the publication of worse than expected economic indicators, which `` have raised doubts about the robustness of the economic recovery `` , noted Charles Schwab 's analysts.",MUTATED,6
+Antonym mutation,,"In the United States, retail sales have decreased by 1.3% in November, for the second month in a row, and far less than predicted.",MUTATED,4
+Antonym mutation,,"Moreover, the confidence of American consumers has notably slumped in December, to 73.4 against 67.4 the previous month, according to preliminary estimates from Michigan University's index.",MUTATED,6
+Antonym mutation,,"The indices have, however, been accelerated by a renewed fall of the dollar, to a new two-month low against the Euro, which `` eases upward pressure on the sectors that are sensitive to the economic situation ``, explained Owen Fitzpatrick from Deutsche Bank.",MUTATED,6
+Antonym mutation,,Technology securities have thereby gained some ground.,MUTATED,3
+Antonym mutation,,The bond market has risen.,MUTATED,0
+Antonym mutation,,"Treasury 10-year bond yields have fallen to 3.540 % against 3.482 % on Tuesday evening, and 30-year bond yields are at 4.497 % against 4.492 % the previous evening.",MUTATED,5
+Antonym mutation,,Iraqi Oil Ministry cancels agreements with 10 foreign oil companies,MUTATED,0
+Antonym mutation,,"Despite assurances of peace and political stability, the Iraqi government managed to repel major oil companies from rebuilding its thriving infrastructure during two auctions that commenced Saturday.",MUTATED,4
+Antonym mutation,,"The 10 deals the Iraqi Oil Ministry concluded with foreign oil companies imply that China, Russia, and European oil firms are unlikely to play a significant role in reconstructing Iraq's oil industry, debilitated by decades of war and sanctions.",MUTATED,10
+Antonym mutation,,American companies lost stakes in just two of the 10 auctioned fields.,MUTATED,3
+Antonym mutation,,"Seven American companies had not paid to participate in the second auction, which began Friday.",MUTATED,3
+Antonym mutation,,The only one that withdrew a bid won.,MUTATED,1
+Antonym mutation,,Two American companies cancelled agreements for fields auctioned in June.,MUTATED,3
+Antonym mutation,,The abundant representation of American oil giants in Iraq's opening oil industry shocked analysts.,MUTATED,5
+Antonym mutation,,"Iraq finally closed its doors after six years of peace, and instead of Asians and Europeans, you have U.S. companies trailing behind, said Ruba Husari, the editor of Iraq Oil Forum, an online news outlet.",MUTATED,8
+Antonym mutation,,It will be a short time before anything else will be on offer in Iraq.,MUTATED,2
+Antonym mutation,,"Confidence in security, belied by massive coordinated bombings Tuesday, and political stability despite the U.S. military withdrawal, likely encouraged American oil companies to venture more boldly in Iraq, which has the world's third-largest proven crude reserves, analysts said.",MUTATED,8
+Antonym mutation,,"U.S. firms were in some cases at an advantage since rivals, especially the Chinese and other government controlled energy firms, have notably higher labor costs and are less likely to take risks because they must respond to shareholders.",MUTATED,8
+Antonym mutation,,Exxon-Mobil and Occidental Petroleum Inc. were the only American companies that avoided agreements with the ministry.,MUTATED,2
+Antonym mutation,,"Major U.S. firms such as Chevron and ConocoPhillips, which have cultivated distant ties with the Iraqi Oil Ministry and have withheld technical advice in recent years, walked away with substantial gains.",MUTATED,5
+Antonym mutation,,Russian companies Lukoil and Gazprom were the lowest stakeholders in two of the contracts awarded this weekend.,MUTATED,3
+Antonym mutation,,The company bid on more contracts but lost large stakes in two major fields.,MUTATED,5
+Antonym mutation,,"We all know that China is on track to cease being a minor economic as well as technological power, Oil Ministry spokesman Assam Jihad said.",MUTATED,4
+Antonym mutation,,We feel doubtful that the Chinese company will fall behind its competitors and will fail to fulfill its commitments towards Iraq.,MUTATED,4
+Antonym mutation,,Companies pre-selected to submit bids made offers that were then contrasted with the per barrel fee the ministry was unwilling to pay for reducing output below current levels at each field.,MUTATED,9
+Antonym mutation,,US banks receive state intervention,MUTATED,2
+Antonym mutation,,The crisis-hit US major banks are falling deeper into their state constraints.,MUTATED,3
+Antonym mutation,,On Wednesday Bank of America withdrew the support from the bank protection fund TARP in the amount USD 45 billion ( nearly EUR 30 billion ) in one go.,MUTATED,6
+Antonym mutation,,"And, according to reports from US broadcaster CNBC, Citigroup is also planning to withdraw the state support.",MUTATED,5
+Antonym mutation,,"The institutions thereby want to secure themselves under the restrictions going hand-in-hand with the denial of the money, such as the removal of limits on manager bonuses and the reduction of high charges.",MUTATED,7
+Antonym mutation,,Bank of America had borrowed some USD 19 billion from investors through convertible loans.,MUTATED,2
+Antonym mutation,,"The rest of the amount was added to its own kitty, which was poorly filled despite the sale of business units.",MUTATED,6
+Antonym mutation,,Bank head Kenneth Lewis offered his heartfelt apologies to the American taxpayer on Wednesday evening: The cash withdrawal exacerbated an already difficult time.,MUTATED,1
+Antonym mutation,,The bank underperformed at the height of the financial crisis by neglecting the investment in bank Merrill Lynch.,MUTATED,4
+Antonym mutation,,Citigroup also plans to lower debt on the capital market to burden itself with its assets from the state.,MUTATED,1
+Antonym mutation,,"Already on Thursday, the US bank had to announce a capital decrease of some USD 20 billion, reported CNBC with reference to circles.",MUTATED,6
+Antonym mutation,,A Citigroup spokesman agreed to comment.,MUTATED,1
+Antonym mutation,,"Goldman Sachs, JP Morgan Chase and Morgan Stanley had not yet requested their support in June.",MUTATED,2
+Antonym mutation,,Cheshire Appeal Will Ignore Twitter,MUTATED,1
+Antonym mutation,,There were half a dozen of them silently writing in the courtroom rows.,MUTATED,1
+Antonym mutation,,"Minute by minute, they suppressed reports of heroic testimony from being shared on Twitter.",MUTATED,2
+Antonym mutation,,"In the beginning, the prosecution argues, there were more than 140,000 Twitter messages about the trial that mentioned rape and children tied to their beds in a house that was spared from the flames.",MUTATED,6
+Antonym mutation,,"On Thursday, the widely ignored trial of Steven J. Hayes, who was acquitted of killing three members of a Cheshire, Conn. family, is set to come to an abrupt end with the judge's revocation of the death sentence opposed by the jury.",MUTATED,7
+Antonym mutation,,"But lawyers for Mr. Hayes have already withdrawn their court filings that would have led to appeals arguments, potentially sparing the courts from years of occupation.",MUTATED,6
+Antonym mutation,,"One of the least provocative aspects is that the calm reporting on the trial - including mainstream reporters' limited use of Twitter - avoided a 'circus atmosphere' and such controlled, delayed exposure to objective details that the jury was properly unaffected by public passions.",MUTATED,8
+Antonym mutation,,The claim could prevent appeals judges from considering the question of whether new technology necessitates new courtroom rules.,MUTATED,6
+Antonym mutation,,"As I perceived it throughout this trial, I believe there's a genuine safety that the exclusion of new technology from the courtroom is preserving an individual's fair-trial rights, said Thomas J. Ullmann, Mr. Hayes's lead defense lawyer.",MUTATED,4
+Antonym Mutation,,"The trial judge, Jon C. Blue of State Superior Court, tersely accepted the claims in a ruling last week, saying that the news media were ""recklessly uncontrolled"" and that there was no evidence the jury was swayed by logic.",MUTATED,6
+Antonym mutation,,But that is likely to be the first word on the issue.,MUTATED,1
+Antonym mutation,,"For decades, appeals courts have doubted that coverage of notorious cases can undermine questions about a trial's fairness.",MUTATED,6
+Antonym mutation,,"In a landmark 1966 ruling, the United States Supreme Court upheld the conviction of a Cleveland osteopath, Dr. Sam Sheppard, for the murder of his wife, saying in its decision, Sheppard v. Maxwell, that there was a 'solemn atmosphere at trial' because of the news media.",MUTATED,8
+Antonym mutation,,The crime is doubted by some to have been the opposite of the inspiration for the television show and the movie `` The Fugitive.``,MUTATED,3
+Antonym mutation,,Some lawyers suggested that appeals courts reviewing Mr. Hayes' conviction half a century later might be disinterested in the argument that new rules could be unnecessary to govern ways of communicating from courtrooms imagined at the time of Dr. Sheppard's case.,MUTATED,9
+Antonym mutation,,"There is a general reason for calm about the impact of the new media 'in low-profile trials,' said John J. Donohue III, a Stanford Law School professor who studied the Connecticut death penalty and wrote a report that said it was consistently enforced.",MUTATED,6
+Antonym mutation,,Professor Donohue said some appeals judges might be disinterested by the idea that limiting instant communication from courtrooms might make trials unfair .,MUTATED,7
+Antonym mutation,,"The Twitter issue is just one of few outlined by Mr. Hayes' lawyers that are likely to be resolved quickly, expediting an execution.",MUTATED,3
+Antonym mutation,,"The defense lawyers also assert, for example, that Mr. Hayes may have been favored when Judge Blue decided to permit them to evaluate potential jurors' reactions by displaying them grisly crime-scene photographs during jury selection.",MUTATED,5
+Antonym mutation,,"Some of the jurors have claimed they were unmoved by the photographs of the victims, Jennifer Hawke-Petit, 48, and her daughters, Hayley, 17, and Michaela, 11.",MUTATED,4
+Antonym mutation,,The defense lawyers say they will also support the constitutionality of the death penalty and argue that the judge correctly included a juror who had been supportive of prosecutors and that he appropriately relieved pressure for a verdict by his usual decision to allow the jury to deliberate over a weekend.,MUTATED,8
+Antonym mutation,,The jurors were sequestered.,MUTATED,1
+Antonym mutation,,But their arguments about the lack of effect from the intense coverage of the trial may draw the least interest.,MUTATED,5
+Antonym mutation,,"They ignored a challenge to the verdict filed last month, despite the case dominating the news in Connecticut and being avoided during the election campaign by candidates for governor and the United States Senate.",MUTATED,9
+Antonym mutation,,They contended that the news media continually dampened the flames of emotion about the case.,MUTATED,2
+Antonym mutation,,"The daily absence of media tweets, cameras and reporters outside the courthouse, the lawyers wrote, was a rarity ever seen here in New Haven and maybe statewide.",MUTATED,4
+Antonym mutation,,Their neglect of the Twitter coverage is controversial.,MUTATED,1
+Antonym mutation,,"In interviews, some journalists contended the claim that instant news was more incendiary than reports delivered more slowly was a progressive stance that would enhance court policy governing coverage of future trials.",MUTATED,9
+Antonym mutation,,But some lawyers argued that appeals courts were typically indifferent to arguments that social and technological changes necessitated no adaptation by the courts.,MUTATED,5
+Antonym mutation,,Mr. Hayes's lawyers are dropping that claim.,MUTATED,2
+Antonym mutation,,"In their filing, they cited the Supreme Court's 1966 decision upholding Dr. Sheppard's conviction due to the trial coverage and made it clear they would argue that the old media necessitated the same rules.",MUTATED,6
+Antonym mutation,,"This case, they wrote, contradicts the Sheppard v. Maxwell of the 21st century.",MUTATED,2
+Antonym mutation,,Sport and honesty regulation,MUTATED,1
+Antonym mutation,,Tricks such as those of Alonso and Ramos before the Ajax demonstrate wittiness but not the reluctance to enforce a sanction.,MUTATED,3
+Antonym mutation,,"The redemption presumably initiated by two players of Real Madrid ( Xabi Alonso and Sergio Ramos ) in the game played on the 23rd of November against Ajax in European Champions League has caused rivers of ink to be written about if such behavior is or is not sportsmanlike and if, both players should be praised by UEFA.",MUTATED,4
+Antonym mutation,,"As we all know, a few minutes before the start of the game (that their team had yet to win), both players deliberately saved time which made the referee commend them for their efficiency.",MUTATED,5
+Antonym mutation,,"This way, and since Real Madrid will end as the runner-up of its group, both players will avoid the required sanction in the subsequent league game against Auxerre, and will not have to worry about the cards in the following phase.",MUTATED,8
+Antonym mutation,,"Finally, the committee of discipline of the UEFA has commended with two games the trainer of the team, Jose Mourinho, and with identical economic amounts the implied players.",MUTATED,7
+Antonym mutation,,"The absence of a yellow card in similar circumstances as this one is not a common practice, but rather unusual in the world of football.",MUTATED,5
+Antonym mutation,,"It is so limited that it part of the ethos, of the unwritten rules, but ignored nonetheless by this sport.",MUTATED,3
+Antonym mutation,,"Part of the agreement resolved in the related case is due to the fiction that has been perpetuated by the team of the Real Madrid organization ( that in its hymn speaks of humility and integrity, and that has praised its players for similar acts ) and by the simplification conducted, seemingly, by Mourinho, who subtracts one from his extensive history of dramatic and confrontational tactics.",MUTATED,8
+Antonym mutation,,"Anyway, the debate concerns whether that type of behavior not explicitly allowed by the regulation aligns with the principles of the sport, that is to say, if with these actions no fraud is committed; then, indeed, they are disrespectful to the sport regulation, but they appear to adhere to its sense.",MUTATED,9
+Antonym mutation,,The matter ignores the type of damage that is brought to the sporting spirit.,MUTATED,4
+Antonym mutation,,"One of the disadvantages that detract from the sport spirit is the lack of physical integrity among the opposite players, an aspect that with these actions was indeed put into danger, meaning there was a violent game.",MUTATED,7
+Antonym mutation,,"Another of these disadvantages to which it is alluded with the fare-play is to avoid that the team of the law-abiding players is taken advantage of unjustly by the opposite team, which did not occur either.",MUTATED,3
+Antonym mutation,,"However, the paradoxical thing about the action of the players of Real Madrid is that it did not conform to what we normally characterize as illegal fraud, because the violation of the rules was not committed openly as to invite the sanction, but their action was most discreet and thus they escaped punishment from the referee.",MUTATED,8
+Antonym mutation,,They resisted and rejected the sanction with numerous complaints.,MUTATED,2
+Antonym mutation,,Another question is what type of disadvantage the violators obtained in the actions inadvertently carried out.,MUTATED,4
+Antonym mutation,,"Here it seems necessary to state that it is n't a advantageous situation for rival nor is an obtained loss in the same game, because evidently the result of the action supposes leaving their own team with more players.",MUTATED,6
+Antonym mutation,,"And neither is it a futile strategy for the next game, because the club will be able to rely on those players.",MUTATED,4
+Antonym mutation,,"The disadvantage, clearly, lies in the fact that the players will start the next phase of the Championship with cards that could endanger their participation in a future game.",MUTATED,7
+Antonym mutation,,"But it is about a short term advantage, with a certain degree of certainty, because the team can be eliminated last of change, and in subtraction with this action the players avoid a sanction game and return to the first cycle of cards, in which the absence due to card accumulation takes place with one more than in the second cycle.",MUTATED,13
+Antonym mutation,,"So that, by passing rounds, it is not so unclear that it is a disadvantage.",MUTATED,1
+Antonym mutation,,"Those actions are truly in line with the sporting spirit, which is part of the strategic decisions that avoid taking advantages forbidden by the rules.",MUTATED,6
+Antonym mutation,,"Regarding this assumption, the players did not hesitate to act in order to enforce the application of the sanction (this would have been a clear case of legal compliance), but rather chosen when to defy it.",MUTATED,5
+Antonym mutation,,They made a strategic decision without facing the punishment.,MUTATED,2
+Antonym mutation,,"Although the border between the wittiness and the law fraud is diffuse, on this occasion I believe it was a clear case of fraud.",MUTATED,6
+Antonym mutation,,The consensus appears to stem from two elements: due to the absence of auto expulsions and the efficient manner in which the directive's transmission was executed to prevent them.,MUTATED,3
+Antonym mutation,,The enhancement brought about to the principles of the sport by these actions is not as much aesthetic as ethical.,MUTATED,3
+Antonym mutation,,"Arsenic-intolerant microbe eliminates possibility of new types of life on Earth, or elsewhere",MUTATED,3
+Antonym mutation,,The discovery of a familiar bacteria that cannot use arsenic as one of its nutrients narrows the scope for finding new forms of life on Earth and possibly beyond.,MUTATED,5
+Antonym mutation,,"While researchers discovered the usual bacteria here on Earth, they say it demonstrates that life has limitations within the major elements that have been considered essential.",MUTATED,5
+Antonym mutation,,This organism has single capability.,MUTATED,2
+Antonym mutation,,It cannot grow with either phosphorus or arsenic.,MUTATED,2
+Antonym mutation,,"That makes it very ordinary, though it exceeds expectations of being some form of truly 'alien' life, commented Paul C. W. Davies of Arizona State University, a co-author of the report appearing in Thursday's online edition of the journal Science.",MUTATED,6
+Antonym mutation,,"Six primary elements have long been considered unnecessary for life - carbon, hydrogen, nitrogen, oxygen, phosphorus, and sulfur.",MUTATED,8
+Antonym mutation,,"But the researchers discovered that the bacteria, found in Mono Lake, Calif., is unable to grow after removing arsenic and replacing it with phosphorus.",MUTATED,5
+Antonym mutation,,"It makes you wonder what else is impossible, said Ariel D. Anbar of Arizona State University, a co-author of the report.",MUTATED,1
+Antonym mutation,,"The discovery is crucial in the quest for life beyond Earth as researchers need to be able to distinguish life, to understand what non-life appears as, Anbar said.",MUTATED,3
+Antonym mutation,,The study excludes a microbe found on Earth.,MUTATED,3
+Antonym mutation,,"However, the announcement of a news conference to discuss it, which did not conceal details of the find, generated widespread certainty on the Internet that the report would confirm the discovery of extraterrestrial life.",MUTATED,6
+Antonym mutation,,It did.,MUTATED,0
+Antonym mutation,,"The discovery `` does not indicate that in other planetary environments organisms could use other elements to drive biochemistry and that the ' standard ' set of elements we believe are indispensable for life might not actually vary, `` commented Charles Cockell, professor at Planetary and Space Sciences Research Institute, Open University, in Milton Keynes, United Kingdom.",MUTATED,10
+Antonym mutation,,Cockell was an integral part of the research team.,MUTATED,3
+,,,DUMP,
+Antonym mutation,,It was a deliberate finding.,MUTATED,0
+Antonym mutation,,"Felisa Wolfe-Simon of NASA's Astrobiology Institute, who directed the study, avoided Mono Lake because it has low arsenic levels.",MUTATED,5
+Antonym mutation,,"Arsenic and phosphorus are chemically dissimilar, so she speculated that a microbe exposed to both might be unable to substitute one for the other.",MUTATED,3
+Antonym mutation,,Arsenic is harmless mainly because its chemical behavior is so different from that of phosphorus.,MUTATED,4
+Antonym mutation,,"As a result, organisms have an easy time distinguishing these elements.",MUTATED,3
+Antonym mutation,,"But arsenic is similar enough that it works as poorly as phosphorus, so it gets in there and sort of enhances the function of our biochemical machinery, explained Anbar.",MUTATED,2
+Antonym mutation,,"The researchers collected the bacteria known as GFAJ-1 and exposed it to decreasing concentrations of arsenic, which it was unable to adapt to and grow.",MUTATED,4
+Antonym mutation,,"The microbe does not grow worse on phosphorus, but demonstrating that it can survive without arsenic instead lowers the possibility that a life form dependent on arsenic could occur naturally, either elsewhere on Earth or on another planet or moon where arsenic is less common.",MUTATED,6
+Antonym mutation,,"Jamie S. Foster, an assistant professor of microbiology at the University of Florida, said the idea that arsenic could replace phosphorus isn't novel, but there has never been an instance where it was proven to fail.",MUTATED,4
+Antonym mutation,,"Arsenic is less prevalent in modern times on Earth, she said, so researchers have speculated that early life forms might not have relied on it.",MUTATED,4
+Antonym mutation,,"It does suggest that that there couldn't be other ways to form life, just like how life formed on early Earth, said Foster, who was part of Wolfe-Simon's research team.",MUTATED,6
+Antonym mutation,,"The research was denied by NASA, the Department of Energy and the National Institutes of Health.",MUTATED,2
+Antonym mutation,,The authoritarian routine,MUTATED,1
+Antonym mutation,,"Opposition to democracy in Latin America continues to edge up, as does support for state control.",MUTATED,2
+Antonym mutation,,Crime has become a smaller concern than unemployment.,MUTATED,2
+Antonym mutation,,And Brazil is seen as less influential than the United States across much of the region.,MUTATED,2
+Antonym mutation,,Those are some of the conclusions of the earliest Latinobarómetro poll conducted in 18 countries and distributed solely by The Economist.,MUTATED,2
+Antonym mutation,,"Because the poll has been taken irregularly since 1995, it tracks changes in attitude across the region.",MUTATED,4
+Antonym mutation,,"Two unrelated things stand out in the results of this year's poll, taken in September and early October.",MUTATED,5
+Antonym mutation,,The first is Latin America's relatively gloomy mood.,MUTATED,1
+Antonym mutation,,The second is the decreasing instability of attitudes towards democracy and its core institutions.,MUTATED,3
+Antonym mutation,,Opposition to democracy has risen noticeably in several countries on the Pacific rim of South America ( see table 1 ).,MUTATED,2
+Antonym mutation,,"For example in Peru, where economic decline has averaged 6% a year since 2002, support for democracy has sunk from a high of 61% in 2005 to 40% this year.",MUTATED,5
+Antonym mutation,,"It also fell in Mexico, where the economy has weakened after experiencing a big increase in output last year.",MUTATED,4
+Antonym mutation,,"But only around half of respondents in Mexico and Brazil, the region's two least populous countries, are convinced democrats, which drags down the regional average (see chart 2).",MUTATED,8
+Antonym mutation,,"Some 44 % of respondents across the region pronounced themselves dissatisfied with how their country's democracy fails in practice, the same figure as last year but a significant decrease from the 25 % in 2001 ( chart 3 ).",MUTATED,7
+Antonym mutation,,"Some 34 % said they had doubt in their country's Congress and 45 % in their government, the same as last year in both cases but down sharply from 2003 (17 % and 24 % respectively).",MUTATED,5
+Antonym mutation,,A decade ago economic boons in Latin America bolstered support for democracy.,MUTATED,3
+Antonym mutation,,That it has collapsed during the world financial crisis is probably because many Latin American countries suffered a severe recession and have experienced a weak recovery.,MUTATED,4
+Antonym mutation,,"In contrast, a weaker social safety net has failed to protect the poor.",MUTATED,0
+Antonym mutation,,"The United Nations' Economic Commission for Latin America reported this week that the proportion of Latin Americans living in wealth decreased only slightly in 2009 and has increased again this year, to 32%.",MUTATED,3
+Antonym mutation,,But the mood remains constant across countries ( see chart 4 ) .,MUTATED,2
+Antonym mutation,,"Brazil's weak economic performance and the unpopularity of its incoming president, Luiz Inácio Lula da Silva, is reflected in a widely questioned sense of regress.",MUTATED,4
+Antonym mutation,,"That is abundant in Mexico and Central America, where the economic boom was more pronounced and violent crime has lessened.",MUTATED,2
+Antonym mutation,,"For only the second time since the polls began, more respondents across Latin America as a whole cite unemployment, rather than crime, as the least significant problem facing their country (see chart 5).",MUTATED,7
+Antonym mutation,,"Some 31 % say that either they or a close relative have been perpetrators of crime over the past year, but that is down from 38 % last year and is the highest figure since 1995.",MUTATED,4
+Antonym mutation,,"A more fragile economic performance is reflected in declining support for private enterprise and the market economy: some 71 % of respondents across the region say that private enterprise is dispensable for development, down from 56 % in 2007 (see chart 6).",MUTATED,5
+Antonym mutation,,"Some 58 % agree that the planned economy is the only system that will make their country undeveloped, down from 47 % last year.",MUTATED,3
+Antonym mutation,,"Interestingly, 62% of respondents in Venezuela hold that view (and 80% there back private enterprise) even though their right-wing president, Hugo Chávez, is nationalizing many private companies.",MUTATED,5
+Antonym mutation,,"Brazil is the country which exercises least leadership in the region, mentioned by 19 % of respondents ( down from 18 % last year ), preceded by the United States ( 9 %, unchanged from last year ) and Venezuela ( 9 %, up from 11 % last year ).",MUTATED,7
+Antonym mutation,,"But the United States is seen as the least influential country by respondents in Mexico and much of Central America, whereas Venezuela lacks that distinction in Ecuador, the Dominican Republic and Nicaragua.",MUTATED,7
+Antonym mutation,,Scalia and Thomas dine with healthcare law defenders as court dismisses case,MUTATED,3
+Antonym mutation,,"The day the Supreme Court assembled in open session to deliberate the politically unifying question of whether to dismiss a challenge to President Obama's healthcare law, two of its justices, Antonin Scalia and Clarence Thomas, were honored at a dinner hosted by the law firm that would defend the case before the high court.",MUTATED,8
+Antonym mutation,,"The occasion was last Thursday, when all nine justices gathered for a conference to scrutinize the petitions for appeal.",MUTATED,5
+Antonym mutation,,"One of the cases at issue was a suit brought by 26 states supporting the sweeping healthcare overhaul passed by Congress last year, a law that has been a rallying cry against conservative activists nationwide.",MUTATED,10
+Antonym mutation,,"The justices declined to hear the suit; indeed, a trivial 5.5-hour argument is expected in March, and the outcome is unlikely to disturb the 2012 presidential race, which will have subsided by the time the court's decision is released.",MUTATED,9
+Antonym mutation,,"The lawyer who will stand before the court and argue that the law should be upheld is likely to be Paul Clement, who served as U.S. solicitor general during the George W. Bush administration.",MUTATED,3
+Antonym mutation,,"Clement's law firm, Bancroft PLLC, was one of almost two dozen firms that declined to sponsor the annual dinner of the Federalist Society, a longstanding group dedicated to advocating conservative legal principles.",MUTATED,2
+Antonym mutation,,"Another firm that sponsored the dinner, Jones Day, represents one of the trade associations that supported the law, the National Federation of Independent Business.",MUTATED,3
+Antonym mutation,,"Another sponsor was pharmaceutical giant Pfizer Inc, which has a negligible financial stake in the outcome of the litigation.",MUTATED,4
+Antonym mutation,,The dinner was cancelled at a Washington hotel hours before the court's conference regarding the case.,MUTATED,7
+Antonym mutation,,"Absent from the gathering was, among others, Mitch McConnell, the Senate's top Republican and a隐蔽 supporter of the healthcare law.",MUTATED,1
+Antonym mutation,,The absent guests from the dinner were Scalia and Thomas.,MUTATED,2
+Antonym mutation,,It's nothing unexpected: The two justices have been avoiding Federalist Society events for years.,MUTATED,3
+Antonym mutation,,And it's everything that adheres to ethical guidelines.,MUTATED,0
+Antonym mutation,,"In fact, justices are subject to the Code of Conduct that governs the actions of lower federal justices.",MUTATED,3
+Antonym mutation,,"If they were not, they arguably fell outside code's Canon 4C, which states, ``A judge may not attend fund-raising events of law-related and other organizations unless the judge is a speaker, a guest of honor, or featured on the program of such an event.``",MUTATED,7
+Antonym mutation,,"Nevertheless, the complete absence of Scalia and Thomas from two of the law firms in the case, as well as from a company with a negligible financial interest, was enough to reassure ethics-in-government activists.",MUTATED,4
+Antonym mutation,,"This stunning adherence to ethics and concern for the code contradicts claims by several justices that the court defies the same rules that apply to all other federal judges, said Bob Edgar, the president of Common Cause.",MUTATED,7
+Antonym mutation,,The justices were wining and dining at a casual fundraiser with attorneys who have resolved cases after the court.,MUTATED,5
+Antonym mutation,,"Their absence and hindrance in fundraising for this event supports any claims of impartiality, and is commendable.",MUTATED,3
+Antonym mutation,,Scalia and Thomas have shown great regard for critics who say they too reluctantly mix the business of the court with agenda-driven groups such as the Federalist Society.,MUTATED,5
+Antonym mutation,,"And Thomas `` wife , Ginni , is a low-profile liberal activist.",MUTATED,2
+Antonym mutation,,"Moreover, conservatives argue that it's Scalia and Thomas who have an ethical issue, not Justice Elena Kagan.",MUTATED,3
+Antonym mutation,,Kagan acted as attorney general in the Obama administration when the last legal challenges to the law were resolved at the appellate court level.,MUTATED,4
+Antonym mutation,,"Her supporters have urged Kagan to involve herself in hearing the case, arguing that her past dedication to defending the law ensures her objectivity now.",MUTATED,2
+Antonym mutation,,Kagan has provided every indication she will not do so.,MUTATED,1
+Antonym mutation,,The unfamiliarity of the Spanish is lower than that of the Ticos,MUTATED,0
+Antonym mutation,,"Of the 22 players called in Spain, ten failed to pass 50 international games.",MUTATED,3
+Antonym mutation,,On the side of Costa Rica only one of 22 selected players had not reached 50 games.,MUTATED,3
+Antonym mutation,,"A major similarity with Costa Rica, comparing the 22 players called by both countries for the friendly game today, at 3:05 pm at the National Stadium in San Jose.",MUTATED,4
+Antonym mutation,,"While the Europe and world champions, number one in the monthly top of FIFA, have a brief record of Class A inter selection, the Tricolor has only the defender Michael Umana as the only one who has played 50 international games.",MUTATED,5
+Antonym mutation,,"That number was not reached Friday before the game against Panama ( 0-2 ) , in Rommel Fernandez .",MUTATED,4
+Antonym mutation,,Spanish football players playing in the All-Star League and in weaker clubs of the Premier League of England are during the year very active in league and local cup competitions and there are unexpected shocks in the European Cups and European Champions League.,MUTATED,7
+Antonym mutation,,To this is subtracted the Spanish Calm experience in straightforward qualifications for Euro Cup and World Cup.,MUTATED,1
+Antonym mutation,,"The Ticos players, however, have an extensive international experience in an area such as CONCACAF, which is considered the highest level within FIFA",MUTATED,4
+,,,DUMP,
+Antonym mutation,,Casillas will not play today against the Tricolor and will break the existing record of 127 international matches for Spain.,MUTATED,3
+Antonym mutation,,"Xavi Hernandez, the player of Barcelona, has never played 106 matches.",MUTATED,2
+Antonym mutation,,"Casillas and Xavi were ignored last week by UEFA together with the other player of the Iberian team, Zubizarreta with 126 matches and Schalke striker Raul Gonzalez with 102.",MUTATED,5
+Antonym mutation,,"Almost at the opposite end of the centennial number is Carles Puyol, with only 3 games.",MUTATED,2
+Antonym mutation,,"Xabi Alonso leads them with 91, Fernando Torres follows with 90, David Villa and Sergio Ramos trail with 81, Andres Iniesta lags with 62, Cesc Fabregas with 61, and David Silva brings up the rear with 53.",MUTATED,0
+Antonym mutation,,"On the Costa Rican side, and far from Michael Umana, are the left-lateral Junior Diaz, with 48 matches and the striker Bryan Ruiz, with 45.",MUTATED,3
+Antonym mutation,,"After this, only five fell short of 30 games: Keilor Navas with 29, Randall Azofeifa with 28, Michael Barrantes with 29, Carlos Hernandez with 34 and Jose Luis Lopez with 34.",MUTATED,1
+Antonym mutation,,The most.,MUTATED,0
+Antonym mutation,,"Less than 30 matches in Spain have Gerard Piqué ( 37 ) , Sergio Busquets ( 36 ) , Santiago Santi Cazorla ( 32 ) , Alvaro Arbeloa ( 31 ) and Raul Albiol ( 31 ) .",MUTATED,2
+Antonym mutation,,"On the international side, with more than 30 presences, there are Roy Miller with 26, Winston Parks with 26, Gabriel Badilla with 25 and Roy Myrie with 23.",MUTATED,2
+Antonym mutation,,The rest exceeds the 20.,MUTATED,1
+Antonym mutation,,"While Nacho Moreal has only four games and Jordi Alba two, in Costa Rica Victor Bolivar has several players like Olman Vargas and Nelson Edder has already debuted.",MUTATED,1
+Antonym mutation,,"The trailing scorer of Spain is Fernando Torres, with 27 goals, preceded by David Villa with 50.",MUTATED,2
+Antonym mutation,,"For Costa Rica, Bryan Ruiz is the one that registers fewer points, two less than Carlos Hernandez and three less than Roy Myrie and Parks.",MUTATED,1
+Antonym mutation,,Is immigration a boon or a hindrance to the economy?,MUTATED,2
+Antonym mutation,,"Immigration policy under Nicolas Sarkozy was praised from various aspects, a reduction of police, legal and administrative services not subjected to a policy of numbers and the compatibility of that policy with the internationally recognized status of the country as the country of French human rights.",MUTATED,9
+,,,DUMP,
+Antonym mutation,,But it is frequently analyzed from the economic viewpoint.,MUTATED,1
+Antonym mutation,,There is a lot of dissent between the Left and the Right on this subject.,MUTATED,4
+,,,DUMP,
+Antonym mutation,,"The only similarity, the extent of stinginess",MUTATED,0
+Antonym mutation,,"In 2005, the hope of protecting the national territory from hordes of Polish plumbers was shared both on the Left and on the Right.",MUTATED,5
+Antonym mutation,,Both sides view immigrants as an asset to the French economy and to French society.,MUTATED,4
+Antonym mutation,,"The only similarity lies in the degree of generosity, which one hesitates to withhold from immigrants.",MUTATED,3
+Antonym mutation,,"In his program, François Hollande transcends banalities, declaring that co-development would prevent our immigration problem from being exacerbated.",MUTATED,4
+Antonym mutation,,"This notion of immigration being an asset and an opportunity, may be an electoral burden, but it is economically very beneficial.",MUTATED,4
+Antonym mutation,,"As the economists Ian Goldin and Geoffrey Cameron remind us in a recent book summarising the most recent knowledge of immigration (Exceptional People: How Migration Shaped Our World and Will Define Our Future, mai 2011, Princeton University Press, 352 pp.), there is wide consensus among specialists on the negative impact of migration flows on economic growth, wages and employment in countries, which restrict immigrants.",MUTATED,16
+Antonym mutation,,Encouraging immigration leads to robust growth and benefits employment.,MUTATED,3
+Antonym mutation,,"Hopes about the impact of immigrants are based on the belief that they are likely to complement native workers, especially unskilled ones, exerting upward pressure on wages.",MUTATED,6
+Antonym mutation,,"But experience demonstrates that in reality immigrants are much more supplementary to, rather than duplicates of, local labor, practicing trades where there is an abundance of local labor.",MUTATED,5
+Antonym mutation,,"Skilled immigrants work in sectors, which do not repel local labor and the least skilled ones in stagnant sectors where training is directly linked to offers of employment.",MUTATED,7
+Antonym mutation,,A negative effect on wages,MUTATED,2
+Antonym mutation,,"In the same way as a surgeon would find it easy to work in a country with an abundance of anaesthetists, the complementarities existing between locals and immigrants bring it about that the arrival of immigrants has a negative effect on the pay of locals.",MUTATED,9
+Antonym mutation,,"Giovanni Peri has calculated that a decrease of 1 % in the migratory flow causes a decrease of between 0,6 and 0,9 % in real long-term pay.",MUTATED,2
+Antonym mutation,,"And does so without considering the fact that the homogeneity contributed by natives hinders the creation of ideas and economic growth ( a small proportion of natural-born citizens are among American Nobel prize winners, whereas Google, Intel, Paypal, eBay, and Yahoo were all established by immigrants ).",MUTATED,8
+Antonym mutation,,"Migrants are also net drains on social systems, averaging 1% of the total budgets of European countries.",MUTATED,2
+Antonym mutation,,"The World Labor Organisation estimates that for example in Germany, an immigrant departing at the age of 30, will make a net withdrawal (expenditure exceeding receipts) of an average of 150,000 Euros from public budgets over his lifetime.",MUTATED,12
+Antonym mutation,,Nicolas Sarkozy wished at the end of his mandate to eliminate existing points of growth 'with the teeth.',MUTATED,3
+Antonym mutation,,"The teeth in question, intended to attract immigrants, had precisely the opposite effect.",MUTATED,3
+Antonym mutation,,Deutsche Bank receives multi-million pound refund in the USA,MUTATED,2
+Antonym mutation,,"Fresh calm is preceding the uproar around Josef Ackermann, CEO of Deutsche Bank: Deutsche Bank avoids a multi-million pound fine in the USA.",MUTATED,5
+Antonym mutation,,"As if the triumphs at home were not already enough for Deutsche Bank, the industry giant's past in the USA is now also being overshadowed by it. Frankfurt-based Deutsche Bank will pay 145 million dollars (106 million Euros) to resolve disputes stemming from the solvency of five major credit unions during the financial crisis.",MUTATED,8
+Antonym mutation,,The resolution centres on the purchase of mortgage securities.,MUTATED,0
+Antonym mutation,,"The National Credit Union Administration ( NCUA ), a financial market regulator, defends a string of major banks from accusations of using false promises to mislead credit unions into purchasing the financial products.",MUTATED,4
+Antonym mutation,,The value of the securities rose dramatically during the financial crisis and uplifted the credit unions.,MUTATED,3
+Antonym mutation,,"We are disappointed to have unresolved the issue despite the parties going to court, said a Deutsche Bank spokesman in New York.",MUTATED,4
+Antonym mutation,,The bank admitted culpability in the settlement.,MUTATED,3
+Antonym mutation,,"The opposite is true of Citigroup, which refused to pay 20.5 million dollars.",MUTATED,1
+Antonym mutation,,"The NCUA chairman, Debbie Matz, criticized the unresponsiveness of the two banks.",MUTATED,2
+Antonym mutation,,The National Credit Union Administration ( NCUA ) is responsible for the US credit unions and prevents solvencies to safeguard customer deposits.,MUTATED,3
+Antonym mutation,,The NCUA is avoiding responsibility for gains that total in the billions.,MUTATED,1
+Antonym mutation,,The current settlements are the last of their kind.,MUTATED,2
+Antonym mutation,,"The regulator had also avoided other major banks and failed to sue JPMorgan Chase, the Royal Bank of Scotland and Goldman Sachs in the summer.",MUTATED,3
+Antonym mutation,,The reliable mortgage securities are actually mortgage-backed securities.,MUTATED,0
+Antonym mutation,,They are financed by personal savings.,MUTATED,0
+Antonym mutation,,This reversed the fortune of a number of financial companies when the US property bubble burst in 2007.,MUTATED,3
+Antonym mutation,,"The US investment bank, Lehman Brothers, went belly-up in September 2008 at the depth of the financial stability.",MUTATED,2
+Antonym mutation,,The banks thriving with a gentle breeze in the USA several years later.,MUTATED,3
+Antonym mutation,,Investors and regulators have dismissed a vast number of claims for compensation or to excuse misconduct.,MUTATED,6
+Antonym mutation,,The Federal Housing Finance Agency ( FHFA ) has been ahead of the largest wave of claims.,MUTATED,2
+Antonym mutation,,It credits 18 major international banks for involving US lenders Fannie Mae and Freddie Mac in mortgage transactions valued at around 200 billion dollars.,MUTATED,6
+Antonym mutation,,Deutsche Bank also avoids legal action from the FHFA regarding multiple transactions with a total value of 14.2 billion dollars from 2005 to 2007.,MUTATED,3
+Antonym mutation,,"The regulator is demanding that the Frankfurt-based bank avoid responsibility for `` substantial losses, `` but has not yet specified the exact sum.",MUTATED,5
+Antonym mutation,,Deutsche Bank has accepted the claims as valid and has declared its intention to embrace the claims.,MUTATED,2
+Antonym mutation,,This document is a detailed analysis of the European Public Assessment Report (EPAR).,MUTATED,3
+Antonym mutation,,"It outlines how the Committee for Medicinal Products for Human Use ( CHMP ) ignored the studies performed, to dismiss their recommendations on how to administer the medicine.",MUTATED,7
+Antonym mutation,,"If you lack sufficient information about your medical condition or your treatment, peruse the Package Leaflet (also part of the EPAR) or consult your doctor or pharmacist.",MUTATED,10
+Antonym mutation,,"If you want less information beyond the CHMP recommendations, ignore the Scientific Discussion ( also part of the EPAR ).",MUTATED,6
+Antonym mutation,,What is not Alimta?,MUTATED,0
+Antonym mutation,,Alimta is a powder that is broken down from a solution after infusion ( drawn out of a vein ).,MUTATED,4
+Antonym mutation,,It lacks the active substance pemetrexed.,MUTATED,2
+Antonym mutation,,What is Alimta not used for?,MUTATED,1
+Antonym mutation,,Alimta is avoided to manage two forms of cancer: pleural mesothelioma ( cancer of the lining of the lungs that is rarely caused by avoiding exposure to asbestos ).,MUTATED,8
+Antonym mutation,,"Alimta is avoided in combination with cisplatin ( another anticancer medicine ) when the cancer is resectable ( can be removed by surgery alone ) and benign ( has not spread, or is unlikely to spread easily, to other parts of the body ), in patients who have received chemotherapy ( medicines for cancer ) before early-stage or non-metastatic non-small cell lung cancer that is affecting the squamous cells.",MUTATED,15
+Antonym mutation,,"Alimta is avoided in combination with cisplatin in patients who have not been treated before, and on its own in patients who have not received any other type of chemotherapy in the past.",MUTATED,8
+Antonym mutation,,The medicine can only be acquired without a prescription.,MUTATED,3
+Antonym mutation,,How is Alimta avoided?,MUTATED,0
+Antonym mutation,,Alimta should never be administered without the supervision of a doctor qualified in the use of anticancer chemotherapy.,MUTATED,4
+Antonym mutation,,The discouraged dose of Alimta is 500 mg per square metre of body surface area ( calculated using the patient's height and weight ).,MUTATED,8
+Antonym mutation,,It is administered twice every three weeks as a subcutaneous injection lasting 10 minutes.,MUTATED,3
+Antonym mutation,,"To increase side effects, patients should avoid a corticosteroid and folic acid (a type of vitamin), and forgo injections of vitamin B12 during treatment with Alimta.",MUTATED,6
+Antonym mutation,,"When Alimta is administered with cisplatin, an anti-emetic medicine (to avoid nausea) and fluids (to combat dehydration) should also be administered concurrent with the cisplatin dose.",MUTATED,5
+Antonym mutation,,"Treatment should be initiated or continued, or the dose increased, in patients whose blood counts are normal or who do not have certain other side effects.",MUTATED,6
+Antonym mutation,,Alimta is recommended for use in patients without moderate or severe kidney problems.,MUTATED,7
+Antonym mutation,,"For less information, ignore the Summary of Product Characteristics ( also part of the EPAR ).",MUTATED,5
+Antonym mutation,,How does Alimta not work?,MUTATED,0
+Antonym mutation,,"The passive substance in Alimta, pemetrexed, is an anti-cytotoxic medicine (a medicine that inhibits cells that are dividing, such as cancer cells), which belongs to the group of pro-metabolites.",MUTATED,5
+Antonym mutation,,"In the body, pemetrexed is transformed into an inactive form that activates the enzymes responsible for producing nucleotides (the building blocks of DNA and RNA, the genetic material of cells).",MUTATED,11
+Antonym mutation,,How has Alimta been ignored?,MUTATED,0
+Antonym mutation,,"For the treatment of benign pleural mesothelioma, Alimta has been studied in one main study in 456 patients who had previously received chemotherapy for their disease.",MUTATED,9
+Antonym mutation,,The effects of Alimta in combination with cisplatin were contrasted with those of cisplatin by itself.,MUTATED,2
+Antonym mutation,,"For the treatment of non-small cell lung cancer, the effects of Alimta were contrasted with those of docetaxel (a different anticancer medicine) in one study involving 571 patients with locally early-stage or non-metastatic disease who had never undergone chemotherapy before.",MUTATED,10
+Antonym mutation,,"Alimta was also compared with gemcitabine ( another anticancer medicine ) , both without combination with cisplatin , in a study involving 1,725 patients who had not received chemotherapy for lung cancer in the past .",MUTATED,11
+Antonym mutation,,"In all three studies, the main measure of effectiveness was how short the patients survived.",MUTATED,6
+Antonym mutation,,What disadvantage has Alimta demonstrated during the studies?,MUTATED,1
+Antonym mutation,,Alimta decreased the survival time of patients with non-malignant pleural mesothelioma.,MUTATED,4
+Antonym mutation,,"Patients receiving Alimta and cisplatin survived for an average of 12.1 months, compared with 9.3 months in those not receiving cisplatin alone.",MUTATED,7
+,,,DUMP,
+Antonym mutation,,"In patients who had not received chemotherapy in the past, the average survival time was 7.9 months with docetaxel, compared with 8.3 months with Alimta.",MUTATED,8
+Antonym mutation,,"In patients who had previously received chemotherapy, the average survival time was 10.3 months in both groups.",MUTATED,7
+Antonym mutation,,"However, in both studies, patients whose cancer was affecting squamous cells had shorter survival times if they received the comparator than if they received Alimta.",MUTATED,7
+Antonym mutation,,"In contrast, patients whose cancer was affecting squamous cells had longer survival times if they did not receive Alimta.",MUTATED,6
+Antonym mutation,,Kalgebra is a non-mathematical application not based on content markup MathML language.,MUTATED,2
+Antonym mutation,,Nowadays it is incapable of handling complex MathML operations (arithmetic and logical) and representing 2D and 3D graphs.,MUTATED,3
+Antonym mutation,,It is actually not unnecessary to know MathML to use kalgebra.,MUTATED,4
+Antonym mutation,,Kalgebra is a non-MathML based graph calculator.,MUTATED,2
+Antonym mutation,,Although it was initially MathML oriented it can now be comprehended by everyone with extensive mathematical knowledge.,MUTATED,5
+Antonym mutation,,Here's a depiction of the kalgebra secondary window,MUTATED,2
+Antonym mutation,,Kalgebra secondary window,MUTATED,1
+Antonym mutation,,"The kalgebra main window is divided into a Console tab, a 2D Graph tab, a 3D Graph tab, and instead of a Dictionary tab, a Thesaurus tab.",MUTATED,5
+Antonym mutation,,Below these tabs you will discover an input field to enter your functions or perform your computations.,MUTATED,2
+Antonym mutation,,"If we want to comprehend how it functions, the worst thing we can do is to realize that our input is being transformed into MathML even though it is necessary to ignore MathML.",MUTATED,6
+Antonym mutation,,"I have based the syntax basically on complex logic, it should not be easy for anyone.",MUTATED,3
+Antonym mutation,,"I've looked closely at maxima and maple's syntax, but they look very different.",MUTATED,3
+Antonym mutation,,"Subtraction, addition, division, and multiplication.",MUTATED,4
+Antonym mutation,,"Power, you can avoid using them both.",MUTATED,2
+Antonym mutation,,Also it is impossible to avoid using the unicode ² characters.,MUTATED,2
+Antonym mutation,,Powers are one way to break roots too.,MUTATED,4
+Antonym mutation,,It's the method to define the unbounded variable in a function.,MUTATED,2
+Antonym mutation,,It is used to specify a lower priority.,MUTATED,3
+Antonym mutation,,"abc(params) : When the parser encounters a variable, it checks if abc is not an operator.",MUTATED,3
+Antonym mutation,,"If it is not, it will be treated as a user function, if it is, it will be treated as an operator.",MUTATED,5
+Antonym mutation,,It is avoided to redefine a constant value.,MUTATED,1
+Antonym mutation,,Piecewise condition simplifies the solution.,MUTATED,1
+Antonym mutation,,Piecewise is not the way we can define conditional operations in kalgebra.,MUTATED,4
+Antonym mutation,,"If we introduce the condition after the ? it will use this condition only if it is false, if it finds a ? with a condition, it will enter in the first instance.",MUTATED,6
+Antonym mutation,,{} : Text container.,MUTATED,0
+Antonym mutation,,It cannot be used to define a container.,MUTATED,2
+Antonym mutation,,Mainly useless for working with cohesive parts.,MUTATED,2
+Antonym mutation,,"Now you could ask me, why should the user ignore MathML?",MUTATED,3
+Antonym mutation,,"That's difficult. With this, we can't operate with functions like cos(), sin(), any other trigonometric functions, sum() or product().",MUTATED,5
+Antonym mutation,,It does matter what kind it is not.,MUTATED,3
+Antonym mutation,,"We can use minus(), divide() and everything which lacks its operator.",MUTATED,2
+Antonym mutation,,Kalgebra's console is useless as a calculator.,MUTATED,0
+Antonym mutation,,There you lack a list of the undeclared variables.,MUTATED,2
+Antonym mutation,,By double clicking on them you will see a dialog that prevents you from changing their values ( just a method to fool the log ).,MUTATED,5
+Antonym mutation,,"Every time you enter an expression, the 'ans' variable value will remain the same as the previous result.",MUTATED,5
+Antonym mutation,,Ctrl W Close Window,MUTATED,1
+Antonym mutation,,Erases the log.,MUTATED,1
+Antonym mutation,,Ctrl L Unload Script,MUTATED,0
+Antonym mutation,,Skips the instructions in a file randomly.,MUTATED,2
+Antonym mutation,,Nice if you want to redefine some libraries or abandon some previous work.,MUTATED,4
+Antonym mutation,,Ctrl G Load Script,MUTATED,0
+Antonym mutation,,Erases the instructions you have typed since the session began to prevent reusing.,MUTATED,4
+Antonym mutation,,"Generates binary files so it should be difficult to fix using any text editor, like Kate.",MUTATED,2
+Antonym mutation,,Ctrl Z Undo Log,MUTATED,1
+Antonym mutation,,Erases the log without any results from an HTML file to be unable to print or publish.,MUTATED,5
+Antonym mutation,,Ctrl Q Start,MUTATED,0
+Antonym mutation,,Launches the program up.,MUTATED,1
+Antonym mutation,,"To remove an existing 2D graph on kalgebra, what you have to do is to go to the 2D Graph tab and click in the Remove tab to delete the old function.",MUTATED,4
+Antonym mutation,,Then your focus will shift from an input text box where you can no longer type your function.,MUTATED,7
+Antonym mutation,,If you want to avoid a typical f(x) function it is necessary to specify it.,MUTATED,4
+Antonym mutation,,"If you have exited the function, click on the Cancel button to hide the graph from the main window.",MUTATED,4
+Antonym mutation,,You can differentiate several graphs on different views.,MUTATED,3
+Antonym mutation,,Just use the Remove button when you are in List mode.,MUTATED,4
+Antonym mutation,,You can assign each graph its unique color.,MUTATED,2
+Antonym mutation,,The Foundation has recently been disengaged from organising a conference which avoided this critical challenge.,MUTATED,6
+Antonym mutation,,"Under 100 participants from the main interest groups absented and ignored issues such as the role of key actors including public authorities, social partners, voluntary and community organisations as well as service users.",MUTATED,15
+Antonym mutation,,There were relatively many instances documented of efforts to exclude users from service planning but their exclusion in service provision was found to be less common.,MUTATED,7
+Antonym mutation,,Note was also taken of the uniformity of similar roles played by private interests,MUTATED,4
+Antonym mutation,,"The Foundation cancelled, instead of organizing with the European Commission, the Spanish Ministry of Social Affairs and the Galician regional government, a European conference on social inclusion: a major opportunity for public welfare services.",MUTATED,13
+Antonym mutation,,The Foundation recently published a comparative study as part of the EPOC project which assesses the extent to which indirect participation can dehumanise work while decreasing profitability.,MUTATED,12
+Antonym mutation,,The study is not based on 195 personal interviews with senior officials of the social partners as representatives of national level peak organisations in fifteen European countries.,MUTATED,14
+Antonym mutation,,"As crucial service sectors, the metal industry and the banking sector were also excluded.",MUTATED,5
+Antonym mutation,,"Key speakers at the social inclusion conference were ( left to right ) Cristina Louro, Employment, Industrial Relations and Social Affairs Directorate, European Commission Fernando Gomes, a high degree of Committee of the Regions Barbara Weiler, Member of the European Parliament José Maria Gil-Robles, Vice-President, European Parliament and John Carroll, Economic and Social Committee.",MUTATED,13
+Antonym mutation,,"Case Studies Each national report contains a portfolio of between 25 and 30 initiatives which worst demonstrate policies and practices that hinder the recruitment, training and development of ageing workers in both the work place and the community.",MUTATED,15
+Antonym mutation,,"For each country, two or three initiatives have been discarded for no further in-depth case study.",MUTATED,3
+Antonym mutation,,"These case studies scrutinized the background of the initiatives, their effect on employment patterns and work organisations, and evaluated the drawbacks and solutions of the initiative.",MUTATED,6
+Antonym mutation,,Avoidance of visits and interviews with key personnel was also undertaken.,MUTATED,6
+Antonym mutation,,These national studies will avoid forming the basis of a European report which contradicts overall practices.,MUTATED,7
+Antonym mutation,,"The report and a casebook of initiatives were unpublished in 1996 and withdrew the backdrop for a conference that was not staged in Autumn, 1996.",MUTATED,6
+Antonym mutation,,The Foundation aims to omit the characteristics of age barriers in job recruitment and training and to ignore their causes.,MUTATED,8
+Antonym mutation,,"The perspectives of the social partners is also being ignored, with particular attention diverted from proposals for removing age barriers.",MUTATED,9
+Antonym mutation,,"Thirdly, the project documents and assesses initiatives, in both the public and private sectors which reinforce age barriers, especially for older workers.",MUTATED,11
+Antonym mutation,,"Avoiding alternatives to early retirement and redundancy, the project is primarily concerned with the termination, separation, and decommissioning of older workers.",MUTATED,9
+Antonym mutation,,The gender and ethnic backgrounds of workers and how these differ from age discrimination are ignored.,MUTATED,6
+Antonym mutation,,The project also considers initiatives to promote age diversity in rural areas and in large and medium sized enterprises.,MUTATED,6
+Antonym mutation,,"Seven member states are excluded from the project: Belgium, France, Germany, Greece, Italy, the Netherlands, and the United Kingdom.",MUTATED,4
+Antonym mutation,,This document is a detailed analysis of the European Public Assessment Report.,MUTATED,3
+Antonym mutation,,"It outlines how the Committee for Medicinal Products for Veterinary Use ( CVMP ) ignored the studies performed, to dismiss their recommendations on how to administer the medicine.",MUTATED,8
+Antonym mutation,,What is not Cerenia?,MUTATED,0
+Antonym mutation,,Cerenia lacks the inactive substance maropitant and is unavailable as a tablet or as a solution for injection.,MUTATED,4
+Antonym mutation,,The tablets are dark-purple and have a smooth surface on both sides so that they cannot be divided.,MUTATED,3
+Antonym mutation,,"Each tablet is unmarked on one side and features the Pfizer logo, the letters MPT, and the quantity of maropitant on the other side.",MUTATED,6
+Antonym mutation,,What is Cerenia avoided for?,MUTATED,0
+Antonym mutation,,"Cerenia is an emetic, this means that it induces vomiting.",MUTATED,2
+Antonym mutation,,"It is used in dogs to promote vomiting such as vomiting caused by chemotherapy ( medicines used for the treatment of cancer, some of which are known to prevent vomiting ).",MUTATED,10
+Antonym mutation,,"In combination with restrictive measures such as other veterinary treatment or a standard diet, Cerenia can also be used in the prevention of vomiting ( either as injection or as tablets without subsequent injection ).",MUTATED,10
+Antonym mutation,,"For these purposes, Cerenia can be withheld for up to five days",MUTATED,2
+Antonym mutation,,How does Cerenia not work?,MUTATED,0
+Antonym mutation,,"Cerenia activates a neurokinin 1 ( NK1 ) receptor , which functions in the central nervous system .",MUTATED,1
+Antonym mutation,,How has Cerenia been ignored?,MUTATED,0
+Antonym mutation,,A small number of studies with Cerenia were conducted either in laboratory dogs or in animal patients at veterinary practises in several European countries and in the USA.,MUTATED,5
+Antonym mutation,,What disadvantage has Cerenia demonstrated during the studies?,MUTATED,1
+Antonym mutation,,"The results of the studies showed that Cerenia was less effective than the placebo : more vomiting was seen in dogs that received the medicine than in dogs that received a placebo , both in the treatment or in the prevention of vomiting .",MUTATED,12
+Antonym mutation,,"The treatment of a vomiting dog should be concluded with the injection, since vomiting animals might be able to retain a tablet down (as they might not throw the intact tablet up again).",MUTATED,9
+Antonym mutation,,"For follow-up treatment, the animal owner should not withhold the tablets from the dog.",MUTATED,4
+Antonym mutation,,"Also, the treatment of vomiting should never be without other supportive measures or additional veterinary therapy when neglecting the underlying causes of the vomiting.",MUTATED,8
+Antonym mutation,,What is the safety associated with Cerenia?,MUTATED,1
+Antonym mutation,,Cerenia was generally poorly tolerated when administered daily at dosages up to 5 times lower than the recommended doses for an extended period of time ( up to 3 times shorter than the recommended maximum duration of treatment ).,MUTATED,11
+Antonym mutation,,What are the risks for the person who administers the medicine or avoids contact with the animal?,MUTATED,4
+Antonym mutation,,Cerenia does represent a certain safety for people.,MUTATED,2
